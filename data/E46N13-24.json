@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "10028f26-f8b2-440e-9351-12c8845a5e66",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.605148,
+                    14.750544
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282859",
+                "dates": [
+                    "2026-03-06"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "1a9fb007-1fda-48ac-89c8-490b21483f04",
+                "url": "https://database.eamena.org/report/1a9fb007-1fda-48ac-89c8-490b21483f04",
+                "edit_url": "https://database.eamena.org/resource/1a9fb007-1fda-48ac-89c8-490b21483f04"
+            }
+        },
+        {
+            "id": "8435bb75-cd2e-413e-b55d-932a34ad2735",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.761335,
+                    13.469014
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282860",
+                "dates": [
+                    "2026-03-06"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f779c6e7-a602-4fc3-bf94-46229b085513",
+                "url": "https://database.eamena.org/report/f779c6e7-a602-4fc3-bf94-46229b085513",
+                "edit_url": "https://database.eamena.org/resource/f779c6e7-a602-4fc3-bf94-46229b085513"
+            }
+        }
+    ]
+}

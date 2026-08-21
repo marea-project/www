@@ -1,0 +1,179 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1247f2df-1e60-4352-9c2d-f81e568b1fc4",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        59.541715759,
+                        22.570243282
+                    ],
+                    [
+                        59.541914242,
+                        22.569908917
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0187725",
+                "dates": [
+                    "2020-04-23",
+                    "2020-04-23",
+                    "2020-04-23"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "1c75a848-e763-476b-b453-7c6af7ea739c",
+                "url": "https://database.eamena.org/report/1c75a848-e763-476b-b453-7c6af7ea739c",
+                "edit_url": "https://database.eamena.org/resource/1c75a848-e763-476b-b453-7c6af7ea739c"
+            }
+        },
+        {
+            "id": "9694636e-b34f-45a8-b422-55e83fd81bca",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.528904,
+                    22.570192
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0187773",
+                "dates": [
+                    "2020-04-24",
+                    "2020-04-24",
+                    "2020-04-24"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "328fcf17-7273-4362-b278-bc05cb92215c",
+                "url": "https://database.eamena.org/report/328fcf17-7273-4362-b278-bc05cb92215c",
+                "edit_url": "https://database.eamena.org/resource/328fcf17-7273-4362-b278-bc05cb92215c"
+            }
+        },
+        {
+            "id": "ae8420c1-f765-4311-b955-5f2525d99d4c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.594538748,
+                            22.563208806
+                        ],
+                        [
+                            59.595268515,
+                            22.560075049
+                        ],
+                        [
+                            59.597519951,
+                            22.555709328
+                        ],
+                        [
+                            59.597804399,
+                            22.552597422
+                        ],
+                        [
+                            59.601384919,
+                            22.546160044
+                        ],
+                        [
+                            59.605538769,
+                            22.541477022
+                        ],
+                        [
+                            59.619656933,
+                            22.539912777
+                        ],
+                        [
+                            59.631452666,
+                            22.539835269
+                        ],
+                        [
+                            59.646042515,
+                            22.542145896
+                        ],
+                        [
+                            59.633667775,
+                            22.559120161
+                        ],
+                        [
+                            59.611014953,
+                            22.561999414
+                        ],
+                        [
+                            59.602425311,
+                            22.562059375
+                        ],
+                        [
+                            59.600787279,
+                            22.563091584
+                        ],
+                        [
+                            59.594538748,
+                            22.563208806
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0171582",
+                "dates": [
+                    "2020-03-30",
+                    "2020-03-30",
+                    "2020-03-30"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "93e43dd2-c5ee-4928-8166-b4c6397d86ac",
+                "url": "https://database.eamena.org/report/93e43dd2-c5ee-4928-8166-b4c6397d86ac",
+                "edit_url": "https://database.eamena.org/resource/93e43dd2-c5ee-4928-8166-b4c6397d86ac"
+            }
+        },
+        {
+            "id": "b9c67742-1b64-4c1b-b577-65d71ff3fb95",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.543381355,
+                    22.569471404
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0187727",
+                "dates": [
+                    "2020-04-23",
+                    "2020-04-23",
+                    "2020-04-23"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "b47768b5-517f-41fc-90d1-439acdf7b67b",
+                "url": "https://database.eamena.org/report/b47768b5-517f-41fc-90d1-439acdf7b67b",
+                "edit_url": "https://database.eamena.org/resource/b47768b5-517f-41fc-90d1-439acdf7b67b"
+            }
+        }
+    ]
+}

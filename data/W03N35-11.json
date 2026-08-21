@@ -1,0 +1,232 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.902958,
+                    35.21106
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0195009",
+                "dates": [
+                    "2021-07-06"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Athena Trakadas"
+                ],
+                "id": "1a1cdb93-c18b-442c-b3b6-5096e9adb7af",
+                "url": "https://database.eamena.org/report/1a1cdb93-c18b-442c-b3b6-5096e9adb7af",
+                "edit_url": "https://database.eamena.org/resource/1a1cdb93-c18b-442c-b3b6-5096e9adb7af"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.761299,
+                    35.217617
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194992",
+                "dates": [
+                    "2021-07-08"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Athena Trakadas"
+                ],
+                "id": "548be8da-7853-4bec-99d3-5809ef5f8a1b",
+                "url": "https://database.eamena.org/report/548be8da-7853-4bec-99d3-5809ef5f8a1b",
+                "edit_url": "https://database.eamena.org/resource/548be8da-7853-4bec-99d3-5809ef5f8a1b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.822265,
+                    35.083586
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194994",
+                "dates": [
+                    "2021-05-13"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Athena Trakadas"
+                ],
+                "id": "5e5cc210-0f6f-45cc-8ca2-c6b398c5029d",
+                "url": "https://database.eamena.org/report/5e5cc210-0f6f-45cc-8ca2-c6b398c5029d",
+                "edit_url": "https://database.eamena.org/resource/5e5cc210-0f6f-45cc-8ca2-c6b398c5029d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.89692,
+                    35.199375
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194995",
+                "dates": [
+                    "2021-05-13"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Athena Trakadas"
+                ],
+                "id": "7df59c1d-434b-4bf4-81ee-7328d66b6a4f",
+                "url": "https://database.eamena.org/report/7df59c1d-434b-4bf4-81ee-7328d66b6a4f",
+                "edit_url": "https://database.eamena.org/resource/7df59c1d-434b-4bf4-81ee-7328d66b6a4f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.761448,
+                    35.22464
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0195010",
+                "dates": [
+                    "2021-07-06"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Athena Trakadas"
+                ],
+                "id": "9398dc1e-e7c6-4340-a643-9975f9af3f57",
+                "url": "https://database.eamena.org/report/9398dc1e-e7c6-4340-a643-9975f9af3f57",
+                "edit_url": "https://database.eamena.org/resource/9398dc1e-e7c6-4340-a643-9975f9af3f57"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.8984994002128,
+                            35.2073547366249
+                        ],
+                        [
+                            -3.89879140010092,
+                            35.2056873815645
+                        ],
+                        [
+                            -3.89869409450472,
+                            35.204774584658
+                        ],
+                        [
+                            -3.89754369124673,
+                            35.2040078172396
+                        ],
+                        [
+                            -3.89440672084181,
+                            35.2032619276043
+                        ],
+                        [
+                            -3.89316790794852,
+                            35.2032049633815
+                        ],
+                        [
+                            -3.891929558736,
+                            35.2058448479822
+                        ],
+                        [
+                            -3.89143391846561,
+                            35.2074258881628
+                        ],
+                        [
+                            -3.89451868106269,
+                            35.2087287221777
+                        ],
+                        [
+                            -3.89612903476226,
+                            35.2090135304622
+                        ],
+                        [
+                            -3.8984994002128,
+                            35.2073547366249
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194996",
+                "dates": [
+                    "2021-05-13",
+                    "2007-03-01"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Athena Trakadas"
+                ],
+                "id": "9dab9625-42d8-4f33-8e3d-7be05149667d",
+                "url": "https://database.eamena.org/report/9dab9625-42d8-4f33-8e3d-7be05149667d",
+                "edit_url": "https://database.eamena.org/resource/9dab9625-42d8-4f33-8e3d-7be05149667d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.835798,
+                    35.096987
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194993",
+                "dates": [
+                    "2021-04-28"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Athena Trakadas"
+                ],
+                "id": "e6a3e12f-ed4c-47b1-9674-bc02306165f6",
+                "url": "https://database.eamena.org/report/e6a3e12f-ed4c-47b1-9674-bc02306165f6",
+                "edit_url": "https://database.eamena.org/resource/e6a3e12f-ed4c-47b1-9674-bc02306165f6"
+            }
+        }
+    ]
+}

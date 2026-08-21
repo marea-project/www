@@ -1,0 +1,798 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "3ae6d3b8-0739-4e5b-9128-a22f7c003383",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.263486057,
+                            33.406960028
+                        ],
+                        [
+                            35.264183431,
+                            33.40716403
+                        ],
+                        [
+                            35.264314561,
+                            33.407532229
+                        ],
+                        [
+                            35.264362245,
+                            33.407905402
+                        ],
+                        [
+                            35.264278799,
+                            33.408213891
+                        ],
+                        [
+                            35.264177471,
+                            33.408333305
+                        ],
+                        [
+                            35.263861995,
+                            33.408369145
+                        ],
+                        [
+                            35.263480525,
+                            33.407931291
+                        ],
+                        [
+                            35.263230185,
+                            33.407334213
+                        ],
+                        [
+                            35.263206343,
+                            33.407015771
+                        ],
+                        [
+                            35.263218265,
+                            33.406906305
+                        ],
+                        [
+                            35.263486057,
+                            33.406960028
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138661",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "330d5f2e-6447-490e-a8f1-73cca1ffad4d",
+                "url": "https://database.eamena.org/report/330d5f2e-6447-490e-a8f1-73cca1ffad4d",
+                "edit_url": "https://database.eamena.org/resource/330d5f2e-6447-490e-a8f1-73cca1ffad4d"
+            }
+        },
+        {
+            "id": "ccc19301-24f8-4cb5-8c7a-9084fff611cb",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.296911132,
+                    33.464743875
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138665",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "4f2570c6-5bdb-47e1-a2a0-bc8d691bae95",
+                "url": "https://database.eamena.org/report/4f2570c6-5bdb-47e1-a2a0-bc8d691bae95",
+                "edit_url": "https://database.eamena.org/resource/4f2570c6-5bdb-47e1-a2a0-bc8d691bae95"
+            }
+        },
+        {
+            "id": "3a3f79ac-662a-4c7a-a876-1427c384d8c7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.335004582,
+                            33.495137871
+                        ],
+                        [
+                            35.337305321,
+                            33.498249426
+                        ],
+                        [
+                            35.336470857,
+                            33.499283273
+                        ],
+                        [
+                            35.336113229,
+                            33.499382682
+                        ],
+                        [
+                            35.335827127,
+                            33.499064577
+                        ],
+                        [
+                            35.335541025,
+                            33.498676884
+                        ],
+                        [
+                            35.335386053,
+                            33.498070491
+                        ],
+                        [
+                            35.33461119,
+                            33.497215568
+                        ],
+                        [
+                            35.334456218,
+                            33.496768221
+                        ],
+                        [
+                            35.334730399,
+                            33.49604252
+                        ],
+                        [
+                            35.335004582,
+                            33.495137871
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138668",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "643a489a-3b80-4a00-9792-1fd08a71a450",
+                "url": "https://database.eamena.org/report/643a489a-3b80-4a00-9792-1fd08a71a450",
+                "edit_url": "https://database.eamena.org/resource/643a489a-3b80-4a00-9792-1fd08a71a450"
+            }
+        },
+        {
+            "id": "bcb30457-0a67-4b77-80dd-bac5be4248e3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.256723613,
+                    33.397385126
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138655",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "720ebade-7bce-4a74-87b3-58e2042747ac",
+                "url": "https://database.eamena.org/report/720ebade-7bce-4a74-87b3-58e2042747ac",
+                "edit_url": "https://database.eamena.org/resource/720ebade-7bce-4a74-87b3-58e2042747ac"
+            }
+        },
+        {
+            "id": "8fc77f75-4029-4073-995f-75b26757c716",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.251751496,
+                    33.379159843
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138653",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "82e1ee43-9f6f-4dd7-97d3-d60bcea7126c",
+                "url": "https://database.eamena.org/report/82e1ee43-9f6f-4dd7-97d3-d60bcea7126c",
+                "edit_url": "https://database.eamena.org/resource/82e1ee43-9f6f-4dd7-97d3-d60bcea7126c"
+            }
+        },
+        {
+            "id": "0ff413433c1d9c570273a80a220c777c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.29492258585799,
+                            33.46453429046372
+                        ],
+                        [
+                            35.2951462569624,
+                            33.46448530990786
+                        ],
+                        [
+                            35.2952664801806,
+                            33.46447831268296
+                        ],
+                        [
+                            35.295543273172086,
+                            33.46432670601126
+                        ],
+                        [
+                            35.295669088168125,
+                            33.46425906602643
+                        ],
+                        [
+                            35.29568865938981,
+                            33.464156439740634
+                        ],
+                        [
+                            35.2957305977213,
+                            33.46406547543239
+                        ],
+                        [
+                            35.29589835105037,
+                            33.464028156713596
+                        ],
+                        [
+                            35.296046533156186,
+                            33.46389287622449
+                        ],
+                        [
+                            35.29616396048624,
+                            33.463752930668576
+                        ],
+                        [
+                            35.29601857426857,
+                            33.46364563892348
+                        ],
+                        [
+                            35.295831249719384,
+                            33.463403065791354
+                        ],
+                        [
+                            35.29562155805888,
+                            33.46325378968048
+                        ],
+                        [
+                            35.29536433628894,
+                            33.463244459914605
+                        ],
+                        [
+                            35.29517141996192,
+                            33.463545344344936
+                        ],
+                        [
+                            35.29502882963237,
+                            33.463757595524314
+                        ],
+                        [
+                            35.29494774885751,
+                            33.463979175871074
+                        ],
+                        [
+                            35.29478838319605,
+                            33.46445032377903
+                        ],
+                        [
+                            35.294821933861584,
+                            33.46447831268296
+                        ],
+                        [
+                            35.29492258585799,
+                            33.46453429046372
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0138664",
+                "dates": [
+                    "2019-09-26",
+                    "2024-10-25"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi",
+                    "Kristen Hopper"
+                ],
+                "id": "82e5aa2b-f93f-43ba-9ded-cd5dbf041818",
+                "url": "https://database.eamena.org/report/82e5aa2b-f93f-43ba-9ded-cd5dbf041818",
+                "edit_url": "https://database.eamena.org/resource/82e5aa2b-f93f-43ba-9ded-cd5dbf041818"
+            }
+        },
+        {
+            "id": "be60fbdf-1fa5-4b07-b5d4-6e4e194889c2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25525178,
+                    33.372666593
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138650",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "874d51cf-2099-4cdd-b513-d298be00fa17",
+                "url": "https://database.eamena.org/report/874d51cf-2099-4cdd-b513-d298be00fa17",
+                "edit_url": "https://database.eamena.org/resource/874d51cf-2099-4cdd-b513-d298be00fa17"
+            }
+        },
+        {
+            "id": "d02d3067-1895-4f02-9dff-395b657c52d4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.250794274,
+                    33.375967858
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138652",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "8a0edda8-c671-48c5-988a-d4b33d1a048b",
+                "url": "https://database.eamena.org/report/8a0edda8-c671-48c5-988a-d4b33d1a048b",
+                "edit_url": "https://database.eamena.org/resource/8a0edda8-c671-48c5-988a-d4b33d1a048b"
+            }
+        },
+        {
+            "id": "77a9043a-418a-44ca-9c4c-4f2d4054424a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2689,
+                    33.4101
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138662",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "8aa746ad-9a75-44e1-b28d-b787f41b615c",
+                "url": "https://database.eamena.org/report/8aa746ad-9a75-44e1-b28d-b787f41b615c",
+                "edit_url": "https://database.eamena.org/resource/8aa746ad-9a75-44e1-b28d-b787f41b615c"
+            }
+        },
+        {
+            "id": "b3bb734f-3f03-4de1-a8ec-ec9028f5fc7c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.322313829,
+                            33.481398802
+                        ],
+                        [
+                            35.322438998,
+                            33.481428631
+                        ],
+                        [
+                            35.322659535,
+                            33.481582744
+                        ],
+                        [
+                            35.323017163,
+                            33.481935713
+                        ],
+                        [
+                            35.323344989,
+                            33.482219082
+                        ],
+                        [
+                            35.323511882,
+                            33.48246765
+                        ],
+                        [
+                            35.323321148,
+                            33.482671475
+                        ],
+                        [
+                            35.322927757,
+                            33.482775873
+                        ],
+                        [
+                            35.32258801,
+                            33.482830558
+                        ],
+                        [
+                            35.32220654,
+                            33.482746045
+                        ],
+                        [
+                            35.322063489,
+                            33.482631704
+                        ],
+                        [
+                            35.321896596,
+                            33.482447764
+                        ],
+                        [
+                            35.321836991,
+                            33.482169368
+                        ],
+                        [
+                            35.321717782,
+                            33.481811429
+                        ],
+                        [
+                            35.322313829,
+                            33.481398802
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138666",
+                "dates": [
+                    "2019-09-26",
+                    "2021-05-05"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi",
+                    "Letty Ten Harkel"
+                ],
+                "id": "8f8d773e-87b7-435a-9c2d-0c6c2451249b",
+                "url": "https://database.eamena.org/report/8f8d773e-87b7-435a-9c2d-0c6c2451249b",
+                "edit_url": "https://database.eamena.org/resource/8f8d773e-87b7-435a-9c2d-0c6c2451249b"
+            }
+        },
+        {
+            "id": "d86bb9f8-1651-41d5-8438-825f73849f4e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.255097528,
+                    33.373562269
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138651",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "991b44bf-142f-42e1-bf46-23596d1c4f4a",
+                "url": "https://database.eamena.org/report/991b44bf-142f-42e1-bf46-23596d1c4f4a",
+                "edit_url": "https://database.eamena.org/resource/991b44bf-142f-42e1-bf46-23596d1c4f4a"
+            }
+        },
+        {
+            "id": "1111fc1f-d3fc-4bd1-a26d-1bc8ea15019f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.261367616,
+                            33.403314898
+                        ],
+                        [
+                            35.261701402,
+                            33.403464174
+                        ],
+                        [
+                            35.261963662,
+                            33.40361345
+                        ],
+                        [
+                            35.262082871,
+                            33.403817461
+                        ],
+                        [
+                            35.262178239,
+                            33.403961761
+                        ],
+                        [
+                            35.262410697,
+                            33.404021471
+                        ],
+                        [
+                            35.262404736,
+                            33.404220505
+                        ],
+                        [
+                            35.262291487,
+                            33.404384708
+                        ],
+                        [
+                            35.262148436,
+                            33.404519055
+                        ],
+                        [
+                            35.261993464,
+                            33.404737991
+                        ],
+                        [
+                            35.261898097,
+                            33.404887265
+                        ],
+                        [
+                            35.26180869,
+                            33.404986781
+                        ],
+                        [
+                            35.261647757,
+                            33.405021611
+                        ],
+                        [
+                            35.261367616,
+                            33.40386722
+                        ],
+                        [
+                            35.261254367,
+                            33.403429343
+                        ],
+                        [
+                            35.261242446,
+                            33.403280066
+                        ],
+                        [
+                            35.261367616,
+                            33.403314898
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138659",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "a20702d3-9d11-4e75-8993-0bcbad172e38",
+                "url": "https://database.eamena.org/report/a20702d3-9d11-4e75-8993-0bcbad172e38",
+                "edit_url": "https://database.eamena.org/resource/a20702d3-9d11-4e75-8993-0bcbad172e38"
+            }
+        },
+        {
+            "id": "aa825f0d-783d-4e55-b405-710c2ed07c51",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.252950698,
+                    33.381517487
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138654",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "b98bd4b0-ef10-483d-a62b-a86d715e91a2",
+                "url": "https://database.eamena.org/report/b98bd4b0-ef10-483d-a62b-a86d715e91a2",
+                "edit_url": "https://database.eamena.org/resource/b98bd4b0-ef10-483d-a62b-a86d715e91a2"
+            }
+        },
+        {
+            "id": "816ff376-07f2-4b13-9e11-e1e8b7d477ad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2665,
+                    33.3999
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138657",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "c524abe7-3c0d-412d-a13e-e8af77d17cda",
+                "url": "https://database.eamena.org/report/c524abe7-3c0d-412d-a13e-e8af77d17cda",
+                "edit_url": "https://database.eamena.org/resource/c524abe7-3c0d-412d-a13e-e8af77d17cda"
+            }
+        },
+        {
+            "id": "12b05811-892b-4dc4-a802-82bf125fb5ba",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.262103733,
+                    33.403790094
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138658",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "d4c5e03e-8728-4070-8058-a30f4c4616bc",
+                "url": "https://database.eamena.org/report/d4c5e03e-8728-4070-8058-a30f4c4616bc",
+                "edit_url": "https://database.eamena.org/resource/d4c5e03e-8728-4070-8058-a30f4c4616bc"
+            }
+        },
+        {
+            "id": "a73bde28-4446-4093-b531-6c9bf65a796f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.332592431,
+                    33.49593954
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138667",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "d8451389-0503-4225-bede-c2d533b1218d",
+                "url": "https://database.eamena.org/report/d8451389-0503-4225-bede-c2d533b1218d",
+                "edit_url": "https://database.eamena.org/resource/d8451389-0503-4225-bede-c2d533b1218d"
+            }
+        },
+        {
+            "id": "626d52bd-ef5b-4cd4-9582-707c979c6b28",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.290363777,
+                            33.46294685
+                        ],
+                        [
+                            35.291502226,
+                            33.462757896
+                        ],
+                        [
+                            35.291532028,
+                            33.462882208
+                        ],
+                        [
+                            35.29039954,
+                            33.463076134
+                        ],
+                        [
+                            35.290363777,
+                            33.46294685
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138663",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "db896681-1004-4969-a2f0-98ea75b767e2",
+                "url": "https://database.eamena.org/report/db896681-1004-4969-a2f0-98ea75b767e2",
+                "edit_url": "https://database.eamena.org/resource/db896681-1004-4969-a2f0-98ea75b767e2"
+            }
+        },
+        {
+            "id": "be469640-f386-4820-afc8-985c898ccab4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2655,
+                    33.3956
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0138656",
+                "dates": [
+                    "2019-09-26"
+                ],
+                "countries": [
+                    "Lebanon"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "f84dbabd-b7ab-4f9c-85a6-302662bd1d54",
+                "url": "https://database.eamena.org/report/f84dbabd-b7ab-4f9c-85a6-302662bd1d54",
+                "edit_url": "https://database.eamena.org/resource/f84dbabd-b7ab-4f9c-85a6-302662bd1d54"
+            }
+        }
+    ]
+}

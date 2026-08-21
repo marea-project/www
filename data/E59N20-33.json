@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "76f47453-45f5-44dd-a7b7-7d748b404145",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.00639,
+                    20.81111
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0171482",
+                "dates": [
+                    "2020-03-24",
+                    "2020-03-24",
+                    "2020-03-24"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "9565b1c3-0f2b-4915-abfc-236f41970c3a",
+                "url": "https://database.eamena.org/report/9565b1c3-0f2b-4915-abfc-236f41970c3a",
+                "edit_url": "https://database.eamena.org/resource/9565b1c3-0f2b-4915-abfc-236f41970c3a"
+            }
+        }
+    ]
+}

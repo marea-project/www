@@ -1,0 +1,289 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "42862fdf-f9bb-4223-bb66-f8136ed843ed",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.754920997,
+                    20.458312666
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0178400",
+                "dates": [
+                    "2020-04-17",
+                    "2020-04-17",
+                    "2020-04-17"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "1591846c-589e-4570-95b2-d05acf33ce84",
+                "url": "https://database.eamena.org/report/1591846c-589e-4570-95b2-d05acf33ce84",
+                "edit_url": "https://database.eamena.org/resource/1591846c-589e-4570-95b2-d05acf33ce84"
+            }
+        },
+        {
+            "id": "99ed9040-ed79-4fb9-b0b4-314b9bcb5408",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.754254143,
+                    20.462908606
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0178399",
+                "dates": [
+                    "2020-04-17",
+                    "2020-04-17",
+                    "2020-04-17"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "2b349b78-3543-4fe9-8d3e-1acd803c34fd",
+                "url": "https://database.eamena.org/report/2b349b78-3543-4fe9-8d3e-1acd803c34fd",
+                "edit_url": "https://database.eamena.org/resource/2b349b78-3543-4fe9-8d3e-1acd803c34fd"
+            }
+        },
+        {
+            "id": "73aa2d8a-a707-4ace-bbe3-a4957ea5f98c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            58.798020273,
+                            20.359466507
+                        ],
+                        [
+                            58.798100739,
+                            20.359406156
+                        ],
+                        [
+                            58.798154383,
+                            20.359315628
+                        ],
+                        [
+                            58.798218756,
+                            20.359184867
+                        ],
+                        [
+                            58.798293858,
+                            20.359018899
+                        ],
+                        [
+                            58.798395782,
+                            20.358621584
+                        ],
+                        [
+                            58.799270182,
+                            20.357691156
+                        ],
+                        [
+                            58.799404293,
+                            20.357676068
+                        ],
+                        [
+                            58.799586683,
+                            20.357842037
+                        ],
+                        [
+                            58.801389127,
+                            20.359044046
+                        ],
+                        [
+                            58.801421314,
+                            20.360331543
+                        ],
+                        [
+                            58.800048023,
+                            20.35966265
+                        ],
+                        [
+                            58.798658639,
+                            20.35952183
+                        ],
+                        [
+                            58.798492342,
+                            20.359486624
+                        ],
+                        [
+                            58.7982724,
+                            20.359617386
+                        ],
+                        [
+                            58.798020273,
+                            20.359466507
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0179366",
+                "dates": [
+                    "2020-04-19",
+                    "2020-04-19",
+                    "2020-04-19"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "5c3923d6-fbde-4692-9dc5-8896b112c12b",
+                "url": "https://database.eamena.org/report/5c3923d6-fbde-4692-9dc5-8896b112c12b",
+                "edit_url": "https://database.eamena.org/resource/5c3923d6-fbde-4692-9dc5-8896b112c12b"
+            }
+        },
+        {
+            "id": "eb6b06b8-0bf8-40c0-805c-0070506a6657",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            58.797678276,
+                            20.359030874
+                        ],
+                        [
+                            58.797595128,
+                            20.358993154
+                        ],
+                        [
+                            58.797552213,
+                            20.358970522
+                        ],
+                        [
+                            58.797520026,
+                            20.358809584
+                        ],
+                        [
+                            58.79757367,
+                            20.358721571
+                        ],
+                        [
+                            58.797656819,
+                            20.358661219
+                        ],
+                        [
+                            58.797823116,
+                            20.358658705
+                        ],
+                        [
+                            58.797938451,
+                            20.358711513
+                        ],
+                        [
+                            58.797994777,
+                            20.358837246
+                        ],
+                        [
+                            58.797997459,
+                            20.358965493
+                        ],
+                        [
+                            58.797930404,
+                            20.359053506
+                        ],
+                        [
+                            58.79782848,
+                            20.359086196
+                        ],
+                        [
+                            58.797678276,
+                            20.359030874
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0179367",
+                "dates": [
+                    "2020-04-19",
+                    "2020-04-19",
+                    "2020-04-19"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "97ddec91-023f-401f-b7df-07c99291d942",
+                "url": "https://database.eamena.org/report/97ddec91-023f-401f-b7df-07c99291d942",
+                "edit_url": "https://database.eamena.org/resource/97ddec91-023f-401f-b7df-07c99291d942"
+            }
+        },
+        {
+            "id": "7ee4358a-967a-4b91-bec9-38e7ba953437",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.98472,
+                    20.38333
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0171475",
+                "dates": [
+                    "2020-03-24",
+                    "2020-03-24",
+                    "2020-03-24"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "cde1894a-b512-40ea-831e-a85bf945d610",
+                "url": "https://database.eamena.org/report/cde1894a-b512-40ea-831e-a85bf945d610",
+                "edit_url": "https://database.eamena.org/resource/cde1894a-b512-40ea-831e-a85bf945d610"
+            }
+        },
+        {
+            "id": "dda67782-64d7-4cab-a459-43858f1377cf",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.82778,
+                    20.39056
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0171476",
+                "dates": [
+                    "2020-03-24",
+                    "2020-03-24",
+                    "2020-03-24"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "e57192bc-c097-4db1-814a-60634115101f",
+                "url": "https://database.eamena.org/report/e57192bc-c097-4db1-814a-60634115101f",
+                "edit_url": "https://database.eamena.org/resource/e57192bc-c097-4db1-814a-60634115101f"
+            }
+        }
+    ]
+}

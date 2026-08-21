@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "d6e6fdaa-0e27-4752-9968-30d0ff97f826",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82581652,
+                    31.42994376
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189500",
+                "dates": [
+                    "2019-07-17"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nichole Sheldrick"
+                ],
+                "id": "7efa9a7a-126b-4f0f-9b0c-9d90ef42ff11",
+                "url": "https://database.eamena.org/report/7efa9a7a-126b-4f0f-9b0c-9d90ef42ff11",
+                "edit_url": "https://database.eamena.org/resource/7efa9a7a-126b-4f0f-9b0c-9d90ef42ff11"
+            }
+        }
+    ]
+}

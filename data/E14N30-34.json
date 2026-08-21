@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "2a2305ce-9e47-4db3-8695-c33707e47e51",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40301423,
+                    30.76229889
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189043",
+                "dates": [
+                    "2020-04-17",
+                    "2019-07-17"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nichole Sheldrick"
+                ],
+                "id": "2dd91e9d-78e6-494d-8220-6aa23213bc8a",
+                "url": "https://database.eamena.org/report/2dd91e9d-78e6-494d-8220-6aa23213bc8a",
+                "edit_url": "https://database.eamena.org/resource/2dd91e9d-78e6-494d-8220-6aa23213bc8a"
+            }
+        },
+        {
+            "id": "8711978b-2f24-459b-9817-66686c9f1c72",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4563522,
+                    30.76660186
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0188970",
+                "dates": [
+                    "2019-07-17",
+                    "2019-11-13"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Nichole Sheldrick",
+                    "Julia Nikolaus"
+                ],
+                "id": "3b2eca5d-f1b3-4b75-a7b1-ec28ac37172d",
+                "url": "https://database.eamena.org/report/3b2eca5d-f1b3-4b75-a7b1-ec28ac37172d",
+                "edit_url": "https://database.eamena.org/resource/3b2eca5d-f1b3-4b75-a7b1-ec28ac37172d"
+            }
+        },
+        {
+            "id": "2d5a9d98-ee0c-4e93-b6ee-74734bba68f5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44479739,
+                    30.77273334
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0188998",
+                "dates": [
+                    "2019-07-17",
+                    "2020-04-06"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nichole Sheldrick"
+                ],
+                "id": "78466c17-cd8b-40f1-a377-f4feb549ae65",
+                "url": "https://database.eamena.org/report/78466c17-cd8b-40f1-a377-f4feb549ae65",
+                "edit_url": "https://database.eamena.org/resource/78466c17-cd8b-40f1-a377-f4feb549ae65"
+            }
+        },
+        {
+            "id": "fb260fbe-6be0-457a-a8cb-07808e42f7a0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43715005,
+                    30.77097375
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189002",
+                "dates": [
+                    "2019-07-17",
+                    "2020-04-06"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Nichole Sheldrick",
+                    "Julia Nikolaus"
+                ],
+                "id": "8fad640d-84fc-40b9-994c-cfc1da530fbd",
+                "url": "https://database.eamena.org/report/8fad640d-84fc-40b9-994c-cfc1da530fbd",
+                "edit_url": "https://database.eamena.org/resource/8fad640d-84fc-40b9-994c-cfc1da530fbd"
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "035add4e-daa1-4b27-9a8e-5fa399ab5042",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.842556,
+                    16.0338402
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0052531",
+                "dates": [
+                    "2026-08-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "46b0e42e-7404-4112-95f9-77e13b872ad5",
+                "url": "https://database.eamena.org/report/46b0e42e-7404-4112-95f9-77e13b872ad5",
+                "edit_url": "https://database.eamena.org/resource/46b0e42e-7404-4112-95f9-77e13b872ad5"
+            }
+        },
+        {
+            "id": "52b49a0b-05d2-4da2-b054-c2733ab14ad1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            42.928170146,
+                            16.068380904
+                        ],
+                        [
+                            42.92895081,
+                            16.05961146
+                        ],
+                        [
+                            42.947748833,
+                            16.059264319
+                        ],
+                        [
+                            42.946592967,
+                            16.080544603
+                        ],
+                        [
+                            42.929438039,
+                            16.08028188
+                        ],
+                        [
+                            42.930643636,
+                            16.068380681
+                        ],
+                        [
+                            42.928170146,
+                            16.068380904
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0052545",
+                "dates": [
+                    "2026-03-10"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "628d6ca7-7e22-46b3-9e87-0a2a63796cc1",
+                "url": "https://database.eamena.org/report/628d6ca7-7e22-46b3-9e87-0a2a63796cc1",
+                "edit_url": "https://database.eamena.org/resource/628d6ca7-7e22-46b3-9e87-0a2a63796cc1"
+            }
+        },
+        {
+            "id": "dd167fb2-a7d7-4fe9-9a46-c67b08d9c978",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.8249245,
+                    16.1867161
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0052529",
+                "dates": [
+                    "2026-08-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d7dcb552-7e80-44e9-8018-35342d0bb4dc",
+                "url": "https://database.eamena.org/report/d7dcb552-7e80-44e9-8018-35342d0bb4dc",
+                "edit_url": "https://database.eamena.org/resource/d7dcb552-7e80-44e9-8018-35342d0bb4dc"
+            }
+        }
+    ]
+}

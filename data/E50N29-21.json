@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "5bc57152-aa42-415e-b5d8-5c933a668115",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.67183129414766,
+                            29.15641355474864,
+                            0
+                        ],
+                        [
+                            50.67173450561224,
+                            29.15638221229397,
+                            0
+                        ],
+                        [
+                            50.67176322626923,
+                            29.15629455410104,
+                            0
+                        ],
+                        [
+                            50.67184211037018,
+                            29.15627579457606,
+                            0
+                        ],
+                        [
+                            50.67187795341837,
+                            29.15629772357835,
+                            0
+                        ],
+                        [
+                            50.67190660947738,
+                            29.15635722206238,
+                            0
+                        ],
+                        [
+                            50.67187432559932,
+                            29.1563947831859,
+                            0
+                        ],
+                        [
+                            50.67183129414766,
+                            29.15641355474864,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "2",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#m_ylw-pushpin0",
+                "styleHash": "6ec3d6da",
+                "icon-scale": 1.1,
+                "description": "Lighthouse?",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin1",
+                    "highlight": "#s_ylw-pushpin_hl0"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0194023",
+                "dates": [
+                    "2021-12-07",
+                    "2021-12-07"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "2d916880-e6e7-420e-93ab-d8c583e17a30",
+                "url": "https://database.eamena.org/report/2d916880-e6e7-420e-93ab-d8c583e17a30",
+                "edit_url": "https://database.eamena.org/resource/2d916880-e6e7-420e-93ab-d8c583e17a30"
+            }
+        },
+        {
+            "id": "6ebf4911-0edd-4d08-a7c4-2e5253def280",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.65414520762302,
+                            29.15275339074934,
+                            0
+                        ],
+                        [
+                            50.65401258222338,
+                            29.15271262600158,
+                            0
+                        ],
+                        [
+                            50.65405931962738,
+                            29.1524997400327,
+                            0
+                        ],
+                        [
+                            50.65421343634809,
+                            29.15257182465083,
+                            0
+                        ],
+                        [
+                            50.65414520762302,
+                            29.15275339074934,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "3",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#m_ylw-pushpin0",
+                "styleHash": "6ec3d6da",
+                "icon-scale": 1.1,
+                "description": "?",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin1",
+                    "highlight": "#s_ylw-pushpin_hl0"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0194024",
+                "dates": [
+                    "2021-12-07",
+                    "2021-12-07"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "31abbbb6-1c11-4a7d-bbe5-e4485f0ef09c",
+                "url": "https://database.eamena.org/report/31abbbb6-1c11-4a7d-bbe5-e4485f0ef09c",
+                "edit_url": "https://database.eamena.org/resource/31abbbb6-1c11-4a7d-bbe5-e4485f0ef09c"
+            }
+        }
+    ]
+}

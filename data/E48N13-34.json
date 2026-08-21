@@ -1,0 +1,525 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "05efb04e-083e-48d0-94a8-c9dcccc03a2d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            48.253083366,
+                            13.983131727
+                        ],
+                        [
+                            48.253044243,
+                            13.983100119
+                        ],
+                        [
+                            48.253044935,
+                            13.983056538
+                        ],
+                        [
+                            48.253082446,
+                            13.983017833
+                        ],
+                        [
+                            48.253288342,
+                            13.983046109
+                        ],
+                        [
+                            48.253531542,
+                            13.983037844
+                        ],
+                        [
+                            48.253673906,
+                            13.982997984
+                        ],
+                        [
+                            48.253888964,
+                            13.982965076
+                        ],
+                        [
+                            48.254010338,
+                            13.982954615
+                        ],
+                        [
+                            48.254111125,
+                            13.982948848
+                        ],
+                        [
+                            48.254265165,
+                            13.982925639
+                        ],
+                        [
+                            48.254437395,
+                            13.982870242
+                        ],
+                        [
+                            48.254568151,
+                            13.982832024
+                        ],
+                        [
+                            48.254812392,
+                            13.982758762
+                        ],
+                        [
+                            48.254957343,
+                            13.982730062
+                        ],
+                        [
+                            48.255016728,
+                            13.982806704
+                        ],
+                        [
+                            48.254999533,
+                            13.982875445
+                        ],
+                        [
+                            48.254799282,
+                            13.982956624
+                        ],
+                        [
+                            48.254540754,
+                            13.983016573
+                        ],
+                        [
+                            48.254427366,
+                            13.983047462
+                        ],
+                        [
+                            48.254198223,
+                            13.983091243
+                        ],
+                        [
+                            48.254002318,
+                            13.983116693
+                        ],
+                        [
+                            48.253999678,
+                            13.983116695
+                        ],
+                        [
+                            48.253798287,
+                            13.983134563
+                        ],
+                        [
+                            48.253795671,
+                            13.983134565
+                        ],
+                        [
+                            48.253608894,
+                            13.983169824
+                        ],
+                        [
+                            48.253603662,
+                            13.983169803
+                        ],
+                        [
+                            48.253487097,
+                            13.983196843
+                        ],
+                        [
+                            48.253479379,
+                            13.983199302
+                        ],
+                        [
+                            48.253374332,
+                            13.98320864
+                        ],
+                        [
+                            48.253290662,
+                            13.983185943
+                        ],
+                        [
+                            48.253177692,
+                            13.983161142
+                        ],
+                        [
+                            48.253083366,
+                            13.983131727
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159648",
+                "dates": [
+                    "2020-01-13",
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "091c6274-a95b-4212-8bae-ae252038df59",
+                "url": "https://database.eamena.org/report/091c6274-a95b-4212-8bae-ae252038df59",
+                "edit_url": "https://database.eamena.org/resource/091c6274-a95b-4212-8bae-ae252038df59"
+            }
+        },
+        {
+            "id": "25fbccc1-e214-47e1-ad73-65d862d54b8e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            48.261355261,
+                            13.996342457
+                        ],
+                        [
+                            48.261077431,
+                            13.996531811
+                        ],
+                        [
+                            48.260930717,
+                            13.996573162
+                        ],
+                        [
+                            48.260696607,
+                            13.996457897
+                        ],
+                        [
+                            48.26057071,
+                            13.996112621
+                        ],
+                        [
+                            48.260577868,
+                            13.995679101
+                        ],
+                        [
+                            48.260514894,
+                            13.995399334
+                        ],
+                        [
+                            48.260547668,
+                            13.995207524
+                        ],
+                        [
+                            48.260622263,
+                            13.995134928
+                        ],
+                        [
+                            48.260765036,
+                            13.995095721
+                        ],
+                        [
+                            48.26101974,
+                            13.995199158
+                        ],
+                        [
+                            48.261023224,
+                            13.99540342
+                        ],
+                        [
+                            48.261084079,
+                            13.995564531
+                        ],
+                        [
+                            48.26136225,
+                            13.996222756
+                        ],
+                        [
+                            48.261355261,
+                            13.996342457
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159642",
+                "dates": [
+                    "2020-01-13",
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "3550d7b4-b4af-4aee-84ca-79d183d83fc0",
+                "url": "https://database.eamena.org/report/3550d7b4-b4af-4aee-84ca-79d183d83fc0",
+                "edit_url": "https://database.eamena.org/resource/3550d7b4-b4af-4aee-84ca-79d183d83fc0"
+            }
+        },
+        {
+            "id": "28994486-85a3-4bd1-bd7b-ea5f43e97455",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.269338538,
+                    13.989318553
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159647",
+                "dates": [
+                    "2020-01-13",
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "46d29b4c-6965-4d42-8455-8d032e25d2f6",
+                "url": "https://database.eamena.org/report/46d29b4c-6965-4d42-8455-8d032e25d2f6",
+                "edit_url": "https://database.eamena.org/resource/46d29b4c-6965-4d42-8455-8d032e25d2f6"
+            }
+        },
+        {
+            "id": "cf2dbcb3-7b38-4e86-b774-5780e2682e8f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.255958768,
+                    13.988279333
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159649",
+                "dates": [
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "482e9480-6241-4e82-b9d0-e702668843b0",
+                "url": "https://database.eamena.org/report/482e9480-6241-4e82-b9d0-e702668843b0",
+                "edit_url": "https://database.eamena.org/resource/482e9480-6241-4e82-b9d0-e702668843b0"
+            }
+        },
+        {
+            "id": "49e61ebe-3e17-4655-a016-98c04aa30b3a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.253443562,
+                    13.990632912
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159644",
+                "dates": [
+                    "2020-01-13",
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "69d3a5d2-b886-41be-9573-7e0993cc6dfb",
+                "url": "https://database.eamena.org/report/69d3a5d2-b886-41be-9573-7e0993cc6dfb",
+                "edit_url": "https://database.eamena.org/resource/69d3a5d2-b886-41be-9573-7e0993cc6dfb"
+            }
+        },
+        {
+            "id": "5b1eb135-6a39-48ae-849d-89089de73656",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            48.277730497,
+                            13.991135368
+                        ],
+                        [
+                            48.277795908,
+                            13.991147265
+                        ],
+                        [
+                            48.277800011,
+                            13.991361474
+                        ],
+                        [
+                            48.277791838,
+                            13.991417009
+                        ],
+                        [
+                            48.277787753,
+                            13.991464611
+                        ],
+                        [
+                            48.277734604,
+                            13.991397179
+                        ],
+                        [
+                            48.277722336,
+                            13.991333711
+                        ],
+                        [
+                            48.277714154,
+                            13.99123851
+                        ],
+                        [
+                            48.277730497,
+                            13.991135368
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159646",
+                "dates": [
+                    "2020-01-13",
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "6c8e16f2-da52-49c7-8800-b0d3cf5be8f3",
+                "url": "https://database.eamena.org/report/6c8e16f2-da52-49c7-8800-b0d3cf5be8f3",
+                "edit_url": "https://database.eamena.org/resource/6c8e16f2-da52-49c7-8800-b0d3cf5be8f3"
+            }
+        },
+        {
+            "id": "54dd98b6-bac5-4e82-af6f-f091a3377938",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.279902524,
+                    13.996151697
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159641",
+                "dates": [
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "6fe49ebc-c504-4ec2-be04-7949897cad2b",
+                "url": "https://database.eamena.org/report/6fe49ebc-c504-4ec2-be04-7949897cad2b",
+                "edit_url": "https://database.eamena.org/resource/6fe49ebc-c504-4ec2-be04-7949897cad2b"
+            }
+        },
+        {
+            "id": "aa366e35-0012-41ad-a283-a75f99684f1e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.302518625,
+                    13.998345092
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159639",
+                "dates": [
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "b6e21f60-481a-43fe-add4-360de999678b",
+                "url": "https://database.eamena.org/report/b6e21f60-481a-43fe-add4-360de999678b",
+                "edit_url": "https://database.eamena.org/resource/b6e21f60-481a-43fe-add4-360de999678b"
+            }
+        },
+        {
+            "id": "23892a97-2ba0-4404-ac2f-41e2f4b94faf",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.307244891,
+                    13.999488269
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159640",
+                "dates": [
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "c6259e5f-9cae-4e5f-a272-1f1eb2f405df",
+                "url": "https://database.eamena.org/report/c6259e5f-9cae-4e5f-a272-1f1eb2f405df",
+                "edit_url": "https://database.eamena.org/resource/c6259e5f-9cae-4e5f-a272-1f1eb2f405df"
+            }
+        },
+        {
+            "id": "69698f13-d380-4bb8-a455-6ca6db4065c0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.253653285,
+                    13.991701277
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159643",
+                "dates": [
+                    "2020-01-13",
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "ca87345e-66b3-487b-8752-98552dab7408",
+                "url": "https://database.eamena.org/report/ca87345e-66b3-487b-8752-98552dab7408",
+                "edit_url": "https://database.eamena.org/resource/ca87345e-66b3-487b-8752-98552dab7408"
+            }
+        },
+        {
+            "id": "69cd01a6-41e4-40f5-9a75-b67dba39a027",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.296004454,
+                    13.992978219
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0159650",
+                "dates": [
+                    "2020-01-13"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "ea815795-ed6c-40c0-bb64-7e0e8fd47c2f",
+                "url": "https://database.eamena.org/report/ea815795-ed6c-40c0-bb64-7e0e8fd47c2f",
+                "edit_url": "https://database.eamena.org/resource/ea815795-ed6c-40c0-bb64-7e0e8fd47c2f"
+            }
+        }
+    ]
+}

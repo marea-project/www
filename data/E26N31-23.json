@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "c01cd911-d370-4146-91d3-862a005b2aea",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.716155,
+                    31.478995
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282817",
+                "dates": [
+                    "2020-01-18",
+                    "2023-11-25"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "e129cde2-7d38-4c83-8877-59e233f37a3e",
+                "url": "https://database.eamena.org/report/e129cde2-7d38-4c83-8877-59e233f37a3e",
+                "edit_url": "https://database.eamena.org/resource/e129cde2-7d38-4c83-8877-59e233f37a3e"
+            }
+        }
+    ]
+}

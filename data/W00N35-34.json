@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.548889,
+                    35.773111
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0272638",
+                "dates": [
+                    "2025-06-03"
+                ],
+                "countries": [
+                    "Algeria"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "303cb879-951d-4d21-a64c-7f5d0b0be624",
+                "url": "https://database.eamena.org/report/303cb879-951d-4d21-a64c-7f5d0b0be624",
+                "edit_url": "https://database.eamena.org/resource/303cb879-951d-4d21-a64c-7f5d0b0be624"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.572508,
+                    35.756204
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0272639",
+                "dates": [
+                    "2025-06-03"
+                ],
+                "countries": [
+                    "Algeria"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "77407711-0984-4827-aebd-9455e93e7863",
+                "url": "https://database.eamena.org/report/77407711-0984-4827-aebd-9455e93e7863",
+                "edit_url": "https://database.eamena.org/resource/77407711-0984-4827-aebd-9455e93e7863"
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "89fac804-5385-4c1e-8b1b-8130613e6d63",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.633888889,
+                    15.3625
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0096423",
+                "dates": [
+                    "2016-03-02",
+                    "2026-03-09"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Andrea Zerbini",
+                    "Julia Nikolaus"
+                ],
+                "id": "e19c2dd3-36d9-40b3-a119-4036354c7a54",
+                "url": "https://database.eamena.org/report/e19c2dd3-36d9-40b3-a119-4036354c7a54",
+                "edit_url": "https://database.eamena.org/resource/e19c2dd3-36d9-40b3-a119-4036354c7a54"
+            }
+        }
+    ]
+}

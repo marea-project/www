@@ -1,0 +1,1651 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9235,
+                    28.3524
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220492",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "0137ca05-00e1-41ff-ae1b-98ace47457d9",
+                "url": "https://database.eamena.org/report/0137ca05-00e1-41ff-ae1b-98ace47457d9",
+                "edit_url": "https://database.eamena.org/resource/0137ca05-00e1-41ff-ae1b-98ace47457d9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9523,
+                    28.2559
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220494",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "036780cd-d727-4be0-b18f-b5c1f1bde9d7",
+                "url": "https://database.eamena.org/report/036780cd-d727-4be0-b18f-b5c1f1bde9d7",
+                "edit_url": "https://database.eamena.org/resource/036780cd-d727-4be0-b18f-b5c1f1bde9d7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8551,
+                    28.3274
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220474",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "0b829440-329b-424d-8597-f02ad6d35309",
+                "url": "https://database.eamena.org/report/0b829440-329b-424d-8597-f02ad6d35309",
+                "edit_url": "https://database.eamena.org/resource/0b829440-329b-424d-8597-f02ad6d35309"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9364,
+                    28.3143
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220487",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "0c99e314-0fd9-4976-85a6-76e0c13294ae",
+                "url": "https://database.eamena.org/report/0c99e314-0fd9-4976-85a6-76e0c13294ae",
+                "edit_url": "https://database.eamena.org/resource/0c99e314-0fd9-4976-85a6-76e0c13294ae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8651,
+                    28.4025
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220475",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "10c55aad-cabb-49db-8984-c236d176e490",
+                "url": "https://database.eamena.org/report/10c55aad-cabb-49db-8984-c236d176e490",
+                "edit_url": "https://database.eamena.org/resource/10c55aad-cabb-49db-8984-c236d176e490"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8549,
+                    28.3463
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220472",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "188305f3-2272-4092-9a4b-8455433ca631",
+                "url": "https://database.eamena.org/report/188305f3-2272-4092-9a4b-8455433ca631",
+                "edit_url": "https://database.eamena.org/resource/188305f3-2272-4092-9a4b-8455433ca631"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.9455,
+                            28.3505
+                        ],
+                        [
+                            34.945,
+                            28.3501
+                        ],
+                        [
+                            34.9449,
+                            28.3498
+                        ],
+                        [
+                            34.945,
+                            28.3496
+                        ],
+                        [
+                            34.9453,
+                            28.3495
+                        ],
+                        [
+                            34.9457,
+                            28.3497
+                        ],
+                        [
+                            34.946,
+                            28.3499
+                        ],
+                        [
+                            34.9458,
+                            28.3503
+                        ],
+                        [
+                            34.9455,
+                            28.3505
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220497",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2b55267f-77db-4fcd-bbb9-5baa2d94822b",
+                "url": "https://database.eamena.org/report/2b55267f-77db-4fcd-bbb9-5baa2d94822b",
+                "edit_url": "https://database.eamena.org/resource/2b55267f-77db-4fcd-bbb9-5baa2d94822b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9165,
+                    28.4095
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220488",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2f5040f0-7df4-4f9f-9575-a4acff54cfc8",
+                "url": "https://database.eamena.org/report/2f5040f0-7df4-4f9f-9575-a4acff54cfc8",
+                "edit_url": "https://database.eamena.org/resource/2f5040f0-7df4-4f9f-9575-a4acff54cfc8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9171,
+                    28.4102
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220489",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "39ae49b2-62e7-47fe-b23f-7b25d1784af1",
+                "url": "https://database.eamena.org/report/39ae49b2-62e7-47fe-b23f-7b25d1784af1",
+                "edit_url": "https://database.eamena.org/resource/39ae49b2-62e7-47fe-b23f-7b25d1784af1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.9781,
+                            28.4689
+                        ],
+                        [
+                            34.9779,
+                            28.4688
+                        ],
+                        [
+                            34.9781,
+                            28.4686
+                        ],
+                        [
+                            34.9789,
+                            28.4685
+                        ],
+                        [
+                            34.9788,
+                            28.4688
+                        ],
+                        [
+                            34.9784,
+                            28.4689
+                        ],
+                        [
+                            34.9781,
+                            28.4689
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220505",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "42029158-0e5d-41e1-8d82-f0bb5b5fdc7c",
+                "url": "https://database.eamena.org/report/42029158-0e5d-41e1-8d82-f0bb5b5fdc7c",
+                "edit_url": "https://database.eamena.org/resource/42029158-0e5d-41e1-8d82-f0bb5b5fdc7c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9497,
+                    28.3267
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220495",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "4281fb4a-d0de-4c6d-b895-61bced9aa724",
+                "url": "https://database.eamena.org/report/4281fb4a-d0de-4c6d-b895-61bced9aa724",
+                "edit_url": "https://database.eamena.org/resource/4281fb4a-d0de-4c6d-b895-61bced9aa724"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9497,
+                    28.327
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220496",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "46232b3f-6d18-4dbd-bfe6-d0fd5aef608c",
+                "url": "https://database.eamena.org/report/46232b3f-6d18-4dbd-bfe6-d0fd5aef608c",
+                "edit_url": "https://database.eamena.org/resource/46232b3f-6d18-4dbd-bfe6-d0fd5aef608c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9273,
+                    28.4553
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220491",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "4b9d7103-db28-41d2-8a29-2417c01f338b",
+                "url": "https://database.eamena.org/report/4b9d7103-db28-41d2-8a29-2417c01f338b",
+                "edit_url": "https://database.eamena.org/resource/4b9d7103-db28-41d2-8a29-2417c01f338b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.9768,
+                            28.4786
+                        ],
+                        [
+                            34.977,
+                            28.4778
+                        ],
+                        [
+                            34.9773,
+                            28.4779
+                        ],
+                        [
+                            34.9771,
+                            28.4787
+                        ],
+                        [
+                            34.9768,
+                            28.4786
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220507",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "5949b310-ba00-4fae-913a-acdb682728eb",
+                "url": "https://database.eamena.org/report/5949b310-ba00-4fae-913a-acdb682728eb",
+                "edit_url": "https://database.eamena.org/resource/5949b310-ba00-4fae-913a-acdb682728eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9365,
+                    28.4481
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220493",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "5beb7eba-4120-4efa-aaa3-3ed5527fcef7",
+                "url": "https://database.eamena.org/report/5beb7eba-4120-4efa-aaa3-3ed5527fcef7",
+                "edit_url": "https://database.eamena.org/resource/5beb7eba-4120-4efa-aaa3-3ed5527fcef7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7837,
+                    28.4007
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220467",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "5ce1fbfe-f58b-4473-bb97-5ca6df2ea6c5",
+                "url": "https://database.eamena.org/report/5ce1fbfe-f58b-4473-bb97-5ca6df2ea6c5",
+                "edit_url": "https://database.eamena.org/resource/5ce1fbfe-f58b-4473-bb97-5ca6df2ea6c5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9814,
+                    28.3935
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220502",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "67db290a-7dad-4749-8f0d-9598f58d976b",
+                "url": "https://database.eamena.org/report/67db290a-7dad-4749-8f0d-9598f58d976b",
+                "edit_url": "https://database.eamena.org/resource/67db290a-7dad-4749-8f0d-9598f58d976b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8858,
+                    28.3307
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220483",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "7343c621-db9a-4c18-a23a-ffdf19c3f660",
+                "url": "https://database.eamena.org/report/7343c621-db9a-4c18-a23a-ffdf19c3f660",
+                "edit_url": "https://database.eamena.org/resource/7343c621-db9a-4c18-a23a-ffdf19c3f660"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.887,
+                    28.3555
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220481",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "73978376-1337-4782-9f32-e4941541f427",
+                "url": "https://database.eamena.org/report/73978376-1337-4782-9f32-e4941541f427",
+                "edit_url": "https://database.eamena.org/resource/73978376-1337-4782-9f32-e4941541f427"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8543,
+                    28.3456
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220473",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "7aa34fff-c283-4cdd-b78c-2946bd55fde9",
+                "url": "https://database.eamena.org/report/7aa34fff-c283-4cdd-b78c-2946bd55fde9",
+                "edit_url": "https://database.eamena.org/resource/7aa34fff-c283-4cdd-b78c-2946bd55fde9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.9755,
+                            28.4652
+                        ],
+                        [
+                            34.9753,
+                            28.4646
+                        ],
+                        [
+                            34.9753,
+                            28.4637
+                        ],
+                        [
+                            34.9751,
+                            28.4627
+                        ],
+                        [
+                            34.9752,
+                            28.4623
+                        ],
+                        [
+                            34.9752,
+                            28.4615
+                        ],
+                        [
+                            34.978,
+                            28.462
+                        ],
+                        [
+                            34.9781,
+                            28.4631
+                        ],
+                        [
+                            34.9784,
+                            28.4636
+                        ],
+                        [
+                            34.9787,
+                            28.4638
+                        ],
+                        [
+                            34.9787,
+                            28.4642
+                        ],
+                        [
+                            34.9787,
+                            28.4643
+                        ],
+                        [
+                            34.9782,
+                            28.4648
+                        ],
+                        [
+                            34.9765,
+                            28.4653
+                        ],
+                        [
+                            34.9755,
+                            28.4652
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220503",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "7ee23900-562d-4541-af33-b31b6b7df6d0",
+                "url": "https://database.eamena.org/report/7ee23900-562d-4541-af33-b31b6b7df6d0",
+                "edit_url": "https://database.eamena.org/resource/7ee23900-562d-4541-af33-b31b6b7df6d0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9918,
+                    28.4144
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220511",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "81121d90-b1b2-4de7-887a-5e8cca6e61ee",
+                "url": "https://database.eamena.org/report/81121d90-b1b2-4de7-887a-5e8cca6e61ee",
+                "edit_url": "https://database.eamena.org/resource/81121d90-b1b2-4de7-887a-5e8cca6e61ee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9627,
+                    28.4771
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220500",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "8a9f3708-7f9e-4aab-837b-7e75ed16c57c",
+                "url": "https://database.eamena.org/report/8a9f3708-7f9e-4aab-837b-7e75ed16c57c",
+                "edit_url": "https://database.eamena.org/resource/8a9f3708-7f9e-4aab-837b-7e75ed16c57c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.9836,
+                            28.4645
+                        ],
+                        [
+                            34.9837,
+                            28.4639
+                        ],
+                        [
+                            34.9837,
+                            28.4633
+                        ],
+                        [
+                            34.9839,
+                            28.4631
+                        ],
+                        [
+                            34.9844,
+                            28.4633
+                        ],
+                        [
+                            34.9846,
+                            28.4634
+                        ],
+                        [
+                            34.9849,
+                            28.4639
+                        ],
+                        [
+                            34.9845,
+                            28.4644
+                        ],
+                        [
+                            34.9842,
+                            28.4647
+                        ],
+                        [
+                            34.9838,
+                            28.4646
+                        ],
+                        [
+                            34.9836,
+                            28.4645
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220509",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "949abfc6-16f1-4038-a016-f4635fa6feec",
+                "url": "https://database.eamena.org/report/949abfc6-16f1-4038-a016-f4635fa6feec",
+                "edit_url": "https://database.eamena.org/resource/949abfc6-16f1-4038-a016-f4635fa6feec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8694,
+                    28.3863
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220476",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "95f47b52-b6da-4375-bb9d-2f1d646d7038",
+                "url": "https://database.eamena.org/report/95f47b52-b6da-4375-bb9d-2f1d646d7038",
+                "edit_url": "https://database.eamena.org/resource/95f47b52-b6da-4375-bb9d-2f1d646d7038"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8888,
+                    28.4585
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220482",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "9ef31cb4-ddf2-4f98-ac49-33183aebbdc4",
+                "url": "https://database.eamena.org/report/9ef31cb4-ddf2-4f98-ac49-33183aebbdc4",
+                "edit_url": "https://database.eamena.org/resource/9ef31cb4-ddf2-4f98-ac49-33183aebbdc4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9979,
+                    28.4919
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220514",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "a55c8454-6782-4275-9632-d739289a3a6e",
+                "url": "https://database.eamena.org/report/a55c8454-6782-4275-9632-d739289a3a6e",
+                "edit_url": "https://database.eamena.org/resource/a55c8454-6782-4275-9632-d739289a3a6e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.9934,
+                            28.3678
+                        ],
+                        [
+                            34.9933,
+                            28.3676
+                        ],
+                        [
+                            34.9935,
+                            28.3674
+                        ],
+                        [
+                            34.9938,
+                            28.3674
+                        ],
+                        [
+                            34.9939,
+                            28.3674
+                        ],
+                        [
+                            34.9939,
+                            28.3676
+                        ],
+                        [
+                            34.9938,
+                            28.3678
+                        ],
+                        [
+                            34.9936,
+                            28.3678
+                        ],
+                        [
+                            34.9934,
+                            28.3678
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220510",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "a81d885d-8e96-4af7-a052-014e2cbfaf7f",
+                "url": "https://database.eamena.org/report/a81d885d-8e96-4af7-a052-014e2cbfaf7f",
+                "edit_url": "https://database.eamena.org/resource/a81d885d-8e96-4af7-a052-014e2cbfaf7f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.783,
+                            28.3979
+                        ],
+                        [
+                            34.7829,
+                            28.3977
+                        ],
+                        [
+                            34.7829,
+                            28.3976
+                        ],
+                        [
+                            34.783,
+                            28.3974
+                        ],
+                        [
+                            34.7833,
+                            28.3974
+                        ],
+                        [
+                            34.7833,
+                            28.3977
+                        ],
+                        [
+                            34.7832,
+                            28.3979
+                        ],
+                        [
+                            34.783,
+                            28.3979
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220469",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "aaf75409-9ad8-4d3e-a155-c8ac3cf51a6c",
+                "url": "https://database.eamena.org/report/aaf75409-9ad8-4d3e-a155-c8ac3cf51a6c",
+                "edit_url": "https://database.eamena.org/resource/aaf75409-9ad8-4d3e-a155-c8ac3cf51a6c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8974,
+                    28.348
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220485",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "ad29c0a7-eacd-48ce-ac6e-22d52dc30577",
+                "url": "https://database.eamena.org/report/ad29c0a7-eacd-48ce-ac6e-22d52dc30577",
+                "edit_url": "https://database.eamena.org/resource/ad29c0a7-eacd-48ce-ac6e-22d52dc30577"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9769,
+                    28.4823
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220508",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "ae24bc76-b70a-4085-a12e-59557f161b2a",
+                "url": "https://database.eamena.org/report/ae24bc76-b70a-4085-a12e-59557f161b2a",
+                "edit_url": "https://database.eamena.org/resource/ae24bc76-b70a-4085-a12e-59557f161b2a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8782,
+                    28.4867
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220478",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "afe5a99b-7d09-4fb3-b9bb-94d30f91e441",
+                "url": "https://database.eamena.org/report/afe5a99b-7d09-4fb3-b9bb-94d30f91e441",
+                "edit_url": "https://database.eamena.org/resource/afe5a99b-7d09-4fb3-b9bb-94d30f91e441"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.9735,
+                            28.4758
+                        ],
+                        [
+                            34.9735,
+                            28.4754
+                        ],
+                        [
+                            34.9736,
+                            28.4751
+                        ],
+                        [
+                            34.9738,
+                            28.4749
+                        ],
+                        [
+                            34.9743,
+                            28.4748
+                        ],
+                        [
+                            34.9743,
+                            28.4751
+                        ],
+                        [
+                            34.9744,
+                            28.4756
+                        ],
+                        [
+                            34.9744,
+                            28.4759
+                        ],
+                        [
+                            34.9737,
+                            28.4759
+                        ],
+                        [
+                            34.9735,
+                            28.4758
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220506",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "b3317718-234a-48aa-b2cd-5983171e21e0",
+                "url": "https://database.eamena.org/report/b3317718-234a-48aa-b2cd-5983171e21e0",
+                "edit_url": "https://database.eamena.org/resource/b3317718-234a-48aa-b2cd-5983171e21e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9671,
+                    28.3707
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220501",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "b3ce820f-6efb-4528-ba6e-f15f02f1b044",
+                "url": "https://database.eamena.org/report/b3ce820f-6efb-4528-ba6e-f15f02f1b044",
+                "edit_url": "https://database.eamena.org/resource/b3ce820f-6efb-4528-ba6e-f15f02f1b044"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.7829,
+                            28.4004
+                        ],
+                        [
+                            34.7828,
+                            28.4003
+                        ],
+                        [
+                            34.7828,
+                            28.4002
+                        ],
+                        [
+                            34.7828,
+                            28.4001
+                        ],
+                        [
+                            34.783,
+                            28.4
+                        ],
+                        [
+                            34.7832,
+                            28.4001
+                        ],
+                        [
+                            34.7832,
+                            28.4002
+                        ],
+                        [
+                            34.7831,
+                            28.4003
+                        ],
+                        [
+                            34.7829,
+                            28.4004
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220468",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "b614cf18-9fd0-4ffd-b837-224b85cd7883",
+                "url": "https://database.eamena.org/report/b614cf18-9fd0-4ffd-b837-224b85cd7883",
+                "edit_url": "https://database.eamena.org/resource/b614cf18-9fd0-4ffd-b837-224b85cd7883"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8832,
+                    28.4862
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220479",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "b9b9d835-d3b2-4c91-a679-9a303b8d6b55",
+                "url": "https://database.eamena.org/report/b9b9d835-d3b2-4c91-a679-9a303b8d6b55",
+                "edit_url": "https://database.eamena.org/resource/b9b9d835-d3b2-4c91-a679-9a303b8d6b55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8456,
+                    28.3586
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220470",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "ba902015-8bcc-43cb-a2ea-1e963336dbc7",
+                "url": "https://database.eamena.org/report/ba902015-8bcc-43cb-a2ea-1e963336dbc7",
+                "edit_url": "https://database.eamena.org/resource/ba902015-8bcc-43cb-a2ea-1e963336dbc7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9182,
+                    28.4075
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220490",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "bd34baf4-2022-411d-a4e1-11337cae4a39",
+                "url": "https://database.eamena.org/report/bd34baf4-2022-411d-a4e1-11337cae4a39",
+                "edit_url": "https://database.eamena.org/resource/bd34baf4-2022-411d-a4e1-11337cae4a39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7578,
+                    28.3862
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220466",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "caddec36-dd31-4d4e-a4ec-4fd6c1b48664",
+                "url": "https://database.eamena.org/report/caddec36-dd31-4d4e-a4ec-4fd6c1b48664",
+                "edit_url": "https://database.eamena.org/resource/caddec36-dd31-4d4e-a4ec-4fd6c1b48664"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7508,
+                    28.3961
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220465",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "d3c10022-98e1-4b05-b4ba-36541e9f812e",
+                "url": "https://database.eamena.org/report/d3c10022-98e1-4b05-b4ba-36541e9f812e",
+                "edit_url": "https://database.eamena.org/resource/d3c10022-98e1-4b05-b4ba-36541e9f812e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8513,
+                    28.3604
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220471",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "d50c3f1e-b3e8-414a-aec8-8df3cd0048a0",
+                "url": "https://database.eamena.org/report/d50c3f1e-b3e8-414a-aec8-8df3cd0048a0",
+                "edit_url": "https://database.eamena.org/resource/d50c3f1e-b3e8-414a-aec8-8df3cd0048a0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.877,
+                    28.2959
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220477",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "da2667a4-4c35-477e-8af5-f3be354778f3",
+                "url": "https://database.eamena.org/report/da2667a4-4c35-477e-8af5-f3be354778f3",
+                "edit_url": "https://database.eamena.org/resource/da2667a4-4c35-477e-8af5-f3be354778f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.992,
+                    28.4185
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220513",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "dd7bbb58-1359-4910-9566-f110eb7c7550",
+                "url": "https://database.eamena.org/report/dd7bbb58-1359-4910-9566-f110eb7c7550",
+                "edit_url": "https://database.eamena.org/resource/dd7bbb58-1359-4910-9566-f110eb7c7550"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8954,
+                    28.4932
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220484",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "e2807e90-f3d2-404f-9dd1-b055a3c67be6",
+                "url": "https://database.eamena.org/report/e2807e90-f3d2-404f-9dd1-b055a3c67be6",
+                "edit_url": "https://database.eamena.org/resource/e2807e90-f3d2-404f-9dd1-b055a3c67be6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.9752,
+                            28.4664
+                        ],
+                        [
+                            34.9756,
+                            28.4662
+                        ],
+                        [
+                            34.9762,
+                            28.4662
+                        ],
+                        [
+                            34.9767,
+                            28.4664
+                        ],
+                        [
+                            34.977,
+                            28.4666
+                        ],
+                        [
+                            34.9767,
+                            28.4669
+                        ],
+                        [
+                            34.9761,
+                            28.4669
+                        ],
+                        [
+                            34.9757,
+                            28.4668
+                        ],
+                        [
+                            34.9754,
+                            28.4666
+                        ],
+                        [
+                            34.9752,
+                            28.4664
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220504",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "edbbb036-bf66-4f85-a8b6-6a315d64f495",
+                "url": "https://database.eamena.org/report/edbbb036-bf66-4f85-a8b6-6a315d64f495",
+                "edit_url": "https://database.eamena.org/resource/edbbb036-bf66-4f85-a8b6-6a315d64f495"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9619,
+                    28.2705
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220499",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "f50ac494-04f2-4fdb-9eb6-5ce7925acd5a",
+                "url": "https://database.eamena.org/report/f50ac494-04f2-4fdb-9eb6-5ce7925acd5a",
+                "edit_url": "https://database.eamena.org/resource/f50ac494-04f2-4fdb-9eb6-5ce7925acd5a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8843,
+                    28.3648
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220480",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "f9d21c89-e205-451f-9bb6-b468ce179760",
+                "url": "https://database.eamena.org/report/f9d21c89-e205-451f-9bb6-b468ce179760",
+                "edit_url": "https://database.eamena.org/resource/f9d21c89-e205-451f-9bb6-b468ce179760"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9583,
+                    28.3117
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220498",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "fce79cd0-319b-4548-91ea-af243fb7fbc9",
+                "url": "https://database.eamena.org/report/fce79cd0-319b-4548-91ea-af243fb7fbc9",
+                "edit_url": "https://database.eamena.org/resource/fce79cd0-319b-4548-91ea-af243fb7fbc9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9918,
+                    28.4186
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220512",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "ffe276de-a1a6-4a6e-9365-431740c8deb8",
+                "url": "https://database.eamena.org/report/ffe276de-a1a6-4a6e-9365-431740c8deb8",
+                "edit_url": "https://database.eamena.org/resource/ffe276de-a1a6-4a6e-9365-431740c8deb8"
+            }
+        }
+    ]
+}

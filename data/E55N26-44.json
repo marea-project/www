@@ -1,0 +1,291 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.801054,
+                    26.926572
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182919",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "11bf0d7c-8652-42e8-b75c-e909bf794cfc",
+                "url": "https://database.eamena.org/report/11bf0d7c-8652-42e8-b75c-e909bf794cfc",
+                "edit_url": "https://database.eamena.org/resource/11bf0d7c-8652-42e8-b75c-e909bf794cfc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.945653,
+                    26.830912
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182921",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "11d75296-e0ae-4c4b-823c-55c6c86a7ace",
+                "url": "https://database.eamena.org/report/11d75296-e0ae-4c4b-823c-55c6c86a7ace",
+                "edit_url": "https://database.eamena.org/resource/11d75296-e0ae-4c4b-823c-55c6c86a7ace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.754419,
+                    26.898612
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182926",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "13c517ec-335b-40d3-8d4c-f057aeeecf92",
+                "url": "https://database.eamena.org/report/13c517ec-335b-40d3-8d4c-f057aeeecf92",
+                "edit_url": "https://database.eamena.org/resource/13c517ec-335b-40d3-8d4c-f057aeeecf92"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.762042,
+                    26.893921
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182924",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "249ce520-e758-4896-a6a7-26aec31ce587",
+                "url": "https://database.eamena.org/report/249ce520-e758-4896-a6a7-26aec31ce587",
+                "edit_url": "https://database.eamena.org/resource/249ce520-e758-4896-a6a7-26aec31ce587"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.983451,
+                    26.848572
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182927",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "5261341e-b5c4-4832-a461-cbfca4d73993",
+                "url": "https://database.eamena.org/report/5261341e-b5c4-4832-a461-cbfca4d73993",
+                "edit_url": "https://database.eamena.org/resource/5261341e-b5c4-4832-a461-cbfca4d73993"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.954297,
+                    26.815972
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182922",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "814917ed-2f2d-49ba-ac74-6d1f79cb8c14",
+                "url": "https://database.eamena.org/report/814917ed-2f2d-49ba-ac74-6d1f79cb8c14",
+                "edit_url": "https://database.eamena.org/resource/814917ed-2f2d-49ba-ac74-6d1f79cb8c14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.965864,
+                    26.837222
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182920",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "87e96ff1-004e-449d-9038-66e9de817bc1",
+                "url": "https://database.eamena.org/report/87e96ff1-004e-449d-9038-66e9de817bc1",
+                "edit_url": "https://database.eamena.org/resource/87e96ff1-004e-449d-9038-66e9de817bc1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.762422,
+                    26.894132
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182925",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "9e456063-1c02-4f9a-9447-34b9300e0523",
+                "url": "https://database.eamena.org/report/9e456063-1c02-4f9a-9447-34b9300e0523",
+                "edit_url": "https://database.eamena.org/resource/9e456063-1c02-4f9a-9447-34b9300e0523"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.959255,
+                    26.823451
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182923",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "b9ba120b-102b-4731-8ae2-fc72deda497a",
+                "url": "https://database.eamena.org/report/b9ba120b-102b-4731-8ae2-fc72deda497a",
+                "edit_url": "https://database.eamena.org/resource/b9ba120b-102b-4731-8ae2-fc72deda497a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.763475,
+                    26.892809
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182918",
+                "dates": [
+                    "2020-12-18"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "d17de10f-1872-498d-9f1c-beb0c4fb7e02",
+                "url": "https://database.eamena.org/report/d17de10f-1872-498d-9f1c-beb0c4fb7e02",
+                "edit_url": "https://database.eamena.org/resource/d17de10f-1872-498d-9f1c-beb0c4fb7e02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.763143,
+                    26.891226
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182917",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "d9b3d320-0df6-46e4-94a8-74b55b77a895",
+                "url": "https://database.eamena.org/report/d9b3d320-0df6-46e4-94a8-74b55b77a895",
+                "edit_url": "https://database.eamena.org/resource/d9b3d320-0df6-46e4-94a8-74b55b77a895"
+            }
+        }
+    ]
+}

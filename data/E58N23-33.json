@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "82d48427-f86f-4568-bfb1-cfb7c66fb2c3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.105833,
+                    23.862222
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160737",
+                "dates": [
+                    "2019-05-12",
+                    "2019-05-12",
+                    "2019-05-12"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "5297b579-1385-4ef8-86e5-703246662c7e",
+                "url": "https://database.eamena.org/report/5297b579-1385-4ef8-86e5-703246662c7e",
+                "edit_url": "https://database.eamena.org/resource/5297b579-1385-4ef8-86e5-703246662c7e"
+            }
+        },
+        {
+            "id": "e108bf41-0f57-457b-8556-841a71a6ce4e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.069188,
+                    23.856668
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160736",
+                "dates": [
+                    "2019-05-12",
+                    "2019-05-12",
+                    "2019-05-12"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "6274e542-3b1d-4b6a-bba6-3ac61dd5bba6",
+                "url": "https://database.eamena.org/report/6274e542-3b1d-4b6a-bba6-3ac61dd5bba6",
+                "edit_url": "https://database.eamena.org/resource/6274e542-3b1d-4b6a-bba6-3ac61dd5bba6"
+            }
+        },
+        {
+            "id": "191bc53b-02b6-4afe-8b00-d8cb46cc0d87",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.098333,
+                    23.860833
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160738",
+                "dates": [
+                    "2019-05-12",
+                    "2019-05-12",
+                    "2019-05-12"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "7c1a9fa9-88a3-469b-b248-d4a6432f2f43",
+                "url": "https://database.eamena.org/report/7c1a9fa9-88a3-469b-b248-d4a6432f2f43",
+                "edit_url": "https://database.eamena.org/resource/7c1a9fa9-88a3-469b-b248-d4a6432f2f43"
+            }
+        },
+        {
+            "id": "0b0c909e-3aa8-4fc4-9d33-84debe019363",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.06549,
+                    23.855814
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160735",
+                "dates": [
+                    "2019-05-12",
+                    "2019-05-12",
+                    "2019-05-12"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "f9234726-c7a3-48c9-82bd-54f4ff74e089",
+                "url": "https://database.eamena.org/report/f9234726-c7a3-48c9-82bd-54f4ff74e089",
+                "edit_url": "https://database.eamena.org/resource/f9234726-c7a3-48c9-82bd-54f4ff74e089"
+            }
+        }
+    ]
+}

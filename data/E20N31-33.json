@@ -1,0 +1,472 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "d341bf6b-7ecc-47b3-beb1-2546489f5b02",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1025853,
+                    31.893853726
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162079",
+                "dates": [
+                    "2020-04-30",
+                    "2020-04-30",
+                    "2020-04-30"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Tariq Teekah"
+                ],
+                "id": "25ac5861-a764-4812-8b95-438408f92eac",
+                "url": "https://database.eamena.org/report/25ac5861-a764-4812-8b95-438408f92eac",
+                "edit_url": "https://database.eamena.org/resource/25ac5861-a764-4812-8b95-438408f92eac"
+            }
+        },
+        {
+            "id": "cfc0fdab-7fd7-4a2b-b9af-39e08252991f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            20.087584529,
+                            31.948788211
+                        ],
+                        [
+                            20.087369952,
+                            31.947993914
+                        ],
+                        [
+                            20.088295314,
+                            31.94787329
+                        ],
+                        [
+                            20.088475022,
+                            31.948619793
+                        ],
+                        [
+                            20.087584529,
+                            31.948788211
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161705",
+                "dates": [
+                    "2020-04-30",
+                    "2020-04-30",
+                    "2020-04-30"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Tariq Teekah"
+                ],
+                "id": "3934b7c5-a4e9-4bc2-b026-9c4abf153bbd",
+                "url": "https://database.eamena.org/report/3934b7c5-a4e9-4bc2-b026-9c4abf153bbd",
+                "edit_url": "https://database.eamena.org/resource/3934b7c5-a4e9-4bc2-b026-9c4abf153bbd"
+            }
+        },
+        {
+            "id": "e2d027a4-89d7-4afc-9e6b-b2e4aef9aefb",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1666,
+                    31.8666
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162726",
+                "dates": [
+                    "2020-04-22",
+                    "2020-04-22",
+                    "2020-04-22",
+                    "2020-04-02"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Osamah Eisay",
+                    "Julia Nikolaus",
+                    "Nichole Sheldrick"
+                ],
+                "id": "60502324-63a6-4a1b-be35-0e4620f438d5",
+                "url": "https://database.eamena.org/report/60502324-63a6-4a1b-be35-0e4620f438d5",
+                "edit_url": "https://database.eamena.org/resource/60502324-63a6-4a1b-be35-0e4620f438d5"
+            }
+        },
+        {
+            "id": "46cc2023-14fc-4cb5-ae2f-97ac9f113346",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.036222,
+                    31.851125
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282754",
+                "dates": [
+                    "2025-10-28"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "6c4308c7-fcc4-490b-9215-2a4e92797d7a",
+                "url": "https://database.eamena.org/report/6c4308c7-fcc4-490b-9215-2a4e92797d7a",
+                "edit_url": "https://database.eamena.org/resource/6c4308c7-fcc4-490b-9215-2a4e92797d7a"
+            }
+        },
+        {
+            "id": "a974a0f2-ac44-41ed-93be-162588450175",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            20.008972987,
+                            31.950026514
+                        ],
+                        [
+                            20.009278759,
+                            31.949539474
+                        ],
+                        [
+                            20.01235257,
+                            31.950490792
+                        ],
+                        [
+                            20.011445984,
+                            31.951460308
+                        ],
+                        [
+                            20.008795961,
+                            31.950358792
+                        ],
+                        [
+                            20.008972987,
+                            31.950026514
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161302",
+                "dates": [
+                    "2020-04-30",
+                    "2020-04-30",
+                    "2020-04-30"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Tariq Teekah"
+                ],
+                "id": "733350d3-6a53-4468-8c0d-ce779b8ebddc",
+                "url": "https://database.eamena.org/report/733350d3-6a53-4468-8c0d-ce779b8ebddc",
+                "edit_url": "https://database.eamena.org/resource/733350d3-6a53-4468-8c0d-ce779b8ebddc"
+            }
+        },
+        {
+            "id": "ee58f32b-9530-4804-99c6-343518531709",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            20.012787049,
+                            31.979685437
+                        ],
+                        [
+                            20.012744134,
+                            31.979692262
+                        ],
+                        [
+                            20.012671714,
+                            31.97965131
+                        ],
+                        [
+                            20.012505417,
+                            31.979337339
+                        ],
+                        [
+                            20.012502735,
+                            31.979296386
+                        ],
+                        [
+                            20.012531438,
+                            31.979241296
+                        ],
+                        [
+                            20.012944332,
+                            31.979086875
+                        ],
+                        [
+                            20.013049906,
+                            31.979107548
+                        ],
+                        [
+                            20.013089065,
+                            31.979115932
+                        ],
+                        [
+                            20.013280956,
+                            31.979425668
+                        ],
+                        [
+                            20.013251071,
+                            31.979489774
+                        ],
+                        [
+                            20.013223809,
+                            31.979529837
+                        ],
+                        [
+                            20.012787049,
+                            31.979685437
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161970",
+                "dates": [
+                    "2020-04-30",
+                    "2020-04-30",
+                    "2020-04-30"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Tariq Teekah"
+                ],
+                "id": "920f8b87-af5e-4e16-ab91-9ae999dd4111",
+                "url": "https://database.eamena.org/report/920f8b87-af5e-4e16-ab91-9ae999dd4111",
+                "edit_url": "https://database.eamena.org/resource/920f8b87-af5e-4e16-ab91-9ae999dd4111"
+            }
+        },
+        {
+            "id": "f5ae3733-72f4-42a6-85a4-a6c1b49f45a4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.051849554,
+                    31.973326051
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161194",
+                "dates": [
+                    "2020-04-27",
+                    "2020-04-27",
+                    "2003-05-28"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Tariq Teekah"
+                ],
+                "id": "924fac9f-a02e-4604-9ae2-d253a01f0f80",
+                "url": "https://database.eamena.org/report/924fac9f-a02e-4604-9ae2-d253a01f0f80",
+                "edit_url": "https://database.eamena.org/resource/924fac9f-a02e-4604-9ae2-d253a01f0f80"
+            }
+        },
+        {
+            "id": "7ef05b90-f60d-487d-b8d1-c0b66e5b5f67",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            20.015776047,
+                            31.943022174
+                        ],
+                        [
+                            20.015845785,
+                            31.942396257
+                        ],
+                        [
+                            20.016596803,
+                            31.942482747
+                        ],
+                        [
+                            20.016409048,
+                            31.943195154
+                        ],
+                        [
+                            20.015765318,
+                            31.943095008
+                        ],
+                        [
+                            20.015776047,
+                            31.943022174
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161301",
+                "dates": [
+                    "2020-04-30",
+                    "2020-04-30",
+                    "2020-04-30"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Tariq Teekah"
+                ],
+                "id": "9a71ef00-957f-47f0-b25c-97c9a48d6f33",
+                "url": "https://database.eamena.org/report/9a71ef00-957f-47f0-b25c-97c9a48d6f33",
+                "edit_url": "https://database.eamena.org/resource/9a71ef00-957f-47f0-b25c-97c9a48d6f33"
+            }
+        },
+        {
+            "id": "dfa2bacb-9990-4bed-b2a2-29b11a0fbcb7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.026528,
+                    31.910483
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282706",
+                "dates": [
+                    "2025-10-08"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ba804ae3-d63a-4e8a-b569-7543d2677314",
+                "url": "https://database.eamena.org/report/ba804ae3-d63a-4e8a-b569-7543d2677314",
+                "edit_url": "https://database.eamena.org/resource/ba804ae3-d63a-4e8a-b569-7543d2677314"
+            }
+        },
+        {
+            "id": "873c08ac-41d3-4f01-8a02-4c8666d88180",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.09673,
+                    31.96656
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282677",
+                "dates": [
+                    "2025-10-03"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "bf84249b-92f5-4875-b24e-44a0e65435ff",
+                "url": "https://database.eamena.org/report/bf84249b-92f5-4875-b24e-44a0e65435ff",
+                "edit_url": "https://database.eamena.org/resource/bf84249b-92f5-4875-b24e-44a0e65435ff"
+            }
+        },
+        {
+            "id": "ae836be7-2698-4433-9c89-81c507fdd952",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.032318777,
+                    31.966354467
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161294",
+                "dates": [
+                    "2020-04-28",
+                    "2020-04-28",
+                    "2020-04-28"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Tariq Teekah"
+                ],
+                "id": "cbb99fde-5bee-488d-8966-20f9600bd973",
+                "url": "https://database.eamena.org/report/cbb99fde-5bee-488d-8966-20f9600bd973",
+                "edit_url": "https://database.eamena.org/resource/cbb99fde-5bee-488d-8966-20f9600bd973"
+            }
+        },
+        {
+            "id": "97af79dc-7f0e-4179-92da-ad841ceb2442",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.095575838,
+                    31.930120375
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0179077",
+                "dates": [
+                    "2020-04-30",
+                    "2020-04-16",
+                    "2019-04-28",
+                    "2020-04-16"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Martin Sterry",
+                    "Tariq Teekah",
+                    "Louise Rayne"
+                ],
+                "id": "f6e1a06a-1a7a-4c71-9a8d-7196968f95c4",
+                "url": "https://database.eamena.org/report/f6e1a06a-1a7a-4c71-9a8d-7196968f95c4",
+                "edit_url": "https://database.eamena.org/resource/f6e1a06a-1a7a-4c71-9a8d-7196968f95c4"
+            }
+        }
+    ]
+}

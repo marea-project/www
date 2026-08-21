@@ -1,0 +1,5021 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "c14cc0fb-e46b-4d59-bd28-d17e93371b2c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.537118402,
+                    24.795263086
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028237",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "032d62b0-94c5-49e7-ae9d-30c196bf5f21",
+                "url": "https://database.eamena.org/report/032d62b0-94c5-49e7-ae9d-30c196bf5f21",
+                "edit_url": "https://database.eamena.org/resource/032d62b0-94c5-49e7-ae9d-30c196bf5f21"
+            }
+        },
+        {
+            "id": "94d10ad2-5f61-4951-a796-b9306a30f4ec",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.51149958,
+                    24.82779788
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028202",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "033e9c17-0719-49ad-92dc-1bcaa70144d1",
+                "url": "https://database.eamena.org/report/033e9c17-0719-49ad-92dc-1bcaa70144d1",
+                "edit_url": "https://database.eamena.org/resource/033e9c17-0719-49ad-92dc-1bcaa70144d1"
+            }
+        },
+        {
+            "id": "36ac5129-76de-46fd-ba25-7e0c073e69ff",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.543748813,
+                    24.907750135
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028253",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "0522d099-afd0-4710-b96d-a7c6bd2ed99c",
+                "url": "https://database.eamena.org/report/0522d099-afd0-4710-b96d-a7c6bd2ed99c",
+                "edit_url": "https://database.eamena.org/resource/0522d099-afd0-4710-b96d-a7c6bd2ed99c"
+            }
+        },
+        {
+            "id": "c4218bca-9937-4cea-8634-637d0c777d05",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.674607405,
+                            24.85643164
+                        ],
+                        [
+                            46.674532303,
+                            24.856246675
+                        ],
+                        [
+                            46.676849731,
+                            24.855010328
+                        ],
+                        [
+                            46.677021393,
+                            24.855224499
+                        ],
+                        [
+                            46.674789795,
+                            24.856480315
+                        ],
+                        [
+                            46.674607405,
+                            24.85643164
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028332",
+                "dates": [
+                    "2016-09-12"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "05a0446e-a5fe-4169-89d5-d6d1794065a8",
+                "url": "https://database.eamena.org/report/05a0446e-a5fe-4169-89d5-d6d1794065a8",
+                "edit_url": "https://database.eamena.org/resource/05a0446e-a5fe-4169-89d5-d6d1794065a8"
+            }
+        },
+        {
+            "id": "cd9e1cc7-6cfc-4775-8e76-c856cc9c9207",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.54906286,
+                    24.921275946
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028267",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "05bef595-de83-4799-9282-891873a1e200",
+                "url": "https://database.eamena.org/report/05bef595-de83-4799-9282-891873a1e200",
+                "edit_url": "https://database.eamena.org/resource/05bef595-de83-4799-9282-891873a1e200"
+            }
+        },
+        {
+            "id": "2bf65144-525c-4cd1-8d82-3b16022969e1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.516779085,
+                            24.886022134
+                        ],
+                        [
+                            46.516462584,
+                            24.88584208
+                        ],
+                        [
+                            46.516521593,
+                            24.885798283
+                        ],
+                        [
+                            46.516779085,
+                            24.886022134
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028213",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "06dc9777-b673-41ca-bce8-f682b1e3ec86",
+                "url": "https://database.eamena.org/report/06dc9777-b673-41ca-bce8-f682b1e3ec86",
+                "edit_url": "https://database.eamena.org/resource/06dc9777-b673-41ca-bce8-f682b1e3ec86"
+            }
+        },
+        {
+            "id": "954c0949-d51b-46c8-a48e-6b834a5954b1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.561393449,
+                            24.839545781
+                        ],
+                        [
+                            46.56127275,
+                            24.839404604
+                        ],
+                        [
+                            46.561243245,
+                            24.839316978
+                        ],
+                        [
+                            46.561243245,
+                            24.839253692
+                        ],
+                        [
+                            46.561318347,
+                            24.839170933
+                        ],
+                        [
+                            46.561447093,
+                            24.83915146
+                        ],
+                        [
+                            46.561578521,
+                            24.839290203
+                        ],
+                        [
+                            46.561656306,
+                            24.839472759
+                        ],
+                        [
+                            46.561581204,
+                            24.839557951
+                        ],
+                        [
+                            46.561468551,
+                            24.839582292
+                        ],
+                        [
+                            46.561393449,
+                            24.839545781
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028302",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "07548aa8-daff-47ff-99c0-96c1c7155d99",
+                "url": "https://database.eamena.org/report/07548aa8-daff-47ff-99c0-96c1c7155d99",
+                "edit_url": "https://database.eamena.org/resource/07548aa8-daff-47ff-99c0-96c1c7155d99"
+            }
+        },
+        {
+            "id": "bea00f4e-c6d6-4927-bf9b-168f44a27322",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.580205252,
+                            24.852406598
+                        ],
+                        [
+                            46.584271481,
+                            24.854051848
+                        ],
+                        [
+                            46.583938887,
+                            24.85416867
+                        ],
+                        [
+                            46.581836035,
+                            24.855112975
+                        ],
+                        [
+                            46.580205252,
+                            24.852406598
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028312",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "079db5ac-a7b8-4e54-a67a-5d1ebf59c0b9",
+                "url": "https://database.eamena.org/report/079db5ac-a7b8-4e54-a67a-5d1ebf59c0b9",
+                "edit_url": "https://database.eamena.org/resource/079db5ac-a7b8-4e54-a67a-5d1ebf59c0b9"
+            }
+        },
+        {
+            "id": "53b9cb4e-fd6d-45d5-b8ab-1c9af6650209",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.520233123,
+                    24.826684748
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028212",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "07c76d2a-e371-419e-bf5f-46d089c46bef",
+                "url": "https://database.eamena.org/report/07c76d2a-e371-419e-bf5f-46d089c46bef",
+                "edit_url": "https://database.eamena.org/resource/07c76d2a-e371-419e-bf5f-46d089c46bef"
+            }
+        },
+        {
+            "id": "62fdb539-dd82-40ca-bf92-145a39f1f88b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.543436382,
+                            24.908016374
+                        ],
+                        [
+                            46.543253992,
+                            24.907758505
+                        ],
+                        [
+                            46.543353234,
+                            24.90770985
+                        ],
+                        [
+                            46.543549035,
+                            24.907975017
+                        ],
+                        [
+                            46.543436382,
+                            24.908016374
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028245",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "085c065f-463d-43fb-a89c-8f8e57612ff2",
+                "url": "https://database.eamena.org/report/085c065f-463d-43fb-a89c-8f8e57612ff2",
+                "edit_url": "https://database.eamena.org/resource/085c065f-463d-43fb-a89c-8f8e57612ff2"
+            }
+        },
+        {
+            "id": "f2840078-93e6-48f8-b461-9ccf553ad9f1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.559917011,
+                    24.858803599
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028301",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "0a5c99f6-c179-4600-983f-51e078d3139b",
+                "url": "https://database.eamena.org/report/0a5c99f6-c179-4600-983f-51e078d3139b",
+                "edit_url": "https://database.eamena.org/resource/0a5c99f6-c179-4600-983f-51e078d3139b"
+            }
+        },
+        {
+            "id": "2e6dec78-4247-4612-a463-06f855cdeb8a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.517977085,
+                    24.886376369
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028211",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "0bbf7d99-ec36-49fd-a0ee-d1a56c8a73b5",
+                "url": "https://database.eamena.org/report/0bbf7d99-ec36-49fd-a0ee-d1a56c8a73b5",
+                "edit_url": "https://database.eamena.org/resource/0bbf7d99-ec36-49fd-a0ee-d1a56c8a73b5"
+            }
+        },
+        {
+            "id": "330300bd-f894-42b9-887a-12ae815f3f3f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.552596076,
+                            24.808283387
+                        ],
+                        [
+                            46.552290304,
+                            24.807971747
+                        ],
+                        [
+                            46.552440508,
+                            24.80746533
+                        ],
+                        [
+                            46.552944763,
+                            24.807387419
+                        ],
+                        [
+                            46.553314908,
+                            24.807494546
+                        ],
+                        [
+                            46.553384646,
+                            24.808142175
+                        ],
+                        [
+                            46.552596076,
+                            24.808283387
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028297",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "0d17da87-0e6b-4ca6-bac4-dcd2da7c7e59",
+                "url": "https://database.eamena.org/report/0d17da87-0e6b-4ca6-bac4-dcd2da7c7e59",
+                "edit_url": "https://database.eamena.org/resource/0d17da87-0e6b-4ca6-bac4-dcd2da7c7e59"
+            }
+        },
+        {
+            "id": "b78f5fb6-4367-4cec-9ec0-e59aa9f462a8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.544001,
+                    24.805159
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028251",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "1061161a-8bd9-4a1b-a86d-0ad6c29d6676",
+                "url": "https://database.eamena.org/report/1061161a-8bd9-4a1b-a86d-0ad6c29d6676",
+                "edit_url": "https://database.eamena.org/resource/1061161a-8bd9-4a1b-a86d-0ad6c29d6676"
+            }
+        },
+        {
+            "id": "8e9ef384-413b-45af-9832-0a06c9f36985",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        46.561008609,
+                        24.754349051
+                    ],
+                    [
+                        46.560902662,
+                        24.753362571
+                    ],
+                    [
+                        46.560881204,
+                        24.753167709
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028289",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "1447d955-1c83-4665-a3c9-f8df4299bd3e",
+                "url": "https://database.eamena.org/report/1447d955-1c83-4665-a3c9-f8df4299bd3e",
+                "edit_url": "https://database.eamena.org/resource/1447d955-1c83-4665-a3c9-f8df4299bd3e"
+            }
+        },
+        {
+            "id": "a55d00f7-e161-4e24-8c11-a3f4980ce6cd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.519388038,
+                    24.787618779
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028231",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "1d779c24-5727-4b12-bd33-e4a0bf5f7d50",
+                "url": "https://database.eamena.org/report/1d779c24-5727-4b12-bd33-e4a0bf5f7d50",
+                "edit_url": "https://database.eamena.org/resource/1d779c24-5727-4b12-bd33-e4a0bf5f7d50"
+            }
+        },
+        {
+            "id": "6166b667-ab2d-449e-9976-480cc0340027",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.532332449,
+                            24.8777628
+                        ],
+                        [
+                            46.532284169,
+                            24.8776898
+                        ],
+                        [
+                            46.532383411,
+                            24.877495134
+                        ],
+                        [
+                            46.53241828,
+                            24.877507301
+                        ],
+                        [
+                            46.532353907,
+                            24.8777044
+                        ],
+                        [
+                            46.532378047,
+                            24.877743333
+                        ],
+                        [
+                            46.532332449,
+                            24.8777628
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028234",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "1fa6db09-9d9a-4926-91b7-b504b2d40d80",
+                "url": "https://database.eamena.org/report/1fa6db09-9d9a-4926-91b7-b504b2d40d80",
+                "edit_url": "https://database.eamena.org/resource/1fa6db09-9d9a-4926-91b7-b504b2d40d80"
+            }
+        },
+        {
+            "id": "f0a43ac4-8ff3-432f-8e53-9dd252ac2041",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.536508,
+                    24.79404335
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028242",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "220ec5fe-b4fc-490b-b3c7-7f152f671e98",
+                "url": "https://database.eamena.org/report/220ec5fe-b4fc-490b-b3c7-7f152f671e98",
+                "edit_url": "https://database.eamena.org/resource/220ec5fe-b4fc-490b-b3c7-7f152f671e98"
+            }
+        },
+        {
+            "id": "632020ba-aeff-4c35-ba93-9feb13689a6e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.518834,
+                    24.82378
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028218",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2348afe7-c0b0-48ab-9b5c-deb5c2954bd7",
+                "url": "https://database.eamena.org/report/2348afe7-c0b0-48ab-9b5c-deb5c2954bd7",
+                "edit_url": "https://database.eamena.org/resource/2348afe7-c0b0-48ab-9b5c-deb5c2954bd7"
+            }
+        },
+        {
+            "id": "cfdd978e-0443-403f-8eb0-e77592dc4dc2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.550551813,
+                    24.921727243
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028265",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "25ec8b95-5e7d-4c05-85b0-e46913b33207",
+                "url": "https://database.eamena.org/report/25ec8b95-5e7d-4c05-85b0-e46913b33207",
+                "edit_url": "https://database.eamena.org/resource/25ec8b95-5e7d-4c05-85b0-e46913b33207"
+            }
+        },
+        {
+            "id": "d3857bda-4446-4ea5-9e0a-3650a701d1c2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.523275402,
+                    24.818759179
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028224",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "27670964-83aa-496f-b4e2-fe0abe7ebb79",
+                "url": "https://database.eamena.org/report/27670964-83aa-496f-b4e2-fe0abe7ebb79",
+                "edit_url": "https://database.eamena.org/resource/27670964-83aa-496f-b4e2-fe0abe7ebb79"
+            }
+        },
+        {
+            "id": "a6d3a0d3-220f-4f79-bdea-653c9b545a58",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.518250991,
+                    24.824419747
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028219",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2892a11e-a8d0-45a5-9685-8ab7e5859530",
+                "url": "https://database.eamena.org/report/2892a11e-a8d0-45a5-9685-8ab7e5859530",
+                "edit_url": "https://database.eamena.org/resource/2892a11e-a8d0-45a5-9685-8ab7e5859530"
+            }
+        },
+        {
+            "id": "cf1f1c4b-17e8-48a0-9a2c-dff70ff2ac48",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.550795347,
+                            24.91949565
+                        ],
+                        [
+                            46.55044666,
+                            24.91911618
+                        ],
+                        [
+                            46.550001413,
+                            24.91899942
+                        ],
+                        [
+                            46.549612493,
+                            24.919206182
+                        ],
+                        [
+                            46.549540073,
+                            24.919062665
+                        ],
+                        [
+                            46.549749286,
+                            24.918975094
+                        ],
+                        [
+                            46.549915583,
+                            24.918916714
+                        ],
+                        [
+                            46.550006778,
+                            24.918863199
+                        ],
+                        [
+                            46.550537855,
+                            24.919004285
+                        ],
+                        [
+                            46.55062905,
+                            24.91909672
+                        ],
+                        [
+                            46.55095628,
+                            24.919412945
+                        ],
+                        [
+                            46.550940187,
+                            24.919490785
+                        ],
+                        [
+                            46.550795347,
+                            24.91949565
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028264",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2bdcba8f-8f44-4107-ae20-f17f6cc943f4",
+                "url": "https://database.eamena.org/report/2bdcba8f-8f44-4107-ae20-f17f6cc943f4",
+                "edit_url": "https://database.eamena.org/resource/2bdcba8f-8f44-4107-ae20-f17f6cc943f4"
+            }
+        },
+        {
+            "id": "f7764ba6-2a46-4c2a-ac25-b053c7f5d79f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.543695045,
+                            24.906954766
+                        ],
+                        [
+                            46.543668223,
+                            24.906903678
+                        ],
+                        [
+                            46.543839885,
+                            24.906769877
+                        ],
+                        [
+                            46.544328047,
+                            24.906621479
+                        ],
+                        [
+                            46.544387055,
+                            24.906699327
+                        ],
+                        [
+                            46.544027639,
+                            24.906891515
+                        ],
+                        [
+                            46.543695045,
+                            24.906954766
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028254",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2cb42026-e5cb-4fa4-9436-7fb0fc720b01",
+                "url": "https://database.eamena.org/report/2cb42026-e5cb-4fa4-9436-7fb0fc720b01",
+                "edit_url": "https://database.eamena.org/resource/2cb42026-e5cb-4fa4-9436-7fb0fc720b01"
+            }
+        },
+        {
+            "id": "33278fd3-9319-4681-b8dd-6ea7c488b98e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.54105,
+                    24.819038
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028248",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2e320cdb-0996-4c16-ad7e-3dba3d5e7ceb",
+                "url": "https://database.eamena.org/report/2e320cdb-0996-4c16-ad7e-3dba3d5e7ceb",
+                "edit_url": "https://database.eamena.org/resource/2e320cdb-0996-4c16-ad7e-3dba3d5e7ceb"
+            }
+        },
+        {
+            "id": "8c8a1c5f-c7fd-4ab4-b45f-b602c965e391",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.5493379,
+                            24.81056982
+                        ],
+                        [
+                            46.549313761,
+                            24.810362876
+                        ],
+                        [
+                            46.54930035,
+                            24.810340964
+                        ],
+                        [
+                            46.550083555,
+                            24.810328791
+                        ],
+                        [
+                            46.551006234,
+                            24.810336095
+                        ],
+                        [
+                            46.550257898,
+                            24.810467565
+                        ],
+                        [
+                            46.5493379,
+                            24.81056982
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028283",
+                "dates": [
+                    "2016-09-01"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2f87cd0a-b98b-4c77-ac24-7b6e324c64bf",
+                "url": "https://database.eamena.org/report/2f87cd0a-b98b-4c77-ac24-7b6e324c64bf",
+                "edit_url": "https://database.eamena.org/resource/2f87cd0a-b98b-4c77-ac24-7b6e324c64bf"
+            }
+        },
+        {
+            "id": "54a4cdcd-28fc-44ad-a7d3-38d69f88f222",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.542886,
+                    24.809836
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028246",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "308403f2-102c-428e-8ef9-4173ef4ade69",
+                "url": "https://database.eamena.org/report/308403f2-102c-428e-8ef9-4173ef4ade69",
+                "edit_url": "https://database.eamena.org/resource/308403f2-102c-428e-8ef9-4173ef4ade69"
+            }
+        },
+        {
+            "id": "892a91fd-8e8b-4186-bd87-db42756c0782",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.521403309,
+                    24.754452028
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028221",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "31134363-eb4e-4470-b771-cc06bb569a03",
+                "url": "https://database.eamena.org/report/31134363-eb4e-4470-b771-cc06bb569a03",
+                "edit_url": "https://database.eamena.org/resource/31134363-eb4e-4470-b771-cc06bb569a03"
+            }
+        },
+        {
+            "id": "872773d7-7a83-4aa2-9383-b5a0ae044476",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.537379038,
+                    24.785211778
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0096612",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "31bb965a-5c2c-4a1b-bbb4-875fb786d1a9",
+                "url": "https://database.eamena.org/report/31bb965a-5c2c-4a1b-bbb4-875fb786d1a9",
+                "edit_url": "https://database.eamena.org/resource/31bb965a-5c2c-4a1b-bbb4-875fb786d1a9"
+            }
+        },
+        {
+            "id": "e7e3f722-774e-4c2b-ba2b-1438333e29f4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.548573114,
+                            24.760159386
+                        ],
+                        [
+                            46.548637487,
+                            24.760049783
+                        ],
+                        [
+                            46.54875014,
+                            24.760130159
+                        ],
+                        [
+                            46.548658945,
+                            24.760232455
+                        ],
+                        [
+                            46.548573114,
+                            24.760159386
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028292",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "32513888-01bd-4dd6-a4ca-a4d0732c2c9b",
+                "url": "https://database.eamena.org/report/32513888-01bd-4dd6-a4ca-a4d0732c2c9b",
+                "edit_url": "https://database.eamena.org/resource/32513888-01bd-4dd6-a4ca-a4d0732c2c9b"
+            }
+        },
+        {
+            "id": "58b2614c-e615-4f05-99ed-27b58427ac94",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.541416131,
+                    24.778090553
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028238",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "33297257-2744-42fd-ac99-a151d7b70c1c",
+                "url": "https://database.eamena.org/report/33297257-2744-42fd-ac99-a151d7b70c1c",
+                "edit_url": "https://database.eamena.org/resource/33297257-2744-42fd-ac99-a151d7b70c1c"
+            }
+        },
+        {
+            "id": "7d0a29b8-35bb-42be-bd63-534eacd0cb56",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.547646,
+                    24.911821
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028270",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "34eba138-ba25-43dc-a716-bb7cd284eb4d",
+                "url": "https://database.eamena.org/report/34eba138-ba25-43dc-a716-bb7cd284eb4d",
+                "edit_url": "https://database.eamena.org/resource/34eba138-ba25-43dc-a716-bb7cd284eb4d"
+            }
+        },
+        {
+            "id": "cee54044-bf0f-4f97-98ce-549a9a44e0e3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.521960487,
+                    24.787677863
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028232",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "3514c0ba-44c6-417e-a60d-5e23fa0629c4",
+                "url": "https://database.eamena.org/report/3514c0ba-44c6-417e-a60d-5e23fa0629c4",
+                "edit_url": "https://database.eamena.org/resource/3514c0ba-44c6-417e-a60d-5e23fa0629c4"
+            }
+        },
+        {
+            "id": "1c083e58-7156-4a67-80a8-2553f74caf91",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.549552,
+                    24.810454
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028284",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "3671cdd9-74c0-443a-8090-edb28e224f40",
+                "url": "https://database.eamena.org/report/3671cdd9-74c0-443a-8090-edb28e224f40",
+                "edit_url": "https://database.eamena.org/resource/3671cdd9-74c0-443a-8090-edb28e224f40"
+            }
+        },
+        {
+            "id": "94dcc9db-fe8f-4e21-bb5d-da2082174c61",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.544551,
+                    24.818891
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028276",
+                "dates": [
+                    "2016-09-01"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "39ce957c-9e32-4267-a863-c8db6c1010da",
+                "url": "https://database.eamena.org/report/39ce957c-9e32-4267-a863-c8db6c1010da",
+                "edit_url": "https://database.eamena.org/resource/39ce957c-9e32-4267-a863-c8db6c1010da"
+            }
+        },
+        {
+            "id": "19355b86-c865-4b97-b5ee-dea924ec7df4",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        46.553600832,
+                        24.756853792
+                    ],
+                    [
+                        46.553445264,
+                        24.757053519
+                    ],
+                    [
+                        46.553230687,
+                        24.757175304
+                    ],
+                    [
+                        46.55283372,
+                        24.757399387
+                    ],
+                    [
+                        46.552683516,
+                        24.757414001
+                    ],
+                    [
+                        46.552329465,
+                        24.757496814
+                    ],
+                    [
+                        46.551642819,
+                        24.757672183
+                    ],
+                    [
+                        46.551573082,
+                        24.757691669
+                    ],
+                    [
+                        46.551197573,
+                        24.757891394
+                    ],
+                    [
+                        46.55098836,
+                        24.757837809
+                    ],
+                    [
+                        46.550720139,
+                        24.757823195
+                    ],
+                    [
+                        46.550414368,
+                        24.757906008
+                    ],
+                    [
+                        46.549958392,
+                        24.758110605
+                    ],
+                    [
+                        46.547780438,
+                        24.758675679
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0096668",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "3aa79675-bf46-45f2-b12d-61f27ea176ab",
+                "url": "https://database.eamena.org/report/3aa79675-bf46-45f2-b12d-61f27ea176ab",
+                "edit_url": "https://database.eamena.org/resource/3aa79675-bf46-45f2-b12d-61f27ea176ab"
+            }
+        },
+        {
+            "id": "d2d90121-4551-46e0-b80b-be09cc464311",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.551275945,
+                            24.757700705
+                        ],
+                        [
+                            46.551267898,
+                            24.757700705
+                        ],
+                        [
+                            46.551123059,
+                            24.757532643
+                        ],
+                        [
+                            46.55127058,
+                            24.757425473
+                        ],
+                        [
+                            46.551428831,
+                            24.7575911
+                        ],
+                        [
+                            46.551275945,
+                            24.757700705
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028291",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "3b519582-10e5-414d-9e29-a1cd4d1dd7c8",
+                "url": "https://database.eamena.org/report/3b519582-10e5-414d-9e29-a1cd4d1dd7c8",
+                "edit_url": "https://database.eamena.org/resource/3b519582-10e5-414d-9e29-a1cd4d1dd7c8"
+            }
+        },
+        {
+            "id": "a9635b2f-7e83-4b28-98a9-d2384d871d48",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.544943301,
+                            24.931057865
+                        ],
+                        [
+                            46.544889656,
+                            24.931006787
+                        ],
+                        [
+                            46.545232979,
+                            24.930729508
+                        ],
+                        [
+                            46.545356361,
+                            24.930853554
+                        ],
+                        [
+                            46.545037178,
+                            24.931121104
+                        ],
+                        [
+                            46.544943301,
+                            24.931057865
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028262",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "3d1466f3-dae6-4fe7-aa7a-0d16d87936bf",
+                "url": "https://database.eamena.org/report/3d1466f3-dae6-4fe7-aa7a-0d16d87936bf",
+                "edit_url": "https://database.eamena.org/resource/3d1466f3-dae6-4fe7-aa7a-0d16d87936bf"
+            }
+        },
+        {
+            "id": "74b32703-3c28-41ca-a317-aab0dc89baeb",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.551582067,
+                            24.808108688
+                        ],
+                        [
+                            46.551364809,
+                            24.807940694
+                        ],
+                        [
+                            46.551592796,
+                            24.807682616
+                        ],
+                        [
+                            46.551708131,
+                            24.807787308
+                        ],
+                        [
+                            46.551960259,
+                            24.808028343
+                        ],
+                        [
+                            46.551732271,
+                            24.80820364
+                        ],
+                        [
+                            46.551582067,
+                            24.808108688
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028306",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "3e8a69c8-b374-47c2-9492-86e39b8bee93",
+                "url": "https://database.eamena.org/report/3e8a69c8-b374-47c2-9492-86e39b8bee93",
+                "edit_url": "https://database.eamena.org/resource/3e8a69c8-b374-47c2-9492-86e39b8bee93"
+            }
+        },
+        {
+            "id": "cf607932-db46-4e83-a15b-2d5a351e7c19",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.537482542,
+                    24.795460996
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028243",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "3ff4fc46-7762-4d0d-ba32-f3c2c81e47cb",
+                "url": "https://database.eamena.org/report/3ff4fc46-7762-4d0d-ba32-f3c2c81e47cb",
+                "edit_url": "https://database.eamena.org/resource/3ff4fc46-7762-4d0d-ba32-f3c2c81e47cb"
+            }
+        },
+        {
+            "id": "c2d30668-596c-4cc4-adb7-286328a7e9cc",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        46.553951356,
+                        24.937830136
+                    ],
+                    [
+                        46.554013047,
+                        24.937852025
+                    ],
+                    [
+                        46.553857479,
+                        24.938173066
+                    ],
+                    [
+                        46.553795788,
+                        24.938148745
+                    ],
+                    [
+                        46.553948674,
+                        24.937827704
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028303",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4009809d-baee-45c3-857d-fa0901af8225",
+                "url": "https://database.eamena.org/report/4009809d-baee-45c3-857d-fa0901af8225",
+                "edit_url": "https://database.eamena.org/resource/4009809d-baee-45c3-857d-fa0901af8225"
+            }
+        },
+        {
+            "id": "02ff88b4-4ba5-4e34-90a6-0e6d9bb3ab4e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.52001858,
+                    24.805331523
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028225",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "42a97a36-87a5-4fb0-8f04-2cee8bb4cd6b",
+                "url": "https://database.eamena.org/report/42a97a36-87a5-4fb0-8f04-2cee8bb4cd6b",
+                "edit_url": "https://database.eamena.org/resource/42a97a36-87a5-4fb0-8f04-2cee8bb4cd6b"
+            }
+        },
+        {
+            "id": "5ab3e192-8cb1-4875-83ac-f2dc9bda390d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.552628,
+                    24.807593
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028295",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "432552f8-f543-4d53-a3fd-dde9d73709b1",
+                "url": "https://database.eamena.org/report/432552f8-f543-4d53-a3fd-dde9d73709b1",
+                "edit_url": "https://database.eamena.org/resource/432552f8-f543-4d53-a3fd-dde9d73709b1"
+            }
+        },
+        {
+            "id": "4d11e5fd-1e43-44d0-a1a5-0686a2b87d2d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.546332169,
+                    24.764442596
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028288",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "46c039a5-0d00-401c-8a57-2d037134baf0",
+                "url": "https://database.eamena.org/report/46c039a5-0d00-401c-8a57-2d037134baf0",
+                "edit_url": "https://database.eamena.org/resource/46c039a5-0d00-401c-8a57-2d037134baf0"
+            }
+        },
+        {
+            "id": "4a3c25b4-e40e-4208-80ec-8f92581c11f2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.517739038,
+                    24.824832485
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028216",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "476e77b0-57c2-449b-b97e-e9f1ea9d9157",
+                "url": "https://database.eamena.org/report/476e77b0-57c2-449b-b97e-e9f1ea9d9157",
+                "edit_url": "https://database.eamena.org/resource/476e77b0-57c2-449b-b97e-e9f1ea9d9157"
+            }
+        },
+        {
+            "id": "668c180a-86ea-4ef6-8e9a-becacb6e8a0c",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        46.712953265,
+                        24.891896565
+                    ],
+                    [
+                        46.70608681,
+                        24.893765126
+                    ],
+                    [
+                        46.684114153,
+                        24.880996058
+                    ],
+                    [
+                        46.668664629,
+                        24.85483092
+                    ],
+                    [
+                        46.689607317,
+                        24.813391463
+                    ],
+                    [
+                        46.695787127,
+                        24.815261211
+                    ],
+                    [
+                        46.715013201,
+                        24.82554432
+                    ],
+                    [
+                        46.723081286,
+                        24.832399251
+                    ],
+                    [
+                        46.728402789,
+                        24.840500045
+                    ],
+                    [
+                        46.730806048,
+                        24.84782146
+                    ],
+                    [
+                        46.731836016,
+                        24.853896348
+                    ],
+                    [
+                        46.730634386,
+                        24.863553248
+                    ],
+                    [
+                        46.729261095,
+                        24.868225671
+                    ],
+                    [
+                        46.726686175,
+                        24.873053655
+                    ],
+                    [
+                        46.71363991,
+                        24.891585135
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028334",
+                "dates": [
+                    "2016-09-12"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "477499bb-f4ab-4c05-953f-655716f1e4fc",
+                "url": "https://database.eamena.org/report/477499bb-f4ab-4c05-953f-655716f1e4fc",
+                "edit_url": "https://database.eamena.org/resource/477499bb-f4ab-4c05-953f-655716f1e4fc"
+            }
+        },
+        {
+            "id": "ed60a43a-6e53-42c7-a494-cf160ff7b10d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.511165169,
+                    24.825305616
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028205",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4a1f89fa-c564-403e-bf29-6d3c6524e85a",
+                "url": "https://database.eamena.org/report/4a1f89fa-c564-403e-bf29-6d3c6524e85a",
+                "edit_url": "https://database.eamena.org/resource/4a1f89fa-c564-403e-bf29-6d3c6524e85a"
+            }
+        },
+        {
+            "id": "e9951775-fcea-4451-8c2d-55c004732824",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.548951374,
+                    24.813185083
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028281",
+                "dates": [
+                    "2016-09-01"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4a2387ed-6930-410f-87a6-e9efc1091a76",
+                "url": "https://database.eamena.org/report/4a2387ed-6930-410f-87a6-e9efc1091a76",
+                "edit_url": "https://database.eamena.org/resource/4a2387ed-6930-410f-87a6-e9efc1091a76"
+            }
+        },
+        {
+            "id": "2a8bee6c-9c9e-49e7-b7d5-0648d324a2d1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.544175,
+                    24.818474
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028277",
+                "dates": [
+                    "2016-09-01"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4b6b1c56-34bb-41bc-a0aa-4bff18f9ec1c",
+                "url": "https://database.eamena.org/report/4b6b1c56-34bb-41bc-a0aa-4bff18f9ec1c",
+                "edit_url": "https://database.eamena.org/resource/4b6b1c56-34bb-41bc-a0aa-4bff18f9ec1c"
+            }
+        },
+        {
+            "id": "dc7e35e1-1744-4035-85c7-d0ffd13cf857",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.562399137,
+                            24.758515494
+                        ],
+                        [
+                            46.562404502,
+                            24.758510623
+                        ],
+                        [
+                            46.562495697,
+                            24.758464346
+                        ],
+                        [
+                            46.56253593,
+                            24.758537415
+                        ],
+                        [
+                            46.562428642,
+                            24.758578822
+                        ],
+                        [
+                            46.562399137,
+                            24.758515494
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028314",
+                "dates": [
+                    "2016-09-14"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4c52253d-aec4-41be-ae2a-f75c70e830fe",
+                "url": "https://database.eamena.org/report/4c52253d-aec4-41be-ae2a-f75c70e830fe",
+                "edit_url": "https://database.eamena.org/resource/4c52253d-aec4-41be-ae2a-f75c70e830fe"
+            }
+        },
+        {
+            "id": "b5bb1a2f-c7a5-4754-9289-c43bd7da1c94",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.567763737,
+                            24.859372044
+                        ],
+                        [
+                            46.567527702,
+                            24.858826898
+                        ],
+                        [
+                            46.568428925,
+                            24.85413465
+                        ],
+                        [
+                            46.569845131,
+                            24.853472659
+                        ],
+                        [
+                            46.574297598,
+                            24.853983755
+                        ],
+                        [
+                            46.574984243,
+                            24.854197928
+                        ],
+                        [
+                            46.575177362,
+                            24.855288259
+                        ],
+                        [
+                            46.575263193,
+                            24.856865326
+                        ],
+                        [
+                            46.572870663,
+                            24.859333105
+                        ],
+                        [
+                            46.570596149,
+                            24.860267636
+                        ],
+                        [
+                            46.567763737,
+                            24.859372044
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028313",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4ec4a754-f973-47d8-badc-dae87865c9fc",
+                "url": "https://database.eamena.org/report/4ec4a754-f973-47d8-badc-dae87865c9fc",
+                "edit_url": "https://database.eamena.org/resource/4ec4a754-f973-47d8-badc-dae87865c9fc"
+            }
+        },
+        {
+            "id": "1abd1712-80bc-43b4-92a3-3f2f70e75eba",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.612528991,
+                    24.934180381
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028318",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "524ebcf7-12f4-4bc8-a55e-215f82360ba1",
+                "url": "https://database.eamena.org/report/524ebcf7-12f4-4bc8-a55e-215f82360ba1",
+                "edit_url": "https://database.eamena.org/resource/524ebcf7-12f4-4bc8-a55e-215f82360ba1"
+            }
+        },
+        {
+            "id": "5d31cba8-1137-4930-bc85-4ccb22c82612",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.544368,
+                    24.824579
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028252",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "575b31ac-ff8c-4d52-b477-53c8af28eba4",
+                "url": "https://database.eamena.org/report/575b31ac-ff8c-4d52-b477-53c8af28eba4",
+                "edit_url": "https://database.eamena.org/resource/575b31ac-ff8c-4d52-b477-53c8af28eba4"
+            }
+        },
+        {
+            "id": "18a8367f-7f1f-4377-b25a-3802b4b9fc82",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.517725682,
+                    24.95316225
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028215",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "595cd898-0939-438b-b6ec-e92c40edf235",
+                "url": "https://database.eamena.org/report/595cd898-0939-438b-b6ec-e92c40edf235",
+                "edit_url": "https://database.eamena.org/resource/595cd898-0939-438b-b6ec-e92c40edf235"
+            }
+        },
+        {
+            "id": "1e8c3bf0-b73c-4814-9a2f-5eecdae189e6",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.548487271,
+                    24.911713751
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028269",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "5a6d49f4-a99b-4722-b51b-27e7771bd35d",
+                "url": "https://database.eamena.org/report/5a6d49f4-a99b-4722-b51b-27e7771bd35d",
+                "edit_url": "https://database.eamena.org/resource/5a6d49f4-a99b-4722-b51b-27e7771bd35d"
+            }
+        },
+        {
+            "id": "3dc3ae78-bf0e-4b41-9a69-13c9d8bee812",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.552104004,
+                            24.800921779
+                        ],
+                        [
+                            46.552157648,
+                            24.800858473
+                        ],
+                        [
+                            46.552407093,
+                            24.800890126
+                        ],
+                        [
+                            46.552471466,
+                            24.800958301
+                        ],
+                        [
+                            46.552436598,
+                            24.801170131
+                        ],
+                        [
+                            46.552321263,
+                            24.801201784
+                        ],
+                        [
+                            46.552267618,
+                            24.801024042
+                        ],
+                        [
+                            46.552104004,
+                            24.800921779
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028296",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "5ac906db-a16f-403e-8e51-9f70f9d064d0",
+                "url": "https://database.eamena.org/report/5ac906db-a16f-403e-8e51-9f70f9d064d0",
+                "edit_url": "https://database.eamena.org/resource/5ac906db-a16f-403e-8e51-9f70f9d064d0"
+            }
+        },
+        {
+            "id": "2e330288-cd99-4d80-9623-0071a53f602e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.739498042,
+                            24.917846763
+                        ],
+                        [
+                            46.724735164,
+                            24.913020529
+                        ],
+                        [
+                            46.716838741,
+                            24.906948548
+                        ],
+                        [
+                            46.712203884,
+                            24.903211796
+                        ],
+                        [
+                            46.712718868,
+                            24.899630635
+                        ],
+                        [
+                            46.713748836,
+                            24.895737951
+                        ],
+                        [
+                            46.730914974,
+                            24.869420191
+                        ],
+                        [
+                            46.735893154,
+                            24.860854031
+                        ],
+                        [
+                            46.748939418,
+                            24.851508452
+                        ],
+                        [
+                            46.76164236,
+                            24.85586981
+                        ],
+                        [
+                            46.756835842,
+                            24.870198904
+                        ],
+                        [
+                            46.752715969,
+                            24.880788906
+                        ],
+                        [
+                            46.749797725,
+                            24.911152259
+                        ],
+                        [
+                            46.746192836,
+                            24.915978566
+                        ],
+                        [
+                            46.739498042,
+                            24.917846763
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028336",
+                "dates": [
+                    "2016-09-12"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "5af583fd-2275-4ad1-912f-e9e92ca1ceec",
+                "url": "https://database.eamena.org/report/5af583fd-2275-4ad1-912f-e9e92ca1ceec",
+                "edit_url": "https://database.eamena.org/resource/5af583fd-2275-4ad1-912f-e9e92ca1ceec"
+            }
+        },
+        {
+            "id": "1fa8b1aa-8566-4c97-b48f-4d4dc76ebd4c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.688795491,
+                            24.910211297
+                        ],
+                        [
+                            46.688768669,
+                            24.909958298
+                        ],
+                        [
+                            46.689052983,
+                            24.909795308
+                        ],
+                        [
+                            46.689272924,
+                            24.909880452
+                        ],
+                        [
+                            46.689200504,
+                            24.910167509
+                        ],
+                        [
+                            46.688795491,
+                            24.910211297
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028333",
+                "dates": [
+                    "2016-09-12"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "5bacc666-787b-4868-91f3-ac7da45f6eb4",
+                "url": "https://database.eamena.org/report/5bacc666-787b-4868-91f3-ac7da45f6eb4",
+                "edit_url": "https://database.eamena.org/resource/5bacc666-787b-4868-91f3-ac7da45f6eb4"
+            }
+        },
+        {
+            "id": "1fff7885-ac51-4613-87cc-95bd1c2e0514",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.566065321,
+                            24.766730774
+                        ],
+                        [
+                            46.566277216,
+                            24.766548111
+                        ],
+                        [
+                            46.566419373,
+                            24.766725903
+                        ],
+                        [
+                            46.566231618,
+                            24.766889081
+                        ],
+                        [
+                            46.566065321,
+                            24.766730774
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028298",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "62252354-98ed-4205-8525-1e3a1335b90e",
+                "url": "https://database.eamena.org/report/62252354-98ed-4205-8525-1e3a1335b90e",
+                "edit_url": "https://database.eamena.org/resource/62252354-98ed-4205-8525-1e3a1335b90e"
+            }
+        },
+        {
+            "id": "f3d61f04-a8bd-4875-99d1-c8b17a5f3600",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.54952986,
+                    24.874589966
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028272",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "6339b4da-b04a-47d3-822d-f3571e61e755",
+                "url": "https://database.eamena.org/report/6339b4da-b04a-47d3-822d-f3571e61e755",
+                "edit_url": "https://database.eamena.org/resource/6339b4da-b04a-47d3-822d-f3571e61e755"
+            }
+        },
+        {
+            "id": "9dcd5653-c671-4201-ad2f-b78e3907838a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.506879114,
+                    24.772229115
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028203",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "63e325ac-c0e0-4a6b-ab61-3a511f941245",
+                "url": "https://database.eamena.org/report/63e325ac-c0e0-4a6b-ab61-3a511f941245",
+                "edit_url": "https://database.eamena.org/resource/63e325ac-c0e0-4a6b-ab61-3a511f941245"
+            }
+        },
+        {
+            "id": "248b2e89-35a7-4d56-a425-2a1a5f67de5f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.54245472,
+                            24.911832164
+                        ],
+                        [
+                            46.542425216,
+                            24.911163183
+                        ],
+                        [
+                            46.542993844,
+                            24.910788553
+                        ],
+                        [
+                            46.543294252,
+                            24.911024522
+                        ],
+                        [
+                            46.542578102,
+                            24.911905143
+                        ],
+                        [
+                            46.54245472,
+                            24.911832164
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028257",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "68395ef4-f90b-4815-ba14-065c6edfa7db",
+                "url": "https://database.eamena.org/report/68395ef4-f90b-4815-ba14-065c6edfa7db",
+                "edit_url": "https://database.eamena.org/resource/68395ef4-f90b-4815-ba14-065c6edfa7db"
+            }
+        },
+        {
+            "id": "f745885c-b9e8-43f8-9021-6aa4e00fc9bd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.520936805,
+                    24.819115048
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028223",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "696572d8-1fe1-413b-947a-0ce745463eaa",
+                "url": "https://database.eamena.org/report/696572d8-1fe1-413b-947a-0ce745463eaa",
+                "edit_url": "https://database.eamena.org/resource/696572d8-1fe1-413b-947a-0ce745463eaa"
+            }
+        },
+        {
+            "id": "92c44136-6c57-4778-ba87-0a53b83c1f76",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.549288627,
+                    24.806072567
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028293",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "696f910c-2165-4cea-b62d-5077d77ee116",
+                "url": "https://database.eamena.org/report/696f910c-2165-4cea-b62d-5077d77ee116",
+                "edit_url": "https://database.eamena.org/resource/696f910c-2165-4cea-b62d-5077d77ee116"
+            }
+        },
+        {
+            "id": "9c577643-f173-4660-a50b-302010ccc5ce",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.532860627,
+                            24.795732784
+                        ],
+                        [
+                            46.532831123,
+                            24.795545294
+                        ],
+                        [
+                            46.533316603,
+                            24.79552825
+                        ],
+                        [
+                            46.532860627,
+                            24.795732784
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028239",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "6fbb6d3d-93b6-482e-a4b4-ee4b17ca55f1",
+                "url": "https://database.eamena.org/report/6fbb6d3d-93b6-482e-a4b4-ee4b17ca55f1",
+                "edit_url": "https://database.eamena.org/resource/6fbb6d3d-93b6-482e-a4b4-ee4b17ca55f1"
+            }
+        },
+        {
+            "id": "b4ed2a24-bf48-4b45-9ac1-2da3d69e7a85",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.646068138,
+                            24.956112218
+                        ],
+                        [
+                            46.644920152,
+                            24.955494546
+                        ],
+                        [
+                            46.645177644,
+                            24.955319457
+                        ],
+                        [
+                            46.646218341,
+                            24.956014947
+                        ],
+                        [
+                            46.646068138,
+                            24.956112218
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028322",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "6fd1d3ff-85f0-4422-bca7-75a43c411784",
+                "url": "https://database.eamena.org/report/6fd1d3ff-85f0-4422-bca7-75a43c411784",
+                "edit_url": "https://database.eamena.org/resource/6fd1d3ff-85f0-4422-bca7-75a43c411784"
+            }
+        },
+        {
+            "id": "7c13946c-8c61-439e-9199-6771bf9e9275",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.551095178,
+                    24.873711799
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028273",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "71b5236d-3d6a-4cfe-853f-a22c77471cdb",
+                "url": "https://database.eamena.org/report/71b5236d-3d6a-4cfe-853f-a22c77471cdb",
+                "edit_url": "https://database.eamena.org/resource/71b5236d-3d6a-4cfe-853f-a22c77471cdb"
+            }
+        },
+        {
+            "id": "b51233e1-70e8-478b-83cc-4888712f6d3a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.647560402,
+                    24.910800404
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028327",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "775e2eb5-dde4-437b-9db0-5abad397caf6",
+                "url": "https://database.eamena.org/report/775e2eb5-dde4-437b-9db0-5abad397caf6",
+                "edit_url": "https://database.eamena.org/resource/775e2eb5-dde4-437b-9db0-5abad397caf6"
+            }
+        },
+        {
+            "id": "a2eb34c0-75de-43ee-a450-7fbe67b88300",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.542094843,
+                            24.912577545
+                        ],
+                        [
+                            46.543908016,
+                            24.91285973
+                        ],
+                        [
+                            46.543886559,
+                            24.913190567
+                        ],
+                        [
+                            46.543693439,
+                            24.914095499
+                        ],
+                        [
+                            46.543478863,
+                            24.91460148
+                        ],
+                        [
+                            46.54277076,
+                            24.914572289
+                        ],
+                        [
+                            46.542287962,
+                            24.914280377
+                        ],
+                        [
+                            46.541944639,
+                            24.913589517
+                        ],
+                        [
+                            46.542094843,
+                            24.912577545
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028256",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "783248fe-4959-4d80-9b61-0777f8286c1d",
+                "url": "https://database.eamena.org/report/783248fe-4959-4d80-9b61-0777f8286c1d",
+                "edit_url": "https://database.eamena.org/resource/783248fe-4959-4d80-9b61-0777f8286c1d"
+            }
+        },
+        {
+            "id": "1d7542a9-07ad-409c-b5f8-7287aea7a3d0",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        46.523195207,
+                        24.815455178
+                    ],
+                    [
+                        46.52305305,
+                        24.815540387
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028227",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "7bb86c2e-392d-48e5-9357-b07cd7ceec4d",
+                "url": "https://database.eamena.org/report/7bb86c2e-392d-48e5-9357-b07cd7ceec4d",
+                "edit_url": "https://database.eamena.org/resource/7bb86c2e-392d-48e5-9357-b07cd7ceec4d"
+            }
+        },
+        {
+            "id": "6186adbc-6f2c-4536-a7bc-66cb819d4011",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.501467466,
+                    24.89834586
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0096584",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "7ca6d364-be46-427f-a0b6-6ec4a903b72d",
+                "url": "https://database.eamena.org/report/7ca6d364-be46-427f-a0b6-6ec4a903b72d",
+                "edit_url": "https://database.eamena.org/resource/7ca6d364-be46-427f-a0b6-6ec4a903b72d"
+            }
+        },
+        {
+            "id": "e4edabb5-da14-48c3-b4d1-b4291006bdc8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.54499472,
+                            24.804213736
+                        ],
+                        [
+                            46.544817694,
+                            24.803463826
+                        ],
+                        [
+                            46.54486061,
+                            24.803103478
+                        ],
+                        [
+                            46.544715771,
+                            24.802884347
+                        ],
+                        [
+                            46.545587488,
+                            24.802541041
+                        ],
+                        [
+                            46.545796701,
+                            24.802463127
+                        ],
+                        [
+                            46.546397516,
+                            24.802779651
+                        ],
+                        [
+                            46.545826205,
+                            24.804340344
+                        ],
+                        [
+                            46.54499472,
+                            24.804213736
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028294",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "8060b92e-003d-48e8-bda3-9498bfc5b177",
+                "url": "https://database.eamena.org/report/8060b92e-003d-48e8-bda3-9498bfc5b177",
+                "edit_url": "https://database.eamena.org/resource/8060b92e-003d-48e8-bda3-9498bfc5b177"
+            }
+        },
+        {
+            "id": "f50a4b7e-cc0f-474d-942c-87211fd4bfc5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.513648038,
+                    24.824818838
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028209",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "806efe3b-975c-493f-bf5b-0ec9a7f0c913",
+                "url": "https://database.eamena.org/report/806efe3b-975c-493f-bf5b-0ec9a7f0c913",
+                "edit_url": "https://database.eamena.org/resource/806efe3b-975c-493f-bf5b-0ec9a7f0c913"
+            }
+        },
+        {
+            "id": "af87be75-2578-4091-bec5-0e9384e3ac6a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.534587928,
+                            24.795409212
+                        ],
+                        [
+                            46.534923204,
+                            24.795241201
+                        ],
+                        [
+                            46.534762271,
+                            24.795538264
+                        ],
+                        [
+                            46.534587928,
+                            24.795409212
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028233",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "8073ab7b-4014-442a-a11a-5e0d3fcee86d",
+                "url": "https://database.eamena.org/report/8073ab7b-4014-442a-a11a-5e0d3fcee86d",
+                "edit_url": "https://database.eamena.org/resource/8073ab7b-4014-442a-a11a-5e0d3fcee86d"
+            }
+        },
+        {
+            "id": "102035ac-d658-439f-8e82-007d598c0739",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.672418715,
+                            24.961822823
+                        ],
+                        [
+                            46.67241335,
+                            24.961810665
+                        ],
+                        [
+                            46.672574283,
+                            24.961669628
+                        ],
+                        [
+                            46.67276472,
+                            24.961839845
+                        ],
+                        [
+                            46.672590376,
+                            24.962005198
+                        ],
+                        [
+                            46.672418715,
+                            24.961822823
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028329",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "86bb1478-53a4-4485-a928-9baa969bb71a",
+                "url": "https://database.eamena.org/report/86bb1478-53a4-4485-a928-9baa969bb71a",
+                "edit_url": "https://database.eamena.org/resource/86bb1478-53a4-4485-a928-9baa969bb71a"
+            }
+        },
+        {
+            "id": "5b2f28a4-560f-4715-8217-051f72f8b16e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.545077708,
+                            24.837124132
+                        ],
+                        [
+                            46.545624879,
+                            24.836705463
+                        ],
+                        [
+                            46.546638754,
+                            24.836413367
+                        ],
+                        [
+                            46.546740678,
+                            24.836671385
+                        ],
+                        [
+                            46.545077708,
+                            24.837124132
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028268",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "870f4eee-becf-4223-8f6a-6cc9691893e5",
+                "url": "https://database.eamena.org/report/870f4eee-becf-4223-8f6a-6cc9691893e5",
+                "edit_url": "https://database.eamena.org/resource/870f4eee-becf-4223-8f6a-6cc9691893e5"
+            }
+        },
+        {
+            "id": "a132b25d-e931-44d8-b98f-7aed70d14d88",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.545721,
+                    24.819404
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028275",
+                "dates": [
+                    "2016-09-01"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "8a265445-0911-4eb1-aa42-d4830e89edf7",
+                "url": "https://database.eamena.org/report/8a265445-0911-4eb1-aa42-d4830e89edf7",
+                "edit_url": "https://database.eamena.org/resource/8a265445-0911-4eb1-aa42-d4830e89edf7"
+            }
+        },
+        {
+            "id": "78c9ee80-0b4b-4758-800d-fff2489ca5c8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.596415496,
+                    24.990922276
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028310",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "8cc6f047-6a34-4028-8b9a-cf31c8c5c7a8",
+                "url": "https://database.eamena.org/report/8cc6f047-6a34-4028-8b9a-cf31c8c5c7a8",
+                "edit_url": "https://database.eamena.org/resource/8cc6f047-6a34-4028-8b9a-cf31c8c5c7a8"
+            }
+        },
+        {
+            "id": "03931a36-d803-4687-a9eb-4adc08a6e8df",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.534308216,
+                    24.779832694
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028235",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "8ee50184-a968-423b-9d3d-cc188ab6178b",
+                "url": "https://database.eamena.org/report/8ee50184-a968-423b-9d3d-cc188ab6178b",
+                "edit_url": "https://database.eamena.org/resource/8ee50184-a968-423b-9d3d-cc188ab6178b"
+            }
+        },
+        {
+            "id": "d1d49365-b49c-4cbe-b941-cee78864a61a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.531527991,
+                    24.795285041
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028240",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "8f73d9b1-2d24-4364-aa85-d8a8eb1e270b",
+                "url": "https://database.eamena.org/report/8f73d9b1-2d24-4364-aa85-d8a8eb1e270b",
+                "edit_url": "https://database.eamena.org/resource/8f73d9b1-2d24-4364-aa85-d8a8eb1e270b"
+            }
+        },
+        {
+            "id": "cb92342b-34ca-4503-a60e-1fb23cf19f73",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.549462767,
+                    24.810146088
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028285",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "92a770c4-50e6-4376-9cc5-035d9f8602ef",
+                "url": "https://database.eamena.org/report/92a770c4-50e6-4376-9cc5-035d9f8602ef",
+                "edit_url": "https://database.eamena.org/resource/92a770c4-50e6-4376-9cc5-035d9f8602ef"
+            }
+        },
+        {
+            "id": "1bd91f7b-9a99-4914-949d-57c61763afd5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.593511067,
+                            24.988689048
+                        ],
+                        [
+                            46.59362372,
+                            24.988596665
+                        ],
+                        [
+                            46.593709551,
+                            24.988691479
+                        ],
+                        [
+                            46.593591534,
+                            24.988779
+                        ],
+                        [
+                            46.593511067,
+                            24.988689048
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028308",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "92d1aaf5-f069-4ef8-87de-5071a6f1a4cd",
+                "url": "https://database.eamena.org/report/92d1aaf5-f069-4ef8-87de-5071a6f1a4cd",
+                "edit_url": "https://database.eamena.org/resource/92d1aaf5-f069-4ef8-87de-5071a6f1a4cd"
+            }
+        },
+        {
+            "id": "661fd57f-5daf-49bb-a554-7b9beec696a2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.553216665,
+                            24.800050474
+                        ],
+                        [
+                            46.553334682,
+                            24.800293959
+                        ],
+                        [
+                            46.553393691,
+                            24.800493616
+                        ],
+                        [
+                            46.553415148,
+                            24.800751709
+                        ],
+                        [
+                            46.553447335,
+                            24.800961104
+                        ],
+                        [
+                            46.553624361,
+                            24.801082846
+                        ],
+                        [
+                            46.553962319,
+                            24.801170499
+                        ],
+                        [
+                            46.554015963,
+                            24.801365285
+                        ],
+                        [
+                            46.553919404,
+                            24.801282501
+                        ],
+                        [
+                            46.553565352,
+                            24.801228935
+                        ],
+                        [
+                            46.553334682,
+                            24.801121803
+                        ],
+                        [
+                            46.553216665,
+                            24.800941626
+                        ],
+                        [
+                            46.553254216,
+                            24.800717621
+                        ],
+                        [
+                            46.553114741,
+                            24.800138129
+                        ],
+                        [
+                            46.553216665,
+                            24.800050474
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028290",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "93da7389-a5be-43a7-a780-bd49561f65ad",
+                "url": "https://database.eamena.org/report/93da7389-a5be-43a7-a780-bd49561f65ad",
+                "edit_url": "https://database.eamena.org/resource/93da7389-a5be-43a7-a780-bd49561f65ad"
+            }
+        },
+        {
+            "id": "2716f3ea-f2ca-4149-b583-22a6ac6353f1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.546371627,
+                    24.809833915
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028282",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "953624d0-1d8c-4643-bf2f-c0467e6c7d99",
+                "url": "https://database.eamena.org/report/953624d0-1d8c-4643-bf2f-c0467e6c7d99",
+                "edit_url": "https://database.eamena.org/resource/953624d0-1d8c-4643-bf2f-c0467e6c7d99"
+            }
+        },
+        {
+            "id": "1a5e6ec2-94e2-4e62-99e9-eff5636a6baf",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.521984767,
+                    24.954046364
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028220",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "9710ed19-be0b-4e49-addc-78520de025ea",
+                "url": "https://database.eamena.org/report/9710ed19-be0b-4e49-addc-78520de025ea",
+                "edit_url": "https://database.eamena.org/resource/9710ed19-be0b-4e49-addc-78520de025ea"
+            }
+        },
+        {
+            "id": "56839782-4249-4abc-9848-f36f03651c89",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.664245237,
+                            24.957631616
+                        ],
+                        [
+                            46.664245237,
+                            24.957417622
+                        ],
+                        [
+                            46.667152751,
+                            24.954509216
+                        ],
+                        [
+                            46.668311466,
+                            24.954898305
+                        ],
+                        [
+                            46.66882645,
+                            24.955647296
+                        ],
+                        [
+                            46.668869365,
+                            24.95630874
+                        ],
+                        [
+                            46.668257821,
+                            24.957086904
+                        ],
+                        [
+                            46.664245237,
+                            24.957631616
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028325",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "97fae44f-0f12-4b73-87ce-42f4c2e4f52a",
+                "url": "https://database.eamena.org/report/97fae44f-0f12-4b73-87ce-42f4c2e4f52a",
+                "edit_url": "https://database.eamena.org/resource/97fae44f-0f12-4b73-87ce-42f4c2e4f52a"
+            }
+        },
+        {
+            "id": "e227eec3-72e0-413e-856d-28a7036cabab",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.642908038,
+                    24.996247552
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028323",
+                "dates": [
+                    "2016-09-14"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "98d6e219-adaa-4120-b3eb-709d602d9b71",
+                "url": "https://database.eamena.org/report/98d6e219-adaa-4120-b3eb-709d602d9b71",
+                "edit_url": "https://database.eamena.org/resource/98d6e219-adaa-4120-b3eb-709d602d9b71"
+            }
+        },
+        {
+            "id": "0a97f7f9-0ac5-4049-85c0-54541b39212a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.5465042,
+                            24.838136388
+                        ],
+                        [
+                            46.546335221,
+                            24.837914885
+                        ],
+                        [
+                            46.546402276,
+                            24.837863769
+                        ],
+                        [
+                            46.546592713,
+                            24.838092574
+                        ],
+                        [
+                            46.5465042,
+                            24.838136388
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028271",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "994a402b-1562-4709-94df-d7c40333f4ca",
+                "url": "https://database.eamena.org/report/994a402b-1562-4709-94df-d7c40333f4ca",
+                "edit_url": "https://database.eamena.org/resource/994a402b-1562-4709-94df-d7c40333f4ca"
+            }
+        },
+        {
+            "id": "f9109c9f-eb72-4867-8406-79b3b037acd2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.541010813,
+                    24.921613838
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028260",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "9d02ca2c-13bc-4dfb-b123-a23971d03daa",
+                "url": "https://database.eamena.org/report/9d02ca2c-13bc-4dfb-b123-a23971d03daa",
+                "edit_url": "https://database.eamena.org/resource/9d02ca2c-13bc-4dfb-b123-a23971d03daa"
+            }
+        },
+        {
+            "id": "bdc37487-c676-4949-a181-b442b7985ab4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.547709,
+                    24.823537
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028274",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "9d58f74c-80d2-4c20-a711-34363b2ace1f",
+                "url": "https://database.eamena.org/report/9d58f74c-80d2-4c20-a711-34363b2ace1f",
+                "edit_url": "https://database.eamena.org/resource/9d58f74c-80d2-4c20-a711-34363b2ace1f"
+            }
+        },
+        {
+            "id": "00a20273-5919-4d47-8116-980986e8214b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.60842498,
+                            24.942126349
+                        ],
+                        [
+                            46.611750919,
+                            24.940530914
+                        ],
+                        [
+                            46.616128284,
+                            24.94084222
+                        ],
+                        [
+                            46.61653598,
+                            24.942729496
+                        ],
+                        [
+                            46.615441639,
+                            24.945044776
+                        ],
+                        [
+                            46.613510448,
+                            24.946231582
+                        ],
+                        [
+                            46.611364681,
+                            24.945764643
+                        ],
+                        [
+                            46.60842498,
+                            24.942126349
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028319",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "9dbab246-5e57-4f38-b1e5-531c6f4cd302",
+                "url": "https://database.eamena.org/report/9dbab246-5e57-4f38-b1e5-531c6f4cd302",
+                "edit_url": "https://database.eamena.org/resource/9dbab246-5e57-4f38-b1e5-531c6f4cd302"
+            }
+        },
+        {
+            "id": "8a6c3aaa-7f2b-478d-bcde-a47a77812e30",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.535383356,
+                    24.796949607
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028236",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "9fd9dfd8-bff5-4083-87d2-9d17593c0a2b",
+                "url": "https://database.eamena.org/report/9fd9dfd8-bff5-4083-87d2-9d17593c0a2b",
+                "edit_url": "https://database.eamena.org/resource/9fd9dfd8-bff5-4083-87d2-9d17593c0a2b"
+            }
+        },
+        {
+            "id": "6f484819-a3b8-4f9c-9100-e5d5d1eb0b6c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.542422881,
+                            24.907865836
+                        ],
+                        [
+                            46.542430928,
+                            24.907822047
+                        ],
+                        [
+                            46.542602589,
+                            24.907787989
+                        ],
+                        [
+                            46.542707195,
+                            24.907846375
+                        ],
+                        [
+                            46.542696466,
+                            24.907994771
+                        ],
+                        [
+                            46.542583813,
+                            24.907997204
+                        ],
+                        [
+                            46.542422881,
+                            24.907865836
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028255",
+                "dates": [
+                    "2016-09-14"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "a7047982-daa3-4812-a79c-81ab18868422",
+                "url": "https://database.eamena.org/report/a7047982-daa3-4812-a79c-81ab18868422",
+                "edit_url": "https://database.eamena.org/resource/a7047982-daa3-4812-a79c-81ab18868422"
+            }
+        },
+        {
+            "id": "68f9d503-025f-4fa9-83df-d9a87d7d651e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.520823123,
+                            24.88870337
+                        ],
+                        [
+                            46.520849945,
+                            24.888674172
+                        ],
+                        [
+                            46.520976009,
+                            24.888742299
+                        ],
+                        [
+                            46.520943822,
+                            24.888771497
+                        ],
+                        [
+                            46.520823123,
+                            24.88870337
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028217",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "a98326bd-3bdf-4639-910c-0960d1714898",
+                "url": "https://database.eamena.org/report/a98326bd-3bdf-4639-910c-0960d1714898",
+                "edit_url": "https://database.eamena.org/resource/a98326bd-3bdf-4639-910c-0960d1714898"
+            }
+        },
+        {
+            "id": "5191d321-4d2e-4be5-aa82-94f036e9da90",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.506556029,
+                    24.829022143
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028204",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ad095809-1ee8-46a2-95d1-d3fb13399849",
+                "url": "https://database.eamena.org/report/ad095809-1ee8-46a2-95d1-d3fb13399849",
+                "edit_url": "https://database.eamena.org/resource/ad095809-1ee8-46a2-95d1-d3fb13399849"
+            }
+        },
+        {
+            "id": "fd77b8f9-ea6d-4101-bed6-bfbd04e6dbb3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.719630254,
+                            24.99116786
+                        ],
+                        [
+                            46.723406804,
+                            24.944949179
+                        ],
+                        [
+                            46.743147863,
+                            24.924246299
+                        ],
+                        [
+                            46.749327672,
+                            24.927515406
+                        ],
+                        [
+                            46.755850804,
+                            24.970472752
+                        ],
+                        [
+                            46.725466741,
+                            24.993812849
+                        ],
+                        [
+                            46.719630254,
+                            24.99116786
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0096692",
+                "dates": [
+                    "2016-09-12"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ae63a9c1-f134-4275-b240-b9bfaf0ffb2f",
+                "url": "https://database.eamena.org/report/ae63a9c1-f134-4275-b240-b9bfaf0ffb2f",
+                "edit_url": "https://database.eamena.org/resource/ae63a9c1-f134-4275-b240-b9bfaf0ffb2f"
+            }
+        },
+        {
+            "id": "2b6b85a1-3c69-48cc-a7d9-362295f0470d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.608903928,
+                            24.924074865
+                        ],
+                        [
+                            46.609078271,
+                            24.92358595
+                        ],
+                        [
+                            46.60911314,
+                            24.924099189
+                        ],
+                        [
+                            46.608903928,
+                            24.924074865
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028317",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "b150c0b3-81bb-4e6d-af47-9b4f5d4466a3",
+                "url": "https://database.eamena.org/report/b150c0b3-81bb-4e6d-af47-9b4f5d4466a3",
+                "edit_url": "https://database.eamena.org/resource/b150c0b3-81bb-4e6d-af47-9b4f5d4466a3"
+            }
+        },
+        {
+            "id": "5753e63c-a566-48c8-b8a4-e7b3c84337a7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.550537,
+                    24.922061
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028259",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "b1f9d580-29d9-4934-947e-967a5fe237b6",
+                "url": "https://database.eamena.org/report/b1f9d580-29d9-4934-947e-967a5fe237b6",
+                "edit_url": "https://database.eamena.org/resource/b1f9d580-29d9-4934-947e-967a5fe237b6"
+            }
+        },
+        {
+            "id": "3c2d83f5-fa06-4f98-a04a-0678a076ff7d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.548376788,
+                            24.915598916
+                        ],
+                        [
+                            46.548704017,
+                            24.915472422
+                        ],
+                        [
+                            46.548296321,
+                            24.914929956
+                        ],
+                        [
+                            46.548643667,
+                            24.914822922
+                        ],
+                        [
+                            46.549100984,
+                            24.914708591
+                        ],
+                        [
+                            46.549452354,
+                            24.915367821
+                        ],
+                        [
+                            46.548653055,
+                            24.915747303
+                        ],
+                        [
+                            46.548376788,
+                            24.915598916
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028266",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "b4dccc55-502a-43fe-bbb8-a11583f53d46",
+                "url": "https://database.eamena.org/report/b4dccc55-502a-43fe-bbb8-a11583f53d46",
+                "edit_url": "https://database.eamena.org/resource/b4dccc55-502a-43fe-bbb8-a11583f53d46"
+            }
+        },
+        {
+            "id": "90245ff2-7a9c-409b-b83e-84598479ec71",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.613811612,
+                            24.99145104
+                        ],
+                        [
+                            46.613264442,
+                            24.991329486
+                        ],
+                        [
+                            46.612357855,
+                            24.991300313
+                        ],
+                        [
+                            46.612025261,
+                            24.991062068
+                        ],
+                        [
+                            46.611939431,
+                            24.990770337
+                        ],
+                        [
+                            46.612411499,
+                            24.990619609
+                        ],
+                        [
+                            46.612577796,
+                            24.990357051
+                        ],
+                        [
+                            46.612803102,
+                            24.989968075
+                        ],
+                        [
+                            46.612658263,
+                            24.989520751
+                        ],
+                        [
+                            46.612615347,
+                            24.989131772
+                        ],
+                        [
+                            46.612851382,
+                            24.989122047
+                        ],
+                        [
+                            46.613629222,
+                            24.98921443
+                        ],
+                        [
+                            46.613806248,
+                            24.991198208
+                        ],
+                        [
+                            46.613811612,
+                            24.99145104
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028320",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "b50e2058-e0ac-43f3-9aa7-751a8041be33",
+                "url": "https://database.eamena.org/report/b50e2058-e0ac-43f3-9aa7-751a8041be33",
+                "edit_url": "https://database.eamena.org/resource/b50e2058-e0ac-43f3-9aa7-751a8041be33"
+            }
+        },
+        {
+            "id": "fa03642f-8961-43b6-a11e-b2f8979ff369",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.660146128,
+                            24.960190138
+                        ],
+                        [
+                            46.65990473,
+                            24.960044236
+                        ],
+                        [
+                            46.659894001,
+                            24.959275817
+                        ],
+                        [
+                            46.660028111,
+                            24.958945104
+                        ],
+                        [
+                            46.660124671,
+                            24.958852699
+                        ],
+                        [
+                            46.660253417,
+                            24.958940241
+                        ],
+                        [
+                            46.660296332,
+                            24.959698935
+                        ],
+                        [
+                            46.660408985,
+                            24.959942105
+                        ],
+                        [
+                            46.660360705,
+                            24.960097733
+                        ],
+                        [
+                            46.660146128,
+                            24.960190138
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028328",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "bdc101d1-e4f1-4ad7-82da-e2f5da9b4f35",
+                "url": "https://database.eamena.org/report/bdc101d1-e4f1-4ad7-82da-e2f5da9b4f35",
+                "edit_url": "https://database.eamena.org/resource/bdc101d1-e4f1-4ad7-82da-e2f5da9b4f35"
+            }
+        },
+        {
+            "id": "ddd7b2f1-2639-4c28-9bbd-468c60c6b0a2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.515170898,
+                    24.797394432
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028206",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "c15c3fb7-641e-4e5e-ad19-4d3659189b18",
+                "url": "https://database.eamena.org/report/c15c3fb7-641e-4e5e-ad19-4d3659189b18",
+                "edit_url": "https://database.eamena.org/resource/c15c3fb7-641e-4e5e-ad19-4d3659189b18"
+            }
+        },
+        {
+            "id": "bdc51769-3f20-472b-92a0-b5de88fb77cd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.555699402,
+                    24.809907611
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028305",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "c495f641-abe8-4fba-999b-e5ced8921463",
+                "url": "https://database.eamena.org/report/c495f641-abe8-4fba-999b-e5ced8921463",
+                "edit_url": "https://database.eamena.org/resource/c495f641-abe8-4fba-999b-e5ced8921463"
+            }
+        },
+        {
+            "id": "383c1157-30a3-4a3e-ad52-e785274ae590",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.52808758,
+                    24.815943911
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028226",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "c7ae6527-956f-4895-a431-9304cbeb2ec3",
+                "url": "https://database.eamena.org/report/c7ae6527-956f-4895-a431-9304cbeb2ec3",
+                "edit_url": "https://database.eamena.org/resource/c7ae6527-956f-4895-a431-9304cbeb2ec3"
+            }
+        },
+        {
+            "id": "6a9b66ba-fb7a-457a-89ed-873fff74c5ab",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.520694169,
+                    24.787482474
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028229",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "c9bbdc1d-62c7-4fa3-b35e-402533b450bf",
+                "url": "https://database.eamena.org/report/c9bbdc1d-62c7-4fa3-b35e-402533b450bf",
+                "edit_url": "https://database.eamena.org/resource/c9bbdc1d-62c7-4fa3-b35e-402533b450bf"
+            }
+        },
+        {
+            "id": "effa6eef-bd35-4531-bcd0-5a07df59b687",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.543213179,
+                            24.804746264
+                        ],
+                        [
+                            46.543207815,
+                            24.804663482
+                        ],
+                        [
+                            46.5440393,
+                            24.804741394
+                        ],
+                        [
+                            46.544017842,
+                            24.804863132
+                        ],
+                        [
+                            46.543207815,
+                            24.804814437
+                        ],
+                        [
+                            46.543213179,
+                            24.804746264
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028244",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "c9dac4e6-8d44-4635-a905-9883fa621790",
+                "url": "https://database.eamena.org/report/c9dac4e6-8d44-4635-a905-9883fa621790",
+                "edit_url": "https://database.eamena.org/resource/c9dac4e6-8d44-4635-a905-9883fa621790"
+            }
+        },
+        {
+            "id": "3cbc277b-96cd-4db3-b59f-8fe277ada5c3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.638367085,
+                    24.935303221
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028321",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "cad6f51d-3243-4d36-92b7-2f4318282399",
+                "url": "https://database.eamena.org/report/cad6f51d-3243-4d36-92b7-2f4318282399",
+                "edit_url": "https://database.eamena.org/resource/cad6f51d-3243-4d36-92b7-2f4318282399"
+            }
+        },
+        {
+            "id": "73f6396c-a4e4-46e7-9247-39ba1c3dd8ad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.583049309,
+                    24.750284973
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028311",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ce5745f1-3664-4b3d-9209-f87ee0d22e2f",
+                "url": "https://database.eamena.org/report/ce5745f1-3664-4b3d-9209-f87ee0d22e2f",
+                "edit_url": "https://database.eamena.org/resource/ce5745f1-3664-4b3d-9209-f87ee0d22e2f"
+            }
+        },
+        {
+            "id": "0b624ce8-ca9e-4d4b-98f2-fae994d89e3a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.660148903,
+                    24.959950847
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0096681",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ceea2a3c-0662-415c-9a68-ed4662523866",
+                "url": "https://database.eamena.org/report/ceea2a3c-0662-415c-9a68-ed4662523866",
+                "edit_url": "https://database.eamena.org/resource/ceea2a3c-0662-415c-9a68-ed4662523866"
+            }
+        },
+        {
+            "id": "a0a741d7-31da-4c0e-b691-55a73382fc82",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.543919521,
+                            24.7748777
+                        ],
+                        [
+                            46.543729084,
+                            24.774838735
+                        ],
+                        [
+                            46.543844419,
+                            24.774719403
+                        ],
+                        [
+                            46.543919521,
+                            24.7748777
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028241",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "cfb4ab46-c5a4-4a45-805b-3180764d2a7c",
+                "url": "https://database.eamena.org/report/cfb4ab46-c5a4-4a45-805b-3180764d2a7c",
+                "edit_url": "https://database.eamena.org/resource/cfb4ab46-c5a4-4a45-805b-3180764d2a7c"
+            }
+        },
+        {
+            "id": "a922f7fb-63e5-415f-889e-097ac00d2ae3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.652733448,
+                            24.957581113
+                        ],
+                        [
+                            46.652988257,
+                            24.957357392
+                        ],
+                        [
+                            46.654487612,
+                            24.957722154
+                        ],
+                        [
+                            46.6542784,
+                            24.95798235
+                        ],
+                        [
+                            46.652733448,
+                            24.957581113
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028326",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d1142e59-d93e-4525-80eb-7d89743342df",
+                "url": "https://database.eamena.org/report/d1142e59-d93e-4525-80eb-7d89743342df",
+                "edit_url": "https://database.eamena.org/resource/d1142e59-d93e-4525-80eb-7d89743342df"
+            }
+        },
+        {
+            "id": "50c81241-2bc7-4094-9ce7-9cb5bc9f0d92",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.675576555,
+                            24.937141873
+                        ],
+                        [
+                            46.676284658,
+                            24.934378921
+                        ],
+                        [
+                            46.677652584,
+                            24.935346934
+                        ],
+                        [
+                            46.676649438,
+                            24.93613496
+                        ],
+                        [
+                            46.675576555,
+                            24.937141873
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028330",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d14c0cc3-1cfc-49ab-a8d3-fd9bbe0c339b",
+                "url": "https://database.eamena.org/report/d14c0cc3-1cfc-49ab-a8d3-fd9bbe0c339b",
+                "edit_url": "https://database.eamena.org/resource/d14c0cc3-1cfc-49ab-a8d3-fd9bbe0c339b"
+            }
+        },
+        {
+            "id": "701c2414-80bb-484b-96f6-942f4eed523e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.540522,
+                    24.822796
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028247",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d166a06b-d16f-4730-878f-fb9d662fc37d",
+                "url": "https://database.eamena.org/report/d166a06b-d16f-4730-878f-fb9d662fc37d",
+                "edit_url": "https://database.eamena.org/resource/d166a06b-d16f-4730-878f-fb9d662fc37d"
+            }
+        },
+        {
+            "id": "67ef829e-39b7-4288-9f57-5a32a1082c86",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.558054,
+                    24.824092
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028299",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d1d0af51-5b4e-4faa-a463-9f76976f0881",
+                "url": "https://database.eamena.org/report/d1d0af51-5b4e-4faa-a463-9f76976f0881",
+                "edit_url": "https://database.eamena.org/resource/d1d0af51-5b4e-4faa-a463-9f76976f0881"
+            }
+        },
+        {
+            "id": "f309791a-8419-4cee-a033-be6e64aebc93",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.551979,
+                    24.816858
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028300",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d62d4010-df62-4880-ab49-9acdd1782d80",
+                "url": "https://database.eamena.org/report/d62d4010-df62-4880-ab49-9acdd1782d80",
+                "edit_url": "https://database.eamena.org/resource/d62d4010-df62-4880-ab49-9acdd1782d80"
+            }
+        },
+        {
+            "id": "fa9d43ec-e1b6-49d1-9af9-1edf4069ce5f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.603094176,
+                    24.933884864
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028316",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d6e86ddd-a231-4ba7-9120-1d6a6770d270",
+                "url": "https://database.eamena.org/report/d6e86ddd-a231-4ba7-9120-1d6a6770d270",
+                "edit_url": "https://database.eamena.org/resource/d6e86ddd-a231-4ba7-9120-1d6a6770d270"
+            }
+        },
+        {
+            "id": "11f6c151-07cd-4cfa-8167-5e9edb99eb25",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.631389673,
+                    24.941488073
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028324",
+                "dates": [
+                    "2016-09-07"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d82e1913-28d7-4ec4-b7b1-883500ad3caf",
+                "url": "https://database.eamena.org/report/d82e1913-28d7-4ec4-b7b1-883500ad3caf",
+                "edit_url": "https://database.eamena.org/resource/d82e1913-28d7-4ec4-b7b1-883500ad3caf"
+            }
+        },
+        {
+            "id": "b801a45e-8059-4de1-8d47-2aec832a7db1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.54565161,
+                            24.805003696
+                        ],
+                        [
+                            46.545659656,
+                            24.804748047
+                        ],
+                        [
+                            46.545952017,
+                            24.804755351
+                        ],
+                        [
+                            46.545954699,
+                            24.805023174
+                        ],
+                        [
+                            46.54565161,
+                            24.805003696
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028286",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "e3ba9ce4-e2e5-4946-99ac-32493e6873c0",
+                "url": "https://database.eamena.org/report/e3ba9ce4-e2e5-4946-99ac-32493e6873c0",
+                "edit_url": "https://database.eamena.org/resource/e3ba9ce4-e2e5-4946-99ac-32493e6873c0"
+            }
+        },
+        {
+            "id": "7c43bb4c-905c-40ed-97a1-6dead9d2c305",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.569235304,
+                            24.871948873
+                        ],
+                        [
+                            46.569385508,
+                            24.871226141
+                        ],
+                        [
+                            46.570010463,
+                            24.871250475
+                        ],
+                        [
+                            46.569913903,
+                            24.871995108
+                        ],
+                        [
+                            46.569235304,
+                            24.871948873
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028309",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "e5b3ca36-82cd-4495-a443-1dc9ddcf950d",
+                "url": "https://database.eamena.org/report/e5b3ca36-82cd-4495-a443-1dc9ddcf950d",
+                "edit_url": "https://database.eamena.org/resource/e5b3ca36-82cd-4495-a443-1dc9ddcf950d"
+            }
+        },
+        {
+            "id": "e2368acd-c6ee-4f12-a25a-22a7ac97da50",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.540677,
+                    24.820532
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028249",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "e8873e3c-e9dc-4ded-a303-046b4f6daa52",
+                "url": "https://database.eamena.org/report/e8873e3c-e9dc-4ded-a303-046b4f6daa52",
+                "edit_url": "https://database.eamena.org/resource/e8873e3c-e9dc-4ded-a303-046b4f6daa52"
+            }
+        },
+        {
+            "id": "7eacb310-e5db-48e8-974c-e31f3b32dc1c",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        46.542939419,
+                        24.812839242
+                    ],
+                    [
+                        46.542003328,
+                        24.812851415
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028250",
+                "dates": [
+                    "2016-08-30"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ef3ef8f6-d3ad-4ad1-b4c2-02b544afbb29",
+                "url": "https://database.eamena.org/report/ef3ef8f6-d3ad-4ad1-b4c2-02b544afbb29",
+                "edit_url": "https://database.eamena.org/resource/ef3ef8f6-d3ad-4ad1-b4c2-02b544afbb29"
+            }
+        },
+        {
+            "id": "492a26de-b326-49b0-85d4-987d1b2d45e3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.68313564,
+                    24.932601436
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028331",
+                "dates": [
+                    "2016-09-12"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ef95becc-d8fd-449c-98e9-ad6c30d851bd",
+                "url": "https://database.eamena.org/report/ef95becc-d8fd-449c-98e9-ad6c30d851bd",
+                "edit_url": "https://database.eamena.org/resource/ef95becc-d8fd-449c-98e9-ad6c30d851bd"
+            }
+        },
+        {
+            "id": "4ae10a17-e15b-4223-9705-f5f5d694aa1d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.519718263,
+                    24.823538091
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028228",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f0761687-56a0-42a9-88ee-446e7731957c",
+                "url": "https://database.eamena.org/report/f0761687-56a0-42a9-88ee-446e7731957c",
+                "edit_url": "https://database.eamena.org/resource/f0761687-56a0-42a9-88ee-446e7731957c"
+            }
+        },
+        {
+            "id": "e04b2595-4cdc-4483-bb42-09f906342196",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.520627,
+                    24.824205
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028222",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f081fc6f-f601-445b-a7ca-5dd454463df1",
+                "url": "https://database.eamena.org/report/f081fc6f-f601-445b-a7ca-5dd454463df1",
+                "edit_url": "https://database.eamena.org/resource/f081fc6f-f601-445b-a7ca-5dd454463df1"
+            }
+        },
+        {
+            "id": "bfe1b0cc-466c-4dd0-b60b-a640f29431a0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.542843474,
+                            24.918141204
+                        ],
+                        [
+                            46.542585981,
+                            24.917557397
+                        ],
+                        [
+                            46.543508661,
+                            24.916058946
+                        ],
+                        [
+                            46.543894899,
+                            24.915552972
+                        ],
+                        [
+                            46.544431341,
+                            24.915027534
+                        ],
+                        [
+                            46.546534193,
+                            24.915105377
+                        ],
+                        [
+                            46.54775728,
+                            24.915767038
+                        ],
+                        [
+                            46.547371042,
+                            24.916759523
+                        ],
+                        [
+                            46.545396937,
+                            24.917576858
+                        ],
+                        [
+                            46.544216765,
+                            24.918394187
+                        ],
+                        [
+                            46.542843474,
+                            24.918141204
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028261",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f3346dae-5d9e-4ea7-9ce6-9a5777cf4a9d",
+                "url": "https://database.eamena.org/report/f3346dae-5d9e-4ea7-9ce6-9a5777cf4a9d",
+                "edit_url": "https://database.eamena.org/resource/f3346dae-5d9e-4ea7-9ce6-9a5777cf4a9d"
+            }
+        },
+        {
+            "id": "4e6dd81e-70a0-4a31-853b-c82a2417fc29",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.506375085,
+                    24.794176955
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028208",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f495be0c-1daa-488d-bb3b-0d36671a2026",
+                "url": "https://database.eamena.org/report/f495be0c-1daa-488d-bb3b-0d36671a2026",
+                "edit_url": "https://database.eamena.org/resource/f495be0c-1daa-488d-bb3b-0d36671a2026"
+            }
+        },
+        {
+            "id": "0e8122c2-7242-485b-81ba-210f9b6a4745",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.521234076,
+                    24.823721181
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028230",
+                "dates": [
+                    "2016-08-24"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f57026cf-23e3-4374-8b86-6042625c4eb1",
+                "url": "https://database.eamena.org/report/f57026cf-23e3-4374-8b86-6042625c4eb1",
+                "edit_url": "https://database.eamena.org/resource/f57026cf-23e3-4374-8b86-6042625c4eb1"
+            }
+        },
+        {
+            "id": "4beda247-2dc2-4708-9a75-2f4fed518ba1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.548487,
+                    24.817837
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028280",
+                "dates": [
+                    "2016-09-01"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f5aaf425-af9c-4599-b05a-0b9ec99a2c47",
+                "url": "https://database.eamena.org/report/f5aaf425-af9c-4599-b05a-0b9ec99a2c47",
+                "edit_url": "https://database.eamena.org/resource/f5aaf425-af9c-4599-b05a-0b9ec99a2c47"
+            }
+        },
+        {
+            "id": "2d15fd5f-5863-4473-b2e8-ad9cc2811883",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.549333263,
+                            24.768722935
+                        ],
+                        [
+                            46.548364985,
+                            24.768199309
+                        ],
+                        [
+                            46.54942714,
+                            24.768603597
+                        ],
+                        [
+                            46.549333263,
+                            24.768722935
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028287",
+                "dates": [
+                    "2016-09-05"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f8ce3381-62ac-4e90-b446-c03ef834abc0",
+                "url": "https://database.eamena.org/report/f8ce3381-62ac-4e90-b446-c03ef834abc0",
+                "edit_url": "https://database.eamena.org/resource/f8ce3381-62ac-4e90-b446-c03ef834abc0"
+            }
+        },
+        {
+            "id": "3b6645e8-2941-4d66-ab65-bd5f8052c71a",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        46.555605172,
+                        24.866269032
+                    ],
+                    [
+                        46.555245756,
+                        24.866127887
+                    ],
+                    [
+                        46.554843425,
+                        24.866011076
+                    ],
+                    [
+                        46.55455911,
+                        24.865928336
+                    ],
+                    [
+                        46.554430364,
+                        24.865918601
+                    ],
+                    [
+                        46.554280161,
+                        24.865947804
+                    ],
+                    [
+                        46.554140686,
+                        24.866015943
+                    ],
+                    [
+                        46.553845643,
+                        24.866225229
+                    ],
+                    [
+                        46.553475498,
+                        24.866522121
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028307",
+                "dates": [
+                    "2016-09-06"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f99a9933-f634-402e-abb4-714a7ce040c9",
+                "url": "https://database.eamena.org/report/f99a9933-f634-402e-abb4-714a7ce040c9",
+                "edit_url": "https://database.eamena.org/resource/f99a9933-f634-402e-abb4-714a7ce040c9"
+            }
+        },
+        {
+            "id": "71c70e06-3fa0-4d06-ab57-5ba71a58fc83",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.551652,
+                    24.815868
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028279",
+                "dates": [
+                    "2016-09-01"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f9f7ac82-c0b0-47d3-890b-d35b41dfef40",
+                "url": "https://database.eamena.org/report/f9f7ac82-c0b0-47d3-890b-d35b41dfef40",
+                "edit_url": "https://database.eamena.org/resource/f9f7ac82-c0b0-47d3-890b-d35b41dfef40"
+            }
+        },
+        {
+            "id": "6dce1365-aebe-4f52-93a3-d50196e4370a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.51487586,
+                    24.871889799
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028210",
+                "dates": [
+                    "2016-08-23"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "fb725470-b259-4a5e-9bd4-ac6e973a0801",
+                "url": "https://database.eamena.org/report/fb725470-b259-4a5e-9bd4-ac6e973a0801",
+                "edit_url": "https://database.eamena.org/resource/fb725470-b259-4a5e-9bd4-ac6e973a0801"
+            }
+        },
+        {
+            "id": "6d471a06-da99-4c7e-a8fa-6d6637f7de14",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            46.542571394,
+                            24.952353024
+                        ],
+                        [
+                            46.54260358,
+                            24.952143885
+                        ],
+                        [
+                            46.542721598,
+                            24.95209768
+                        ],
+                        [
+                            46.542869119,
+                            24.952083089
+                        ],
+                        [
+                            46.542850344,
+                            24.952236296
+                        ],
+                        [
+                            46.542729644,
+                            24.952355456
+                        ],
+                        [
+                            46.542571394,
+                            24.952353024
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0028263",
+                "dates": [
+                    "2016-08-31"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "fd8d1a56-436c-472f-a469-c4bace6b01f2",
+                "url": "https://database.eamena.org/report/fd8d1a56-436c-472f-a469-c4bace6b01f2",
+                "edit_url": "https://database.eamena.org/resource/fd8d1a56-436c-472f-a469-c4bace6b01f2"
+            }
+        }
+    ]
+}

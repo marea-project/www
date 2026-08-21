@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1a9f180c-14b5-41da-926a-842031acecbb",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.066278,
+                    25.50775
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0186101",
+                "dates": [
+                    "2020-04-22",
+                    "2020-04-22"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [],
+                "id": "97712a70-845c-469e-89ef-2b012b839242",
+                "url": "https://database.eamena.org/report/97712a70-845c-469e-89ef-2b012b839242",
+                "edit_url": "https://database.eamena.org/resource/97712a70-845c-469e-89ef-2b012b839242"
+            }
+        },
+        {
+            "id": "e26c27cf-ca2e-4ad7-91dd-9c78f27fa2ce",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.065278,
+                    25.506111
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0187710",
+                "dates": [
+                    "2020-04-23",
+                    "2020-04-23"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "97db74dd-9592-449e-9daa-5d5c22866de7",
+                "url": "https://database.eamena.org/report/97db74dd-9592-449e-9daa-5d5c22866de7",
+                "edit_url": "https://database.eamena.org/resource/97db74dd-9592-449e-9daa-5d5c22866de7"
+            }
+        },
+        {
+            "id": "9eaed6e0-a618-454f-ab54-919544b4ba99",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.076583,
+                    25.513222
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0186090",
+                "dates": [
+                    "2020-04-22",
+                    "2020-04-22"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "e5611763-83d8-42e8-8c9b-478e4e6bb6f0",
+                "url": "https://database.eamena.org/report/e5611763-83d8-42e8-8c9b-478e4e6bb6f0",
+                "edit_url": "https://database.eamena.org/resource/e5611763-83d8-42e8-8c9b-478e4e6bb6f0"
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1b828b6a-9bdf-4cad-9352-598b296a7543",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.570583,
+                    25.114944
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0186113",
+                "dates": [
+                    "2020-04-22",
+                    "2020-04-22"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [],
+                "id": "7aa9debd-8fa5-4958-b033-01624fe8b473",
+                "url": "https://database.eamena.org/report/7aa9debd-8fa5-4958-b033-01624fe8b473",
+                "edit_url": "https://database.eamena.org/resource/7aa9debd-8fa5-4958-b033-01624fe8b473"
+            }
+        },
+        {
+            "id": "4424d0b4-50fc-4268-b60a-88758f258c3a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.528861,
+                    25.003722
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0186109",
+                "dates": [
+                    "2020-04-22",
+                    "2020-04-22"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [],
+                "id": "e50d6a59-ec4d-469f-b17f-3903c34e4df4",
+                "url": "https://database.eamena.org/report/e50d6a59-ec4d-469f-b17f-3903c34e4df4",
+                "edit_url": "https://database.eamena.org/resource/e50d6a59-ec4d-469f-b17f-3903c34e4df4"
+            }
+        }
+    ]
+}

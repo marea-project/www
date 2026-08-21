@@ -1,0 +1,270 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1931a7b5-3467-4339-9aff-9c9753e6f34b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            42.779629179,
+                            13.953337692
+                        ],
+                        [
+                            42.779629176,
+                            13.95328935
+                        ],
+                        [
+                            42.779701618,
+                            13.95330693
+                        ],
+                        [
+                            42.779692565,
+                            13.953346481
+                        ],
+                        [
+                            42.779629179,
+                            13.953337692
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0164406",
+                "dates": [
+                    "2020-02-05",
+                    "2020-02-05"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "305de520-6f1c-4592-a49f-89c5afa7b4e9",
+                "url": "https://database.eamena.org/report/305de520-6f1c-4592-a49f-89c5afa7b4e9",
+                "edit_url": "https://database.eamena.org/resource/305de520-6f1c-4592-a49f-89c5afa7b4e9"
+            }
+        },
+        {
+            "id": "a88f9dfa-443b-4e51-b21b-f41be4f3d0c5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            42.757843968,
+                            13.754430807
+                        ],
+                        [
+                            42.757884432,
+                            13.754457006
+                        ],
+                        [
+                            42.757848492,
+                            13.754496302
+                        ],
+                        [
+                            42.757803532,
+                            13.754465736
+                        ],
+                        [
+                            42.757843968,
+                            13.754430807
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0164418",
+                "dates": [
+                    "2020-02-05",
+                    "2020-02-05"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "3c88807d-98d5-4dec-b7aa-d579528cb808",
+                "url": "https://database.eamena.org/report/3c88807d-98d5-4dec-b7aa-d579528cb808",
+                "edit_url": "https://database.eamena.org/resource/3c88807d-98d5-4dec-b7aa-d579528cb808"
+            }
+        },
+        {
+            "id": "39e71047-bca1-40f0-ad29-f44975bba3a6",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.837492544,
+                    13.78665752
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0164398",
+                "dates": [
+                    "2020-02-04"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "684de5ef-c85d-4114-a591-840e4a3baa7d",
+                "url": "https://database.eamena.org/report/684de5ef-c85d-4114-a591-840e4a3baa7d",
+                "edit_url": "https://database.eamena.org/resource/684de5ef-c85d-4114-a591-840e4a3baa7d"
+            }
+        },
+        {
+            "id": "8564907c-99b5-4398-b248-75141e9f2b05",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            42.809937753,
+                            13.87831701
+                        ],
+                        [
+                            42.809913415,
+                            13.878273151
+                        ],
+                        [
+                            42.809958595,
+                            13.878256271
+                        ],
+                        [
+                            42.809979458,
+                            13.878303505
+                        ],
+                        [
+                            42.809937753,
+                            13.87831701
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0164410",
+                "dates": [
+                    "2020-02-05",
+                    "2020-02-05"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "9fa16d3f-662d-4b64-bb07-5464c34af717",
+                "url": "https://database.eamena.org/report/9fa16d3f-662d-4b64-bb07-5464c34af717",
+                "edit_url": "https://database.eamena.org/resource/9fa16d3f-662d-4b64-bb07-5464c34af717"
+            }
+        },
+        {
+            "id": "7d225e8e-8b7c-4ec2-8e43-cbc846cead13",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            42.81198804,
+                            13.88226719
+                        ],
+                        [
+                            42.811969435,
+                            13.882246127
+                        ],
+                        [
+                            42.811991133,
+                            13.882231075
+                        ],
+                        [
+                            42.812012839,
+                            13.882255148
+                        ],
+                        [
+                            42.81198804,
+                            13.88226719
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0164408",
+                "dates": [
+                    "2020-02-05",
+                    "2020-02-05"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "a5771733-1bda-4dbd-8197-e78548deab24",
+                "url": "https://database.eamena.org/report/a5771733-1bda-4dbd-8197-e78548deab24",
+                "edit_url": "https://database.eamena.org/resource/a5771733-1bda-4dbd-8197-e78548deab24"
+            }
+        },
+        {
+            "id": "2dfbd977-8c46-44f4-acee-46a358757cac",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            42.78045229,
+                            13.855323165
+                        ],
+                        [
+                            42.780425468,
+                            13.855299727
+                        ],
+                        [
+                            42.780441561,
+                            13.855278894
+                        ],
+                        [
+                            42.78047643,
+                            13.85527629
+                        ],
+                        [
+                            42.78047643,
+                            13.855310144
+                        ],
+                        [
+                            42.78045229,
+                            13.855323165
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0164417",
+                "dates": [
+                    "2020-02-05",
+                    "2020-02-05"
+                ],
+                "countries": [
+                    "Yemen"
+                ],
+                "people": [
+                    "Harmen Huigens"
+                ],
+                "id": "f52448bc-c5d0-4b30-827d-4bb3acf50d44",
+                "url": "https://database.eamena.org/report/f52448bc-c5d0-4b30-827d-4bb3acf50d44",
+                "edit_url": "https://database.eamena.org/resource/f52448bc-c5d0-4b30-827d-4bb3acf50d44"
+            }
+        }
+    ]
+}

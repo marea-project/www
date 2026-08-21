@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "a9433350-4744-4365-ace6-c10d579e59c2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.497053105763953,
+                    37.27461139857634
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0291242",
+                "dates": [
+                    "2026-08-10"
+                ],
+                "countries": [
+                    "Tunisia"
+                ],
+                "people": [
+                    "Brittni Bradford"
+                ],
+                "id": "1e6d0a15-d2a0-4f5d-962d-748c9f06165e",
+                "url": "https://database.eamena.org/report/1e6d0a15-d2a0-4f5d-962d-748c9f06165e",
+                "edit_url": "https://database.eamena.org/resource/1e6d0a15-d2a0-4f5d-962d-748c9f06165e"
+            }
+        },
+        {
+            "id": "fb038c8a-8b7a-465c-86fe-9817b59911b4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.491534903668946,
+                    37.27804342645624
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0291241",
+                "dates": [
+                    "2026-08-10"
+                ],
+                "countries": [
+                    "Tunisia"
+                ],
+                "people": [
+                    "Brittni Bradford"
+                ],
+                "id": "e5e70114-1656-44f1-aefd-5917c745857b",
+                "url": "https://database.eamena.org/report/e5e70114-1656-44f1-aefd-5917c745857b",
+                "edit_url": "https://database.eamena.org/resource/e5e70114-1656-44f1-aefd-5917c745857b"
+            }
+        }
+    ]
+}

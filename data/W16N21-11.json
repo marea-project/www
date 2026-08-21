@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.793731,
+                    21.022237
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194926",
+                "dates": [
+                    "2021-11-05"
+                ],
+                "countries": [
+                    "Western Sahara"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2cdfb188-5298-4f84-8e44-8a64808c2584",
+                "url": "https://database.eamena.org/report/2cdfb188-5298-4f84-8e44-8a64808c2584",
+                "edit_url": "https://database.eamena.org/resource/2cdfb188-5298-4f84-8e44-8a64808c2584"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.79368,
+                    21.021647
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194925",
+                "dates": [
+                    "2021-11-05"
+                ],
+                "countries": [
+                    "Western Sahara"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "3668f370-3943-4d53-90bb-a873656e5ef4",
+                "url": "https://database.eamena.org/report/3668f370-3943-4d53-90bb-a873656e5ef4",
+                "edit_url": "https://database.eamena.org/resource/3668f370-3943-4d53-90bb-a873656e5ef4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.793416,
+                    21.021774
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194924",
+                "dates": [
+                    "2021-11-05"
+                ],
+                "countries": [
+                    "Western Sahara"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4ab6776c-8d31-4f3c-af85-1593908481f4",
+                "url": "https://database.eamena.org/report/4ab6776c-8d31-4f3c-af85-1593908481f4",
+                "edit_url": "https://database.eamena.org/resource/4ab6776c-8d31-4f3c-af85-1593908481f4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.79341,
+                    21.022284
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194923",
+                "dates": [
+                    "2021-11-05"
+                ],
+                "countries": [
+                    "Western Sahara"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4e736fbf-ba6f-4337-8566-c45e2dd1ccb9",
+                "url": "https://database.eamena.org/report/4e736fbf-ba6f-4337-8566-c45e2dd1ccb9",
+                "edit_url": "https://database.eamena.org/resource/4e736fbf-ba6f-4337-8566-c45e2dd1ccb9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.779091,
+                    21.156502
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194927",
+                "dates": [
+                    "2021-11-05"
+                ],
+                "countries": [
+                    "Western Sahara"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "887b3be3-dbee-4bcb-a2d8-bb5c0f3f6c2d",
+                "url": "https://database.eamena.org/report/887b3be3-dbee-4bcb-a2d8-bb5c0f3f6c2d",
+                "edit_url": "https://database.eamena.org/resource/887b3be3-dbee-4bcb-a2d8-bb5c0f3f6c2d"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "e88e59a0-ea70-4aa0-92ac-6a5c0fe85595",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.36833,
+                    25.83611
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0187722",
+                "dates": [
+                    "2020-04-23",
+                    "2020-04-23"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [],
+                "id": "a92c2079-4a4a-470b-b29f-988faaf70c28",
+                "url": "https://database.eamena.org/report/a92c2079-4a4a-470b-b29f-988faaf70c28",
+                "edit_url": "https://database.eamena.org/resource/a92c2079-4a4a-470b-b29f-988faaf70c28"
+            }
+        }
+    ]
+}

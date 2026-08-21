@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "b675c1d5-daf2-4f6c-82db-c164d29136b3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.93890145678452,
+                    37.51982539399603
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0291254",
+                "dates": [
+                    "2026-08-10"
+                ],
+                "countries": [
+                    "Tunisia"
+                ],
+                "people": [
+                    "Brittni Bradford"
+                ],
+                "id": "cab11183-cb5a-4ea1-8e2f-04ab52f2a4a1",
+                "url": "https://database.eamena.org/report/cab11183-cb5a-4ea1-8e2f-04ab52f2a4a1",
+                "edit_url": "https://database.eamena.org/resource/cab11183-cb5a-4ea1-8e2f-04ab52f2a4a1"
+            }
+        }
+    ]
+}

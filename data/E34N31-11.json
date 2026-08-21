@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "2f887a6c-0bd7-459c-b46e-9e6dc00e69c4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.0921763662613,
+                    31.23419962688202,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "141_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "453648",
+                "icon-color": "#00ff00",
+                "icon-scale": 1.5,
+                "description": "Ancient name: Bethaphou, Boutaphion, near Bitylion, Bittylios, Bytl, Betilium, Ienysos?\t\n\nModern Name: Tell Temilat & Tell el-Sheikh, & Tell Abu Salima, near Sheikh Zuweid\n\nNB: 3868\n\nRef: https://www.ancientportsantiques.com/the-catalogue/egypt-libya\nProf. Dr. Eliezer Oren and his survey reports of North Sinai and his catalogue of Ancient Ports (Ancient Coastal Settlements, Ports and Harbours)",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#00ff00",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279595",
+                "dates": [
+                    "2025-11-04"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "d7528a25-03b6-4ffe-a10e-4112e18c5ae1",
+                "url": "https://database.eamena.org/report/d7528a25-03b6-4ffe-a10e-4112e18c5ae1",
+                "edit_url": "https://database.eamena.org/resource/d7528a25-03b6-4ffe-a10e-4112e18c5ae1"
+            }
+        },
+        {
+            "id": "ffee5c77-df7b-447a-b9f3-92486564109a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.10651477898423,
+                    31.23168675112298,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "121_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin0",
+                "styleHash": "44429b64",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "description": "Tell el-Basta, Tell el-Bassa\n\u062a\u0644 \u0627\u0644\u0628\u0633\u0637\u0629 (\u0627\u0644\u0628\u0635\u0629)\nTell el-Sheikh\n\u062a\u0644 \u0627\u0644\u0634\u064a\u062e\n\nTell El-Basta is a raised archaeological mound with a few potsherds on its surface, dating to the Greco-Roman Period. The mound includes the remains of a mud-brick building and is surrounded by cultivated land.\nThe site has not yet been excavated.\nInspectorate Officials of South Sinai\n\n\u062a\u0644 \u0627\u0644\u0634\u064a\u062e \u0645\u0646:\nMap in QGIS:\nEgypt 1100,000, northern Sinai  published by the Survey of Egypt nla.obj-2896313136",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin2",
+                    "highlight": "#sh_ylw-pushpin0"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279583",
+                "dates": [
+                    "2025-10-27"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "de23857a-80a0-435b-b3db-8970f7662eab",
+                "url": "https://database.eamena.org/report/de23857a-80a0-435b-b3db-8970f7662eab",
+                "edit_url": "https://database.eamena.org/resource/de23857a-80a0-435b-b3db-8970f7662eab"
+            }
+        },
+        {
+            "id": "9f356ec864e1abb767b3693d1ddd6188",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.131304580931726,
+                    31.240336159719845
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279581",
+                "dates": [
+                    "2025-10-27"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "e8c2f2e8-0fe5-4be6-aace-7d265ed50200",
+                "url": "https://database.eamena.org/report/e8c2f2e8-0fe5-4be6-aace-7d265ed50200",
+                "edit_url": "https://database.eamena.org/resource/e8c2f2e8-0fe5-4be6-aace-7d265ed50200"
+            }
+        }
+    ]
+}

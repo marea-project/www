@@ -1,0 +1,1617 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.151876,
+                    30.91956
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263961",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "0040da39-bac7-4629-a6c9-b85e956e040e",
+                "url": "https://database.eamena.org/report/0040da39-bac7-4629-a6c9-b85e956e040e",
+                "edit_url": "https://database.eamena.org/resource/0040da39-bac7-4629-a6c9-b85e956e040e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.172038,
+                    30.9863399999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263913",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "0a03e0c0-13d9-41d3-92fb-f4b27afeba56",
+                "url": "https://database.eamena.org/report/0a03e0c0-13d9-41d3-92fb-f4b27afeba56",
+                "edit_url": "https://database.eamena.org/resource/0a03e0c0-13d9-41d3-92fb-f4b27afeba56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2310459999999,
+                    30.95802
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263951",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "0e9d3c85-61aa-403e-8240-ff65e069fd71",
+                "url": "https://database.eamena.org/report/0e9d3c85-61aa-403e-8240-ff65e069fd71",
+                "edit_url": "https://database.eamena.org/resource/0e9d3c85-61aa-403e-8240-ff65e069fd71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.151121,
+                    30.985613
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263901",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "123d3264-890b-47fc-9366-957d71a178f6",
+                "url": "https://database.eamena.org/report/123d3264-890b-47fc-9366-957d71a178f6",
+                "edit_url": "https://database.eamena.org/resource/123d3264-890b-47fc-9366-957d71a178f6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1555369999999,
+                    30.786605
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263969",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "13ded46b-b584-409e-971e-c532906787f4",
+                "url": "https://database.eamena.org/report/13ded46b-b584-409e-971e-c532906787f4",
+                "edit_url": "https://database.eamena.org/resource/13ded46b-b584-409e-971e-c532906787f4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.090491,
+                    30.9312329999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263893",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "15588b54-49db-4356-8eab-8f87e7641149",
+                "url": "https://database.eamena.org/report/15588b54-49db-4356-8eab-8f87e7641149",
+                "edit_url": "https://database.eamena.org/resource/15588b54-49db-4356-8eab-8f87e7641149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.177181,
+                    30.820743
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263887",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "19f73589-7516-49f4-9f25-f4c84c8a83af",
+                "url": "https://database.eamena.org/report/19f73589-7516-49f4-9f25-f4c84c8a83af",
+                "edit_url": "https://database.eamena.org/resource/19f73589-7516-49f4-9f25-f4c84c8a83af"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.045762,
+                    30.9999539999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263943",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "1c405208-e0e4-46bc-bd84-c467229c6e3a",
+                "url": "https://database.eamena.org/report/1c405208-e0e4-46bc-bd84-c467229c6e3a",
+                "edit_url": "https://database.eamena.org/resource/1c405208-e0e4-46bc-bd84-c467229c6e3a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2219529999999,
+                    30.968126
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263935",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "22c40b52-2446-4bc4-abf2-0a92ac413d6e",
+                "url": "https://database.eamena.org/report/22c40b52-2446-4bc4-abf2-0a92ac413d6e",
+                "edit_url": "https://database.eamena.org/resource/22c40b52-2446-4bc4-abf2-0a92ac413d6e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2278769999999,
+                    30.989501
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263923",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2681aabc-4551-49d6-9815-90e89cd4dc05",
+                "url": "https://database.eamena.org/report/2681aabc-4551-49d6-9815-90e89cd4dc05",
+                "edit_url": "https://database.eamena.org/resource/2681aabc-4551-49d6-9815-90e89cd4dc05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.088242,
+                    30.933823
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263894",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "28dbf841-21c3-4b8a-8039-d96be0ec2e18",
+                "url": "https://database.eamena.org/report/28dbf841-21c3-4b8a-8039-d96be0ec2e18",
+                "edit_url": "https://database.eamena.org/resource/28dbf841-21c3-4b8a-8039-d96be0ec2e18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0298979999999,
+                    30.988623
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263884",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "28f0578d-7076-411f-9c28-7a1f66e8033d",
+                "url": "https://database.eamena.org/report/28f0578d-7076-411f-9c28-7a1f66e8033d",
+                "edit_url": "https://database.eamena.org/resource/28f0578d-7076-411f-9c28-7a1f66e8033d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0044189999999,
+                    30.9639719999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263970",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2e3468db-64bd-49c2-831b-81843a9c73fc",
+                "url": "https://database.eamena.org/report/2e3468db-64bd-49c2-831b-81843a9c73fc",
+                "edit_url": "https://database.eamena.org/resource/2e3468db-64bd-49c2-831b-81843a9c73fc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0543729999999,
+                    30.8765719999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263891",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "2f324b4b-0f02-4cc0-b8d6-910aaae81bf2",
+                "url": "https://database.eamena.org/report/2f324b4b-0f02-4cc0-b8d6-910aaae81bf2",
+                "edit_url": "https://database.eamena.org/resource/2f324b4b-0f02-4cc0-b8d6-910aaae81bf2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.19782,
+                    30.9464159999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263955",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "356ab7de-5a51-4aba-8dc8-53a554f34cd4",
+                "url": "https://database.eamena.org/report/356ab7de-5a51-4aba-8dc8-53a554f34cd4",
+                "edit_url": "https://database.eamena.org/resource/356ab7de-5a51-4aba-8dc8-53a554f34cd4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2118749999999,
+                    30.884674
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263965",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "38a9cc7b-359f-4ac0-aeba-8aae21cb7aa1",
+                "url": "https://database.eamena.org/report/38a9cc7b-359f-4ac0-aeba-8aae21cb7aa1",
+                "edit_url": "https://database.eamena.org/resource/38a9cc7b-359f-4ac0-aeba-8aae21cb7aa1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.166378,
+                    30.927434
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263963",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "38d488fc-2e21-4a11-87b9-f6cfe5540c87",
+                "url": "https://database.eamena.org/report/38d488fc-2e21-4a11-87b9-f6cfe5540c87",
+                "edit_url": "https://database.eamena.org/resource/38d488fc-2e21-4a11-87b9-f6cfe5540c87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.163304,
+                    30.982723
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263907",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "42a9b5e7-5071-44c8-84cf-4d64d43a0479",
+                "url": "https://database.eamena.org/report/42a9b5e7-5071-44c8-84cf-4d64d43a0479",
+                "edit_url": "https://database.eamena.org/resource/42a9b5e7-5071-44c8-84cf-4d64d43a0479"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.216674,
+                    30.956401
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263945",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4428c8f4-3522-43f1-9bb5-855d24d344d6",
+                "url": "https://database.eamena.org/report/4428c8f4-3522-43f1-9bb5-855d24d344d6",
+                "edit_url": "https://database.eamena.org/resource/4428c8f4-3522-43f1-9bb5-855d24d344d6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1427419999999,
+                    30.9786949999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263979",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4c3f9b3f-da04-4df4-8fd5-7405923b22ed",
+                "url": "https://database.eamena.org/report/4c3f9b3f-da04-4df4-8fd5-7405923b22ed",
+                "edit_url": "https://database.eamena.org/resource/4c3f9b3f-da04-4df4-8fd5-7405923b22ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1823909999999,
+                    30.9373779999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263959",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4ea5616b-2e5e-41f9-a49c-f921b179ad1f",
+                "url": "https://database.eamena.org/report/4ea5616b-2e5e-41f9-a49c-f921b179ad1f",
+                "edit_url": "https://database.eamena.org/resource/4ea5616b-2e5e-41f9-a49c-f921b179ad1f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.116119,
+                    30.9930489999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263977",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4f1e479d-0594-4d64-97d6-c5011bc9e878",
+                "url": "https://database.eamena.org/report/4f1e479d-0594-4d64-97d6-c5011bc9e878",
+                "edit_url": "https://database.eamena.org/resource/4f1e479d-0594-4d64-97d6-c5011bc9e878"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.175055,
+                    30.9496159999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263957",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "50e401ed-1801-4e10-b21a-132ccb0b725b",
+                "url": "https://database.eamena.org/report/50e401ed-1801-4e10-b21a-132ccb0b725b",
+                "edit_url": "https://database.eamena.org/resource/50e401ed-1801-4e10-b21a-132ccb0b725b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0905279999999,
+                    30.9723119999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263897",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "59c72708-7104-4b35-af35-4a4dc9342483",
+                "url": "https://database.eamena.org/report/59c72708-7104-4b35-af35-4a4dc9342483",
+                "edit_url": "https://database.eamena.org/resource/59c72708-7104-4b35-af35-4a4dc9342483"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.229016,
+                    30.974557
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263931",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "5bb0e426-181b-40b3-bca8-175dfa3f0113",
+                "url": "https://database.eamena.org/report/5bb0e426-181b-40b3-bca8-175dfa3f0113",
+                "edit_url": "https://database.eamena.org/resource/5bb0e426-181b-40b3-bca8-175dfa3f0113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.109306,
+                    30.9859149999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263899",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "5c00ed6f-6560-42b4-b05f-6d17e1286d97",
+                "url": "https://database.eamena.org/report/5c00ed6f-6560-42b4-b05f-6d17e1286d97",
+                "edit_url": "https://database.eamena.org/resource/5c00ed6f-6560-42b4-b05f-6d17e1286d97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.004642,
+                    30.94687
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263885",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "5e7588d7-63d2-4e58-a475-5d8ad3abbb4e",
+                "url": "https://database.eamena.org/report/5e7588d7-63d2-4e58-a475-5d8ad3abbb4e",
+                "edit_url": "https://database.eamena.org/resource/5e7588d7-63d2-4e58-a475-5d8ad3abbb4e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.141144,
+                    30.8567649999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263890",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "60d7235c-8eac-4b21-adc6-3afc5a1973b8",
+                "url": "https://database.eamena.org/report/60d7235c-8eac-4b21-adc6-3afc5a1973b8",
+                "edit_url": "https://database.eamena.org/resource/60d7235c-8eac-4b21-adc6-3afc5a1973b8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.244391,
+                    30.967949
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263929",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "6143f90f-a53a-4c64-8dcc-970819f61c68",
+                "url": "https://database.eamena.org/report/6143f90f-a53a-4c64-8dcc-970819f61c68",
+                "edit_url": "https://database.eamena.org/resource/6143f90f-a53a-4c64-8dcc-970819f61c68"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.233162,
+                    30.994301
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263925",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "71be5872-67f6-4d84-844c-5ef8fadaa917",
+                "url": "https://database.eamena.org/report/71be5872-67f6-4d84-844c-5ef8fadaa917",
+                "edit_url": "https://database.eamena.org/resource/71be5872-67f6-4d84-844c-5ef8fadaa917"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.190377,
+                    30.986003
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263915",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "7d882c4b-fe46-442c-8aa8-708b267d0066",
+                "url": "https://database.eamena.org/report/7d882c4b-fe46-442c-8aa8-708b267d0066",
+                "edit_url": "https://database.eamena.org/resource/7d882c4b-fe46-442c-8aa8-708b267d0066"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2222769999999,
+                    30.992491
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263921",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "7fa24bfa-05e8-4396-8ade-612f341cc96d",
+                "url": "https://database.eamena.org/report/7fa24bfa-05e8-4396-8ade-612f341cc96d",
+                "edit_url": "https://database.eamena.org/resource/7fa24bfa-05e8-4396-8ade-612f341cc96d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.244691,
+                    30.7902179999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263968",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "82e82a57-5bee-4f9a-a5b3-3b1b3f1f036e",
+                "url": "https://database.eamena.org/report/82e82a57-5bee-4f9a-a5b3-3b1b3f1f036e",
+                "edit_url": "https://database.eamena.org/resource/82e82a57-5bee-4f9a-a5b3-3b1b3f1f036e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.226711,
+                    30.971737
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263933",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "8513a62e-a122-4e68-98fa-2c868b71a582",
+                "url": "https://database.eamena.org/report/8513a62e-a122-4e68-98fa-2c868b71a582",
+                "edit_url": "https://database.eamena.org/resource/8513a62e-a122-4e68-98fa-2c868b71a582"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.044402,
+                    30.994817
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263975",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "8ac11434-a864-41db-aef0-86a72b431f33",
+                "url": "https://database.eamena.org/report/8ac11434-a864-41db-aef0-86a72b431f33",
+                "edit_url": "https://database.eamena.org/resource/8ac11434-a864-41db-aef0-86a72b431f33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2398549999999,
+                    30.926055
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263953",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "940c8bf5-f575-416d-9aad-4c518e94a5ef",
+                "url": "https://database.eamena.org/report/940c8bf5-f575-416d-9aad-4c518e94a5ef",
+                "edit_url": "https://database.eamena.org/resource/940c8bf5-f575-416d-9aad-4c518e94a5ef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.04851,
+                    30.948653
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263895",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "952ca565-e5c7-4806-b83d-052cf1d73760",
+                "url": "https://database.eamena.org/report/952ca565-e5c7-4806-b83d-052cf1d73760",
+                "edit_url": "https://database.eamena.org/resource/952ca565-e5c7-4806-b83d-052cf1d73760"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.023713,
+                    30.7810489999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263886",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "95c65e73-f6e3-4728-bfbe-ced024e49df3",
+                "url": "https://database.eamena.org/report/95c65e73-f6e3-4728-bfbe-ced024e49df3",
+                "edit_url": "https://database.eamena.org/resource/95c65e73-f6e3-4728-bfbe-ced024e49df3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0130149999999,
+                    30.95952
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263972",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "98f64ac6-a789-4801-8724-9d6c85876fcb",
+                "url": "https://database.eamena.org/report/98f64ac6-a789-4801-8724-9d6c85876fcb",
+                "edit_url": "https://database.eamena.org/resource/98f64ac6-a789-4801-8724-9d6c85876fcb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2231409999999,
+                    30.9596249999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263939",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "9f1bb39e-db02-4f4e-b8c4-8bd20d7e3005",
+                "url": "https://database.eamena.org/report/9f1bb39e-db02-4f4e-b8c4-8bd20d7e3005",
+                "edit_url": "https://database.eamena.org/resource/9f1bb39e-db02-4f4e-b8c4-8bd20d7e3005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2220289999999,
+                    30.9617989999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263937",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "9f4cc9a2-11e6-4a8f-8559-b195461731a3",
+                "url": "https://database.eamena.org/report/9f4cc9a2-11e6-4a8f-8559-b195461731a3",
+                "edit_url": "https://database.eamena.org/resource/9f4cc9a2-11e6-4a8f-8559-b195461731a3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.221433,
+                    30.9575099999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263947",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "a872b25e-d5b0-41b5-a5dc-b77886745af2",
+                "url": "https://database.eamena.org/report/a872b25e-d5b0-41b5-a5dc-b77886745af2",
+                "edit_url": "https://database.eamena.org/resource/a872b25e-d5b0-41b5-a5dc-b77886745af2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.173482,
+                    30.977778
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263883",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "aa0617e3-3eee-4f75-971a-03c7cf9111c5",
+                "url": "https://database.eamena.org/report/aa0617e3-3eee-4f75-971a-03c7cf9111c5",
+                "edit_url": "https://database.eamena.org/resource/aa0617e3-3eee-4f75-971a-03c7cf9111c5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2253259999999,
+                    30.862031
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263967",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "aaf642fe-48f5-406f-b27e-4b6c388ac35c",
+                "url": "https://database.eamena.org/report/aaf642fe-48f5-406f-b27e-4b6c388ac35c",
+                "edit_url": "https://database.eamena.org/resource/aaf642fe-48f5-406f-b27e-4b6c388ac35c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.178781,
+                    30.9617259999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263909",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ab8f0e07-ec5d-4718-9da9-8b47af503422",
+                "url": "https://database.eamena.org/report/ab8f0e07-ec5d-4718-9da9-8b47af503422",
+                "edit_url": "https://database.eamena.org/resource/ab8f0e07-ec5d-4718-9da9-8b47af503422"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.132566,
+                    30.994958
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263978",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "acd2c620-b748-4514-be1d-34d6a3039f98",
+                "url": "https://database.eamena.org/report/acd2c620-b748-4514-be1d-34d6a3039f98",
+                "edit_url": "https://database.eamena.org/resource/acd2c620-b748-4514-be1d-34d6a3039f98"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.15744,
+                    30.984383
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263905",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "af526601-6e44-4dad-91c9-069489df34ef",
+                "url": "https://database.eamena.org/report/af526601-6e44-4dad-91c9-069489df34ef",
+                "edit_url": "https://database.eamena.org/resource/af526601-6e44-4dad-91c9-069489df34ef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1987169999999,
+                    30.9938879999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263917",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "b2ed8646-ee1a-40ac-b003-e5c53945dc5a",
+                "url": "https://database.eamena.org/report/b2ed8646-ee1a-40ac-b003-e5c53945dc5a",
+                "edit_url": "https://database.eamena.org/resource/b2ed8646-ee1a-40ac-b003-e5c53945dc5a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2344089999999,
+                    30.950012
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263949",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "b725c8fd-acf8-4705-bb52-8af73dc8f8ba",
+                "url": "https://database.eamena.org/report/b725c8fd-acf8-4705-bb52-8af73dc8f8ba",
+                "edit_url": "https://database.eamena.org/resource/b725c8fd-acf8-4705-bb52-8af73dc8f8ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0535859999999,
+                    30.9949559999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263976",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "bdbf31b7-feea-4b94-b89e-7785d0e13558",
+                "url": "https://database.eamena.org/report/bdbf31b7-feea-4b94-b89e-7785d0e13558",
+                "edit_url": "https://database.eamena.org/resource/bdbf31b7-feea-4b94-b89e-7785d0e13558"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.01912,
+                    30.982422
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263974",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "c4819c89-fdfb-4ed6-95d5-1eae6ebae316",
+                "url": "https://database.eamena.org/report/c4819c89-fdfb-4ed6-95d5-1eae6ebae316",
+                "edit_url": "https://database.eamena.org/resource/c4819c89-fdfb-4ed6-95d5-1eae6ebae316"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.016463,
+                    30.962945
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263971",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "c9b87902-ec67-4485-81de-484397b8ba33",
+                "url": "https://database.eamena.org/report/c9b87902-ec67-4485-81de-484397b8ba33",
+                "edit_url": "https://database.eamena.org/resource/c9b87902-ec67-4485-81de-484397b8ba33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1481099999999,
+                    30.9857769999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263903",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d2a67212-97a8-44ee-af56-44b7e6e2e6e1",
+                "url": "https://database.eamena.org/report/d2a67212-97a8-44ee-af56-44b7e6e2e6e1",
+                "edit_url": "https://database.eamena.org/resource/d2a67212-97a8-44ee-af56-44b7e6e2e6e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.043033,
+                    30.836134
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263889",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "daf421d8-8e71-4de6-bca5-30345ee04b94",
+                "url": "https://database.eamena.org/report/daf421d8-8e71-4de6-bca5-30345ee04b94",
+                "edit_url": "https://database.eamena.org/resource/daf421d8-8e71-4de6-bca5-30345ee04b94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.055931,
+                    30.93728
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263980",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "e2ff101b-63b9-43dc-8e9e-e304657ceb27",
+                "url": "https://database.eamena.org/report/e2ff101b-63b9-43dc-8e9e-e304657ceb27",
+                "edit_url": "https://database.eamena.org/resource/e2ff101b-63b9-43dc-8e9e-e304657ceb27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.20296,
+                    30.994437
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263919",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "e6e2a606-643d-4b8f-803d-3a0c3921e29f",
+                "url": "https://database.eamena.org/report/e6e2a606-643d-4b8f-803d-3a0c3921e29f",
+                "edit_url": "https://database.eamena.org/resource/e6e2a606-643d-4b8f-803d-3a0c3921e29f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0270259999999,
+                    30.957201
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263973",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ead9ab22-4702-4d72-9c38-993b1f3f7cf9",
+                "url": "https://database.eamena.org/report/ead9ab22-4702-4d72-9c38-993b1f3f7cf9",
+                "edit_url": "https://database.eamena.org/resource/ead9ab22-4702-4d72-9c38-993b1f3f7cf9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.125869,
+                    30.9229759999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263892",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ed5bb34e-ed04-4af5-bc80-2a53ba6ead20",
+                "url": "https://database.eamena.org/report/ed5bb34e-ed04-4af5-bc80-2a53ba6ead20",
+                "edit_url": "https://database.eamena.org/resource/ed5bb34e-ed04-4af5-bc80-2a53ba6ead20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1658389999999,
+                    30.755831
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263888",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "f36812f4-9b7e-489b-8fb7-63a50e2f54f9",
+                "url": "https://database.eamena.org/report/f36812f4-9b7e-489b-8fb7-63a50e2f54f9",
+                "edit_url": "https://database.eamena.org/resource/f36812f4-9b7e-489b-8fb7-63a50e2f54f9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2491619999999,
+                    30.9739329999999
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263927",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "fa9db876-303e-4e3d-a8dd-c3a4c8eb2138",
+                "url": "https://database.eamena.org/report/fa9db876-303e-4e3d-a8dd-c3a4c8eb2138",
+                "edit_url": "https://database.eamena.org/resource/fa9db876-303e-4e3d-a8dd-c3a4c8eb2138"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0081209999999,
+                    31.084643
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263941",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "faff6a82-10ce-4f0b-bb58-049c69ae3a8b",
+                "url": "https://database.eamena.org/report/faff6a82-10ce-4f0b-bb58-049c69ae3a8b",
+                "edit_url": "https://database.eamena.org/resource/faff6a82-10ce-4f0b-bb58-049c69ae3a8b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.170528,
+                    30.966687
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0263911",
+                "dates": [
+                    "2024-07-30"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "fc00786b-e753-42b0-ac9f-a91f1cbf21df",
+                "url": "https://database.eamena.org/report/fc00786b-e753-42b0-ac9f-a91f1cbf21df",
+                "edit_url": "https://database.eamena.org/resource/fc00786b-e753-42b0-ac9f-a91f1cbf21df"
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.03353398512155,
+                            35.2333828112411
+                        ],
+                        [
+                            -4.03386910995206,
+                            35.2331063671992
+                        ],
+                        [
+                            -4.03470041888961,
+                            35.2325098017652
+                        ],
+                        [
+                            -4.03453614558962,
+                            35.2319655035616
+                        ],
+                        [
+                            -4.03406063600676,
+                            35.2316469749782
+                        ],
+                        [
+                            -4.03357909022835,
+                            35.2314447426219
+                        ],
+                        [
+                            -4.03306140116623,
+                            35.2313948548089
+                        ],
+                        [
+                            -4.03264479117714,
+                            35.2316333399058
+                        ],
+                        [
+                            -4.03244701600286,
+                            35.2319423929452
+                        ],
+                        [
+                            -4.03242203211384,
+                            35.2324495657858
+                        ],
+                        [
+                            -4.03268975992016,
+                            35.2329515022971
+                        ],
+                        [
+                            -4.03289819954533,
+                            35.2333818436461
+                        ],
+                        [
+                            -4.03353398512155,
+                            35.2333828112411
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194997",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Athena Trakadas"
+                ],
+                "id": "cdf29473-fbf9-4d13-8e0a-611cbbcab4f1",
+                "url": "https://database.eamena.org/report/cdf29473-fbf9-4d13-8e0a-611cbbcab4f1",
+                "edit_url": "https://database.eamena.org/resource/cdf29473-fbf9-4d13-8e0a-611cbbcab4f1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.025838,
+                    35.234986
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0195008",
+                "dates": [
+                    "2021-07-06"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Athena Trakadas"
+                ],
+                "id": "fdf19082-80ad-48d9-9ded-62d78c9a1396",
+                "url": "https://database.eamena.org/report/fdf19082-80ad-48d9-9ded-62d78c9a1396",
+                "edit_url": "https://database.eamena.org/resource/fdf19082-80ad-48d9-9ded-62d78c9a1396"
+            }
+        }
+    ]
+}

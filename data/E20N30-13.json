@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "3fea93e0-2310-4a9c-97f8-34db9db50195",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            20.074739522,
+                            30.411571034
+                        ],
+                        [
+                            20.074380106,
+                            30.41113847
+                        ],
+                        [
+                            20.074793166,
+                            30.410853949
+                        ],
+                        [
+                            20.075267917,
+                            30.411302706
+                        ],
+                        [
+                            20.074739522,
+                            30.411571034
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161150",
+                "dates": [
+                    "2020-04-20"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Bothaina Gargoum",
+                    "Julia Nikolaus"
+                ],
+                "id": "740e62db-375c-4ced-875b-22faf11cf582",
+                "url": "https://database.eamena.org/report/740e62db-375c-4ced-875b-22faf11cf582",
+                "edit_url": "https://database.eamena.org/resource/740e62db-375c-4ced-875b-22faf11cf582"
+            }
+        }
+    ]
+}

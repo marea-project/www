@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.26632984265143,
+                    28.55664436178095
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0202898",
+                "dates": [
+                    "2020-07-27",
+                    "2020-07-27",
+                    "2020-07-27"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "99fbc3fc-818b-478a-b1f8-5a7bd08844f2",
+                "url": "https://database.eamena.org/report/99fbc3fc-818b-478a-b1f8-5a7bd08844f2",
+                "edit_url": "https://database.eamena.org/resource/99fbc3fc-818b-478a-b1f8-5a7bd08844f2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.26806409176089,
+                    28.5547471227905
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0202899",
+                "dates": [
+                    "2020-07-27",
+                    "2020-07-27",
+                    "2020-07-27"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ce3cf4bf-275a-4aee-96b8-6be42644073c",
+                "url": "https://database.eamena.org/report/ce3cf4bf-275a-4aee-96b8-6be42644073c",
+                "edit_url": "https://database.eamena.org/resource/ce3cf4bf-275a-4aee-96b8-6be42644073c"
+            }
+        }
+    ]
+}

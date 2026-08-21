@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "a6dfb290-11ee-41b0-9dce-94d2d3d3a791",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.062018,
+                    28.728258
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0270938",
+                "dates": [
+                    "2025-04-29"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "062efba0-99d7-4e93-900c-51c927431ce2",
+                "url": "https://database.eamena.org/report/062efba0-99d7-4e93-900c-51c927431ce2",
+                "edit_url": "https://database.eamena.org/resource/062efba0-99d7-4e93-900c-51c927431ce2"
+            }
+        },
+        {
+            "id": "900e8659-615f-4f54-b6f3-3a5c1602cb3b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.074674,
+                    28.691968
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0270937",
+                "dates": [
+                    "2025-04-29"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "62d6e7c4-13bf-4e9d-bc09-ea2e5aae12ac",
+                "url": "https://database.eamena.org/report/62d6e7c4-13bf-4e9d-bc09-ea2e5aae12ac",
+                "edit_url": "https://database.eamena.org/resource/62d6e7c4-13bf-4e9d-bc09-ea2e5aae12ac"
+            }
+        }
+    ]
+}

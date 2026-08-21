@@ -1,0 +1,233 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "67930966-ac24-47d0-8346-e2ccd3af7986",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.157777609,
+                    25.862555838
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189780",
+                "dates": [
+                    "2018-05-08"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "183ba67a-52f8-4445-953f-63aaea352d6a",
+                "url": "https://database.eamena.org/report/183ba67a-52f8-4445-953f-63aaea352d6a",
+                "edit_url": "https://database.eamena.org/resource/183ba67a-52f8-4445-953f-63aaea352d6a"
+            }
+        },
+        {
+            "id": "8f68827f-301b-474f-9384-54b49e996486",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.059551545,
+                    25.995458916
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189775",
+                "dates": [
+                    "2018-05-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "6d153997-750a-44e4-86ca-1578925037f1",
+                "url": "https://database.eamena.org/report/6d153997-750a-44e4-86ca-1578925037f1",
+                "edit_url": "https://database.eamena.org/resource/6d153997-750a-44e4-86ca-1578925037f1"
+            }
+        },
+        {
+            "id": "54a359ae-08a5-4134-b62c-813ae2d77f0e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.13016035,
+                    25.895627883
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189784",
+                "dates": [
+                    "2018-05-08"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "754b0978-b1ec-4193-ae88-bc8981ca6f50",
+                "url": "https://database.eamena.org/report/754b0978-b1ec-4193-ae88-bc8981ca6f50",
+                "edit_url": "https://database.eamena.org/resource/754b0978-b1ec-4193-ae88-bc8981ca6f50"
+            }
+        },
+        {
+            "id": "c266a9ab-850d-41e9-b0bd-959be6a30b64",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.124949621,
+                    25.869102729
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189783",
+                "dates": [
+                    "2018-05-08"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "7597ad89-07c0-43bb-9c33-6474f21a1b6f",
+                "url": "https://database.eamena.org/report/7597ad89-07c0-43bb-9c33-6474f21a1b6f",
+                "edit_url": "https://database.eamena.org/resource/7597ad89-07c0-43bb-9c33-6474f21a1b6f"
+            }
+        },
+        {
+            "id": "b310cde3-0d7b-408d-9700-63f5a1bb0dad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.247652886,
+                    25.774808217
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189786",
+                "dates": [
+                    "2018-05-08"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "7d7b091f-ce0e-4795-8001-8982e8ace8cb",
+                "url": "https://database.eamena.org/report/7d7b091f-ce0e-4795-8001-8982e8ace8cb",
+                "edit_url": "https://database.eamena.org/resource/7d7b091f-ce0e-4795-8001-8982e8ace8cb"
+            }
+        },
+        {
+            "id": "a96e8201-ef90-4427-a537-633ff4d8c07e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.157192972,
+                    25.862487185
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189781",
+                "dates": [
+                    "2018-05-08"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "b7a450fe-8247-4642-9662-908cd9ed04ca",
+                "url": "https://database.eamena.org/report/b7a450fe-8247-4642-9662-908cd9ed04ca",
+                "edit_url": "https://database.eamena.org/resource/b7a450fe-8247-4642-9662-908cd9ed04ca"
+            }
+        },
+        {
+            "id": "b125d850-e8d4-467c-95f7-5a432e27f9b5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.114909325,
+                    25.908430472
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189777",
+                "dates": [
+                    "2018-05-25"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "cafc2282-952c-4016-8639-4f75943da3e0",
+                "url": "https://database.eamena.org/report/cafc2282-952c-4016-8639-4f75943da3e0",
+                "edit_url": "https://database.eamena.org/resource/cafc2282-952c-4016-8639-4f75943da3e0"
+            }
+        },
+        {
+            "id": "b28dde34-23e2-419b-ac9e-210f87e8905f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.247810553,
+                            25.911827267
+                        ],
+                        [
+                            33.24827994,
+                            25.910920141
+                        ],
+                        [
+                            33.248690318,
+                            25.91110591
+                        ],
+                        [
+                            33.248223614,
+                            25.911991321
+                        ],
+                        [
+                            33.247810553,
+                            25.911827267
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189776",
+                "dates": [
+                    "2018-05-24"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "d6cb1ca0-8d3a-4dc5-a368-821e02f55516",
+                "url": "https://database.eamena.org/report/d6cb1ca0-8d3a-4dc5-a368-821e02f55516",
+                "edit_url": "https://database.eamena.org/resource/d6cb1ca0-8d3a-4dc5-a368-821e02f55516"
+            }
+        }
+    ]
+}

@@ -1,0 +1,955 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "f7b2d390-764b-43b4-a6d8-31457c48d808",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.88626642360018,
+                            30.20751723053465
+                        ],
+                        [
+                            47.8859476397745,
+                            30.20669123453774
+                        ],
+                        [
+                            47.88595461034987,
+                            30.20668519512956
+                        ],
+                        [
+                            47.88624751419538,
+                            30.20652804706988
+                        ],
+                        [
+                            47.88672001329139,
+                            30.20746545876367
+                        ],
+                        [
+                            47.88626642360018,
+                            30.20751723053465
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280728",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "0785fde8-e1b9-49da-994b-2dd2b2b99806",
+                "url": "https://database.eamena.org/report/0785fde8-e1b9-49da-994b-2dd2b2b99806",
+                "edit_url": "https://database.eamena.org/resource/0785fde8-e1b9-49da-994b-2dd2b2b99806"
+            }
+        },
+        {
+            "id": "862d5053-2380-4578-b877-767635176752",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.88682956962408,
+                            30.20603884634189
+                        ],
+                        [
+                            47.88688852231726,
+                            30.2058098634937
+                        ],
+                        [
+                            47.88728605472166,
+                            30.205900274732
+                        ],
+                        [
+                            47.88722395577182,
+                            30.20611990886862
+                        ],
+                        [
+                            47.88682956962408,
+                            30.20603884634189
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280730",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "1be001c2-897d-4642-b73e-49c467de08ec",
+                "url": "https://database.eamena.org/report/1be001c2-897d-4642-b73e-49c467de08ec",
+                "edit_url": "https://database.eamena.org/resource/1be001c2-897d-4642-b73e-49c467de08ec"
+            }
+        },
+        {
+            "id": "ed9ca36b-d4ed-4b0b-862c-d57c38c52297",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9589554760621,
+                    30.03426026707163
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280734",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "1ce1d5d6-47b3-4846-9d5c-316a47e3e553",
+                "url": "https://database.eamena.org/report/1ce1d5d6-47b3-4846-9d5c-316a47e3e553",
+                "edit_url": "https://database.eamena.org/resource/1ce1d5d6-47b3-4846-9d5c-316a47e3e553"
+            }
+        },
+        {
+            "id": "fdae0d0c-0b1d-4088-91b7-5cb3cbd60fce",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            48.01693695916225,
+                            29.98179267156485
+                        ],
+                        [
+                            48.0169101645686,
+                            29.98173572619536
+                        ],
+                        [
+                            48.01707051226872,
+                            29.98163407417555
+                        ],
+                        [
+                            48.01712820472682,
+                            29.98169994577074
+                        ],
+                        [
+                            48.01693695916225,
+                            29.98179267156485
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280741",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "1d73ec63-38b0-44e2-87ca-9d09ddf7d70e",
+                "url": "https://database.eamena.org/report/1d73ec63-38b0-44e2-87ca-9d09ddf7d70e",
+                "edit_url": "https://database.eamena.org/resource/1d73ec63-38b0-44e2-87ca-9d09ddf7d70e"
+            }
+        },
+        {
+            "id": "e3f9aba4-7c7d-4630-a71d-58060c23d5e2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            48.22459011028504,
+                            29.98120790844828
+                        ],
+                        [
+                            48.22628294517357,
+                            29.97994727586174
+                        ],
+                        [
+                            48.22654257631431,
+                            29.9801968298963
+                        ],
+                        [
+                            48.22491889878244,
+                            29.98144165268836
+                        ],
+                        [
+                            48.22459011028504,
+                            29.98120790844828
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280740",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "319a2f66-1050-4bef-b04f-164eb054a305",
+                "url": "https://database.eamena.org/report/319a2f66-1050-4bef-b04f-164eb054a305",
+                "edit_url": "https://database.eamena.org/resource/319a2f66-1050-4bef-b04f-164eb054a305"
+            }
+        },
+        {
+            "id": "b94758f4-7044-4f52-9a1c-0e4106ccb4b8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.96059876792063,
+                    30.04140947155697
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280736",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "391dad39-a18c-42a0-a60a-1f5e4d2ebf13",
+                "url": "https://database.eamena.org/report/391dad39-a18c-42a0-a60a-1f5e4d2ebf13",
+                "edit_url": "https://database.eamena.org/resource/391dad39-a18c-42a0-a60a-1f5e4d2ebf13"
+            }
+        },
+        {
+            "id": "5c04f17a-2dce-4e69-a978-7f93b03a7887",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.43955578718674,
+                    29.90394501058434
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280744",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "51c6abfc-096f-4679-bc0f-2d6b275a5e8e",
+                "url": "https://database.eamena.org/report/51c6abfc-096f-4679-bc0f-2d6b275a5e8e",
+                "edit_url": "https://database.eamena.org/resource/51c6abfc-096f-4679-bc0f-2d6b275a5e8e"
+            }
+        },
+        {
+            "id": "ebd62f5d-dd9a-438e-b1af-b98e8f445656",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.99509508425123,
+                    30.00124050055463
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280719",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "73d6ace1-dc5d-4672-affe-4406e94546c8",
+                "url": "https://database.eamena.org/report/73d6ace1-dc5d-4672-affe-4406e94546c8",
+                "edit_url": "https://database.eamena.org/resource/73d6ace1-dc5d-4672-affe-4406e94546c8"
+            }
+        },
+        {
+            "id": "f528eb89-3cca-42bf-b68c-0faf1c0591de",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.93382536729334,
+                            30.11401027047383
+                        ],
+                        [
+                            47.93386811946746,
+                            30.11391739849173
+                        ],
+                        [
+                            47.93421922615565,
+                            30.11416528910249
+                        ],
+                        [
+                            47.93414054666966,
+                            30.11422727165786
+                        ],
+                        [
+                            47.93382536729334,
+                            30.11401027047383
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280731",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "7802d6ff-e064-4122-bdc3-8beb90e25455",
+                "url": "https://database.eamena.org/report/7802d6ff-e064-4122-bdc3-8beb90e25455",
+                "edit_url": "https://database.eamena.org/resource/7802d6ff-e064-4122-bdc3-8beb90e25455"
+            }
+        },
+        {
+            "id": "46b9759f-bd61-471a-9162-ba6083779d4f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.00808777172147,
+                    29.80400103316195
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280738",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "7c2526e7-5ad8-4f15-a5d4-e571a48ff95c",
+                "url": "https://database.eamena.org/report/7c2526e7-5ad8-4f15-a5d4-e571a48ff95c",
+                "edit_url": "https://database.eamena.org/resource/7c2526e7-5ad8-4f15-a5d4-e571a48ff95c"
+            }
+        },
+        {
+            "id": "2c327e4d-f4b4-4264-ab2f-9d02fa326bc8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.43193287397392,
+                    29.90730034273561
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280743",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "8861e49a-6f0e-4094-b8e3-8d13b6d52f72",
+                "url": "https://database.eamena.org/report/8861e49a-6f0e-4094-b8e3-8d13b6d52f72",
+                "edit_url": "https://database.eamena.org/resource/8861e49a-6f0e-4094-b8e3-8d13b6d52f72"
+            }
+        },
+        {
+            "id": "a14dee45-1234-4ee9-a642-4459a659212d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.95924210093472,
+                    30.03620245970482
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280735",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "98308e7a-59d8-413d-a689-548ee81f3c99",
+                "url": "https://database.eamena.org/report/98308e7a-59d8-413d-a689-548ee81f3c99",
+                "edit_url": "https://database.eamena.org/resource/98308e7a-59d8-413d-a689-548ee81f3c99"
+            }
+        },
+        {
+            "id": "0362733d-f903-4e27-b445-ebd1648ef9cb",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.89428713122092,
+                            30.17537510749314
+                        ],
+                        [
+                            47.89430896121713,
+                            30.17515652234315
+                        ],
+                        [
+                            47.89431845282355,
+                            30.17515650330696
+                        ],
+                        [
+                            47.89457180976364,
+                            30.17516693279497
+                        ],
+                        [
+                            47.89454987159203,
+                            30.17532829834106
+                        ],
+                        [
+                            47.89428713122092,
+                            30.17537510749314
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280726",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "9b75a0a1-5c2a-4751-9e49-6555eb82bb9b",
+                "url": "https://database.eamena.org/report/9b75a0a1-5c2a-4751-9e49-6555eb82bb9b",
+                "edit_url": "https://database.eamena.org/resource/9b75a0a1-5c2a-4751-9e49-6555eb82bb9b"
+            }
+        },
+        {
+            "id": "01fb9e48-02f6-4b5a-b61a-48bfcd8f39dd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.95477589583918,
+                            30.0807744620233
+                        ],
+                        [
+                            47.95458124022146,
+                            30.08029777716188
+                        ],
+                        [
+                            47.95483410551773,
+                            30.08030708436695
+                        ],
+                        [
+                            47.95500709481671,
+                            30.08071905720044
+                        ],
+                        [
+                            47.95477589583918,
+                            30.0807744620233
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280732",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "9d3b196f-a081-4159-aa7e-fba107c46ff4",
+                "url": "https://database.eamena.org/report/9d3b196f-a081-4159-aa7e-fba107c46ff4",
+                "edit_url": "https://database.eamena.org/resource/9d3b196f-a081-4159-aa7e-fba107c46ff4"
+            }
+        },
+        {
+            "id": "84dd4795-044c-4464-8fd2-7678a75e3536",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.99982841318751,
+                    30.00042420338576
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280720",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "9efc6869-6336-4f01-a1ad-977841449327",
+                "url": "https://database.eamena.org/report/9efc6869-6336-4f01-a1ad-977841449327",
+                "edit_url": "https://database.eamena.org/resource/9efc6869-6336-4f01-a1ad-977841449327"
+            }
+        },
+        {
+            "id": "5b7e4e9f-e9b2-4c69-9238-fb6d12efa9ea",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.88720778655902,
+                            30.2069341257749
+                        ],
+                        [
+                            47.88741951712576,
+                            30.20624936378285
+                        ],
+                        [
+                            47.88763198526373,
+                            30.20632166282475
+                        ],
+                        [
+                            47.8874661063016,
+                            30.20698812493823
+                        ],
+                        [
+                            47.88720778655902,
+                            30.2069341257749
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280729",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "b45128bd-6b4b-420d-b0cb-c50cc1ec0cf8",
+                "url": "https://database.eamena.org/report/b45128bd-6b4b-420d-b0cb-c50cc1ec0cf8",
+                "edit_url": "https://database.eamena.org/resource/b45128bd-6b4b-420d-b0cb-c50cc1ec0cf8"
+            }
+        },
+        {
+            "id": "1203d020-e08f-453d-9af8-e3232b32ba8e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.99622680873753,
+                    30.02695803032944
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280737",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "b5f434c6-c7b0-4447-958c-b1bbe3f86d17",
+                "url": "https://database.eamena.org/report/b5f434c6-c7b0-4447-958c-b1bbe3f86d17",
+                "edit_url": "https://database.eamena.org/resource/b5f434c6-c7b0-4447-958c-b1bbe3f86d17"
+            }
+        },
+        {
+            "id": "9f16254a-5e32-4043-a7e6-c4b11c4f4368",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.958965301452,
+                    30.03235944596522
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280733",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "bc454374-736a-4f2b-81cb-c59c259052b3",
+                "url": "https://database.eamena.org/report/bc454374-736a-4f2b-81cb-c59c259052b3",
+                "edit_url": "https://database.eamena.org/resource/bc454374-736a-4f2b-81cb-c59c259052b3"
+            }
+        },
+        {
+            "id": "6341acea-33f9-47b7-a231-b68941e9e566",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9713498060071,
+                    30.01342138809418
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280721",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "bc454d16-b662-4abb-8cb5-79f839638edd",
+                "url": "https://database.eamena.org/report/bc454d16-b662-4abb-8cb5-79f839638edd",
+                "edit_url": "https://database.eamena.org/resource/bc454d16-b662-4abb-8cb5-79f839638edd"
+            }
+        },
+        {
+            "id": "5bd92b13-0703-4fe2-8ced-2824ad5810d6",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.893948129575,
+                            30.17727490220576
+                        ],
+                        [
+                            47.89401763381764,
+                            30.17703456996406
+                        ],
+                        [
+                            47.89426088975755,
+                            30.1770782657735
+                        ],
+                        [
+                            47.89425457214725,
+                            30.17726670848917
+                        ],
+                        [
+                            47.893948129575,
+                            30.17727490220576
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280725",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "bcb6f125-3899-46c5-a879-91ea5621a97c",
+                "url": "https://database.eamena.org/report/bcb6f125-3899-46c5-a879-91ea5621a97c",
+                "edit_url": "https://database.eamena.org/resource/bcb6f125-3899-46c5-a879-91ea5621a97c"
+            }
+        },
+        {
+            "id": "df31f20f-89f2-43ba-bd6c-56d3a17618c4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.8942201586011,
+                            30.17499829644794
+                        ],
+                        [
+                            47.89422909022559,
+                            30.17464321846035
+                        ],
+                        [
+                            47.894494940092,
+                            30.1746422029983
+                        ],
+                        [
+                            47.8944511610589,
+                            30.17500317094453
+                        ],
+                        [
+                            47.8942201586011,
+                            30.17499829644794
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280727",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "c6ca668f-306b-4d8a-b803-e74568c8cf04",
+                "url": "https://database.eamena.org/report/c6ca668f-306b-4d8a-b803-e74568c8cf04",
+                "edit_url": "https://database.eamena.org/resource/c6ca668f-306b-4d8a-b803-e74568c8cf04"
+            }
+        },
+        {
+            "id": "b6b34dc8-bdcd-47c9-baf1-0eb5b7f2641e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.89428916168443,
+                    30.16832585611334
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280723",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "d1292e25-f849-4731-8a1c-ff50be53eb4d",
+                "url": "https://database.eamena.org/report/d1292e25-f849-4731-8a1c-ff50be53eb4d",
+                "edit_url": "https://database.eamena.org/resource/d1292e25-f849-4731-8a1c-ff50be53eb4d"
+            }
+        },
+        {
+            "id": "711b8422-9e55-41b2-9a5e-f2fe7d83a106",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.86131978423245,
+                    30.21927694174796
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280722",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "da58aec9-b99d-4dba-9922-ee68a7bfda4a",
+                "url": "https://database.eamena.org/report/da58aec9-b99d-4dba-9922-ee68a7bfda4a",
+                "edit_url": "https://database.eamena.org/resource/da58aec9-b99d-4dba-9922-ee68a7bfda4a"
+            }
+        },
+        {
+            "id": "681b9a4c-0511-4e3b-87e9-8c0482e5b5e7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.89403528565847,
+                            30.1760215738019
+                        ],
+                        [
+                            47.89405694834143,
+                            30.17574627296774
+                        ],
+                        [
+                            47.89438543121578,
+                            30.17575717646881
+                        ],
+                        [
+                            47.8943412497706,
+                            30.17600500601666
+                        ],
+                        [
+                            47.89403528565847,
+                            30.1760215738019
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280724",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "e77cf3b4-daa1-43e9-aba7-90cea0ff24e0",
+                "url": "https://database.eamena.org/report/e77cf3b4-daa1-43e9-aba7-90cea0ff24e0",
+                "edit_url": "https://database.eamena.org/resource/e77cf3b4-daa1-43e9-aba7-90cea0ff24e0"
+            }
+        },
+        {
+            "id": "c3e25212-152e-4aca-9513-5e143b7b8967",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            48.21330396626525,
+                            29.97561513643468
+                        ],
+                        [
+                            48.21354814158307,
+                            29.97532197270781
+                        ],
+                        [
+                            48.21540823157788,
+                            29.97606296488908
+                        ],
+                        [
+                            48.21518629389953,
+                            29.97649294135842
+                        ],
+                        [
+                            48.21330396626525,
+                            29.97561513643468
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280739",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "ec50ba09-dd51-4334-8604-e1d4f59338a3",
+                "url": "https://database.eamena.org/report/ec50ba09-dd51-4334-8604-e1d4f59338a3",
+                "edit_url": "https://database.eamena.org/resource/ec50ba09-dd51-4334-8604-e1d4f59338a3"
+            }
+        },
+        {
+            "id": "1f7f8142-fc39-4788-9046-7933d1ccda71",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.481842580491,
+                    29.97635323751107
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280742",
+                "dates": [
+                    "2025-12-19"
+                ],
+                "countries": [
+                    "Iraq"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "f34d9e61-80a7-4257-a34a-24473b047843",
+                "url": "https://database.eamena.org/report/f34d9e61-80a7-4257-a34a-24473b047843",
+                "edit_url": "https://database.eamena.org/resource/f34d9e61-80a7-4257-a34a-24473b047843"
+            }
+        }
+    ]
+}

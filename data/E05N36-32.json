@@ -1,0 +1,113 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "6acbdc9c-4ded-4e69-bfc1-191487d0a267",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45,
+                    36.65
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279698",
+                "dates": [
+                    "2025-11-08"
+                ],
+                "countries": [
+                    "Algeria"
+                ],
+                "people": [
+                    "Jen Makovics"
+                ],
+                "id": "2dffc7d5-2d61-45d4-94e8-780496b844af",
+                "url": "https://database.eamena.org/report/2dffc7d5-2d61-45d4-94e8-780496b844af",
+                "edit_url": "https://database.eamena.org/resource/2dffc7d5-2d61-45d4-94e8-780496b844af"
+            }
+        },
+        {
+            "id": "f9fe051c-77b5-4d17-963c-4327b4e5a92d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.370837,
+                    36.644961
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0270862",
+                "dates": [
+                    "2025-04-12"
+                ],
+                "countries": [
+                    "Algeria"
+                ],
+                "people": [
+                    "Jen Makovics"
+                ],
+                "id": "70f26f8e-c9de-41e9-b605-af9ba669d796",
+                "url": "https://database.eamena.org/report/70f26f8e-c9de-41e9-b605-af9ba669d796",
+                "edit_url": "https://database.eamena.org/resource/70f26f8e-c9de-41e9-b605-af9ba669d796"
+            }
+        },
+        {
+            "id": "2bec9614-c1c6-48c8-99b5-4bc643316998",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.25038,
+                    36.62509
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279699",
+                "dates": [
+                    "2025-11-08"
+                ],
+                "countries": [
+                    "Algeria"
+                ],
+                "people": [
+                    "Jen Makovics"
+                ],
+                "id": "95ef93e5-4828-4bda-99d0-864e15e80a57",
+                "url": "https://database.eamena.org/report/95ef93e5-4828-4bda-99d0-864e15e80a57",
+                "edit_url": "https://database.eamena.org/resource/95ef93e5-4828-4bda-99d0-864e15e80a57"
+            }
+        },
+        {
+            "id": "0ce0f321-df80-46a0-b874-1f18cc0bd05d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.370104,
+                    36.642966
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0270860",
+                "dates": [
+                    "2025-04-05"
+                ],
+                "countries": [
+                    "Algeria"
+                ],
+                "people": [
+                    "Jen Makovics"
+                ],
+                "id": "d6cfdb44-0f40-4457-ae54-e66ffd357a00",
+                "url": "https://database.eamena.org/report/d6cfdb44-0f40-4457-ae54-e66ffd357a00",
+                "edit_url": "https://database.eamena.org/resource/d6cfdb44-0f40-4457-ae54-e66ffd357a00"
+            }
+        }
+    ]
+}

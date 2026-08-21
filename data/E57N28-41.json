@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.6805555555556,
+                    28.6802777777778
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0233040",
+                "dates": [
+                    "2023-08-15"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "0dc55a98-5c8e-41d0-8f39-a8e03ba3cfab",
+                "url": "https://database.eamena.org/report/0dc55a98-5c8e-41d0-8f39-a8e03ba3cfab",
+                "edit_url": "https://database.eamena.org/resource/0dc55a98-5c8e-41d0-8f39-a8e03ba3cfab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.065,
+                    27.9375
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0233041",
+                "dates": [
+                    "2023-08-15"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "12338192-f34e-40cc-be1e-13d5ec9da492",
+                "url": "https://database.eamena.org/report/12338192-f34e-40cc-be1e-13d5ec9da492",
+                "edit_url": "https://database.eamena.org/resource/12338192-f34e-40cc-be1e-13d5ec9da492"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.0663888888889,
+                    27.9352777777778
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0233042",
+                "dates": [
+                    "2023-08-15"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "e8b83cfb-9ada-4ddd-9a70-0994e82612a1",
+                "url": "https://database.eamena.org/report/e8b83cfb-9ada-4ddd-9a70-0994e82612a1",
+                "edit_url": "https://database.eamena.org/resource/e8b83cfb-9ada-4ddd-9a70-0994e82612a1"
+            }
+        }
+    ]
+}

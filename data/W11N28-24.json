@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.02061373381236,
+                    28.34741480791046
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0202907",
+                "dates": [
+                    "2020-07-27",
+                    "2020-07-27",
+                    "2020-07-27"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "034ee6ab-6a32-43a8-b5c5-1b226dbc843a",
+                "url": "https://database.eamena.org/report/034ee6ab-6a32-43a8-b5c5-1b226dbc843a",
+                "edit_url": "https://database.eamena.org/resource/034ee6ab-6a32-43a8-b5c5-1b226dbc843a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.07862707363998,
+                    28.47422412418694
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0202896",
+                "dates": [
+                    "2020-07-27",
+                    "2020-07-27",
+                    "2020-07-27"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4482dea1-2b77-402f-b50e-9e96c8ec9ecc",
+                "url": "https://database.eamena.org/report/4482dea1-2b77-402f-b50e-9e96c8ec9ecc",
+                "edit_url": "https://database.eamena.org/resource/4482dea1-2b77-402f-b50e-9e96c8ec9ecc"
+            }
+        }
+    ]
+}

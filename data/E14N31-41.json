@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "b0c608ca-7e19-403d-891f-58e464b54307",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64204017,
+                    31.72550885
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189346",
+                "dates": [
+                    "2020-05-01",
+                    "2019-07-17"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nichole Sheldrick"
+                ],
+                "id": "5faa5fc2-4b88-44a3-b1b0-877176342a41",
+                "url": "https://database.eamena.org/report/5faa5fc2-4b88-44a3-b1b0-877176342a41",
+                "edit_url": "https://database.eamena.org/resource/5faa5fc2-4b88-44a3-b1b0-877176342a41"
+            }
+        },
+        {
+            "id": "ab4bc775-b844-4c17-9c11-ba69ecac5b0d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51478015,
+                    31.7256894
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0189348",
+                "dates": [
+                    "2019-07-17",
+                    "2020-05-01"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nichole Sheldrick"
+                ],
+                "id": "e72b1ed0-fdbc-4c35-b2e1-cd2245162252",
+                "url": "https://database.eamena.org/report/e72b1ed0-fdbc-4c35-b2e1-cd2245162252",
+                "edit_url": "https://database.eamena.org/resource/e72b1ed0-fdbc-4c35-b2e1-cd2245162252"
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "46dbb718-1e59-45bc-928d-422e2537a997",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.246807,
+                    31.546299
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282816",
+                "dates": [
+                    "2020-01-18",
+                    "2023-11-22"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "451b1e5a-21e9-4045-b7cd-3debaa10268c",
+                "url": "https://database.eamena.org/report/451b1e5a-21e9-4045-b7cd-3debaa10268c",
+                "edit_url": "https://database.eamena.org/resource/451b1e5a-21e9-4045-b7cd-3debaa10268c"
+            }
+        },
+        {
+            "id": "58d5b1d8-02e5-41c8-afde-7dfd791feb5a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.022922,
+                    31.601674
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282811",
+                "dates": [
+                    "2020-01-18",
+                    "2023-11-23"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "8bd52653-05ee-4c98-a3d0-f8c8bda5ceb6",
+                "url": "https://database.eamena.org/report/8bd52653-05ee-4c98-a3d0-f8c8bda5ceb6",
+                "edit_url": "https://database.eamena.org/resource/8bd52653-05ee-4c98-a3d0-f8c8bda5ceb6"
+            }
+        },
+        {
+            "id": "a012c776-9e4b-4e77-8075-4315269992d9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.097818,
+                    31.58692
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282812",
+                "dates": [
+                    "2020-01-18",
+                    "2023-11-23"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "a1fc075f-204f-4204-84c1-426aeea1b17c",
+                "url": "https://database.eamena.org/report/a1fc075f-204f-4204-84c1-426aeea1b17c",
+                "edit_url": "https://database.eamena.org/resource/a1fc075f-204f-4204-84c1-426aeea1b17c"
+            }
+        },
+        {
+            "id": "f5683468-4fe0-4114-903c-5185d79ef46c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.117455,
+                    31.58296
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282813",
+                "dates": [
+                    "2020-01-18",
+                    "2023-11-23"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "fbb6c10d-d7ca-4a64-bb0d-41cc5b535685",
+                "url": "https://database.eamena.org/report/fbb6c10d-d7ca-4a64-bb0d-41cc5b535685",
+                "edit_url": "https://database.eamena.org/resource/fbb6c10d-d7ca-4a64-bb0d-41cc5b535685"
+            }
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7443,
+                    28.3975
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0207279",
+                "dates": [
+                    "2022-08-26"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "153a79d6-6872-4654-8e02-a994937bd88e",
+                "url": "https://database.eamena.org/report/153a79d6-6872-4654-8e02-a994937bd88e",
+                "edit_url": "https://database.eamena.org/resource/153a79d6-6872-4654-8e02-a994937bd88e"
+            }
+        },
+        {
+            "id": "d2745eca-e616-41cf-bc00-a0b9d0f36ed7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.51705294396352,
+                            28.49441522647949,
+                            0
+                        ],
+                        [
+                            34.51693743512519,
+                            28.49401187844548,
+                            0
+                        ],
+                        [
+                            34.51724482109405,
+                            28.49380313241669,
+                            0
+                        ],
+                        [
+                            34.51740280557291,
+                            28.49426468903415,
+                            0
+                        ],
+                        [
+                            34.51705294396352,
+                            28.49441522647949,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "E34N28-23",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#m_ylw-pushpin3200",
+                "styleHash": "-5ecb1025",
+                "icon-scale": 1.1,
+                "description": "Nabataean port",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin4200",
+                    "highlight": "#s_ylw-pushpin_hl1800"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182957",
+                "dates": [
+                    "2021-07-06",
+                    "2021-07-06"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "1864f896-a39a-4261-be13-1a7d30a7f5d5",
+                "url": "https://database.eamena.org/report/1864f896-a39a-4261-be13-1a7d30a7f5d5",
+                "edit_url": "https://database.eamena.org/resource/1864f896-a39a-4261-be13-1a7d30a7f5d5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7291,
+                    28.3577
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0207278",
+                "dates": [
+                    "2022-08-26"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "1c55b3f5-d18a-448e-b582-578b4e83ccd6",
+                "url": "https://database.eamena.org/report/1c55b3f5-d18a-448e-b582-578b4e83ccd6",
+                "edit_url": "https://database.eamena.org/resource/1c55b3f5-d18a-448e-b582-578b4e83ccd6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7402,
+                    28.4001
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0207280",
+                "dates": [
+                    "2022-08-26"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2bd2cdde-78d5-48fa-bd39-b25ae76ee87f",
+                "url": "https://database.eamena.org/report/2bd2cdde-78d5-48fa-bd39-b25ae76ee87f",
+                "edit_url": "https://database.eamena.org/resource/2bd2cdde-78d5-48fa-bd39-b25ae76ee87f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9155,
+                    28.2969
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220486",
+                "dates": [
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2e57e094-7ea2-42c7-a4ac-d3403c24b8ff",
+                "url": "https://database.eamena.org/report/2e57e094-7ea2-42c7-a4ac-d3403c24b8ff",
+                "edit_url": "https://database.eamena.org/resource/2e57e094-7ea2-42c7-a4ac-d3403c24b8ff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7405,
+                    28.4012
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0207281",
+                "dates": [
+                    "2022-08-26"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "bf3fe4c2-29a1-4f50-8b60-224fa8893df7",
+                "url": "https://database.eamena.org/report/bf3fe4c2-29a1-4f50-8b60-224fa8893df7",
+                "edit_url": "https://database.eamena.org/resource/bf3fe4c2-29a1-4f50-8b60-224fa8893df7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7461,
+                    28.3952
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0207282",
+                "dates": [
+                    "2022-08-26"
+                ],
+                "countries": [
+                    "Saudi Arabia"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "f24a9de5-b983-47dd-92d3-2132ac6a8baa",
+                "url": "https://database.eamena.org/report/f24a9de5-b983-47dd-92d3-2132ac6a8baa",
+                "edit_url": "https://database.eamena.org/resource/f24a9de5-b983-47dd-92d3-2132ac6a8baa"
+            }
+        }
+    ]
+}

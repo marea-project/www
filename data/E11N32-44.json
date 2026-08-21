@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "fe35ada7-c8d0-4d07-9ca0-27c0e8be37c5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.764156,
+                    32.966185
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282735",
+                "dates": [
+                    "2025-10-27"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4388366d-a0b7-4fcc-a31e-e79181e621d3",
+                "url": "https://database.eamena.org/report/4388366d-a0b7-4fcc-a31e-e79181e621d3",
+                "edit_url": "https://database.eamena.org/resource/4388366d-a0b7-4fcc-a31e-e79181e621d3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.96912830962252,
+                    32.98481659254709
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0220570",
+                "dates": [
+                    "2023-03-01"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "5975c18f-8120-4f19-9fd5-af6340bfaba0",
+                "url": "https://database.eamena.org/report/5975c18f-8120-4f19-9fd5-af6340bfaba0",
+                "edit_url": "https://database.eamena.org/resource/5975c18f-8120-4f19-9fd5-af6340bfaba0"
+            }
+        }
+    ]
+}

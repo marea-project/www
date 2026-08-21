@@ -1,0 +1,651 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "86b654b1-a002-4f7b-9736-f4abca10ea54",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.530440652,
+                            32.628531284
+                        ],
+                        [
+                            22.528949344,
+                            32.627184961
+                        ],
+                        [
+                            22.529990041,
+                            32.623534428
+                        ],
+                        [
+                            22.531835401,
+                            32.622820568
+                        ],
+                        [
+                            22.53349837,
+                            32.626181983
+                        ],
+                        [
+                            22.537414396,
+                            32.627175926
+                        ],
+                        [
+                            22.539570892,
+                            32.62640788
+                        ],
+                        [
+                            22.539935672,
+                            32.629751089
+                        ],
+                        [
+                            22.538841331,
+                            32.631287116
+                        ],
+                        [
+                            22.537317836,
+                            32.631576248
+                        ],
+                        [
+                            22.536491716,
+                            32.630202864
+                        ],
+                        [
+                            22.534560525,
+                            32.630094439
+                        ],
+                        [
+                            22.533562743,
+                            32.629534236
+                        ],
+                        [
+                            22.530440652,
+                            32.628531284
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162783",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-02",
+                    "2020-04-29",
+                    "2020-04-29"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Asherf Zurgani",
+                    "Nichole Sheldrick"
+                ],
+                "id": "094a16a5-0c4b-4798-874d-0c0073b13aa4",
+                "url": "https://database.eamena.org/report/094a16a5-0c4b-4798-874d-0c0073b13aa4",
+                "edit_url": "https://database.eamena.org/resource/094a16a5-0c4b-4798-874d-0c0073b13aa4"
+            }
+        },
+        {
+            "id": "59560660-ed16-4da3-9296-7b34481bfe65",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.504754516,
+                            32.686727514
+                        ],
+                        [
+                            22.503231021,
+                            32.68650177
+                        ],
+                        [
+                            22.502297612,
+                            32.684704822
+                        ],
+                        [
+                            22.503037902,
+                            32.683729579
+                        ],
+                        [
+                            22.505752297,
+                            32.68381085
+                        ],
+                        [
+                            22.507619115,
+                            32.684605492
+                        ],
+                        [
+                            22.507715674,
+                            32.685661995
+                        ],
+                        [
+                            22.506578418,
+                            32.686546919
+                        ],
+                        [
+                            22.505419703,
+                            32.686393412
+                        ],
+                        [
+                            22.504754516,
+                            32.686727514
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162610",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-02",
+                    "2020-04-29",
+                    "2020-04-29"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Dawoud Husayn",
+                    "Nichole Sheldrick"
+                ],
+                "id": "1909a316-144a-4ca8-a189-e76301b834b6",
+                "url": "https://database.eamena.org/report/1909a316-144a-4ca8-a189-e76301b834b6",
+                "edit_url": "https://database.eamena.org/resource/1909a316-144a-4ca8-a189-e76301b834b6"
+            }
+        },
+        {
+            "id": "b8c800eb-64b7-4771-96c3-90a853eff961",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.545975514,
+                            32.601571076
+                        ],
+                        [
+                            22.544296451,
+                            32.601471654
+                        ],
+                        [
+                            22.543148465,
+                            32.599691074
+                        ],
+                        [
+                            22.544430561,
+                            32.598728462
+                        ],
+                        [
+                            22.54821784,
+                            32.598353357
+                        ],
+                        [
+                            22.548673816,
+                            32.600201752
+                        ],
+                        [
+                            22.545975514,
+                            32.601571076
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162675",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-29",
+                    "2020-04-02",
+                    "2020-04-29"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nader El Kanadi",
+                    "Nichole Sheldrick"
+                ],
+                "id": "32325bb5-9ec2-4af4-a042-2571a1a16c21",
+                "url": "https://database.eamena.org/report/32325bb5-9ec2-4af4-a042-2571a1a16c21",
+                "edit_url": "https://database.eamena.org/resource/32325bb5-9ec2-4af4-a042-2571a1a16c21"
+            }
+        },
+        {
+            "id": "821ad7fa-870b-4c4c-b4f4-a40b1fa9d579",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.503028922,
+                            32.693082011
+                        ],
+                        [
+                            22.502599768,
+                            32.692702786
+                        ],
+                        [
+                            22.502621226,
+                            32.692066228
+                        ],
+                        [
+                            22.502964549,
+                            32.691524472
+                        ],
+                        [
+                            22.503393702,
+                            32.691393547
+                        ],
+                        [
+                            22.50511568,
+                            32.69115427
+                        ],
+                        [
+                            22.505421452,
+                            32.691560589
+                        ],
+                        [
+                            22.506065182,
+                            32.691975935
+                        ],
+                        [
+                            22.505888157,
+                            32.693203904
+                        ],
+                        [
+                            22.503978424,
+                            32.692914972
+                        ],
+                        [
+                            22.503028922,
+                            32.693082011
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162607",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-29",
+                    "2020-04-02",
+                    "2020-04-29"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Dawoud Husayn",
+                    "Nichole Sheldrick"
+                ],
+                "id": "3a1fafa0-c861-40ac-928d-1428563dd90d",
+                "url": "https://database.eamena.org/report/3a1fafa0-c861-40ac-928d-1428563dd90d",
+                "edit_url": "https://database.eamena.org/resource/3a1fafa0-c861-40ac-928d-1428563dd90d"
+            }
+        },
+        {
+            "id": "27d53a8c-b0c9-47a1-a939-88956c48ee2d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.544638223,
+                            32.602669713
+                        ],
+                        [
+                            22.544219798,
+                            32.602267509
+                        ],
+                        [
+                            22.5451693,
+                            32.601603191
+                        ],
+                        [
+                            22.545593089,
+                            32.601589634
+                        ],
+                        [
+                            22.545947141,
+                            32.602068666
+                        ],
+                        [
+                            22.545475072,
+                            32.602687789
+                        ],
+                        [
+                            22.544879622,
+                            32.602796248
+                        ],
+                        [
+                            22.544638223,
+                            32.602669713
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161189",
+                "dates": [
+                    "2020-04-27",
+                    "2003-05-28",
+                    "2020-04-27"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4977109c-1726-4ac1-99e7-3459ff76e29b",
+                "url": "https://database.eamena.org/report/4977109c-1726-4ac1-99e7-3459ff76e29b",
+                "edit_url": "https://database.eamena.org/resource/4977109c-1726-4ac1-99e7-3459ff76e29b"
+            }
+        },
+        {
+            "id": "6409b831-4b74-41e3-ab98-0ca15a183181",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.717037943,
+                    32.610438997
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162507",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-29",
+                    "2020-04-29",
+                    "2020-04-02"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Muhamed Bin Jumaa",
+                    "Nichole Sheldrick"
+                ],
+                "id": "6da1107f-68a0-43b2-b966-540aa5ea45c7",
+                "url": "https://database.eamena.org/report/6da1107f-68a0-43b2-b966-540aa5ea45c7",
+                "edit_url": "https://database.eamena.org/resource/6da1107f-68a0-43b2-b966-540aa5ea45c7"
+            }
+        },
+        {
+            "id": "2d38704f-e646-4be5-b960-cdccc6afd53a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.650498985,
+                    32.726345567
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162406",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-02",
+                    "2020-04-29",
+                    "2020-04-29"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Abduraouf Aldarebi",
+                    "Nichole Sheldrick"
+                ],
+                "id": "6f8001b6-7e42-4a1a-b1bb-333410dd5495",
+                "url": "https://database.eamena.org/report/6f8001b6-7e42-4a1a-b1bb-333410dd5495",
+                "edit_url": "https://database.eamena.org/resource/6f8001b6-7e42-4a1a-b1bb-333410dd5495"
+            }
+        },
+        {
+            "id": "066426a1-3364-4da4-83bd-d88177ee4f69",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.648453314,
+                    32.691299137
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162629",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-02",
+                    "2020-04-29",
+                    "2020-04-29"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nichole Sheldrick",
+                    "Lamin Abdulaati"
+                ],
+                "id": "710c8ef0-9a81-4119-b294-fb12787dd14c",
+                "url": "https://database.eamena.org/report/710c8ef0-9a81-4119-b294-fb12787dd14c",
+                "edit_url": "https://database.eamena.org/resource/710c8ef0-9a81-4119-b294-fb12787dd14c"
+            }
+        },
+        {
+            "id": "ecd4e7f9-8e78-4c5b-8f4a-7d086a3f89c9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.547617818,
+                            32.700021081
+                        ],
+                        [
+                            22.546995546,
+                            32.699678
+                        ],
+                        [
+                            22.547033097,
+                            32.699362003
+                        ],
+                        [
+                            22.548653151,
+                            32.699240118
+                        ],
+                        [
+                            22.548996474,
+                            32.699975939
+                        ],
+                        [
+                            22.549532915,
+                            32.700012052
+                        ],
+                        [
+                            22.549736763,
+                            32.700386732
+                        ],
+                        [
+                            22.54856732,
+                            32.700553757
+                        ],
+                        [
+                            22.547687556,
+                            32.700269362
+                        ],
+                        [
+                            22.547617818,
+                            32.700021081
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162634",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-02",
+                    "2020-04-29",
+                    "2020-04-29"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Lamin Abdulaati",
+                    "Nichole Sheldrick"
+                ],
+                "id": "bda0f672-af5e-4cf0-aeb7-c7fcf26da22e",
+                "url": "https://database.eamena.org/report/bda0f672-af5e-4cf0-aeb7-c7fcf26da22e",
+                "edit_url": "https://database.eamena.org/resource/bda0f672-af5e-4cf0-aeb7-c7fcf26da22e"
+            }
+        },
+        {
+            "id": "0e5156da-a95a-48a6-9635-0900f6fc1329",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.627419318,
+                            32.66549234
+                        ],
+                        [
+                            22.627043809,
+                            32.664814944
+                        ],
+                        [
+                            22.627242292,
+                            32.663898192
+                        ],
+                        [
+                            22.628669228,
+                            32.663943352
+                        ],
+                        [
+                            22.629345144,
+                            32.664331731
+                        ],
+                        [
+                            22.629318322,
+                            32.665144611
+                        ],
+                        [
+                            22.628626312,
+                            32.665623303
+                        ],
+                        [
+                            22.627419318,
+                            32.66549234
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162616",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-02",
+                    "2020-04-29",
+                    "2020-04-29"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Dawoud Husayn",
+                    "Nichole Sheldrick"
+                ],
+                "id": "c6cd3d28-6aab-46a3-96fd-1684db2611b6",
+                "url": "https://database.eamena.org/report/c6cd3d28-6aab-46a3-96fd-1684db2611b6",
+                "edit_url": "https://database.eamena.org/resource/c6cd3d28-6aab-46a3-96fd-1684db2611b6"
+            }
+        },
+        {
+            "id": "1ddbb540-3f0d-4d81-a6b3-e406dc5c484f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.636580243,
+                            32.656482406
+                        ],
+                        [
+                            22.635679021,
+                            32.653212461
+                        ],
+                        [
+                            22.637696042,
+                            32.652688536
+                        ],
+                        [
+                            22.638804059,
+                            32.653921678
+                        ],
+                        [
+                            22.643468156,
+                            32.651929743
+                        ],
+                        [
+                            22.644605412,
+                            32.653537654
+                        ],
+                        [
+                            22.639519944,
+                            32.658216692
+                        ],
+                        [
+                            22.637738957,
+                            32.65872252
+                        ],
+                        [
+                            22.636580243,
+                            32.656482406
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162570",
+                "dates": [
+                    "2020-04-29",
+                    "2020-04-02",
+                    "2020-04-29",
+                    "2020-04-29"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nichole Sheldrick",
+                    "Dawoud Husayn"
+                ],
+                "id": "ebc15eeb-0e9d-48ed-a357-455d319424e1",
+                "url": "https://database.eamena.org/report/ebc15eeb-0e9d-48ed-a357-455d319424e1",
+                "edit_url": "https://database.eamena.org/resource/ebc15eeb-0e9d-48ed-a357-455d319424e1"
+            }
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            29.6605,
+                            31.0002
+                        ],
+                        [
+                            29.6606,
+                            31.0002
+                        ],
+                        [
+                            29.6604,
+                            31.0004
+                        ],
+                        [
+                            29.6605,
+                            31.0002
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0231224",
+                "dates": [
+                    "2023-06-14"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "7eaa85d6-5843-4b64-af51-deeec58eed67",
+                "url": "https://database.eamena.org/report/7eaa85d6-5843-4b64-af51-deeec58eed67",
+                "edit_url": "https://database.eamena.org/resource/7eaa85d6-5843-4b64-af51-deeec58eed67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            29.6605,
+                            31.0001
+                        ],
+                        [
+                            29.6606,
+                            30.9998
+                        ],
+                        [
+                            29.6606,
+                            30.9997
+                        ],
+                        [
+                            29.6608,
+                            30.9992
+                        ],
+                        [
+                            29.6612,
+                            30.9993
+                        ],
+                        [
+                            29.6611,
+                            30.9997
+                        ],
+                        [
+                            29.6611,
+                            31.0002
+                        ],
+                        [
+                            29.661,
+                            31.0003
+                        ],
+                        [
+                            29.6606,
+                            31.0002
+                        ],
+                        [
+                            29.6605,
+                            31.0001
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0231225",
+                "dates": [
+                    "2023-06-14"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "9a2229a3-ca25-48e9-925a-f2e0668d7603",
+                "url": "https://database.eamena.org/report/9a2229a3-ca25-48e9-925a-f2e0668d7603",
+                "edit_url": "https://database.eamena.org/resource/9a2229a3-ca25-48e9-925a-f2e0668d7603"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            29.7353,
+                            31.0189
+                        ],
+                        [
+                            29.7353,
+                            31.0188
+                        ],
+                        [
+                            29.7352,
+                            31.0188
+                        ],
+                        [
+                            29.7352,
+                            31.0185
+                        ],
+                        [
+                            29.7356,
+                            31.0186
+                        ],
+                        [
+                            29.7355,
+                            31.0189
+                        ],
+                        [
+                            29.7353,
+                            31.0189
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0231214",
+                "dates": [
+                    "2023-06-16"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "a9a43bdb-aa9e-4f81-a977-cd39ea334b31",
+                "url": "https://database.eamena.org/report/a9a43bdb-aa9e-4f81-a977-cd39ea334b31",
+                "edit_url": "https://database.eamena.org/resource/a9a43bdb-aa9e-4f81-a977-cd39ea334b31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            29.7341,
+                            31.0183
+                        ],
+                        [
+                            29.7343,
+                            31.0181
+                        ],
+                        [
+                            29.7341,
+                            31.0179
+                        ],
+                        [
+                            29.7347,
+                            31.0175
+                        ],
+                        [
+                            29.7351,
+                            31.0177
+                        ],
+                        [
+                            29.7356,
+                            31.018
+                        ],
+                        [
+                            29.7355,
+                            31.0182
+                        ],
+                        [
+                            29.7353,
+                            31.0184
+                        ],
+                        [
+                            29.7351,
+                            31.0184
+                        ],
+                        [
+                            29.7349,
+                            31.0187
+                        ],
+                        [
+                            29.7347,
+                            31.0185
+                        ],
+                        [
+                            29.7345,
+                            31.0186
+                        ],
+                        [
+                            29.7341,
+                            31.0183
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0231215",
+                "dates": [
+                    "2023-06-16"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "c4f837b8-8dd6-4f59-849b-01b4d414fa60",
+                "url": "https://database.eamena.org/report/c4f837b8-8dd6-4f59-849b-01b4d414fa60",
+                "edit_url": "https://database.eamena.org/resource/c4f837b8-8dd6-4f59-849b-01b4d414fa60"
+            }
+        }
+    ]
+}

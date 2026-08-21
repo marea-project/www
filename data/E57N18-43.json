@@ -1,0 +1,852 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "c864dac4-69a9-42b2-8432-c3f9f223dff9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.506627991324514,
+                    18.953725549950377
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00003",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182287",
+                "dates": [
+                    "2021-06-14"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "1feebf6b-d650-4ac9-a19a-affdc6903a19",
+                "url": "https://database.eamena.org/report/1feebf6b-d650-4ac9-a19a-affdc6903a19",
+                "edit_url": "https://database.eamena.org/resource/1feebf6b-d650-4ac9-a19a-affdc6903a19"
+            }
+        },
+        {
+            "id": "f4ae49aa-47db-45e7-9568-68b34187eb86",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.5113173057224,
+                    18.95235979992658
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00004",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182289",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "2dbdb849-3aca-49cc-b611-c7beef1ad6ad",
+                "url": "https://database.eamena.org/report/2dbdb849-3aca-49cc-b611-c7beef1ad6ad",
+                "edit_url": "https://database.eamena.org/resource/2dbdb849-3aca-49cc-b611-c7beef1ad6ad"
+            }
+        },
+        {
+            "id": "a8dac3a5-6c2a-45fe-bf0d-96b274209bb9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.54619272932878,
+                    18.94669136516068,
+                    0
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png",
+                "name": "E57N18-43_00012",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle00010",
+                "styleHash": "-7cde5f15",
+                "icon-scale": 0.8,
+                "description": "Wadi Gharm 2 (WG2), cairns.\nBiagi 1988; 40Q EF575950",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle00111",
+                    "highlight": "#PolyStyle002111"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182296",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "40eacf5a-8b9a-47ee-a7d1-fe879c89bcd2",
+                "url": "https://database.eamena.org/report/40eacf5a-8b9a-47ee-a7d1-fe879c89bcd2",
+                "edit_url": "https://database.eamena.org/resource/40eacf5a-8b9a-47ee-a7d1-fe879c89bcd2"
+            }
+        },
+        {
+            "id": "d3f76d76-2c23-4982-9b29-0d81328a951f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.52759003563062,
+                    18.955400311156637
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00006",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182291",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "43457e6b-d841-415e-a68e-9e36bff6d720",
+                "url": "https://database.eamena.org/report/43457e6b-d841-415e-a68e-9e36bff6d720",
+                "edit_url": "https://database.eamena.org/resource/43457e6b-d841-415e-a68e-9e36bff6d720"
+            }
+        },
+        {
+            "id": "6fccf557-b870-402c-8c10-31ab1c2f8c21",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.53311204873007,
+                    18.96679242074644
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00007",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182292",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "45d4473a-1e38-42c3-a722-d4d5d6c557bc",
+                "url": "https://database.eamena.org/report/45d4473a-1e38-42c3-a722-d4d5d6c557bc",
+                "edit_url": "https://database.eamena.org/resource/45d4473a-1e38-42c3-a722-d4d5d6c557bc"
+            }
+        },
+        {
+            "id": "bcb7969e-b8ff-4ed6-9afa-f3c6ea0d3d97",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.63966099602668,
+                    18.96791973109388,
+                    0
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00016",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182300",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "64a07bad-4f9f-4dbb-85c7-5b426589ee8b",
+                "url": "https://database.eamena.org/report/64a07bad-4f9f-4dbb-85c7-5b426589ee8b",
+                "edit_url": "https://database.eamena.org/resource/64a07bad-4f9f-4dbb-85c7-5b426589ee8b"
+            }
+        },
+        {
+            "id": "c84e79b9-216d-43f1-a616-0259f8b46aa2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.543771421488486,
+                    18.946157633069372
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00010",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182295",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "798faa6c-28c5-4514-a6b2-a52e4a401c6d",
+                "url": "https://database.eamena.org/report/798faa6c-28c5-4514-a6b2-a52e4a401c6d",
+                "edit_url": "https://database.eamena.org/resource/798faa6c-28c5-4514-a6b2-a52e4a401c6d"
+            }
+        },
+        {
+            "id": "2bc74efc-b989-4afd-9d21-787f690567bf",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.57818678442055,
+                    18.96392238999306
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00014",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182298",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "9910216f-fe20-4c09-be0f-758e9fe9615f",
+                "url": "https://database.eamena.org/report/9910216f-fe20-4c09-be0f-758e9fe9615f",
+                "edit_url": "https://database.eamena.org/resource/9910216f-fe20-4c09-be0f-758e9fe9615f"
+            }
+        },
+        {
+            "id": "91c4fa13-6c32-4015-949d-98ba2afd427c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.539073099058925,
+                    18.955727053275616
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00009",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182294",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "a1f3d0c7-8a2c-499a-aba8-c091be0287db",
+                "url": "https://database.eamena.org/report/a1f3d0c7-8a2c-499a-aba8-c091be0287db",
+                "edit_url": "https://database.eamena.org/resource/a1f3d0c7-8a2c-499a-aba8-c091be0287db"
+            }
+        },
+        {
+            "id": "76c2895ef0f7079c13a9459fe63cb55c",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        57.554683128355435,
+                        18.961057274142917
+                    ],
+                    [
+                        57.55480114555212,
+                        18.96103698076999
+                    ],
+                    [
+                        57.55488697624085,
+                        18.961133374267234
+                    ],
+                    [
+                        57.554978171347784,
+                        18.96118918100234
+                    ],
+                    [
+                        57.555090824126296,
+                        18.961199327679864
+                    ],
+                    [
+                        57.55517665481506,
+                        18.961158740967207
+                    ],
+                    [
+                        57.55532685851969,
+                        18.961148594287224
+                    ],
+                    [
+                        57.555627265929076,
+                        18.96126020772975
+                    ],
+                    [
+                        57.5558525714861,
+                        18.96121962103193
+                    ],
+                    [
+                        57.55600813960899,
+                        18.961204401018392
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182297",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "a3178eff-3bc0-4be8-9a3b-89130e1ec935",
+                "url": "https://database.eamena.org/report/a3178eff-3bc0-4be8-9a3b-89130e1ec935",
+                "edit_url": "https://database.eamena.org/resource/a3178eff-3bc0-4be8-9a3b-89130e1ec935"
+            }
+        },
+        {
+            "id": "4e5871625582502c0c482b34da69283b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            57.53126424483588,
+                            18.98690147783337
+                        ],
+                        [
+                            57.53202599219563,
+                            18.986698575469077
+                        ],
+                        [
+                            57.53184896640127,
+                            18.986379003742385
+                        ],
+                        [
+                            57.53121060065516,
+                            18.986597124193082
+                        ],
+                        [
+                            57.53126424483588,
+                            18.98690147783337
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182293",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "ae63685c-5f42-4ee2-b2be-9e753b1e7008",
+                "url": "https://database.eamena.org/report/ae63685c-5f42-4ee2-b2be-9e753b1e7008",
+                "edit_url": "https://database.eamena.org/resource/ae63685c-5f42-4ee2-b2be-9e753b1e7008"
+            }
+        },
+        {
+            "id": "302fc92cff9c328ba09ef6d732700447",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            57.535560803663,
+                            18.96038235139214
+                        ],
+                        [
+                            57.53553934599145,
+                            18.959875014290404
+                        ],
+                        [
+                            57.53577538038485,
+                            18.95975325315591
+                        ],
+                        [
+                            57.53704674745762,
+                            18.959809060354033
+                        ],
+                        [
+                            57.53684826399041,
+                            18.96031132429087
+                        ],
+                        [
+                            57.53669806028569,
+                            18.961026667287598
+                        ],
+                        [
+                            57.53644593263891,
+                            18.961219454235987
+                        ],
+                        [
+                            57.53626354242505,
+                            18.96120930756082
+                        ],
+                        [
+                            57.535560803663,
+                            18.96038235139214
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182303",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "b1b4f0b0-90a1-4bd6-b105-da76ecf49879",
+                "url": "https://database.eamena.org/report/b1b4f0b0-90a1-4bd6-b105-da76ecf49879",
+                "edit_url": "https://database.eamena.org/resource/b1b4f0b0-90a1-4bd6-b105-da76ecf49879"
+            }
+        },
+        {
+            "id": "253c7493-592a-4be1-aa1b-0e096f036155",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.51088480177683,
+                    18.97139120684156
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00002",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182286",
+                "dates": [
+                    "2021-06-14"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "cc59529a-7398-47bb-8876-7f621f52e004",
+                "url": "https://database.eamena.org/report/cc59529a-7398-47bb-8876-7f621f52e004",
+                "edit_url": "https://database.eamena.org/resource/cc59529a-7398-47bb-8876-7f621f52e004"
+            }
+        },
+        {
+            "id": "74be6d59-fd99-438e-949a-ef04a2418171",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.65275224728616,
+                    18.962624599374372
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00017",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182301",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "dd456a94-bd01-4c53-b194-7e736bb073f1",
+                "url": "https://database.eamena.org/report/dd456a94-bd01-4c53-b194-7e736bb073f1",
+                "edit_url": "https://database.eamena.org/resource/dd456a94-bd01-4c53-b194-7e736bb073f1"
+            }
+        },
+        {
+            "id": "dba0770e-9249-403c-9deb-1f8e317d4758",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.51110358415083,
+                    18.972491786756287
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00001",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182285",
+                "dates": [
+                    "2021-06-14"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "edc7c844-70bb-4ef1-82af-670ef0469845",
+                "url": "https://database.eamena.org/report/edc7c844-70bb-4ef1-82af-670ef0469845",
+                "edit_url": "https://database.eamena.org/resource/edc7c844-70bb-4ef1-82af-670ef0469845"
+            }
+        },
+        {
+            "id": "8c9a6bf4-987b-470e-ab4b-bbe525df2525",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.60339847186959,
+                    18.95292735625294
+                ]
+            },
+            "properties": {
+                "fill": "#ff0000",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png",
+                "name": "E57N18-43_00015",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#PolyStyle0001000",
+                "styleHash": "-1748003d",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#000000",
+                "label-scale": 0,
+                "fill-opacity": 0,
+                "stroke-width": 0.4,
+                "styleMapHash": {
+                    "normal": "#PolyStyle001110000000",
+                    "highlight": "#PolyStyle002100002"
+                },
+                "label-opacity": 0,
+                "stroke-opacity": 1,
+                "label": "EAMENA-0182299",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "ee1e95a9-9928-4339-86ea-3557929b6c79",
+                "url": "https://database.eamena.org/report/ee1e95a9-9928-4339-86ea-3557929b6c79",
+                "edit_url": "https://database.eamena.org/resource/ee1e95a9-9928-4339-86ea-3557929b6c79"
+            }
+        },
+        {
+            "id": "90efd0c18e37fed7155059fd799c7ccf",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        57.65938286629358,
+                        18.93788378124789
+                    ],
+                    [
+                        57.659145612643016,
+                        18.937687421207556
+                    ],
+                    [
+                        57.65880456052079,
+                        18.937392880715322
+                    ],
+                    [
+                        57.65855989269511,
+                        18.937175481447497
+                    ],
+                    [
+                        57.658500579282446,
+                        18.937014185033092
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182302",
+                "dates": [
+                    "2021-06-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "ffe52949-2dfe-4617-8689-c483864564b7",
+                "url": "https://database.eamena.org/report/ffe52949-2dfe-4617-8689-c483864564b7",
+                "edit_url": "https://database.eamena.org/resource/ffe52949-2dfe-4617-8689-c483864564b7"
+            }
+        }
+    ]
+}

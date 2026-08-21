@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "6b3a5573-68d9-48ef-8586-21825ee82b7a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.456738062,
+                            32.740427488
+                        ],
+                        [
+                            22.459870882,
+                            32.739696514
+                        ],
+                        [
+                            22.460654087,
+                            32.742051854
+                        ],
+                        [
+                            22.459795781,
+                            32.742936219
+                        ],
+                        [
+                            22.458765812,
+                            32.74252111
+                        ],
+                        [
+                            22.4576822,
+                            32.742024782
+                        ],
+                        [
+                            22.456738062,
+                            32.740427488
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0162573",
+                "dates": [
+                    "2020-04-30",
+                    "2020-04-30",
+                    "2020-04-02",
+                    "2020-04-30"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nichole Sheldrick",
+                    "Dawoud Husayn"
+                ],
+                "id": "69d2cc44-8ec0-4878-b01e-e7a058201355",
+                "url": "https://database.eamena.org/report/69d2cc44-8ec0-4878-b01e-e7a058201355",
+                "edit_url": "https://database.eamena.org/resource/69d2cc44-8ec0-4878-b01e-e7a058201355"
+            }
+        }
+    ]
+}

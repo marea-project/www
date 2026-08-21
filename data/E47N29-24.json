@@ -1,0 +1,3432 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "da2ba1de-c840-4167-ad84-ede1c0724226",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.83842832953049,
+                    29.32524702191548
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280628",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "01a837fb-0f36-4276-a966-8c42638b5add",
+                "url": "https://database.eamena.org/report/01a837fb-0f36-4276-a966-8c42638b5add",
+                "edit_url": "https://database.eamena.org/resource/01a837fb-0f36-4276-a966-8c42638b5add"
+            }
+        },
+        {
+            "id": "0b912090-ff6c-4378-9406-a5a797ec112d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.84370429274786,
+                    29.32270484089693
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280627",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "04db57d7-49cc-4d6e-bf6e-f538b1f8c4ae",
+                "url": "https://database.eamena.org/report/04db57d7-49cc-4d6e-bf6e-f538b1f8c4ae",
+                "edit_url": "https://database.eamena.org/resource/04db57d7-49cc-4d6e-bf6e-f538b1f8c4ae"
+            }
+        },
+        {
+            "id": "7f6f5926-328d-460f-9c96-d7a16c81ef82",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98002715964507,
+                            29.38347549766229
+                        ],
+                        [
+                            47.98006902663629,
+                            29.38341517037318
+                        ],
+                        [
+                            47.98019681420067,
+                            29.38344159194369
+                        ],
+                        [
+                            47.98023849788035,
+                            29.38341419994723
+                        ],
+                        [
+                            47.98034933075277,
+                            29.38344895209353
+                        ],
+                        [
+                            47.98040940516524,
+                            29.38347034246941
+                        ],
+                        [
+                            47.98047325127231,
+                            29.3834981724293
+                        ],
+                        [
+                            47.98044425514185,
+                            29.38376353622586
+                        ],
+                        [
+                            47.98040822871655,
+                            29.38386012563551
+                        ],
+                        [
+                            47.98023703766718,
+                            29.38376305496296
+                        ],
+                        [
+                            47.98022794613372,
+                            29.38366292034189
+                        ],
+                        [
+                            47.98002715964507,
+                            29.38347549766229
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280578",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "0b0b693b-8f85-4473-b1c6-ff61fbd18ba4",
+                "url": "https://database.eamena.org/report/0b0b693b-8f85-4473-b1c6-ff61fbd18ba4",
+                "edit_url": "https://database.eamena.org/resource/0b0b693b-8f85-4473-b1c6-ff61fbd18ba4"
+            }
+        },
+        {
+            "id": "da522472-7cdf-4215-9254-2560318a6c8b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.90830088149418,
+                    29.34746253940895
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280560",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "0f68d579-0aa0-4519-b0d1-ab89089e73b0",
+                "url": "https://database.eamena.org/report/0f68d579-0aa0-4519-b0d1-ab89089e73b0",
+                "edit_url": "https://database.eamena.org/resource/0f68d579-0aa0-4519-b0d1-ab89089e73b0"
+            }
+        },
+        {
+            "id": "7ed4d305-7926-460a-bffd-4c1252a1fcf1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.9665896386179,
+                            29.36300455524242
+                        ],
+                        [
+                            47.9691936821115,
+                            29.36123590409107
+                        ],
+                        [
+                            47.96975867588658,
+                            29.36132330903686
+                        ],
+                        [
+                            47.97157759014755,
+                            29.36406409418465
+                        ],
+                        [
+                            47.97129139596398,
+                            29.36425680647133
+                        ],
+                        [
+                            47.97156419969654,
+                            29.36456643050798
+                        ],
+                        [
+                            47.97183665235405,
+                            29.36483473041269
+                        ],
+                        [
+                            47.97119436683339,
+                            29.36556637413473
+                        ],
+                        [
+                            47.97082530513384,
+                            29.36574772050442
+                        ],
+                        [
+                            47.97049695880743,
+                            29.3656837869923
+                        ],
+                        [
+                            47.96945538323693,
+                            29.36575933666838
+                        ],
+                        [
+                            47.96810514535456,
+                            29.36511283909251
+                        ],
+                        [
+                            47.9665896386179,
+                            29.36300455524242
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280595",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "1a94193b-a83e-4b09-9d07-89037581dacc",
+                "url": "https://database.eamena.org/report/1a94193b-a83e-4b09-9d07-89037581dacc",
+                "edit_url": "https://database.eamena.org/resource/1a94193b-a83e-4b09-9d07-89037581dacc"
+            }
+        },
+        {
+            "id": "dddb20cd-4949-43d0-9f21-3b3bccb9c525",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.96016896025685,
+                    29.36485836946681
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280569",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "1aee166f-dcf0-4241-be58-73d9f1896287",
+                "url": "https://database.eamena.org/report/1aee166f-dcf0-4241-be58-73d9f1896287",
+                "edit_url": "https://database.eamena.org/resource/1aee166f-dcf0-4241-be58-73d9f1896287"
+            }
+        },
+        {
+            "id": "eed44a38-4f4a-4ec6-9066-df8831f751c3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.99190656476982,
+                            29.3713783126986
+                        ],
+                        [
+                            47.99285993870474,
+                            29.37062663377619
+                        ],
+                        [
+                            47.99294328713871,
+                            29.37068293549545
+                        ],
+                        [
+                            47.99328025844308,
+                            29.37155220156017
+                        ],
+                        [
+                            47.99263034229064,
+                            29.37196421375782
+                        ],
+                        [
+                            47.99190656476982,
+                            29.3713783126986
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280614",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "1e93010b-ba21-4923-a9ac-a19b47ea20ea",
+                "url": "https://database.eamena.org/report/1e93010b-ba21-4923-a9ac-a19b47ea20ea",
+                "edit_url": "https://database.eamena.org/resource/1e93010b-ba21-4923-a9ac-a19b47ea20ea"
+            }
+        },
+        {
+            "id": "619530fc-b43f-46ac-9ba9-9aac30e0acd1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97843712597332,
+                            29.38422855532158
+                        ],
+                        [
+                            47.97859446390327,
+                            29.38406108343204
+                        ],
+                        [
+                            47.97877686549648,
+                            29.38418386791717
+                        ],
+                        [
+                            47.97860339051522,
+                            29.38437867874712
+                        ],
+                        [
+                            47.97843712597332,
+                            29.38422855532158
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280573",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "1f930903-9573-49ba-be56-7d910a693fb6",
+                "url": "https://database.eamena.org/report/1f930903-9573-49ba-be56-7d910a693fb6",
+                "edit_url": "https://database.eamena.org/resource/1f930903-9573-49ba-be56-7d910a693fb6"
+            }
+        },
+        {
+            "id": "2c02d110-4699-4f44-97c0-0fc8955da26a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97394610746547,
+                            29.36155375232039
+                        ],
+                        [
+                            47.97391293958502,
+                            29.36136251431535
+                        ],
+                        [
+                            47.97482844435806,
+                            29.36141566015148
+                        ],
+                        [
+                            47.97479365384662,
+                            29.36161055729362
+                        ],
+                        [
+                            47.97394610746547,
+                            29.36155375232039
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280600",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "273c5a8e-5b5a-41ae-acb8-61dc4149f25c",
+                "url": "https://database.eamena.org/report/273c5a8e-5b5a-41ae-acb8-61dc4149f25c",
+                "edit_url": "https://database.eamena.org/resource/273c5a8e-5b5a-41ae-acb8-61dc4149f25c"
+            }
+        },
+        {
+            "id": "a5638048-d544-4b7c-ab69-1cdb46df214c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.97437104173849,
+                    29.37449158414095
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280591",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "2b875db0-42b5-47f2-b23e-816f8d8c29bd",
+                "url": "https://database.eamena.org/report/2b875db0-42b5-47f2-b23e-816f8d8c29bd",
+                "edit_url": "https://database.eamena.org/resource/2b875db0-42b5-47f2-b23e-816f8d8c29bd"
+            }
+        },
+        {
+            "id": "734dde7f-2fbf-4775-a357-fd9181e47b2f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.96917850079421,
+                            29.373374786068
+                        ],
+                        [
+                            47.96940499815386,
+                            29.37312681068957
+                        ],
+                        [
+                            47.96967685105581,
+                            29.37324523159997
+                        ],
+                        [
+                            47.96977132560464,
+                            29.37341452762267
+                        ],
+                        [
+                            47.96975492598074,
+                            29.37357821265042
+                        ],
+                        [
+                            47.96960922163271,
+                            29.37361206460601
+                        ],
+                        [
+                            47.96917850079421,
+                            29.373374786068
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280592",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "33539ed6-ae5d-4e02-a12b-0c9c5b6ebef9",
+                "url": "https://database.eamena.org/report/33539ed6-ae5d-4e02-a12b-0c9c5b6ebef9",
+                "edit_url": "https://database.eamena.org/resource/33539ed6-ae5d-4e02-a12b-0c9c5b6ebef9"
+            }
+        },
+        {
+            "id": "d3f2a42d-e1e6-4380-8fe0-0576a590c935",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.88054111584306,
+                            29.34621541230831
+                        ],
+                        [
+                            47.88052385436511,
+                            29.34610433977019
+                        ],
+                        [
+                            47.88082708556396,
+                            29.34605137637625
+                        ],
+                        [
+                            47.88080919029981,
+                            29.34616811662465
+                        ],
+                        [
+                            47.88054111584306,
+                            29.34621541230831
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280617",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "38f0f837-8460-499b-8429-5ec2bd5282f6",
+                "url": "https://database.eamena.org/report/38f0f837-8460-499b-8429-5ec2bd5282f6",
+                "edit_url": "https://database.eamena.org/resource/38f0f837-8460-499b-8429-5ec2bd5282f6"
+            }
+        },
+        {
+            "id": "9cf9d0f9-d447-4d76-ac5e-53d07ae0d09b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.83628491125295,
+                    29.38923717092171
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280568",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "3a3ee38e-b838-45d8-9ef6-4746672981bb",
+                "url": "https://database.eamena.org/report/3a3ee38e-b838-45d8-9ef6-4746672981bb",
+                "edit_url": "https://database.eamena.org/resource/3a3ee38e-b838-45d8-9ef6-4746672981bb"
+            }
+        },
+        {
+            "id": "fa104647-c77e-4e1f-be70-ef8c855df0f4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97982468767009,
+                            29.38375226464392
+                        ],
+                        [
+                            47.97997241821339,
+                            29.38349171453704
+                        ],
+                        [
+                            47.98019415901238,
+                            29.38366126158766
+                        ],
+                        [
+                            47.97994903644772,
+                            29.38389849263876
+                        ],
+                        [
+                            47.97982468767009,
+                            29.38375226464392
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280575",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "3b7a3a9c-fd76-4a94-9212-91723797968d",
+                "url": "https://database.eamena.org/report/3b7a3a9c-fd76-4a94-9212-91723797968d",
+                "edit_url": "https://database.eamena.org/resource/3b7a3a9c-fd76-4a94-9212-91723797968d"
+            }
+        },
+        {
+            "id": "122936c9-3b49-4ace-9067-cc71d38b831e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.83292862901219,
+                    29.38243098974689
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280567",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "433f5d53-f571-41c1-99d3-dec1ab564902",
+                "url": "https://database.eamena.org/report/433f5d53-f571-41c1-99d3-dec1ab564902",
+                "edit_url": "https://database.eamena.org/resource/433f5d53-f571-41c1-99d3-dec1ab564902"
+            }
+        },
+        {
+            "id": "918a7042-9109-4628-bbb0-edab55c8ac02",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.95875994909521,
+                            29.36405407853219
+                        ],
+                        [
+                            47.95863145754467,
+                            29.36395322590367
+                        ],
+                        [
+                            47.95881366262179,
+                            29.36376825994528
+                        ],
+                        [
+                            47.95895660572299,
+                            29.36386635908858
+                        ],
+                        [
+                            47.95875994909521,
+                            29.36405407853219
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280606",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "445e4b35-60bc-4067-9c84-e9d11ca342c4",
+                "url": "https://database.eamena.org/report/445e4b35-60bc-4067-9c84-e9d11ca342c4",
+                "edit_url": "https://database.eamena.org/resource/445e4b35-60bc-4067-9c84-e9d11ca342c4"
+            }
+        },
+        {
+            "id": "804e06e8-83dd-4b2a-8535-0247a8e9393b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.87151002120795,
+                            29.38322303572594
+                        ],
+                        [
+                            47.87213306350992,
+                            29.38358697450075
+                        ],
+                        [
+                            47.87201472342279,
+                            29.38382961261241
+                        ],
+                        [
+                            47.87120023713046,
+                            29.38357182035901
+                        ],
+                        [
+                            47.87116891164779,
+                            29.38356575474286
+                        ],
+                        [
+                            47.87151002120795,
+                            29.38322303572594
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280583",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "48c6ee25-0197-4b15-9e4b-68d0e07b6d38",
+                "url": "https://database.eamena.org/report/48c6ee25-0197-4b15-9e4b-68d0e07b6d38",
+                "edit_url": "https://database.eamena.org/resource/48c6ee25-0197-4b15-9e4b-68d0e07b6d38"
+            }
+        },
+        {
+            "id": "5617cdea-c345-438a-91af-17e75250abe3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.99916318625757,
+                    29.38562589930303
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280585",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "4d36c02d-7e1d-4be7-9c91-151d5abf880f",
+                "url": "https://database.eamena.org/report/4d36c02d-7e1d-4be7-9c91-151d5abf880f",
+                "edit_url": "https://database.eamena.org/resource/4d36c02d-7e1d-4be7-9c91-151d5abf880f"
+            }
+        },
+        {
+            "id": "18411dfd-af47-40c9-97e4-9caa855df45f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.84759056803228,
+                    29.37607783245059
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280621",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "5244a551-e25f-4c0f-b034-ee11975c7851",
+                "url": "https://database.eamena.org/report/5244a551-e25f-4c0f-b034-ee11975c7851",
+                "edit_url": "https://database.eamena.org/resource/5244a551-e25f-4c0f-b034-ee11975c7851"
+            }
+        },
+        {
+            "id": "f74e93e3-ae0e-4e30-9c7a-56b420fb6c2c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.87116260981262,
+                            29.38471925612304
+                        ],
+                        [
+                            47.87135418949258,
+                            29.38435200624649
+                        ],
+                        [
+                            47.87206782060764,
+                            29.38461074627081
+                        ],
+                        [
+                            47.87190498689748,
+                            29.38491122270321
+                        ],
+                        [
+                            47.87116260981262,
+                            29.38471925612304
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280630",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "53173277-42f1-4c59-9b45-ad38b84d76ca",
+                "url": "https://database.eamena.org/report/53173277-42f1-4c59-9b45-ad38b84d76ca",
+                "edit_url": "https://database.eamena.org/resource/53173277-42f1-4c59-9b45-ad38b84d76ca"
+            }
+        },
+        {
+            "id": "76d00f89-8cf6-4a9b-9691-79c43b254c5d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.96345575088772,
+                            29.3610145878787
+                        ],
+                        [
+                            47.9633641036483,
+                            29.36082604264422
+                        ],
+                        [
+                            47.9638601414389,
+                            29.36061827504275
+                        ],
+                        [
+                            47.96401086411231,
+                            29.36085096002349
+                        ],
+                        [
+                            47.96345575088772,
+                            29.3610145878787
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280616",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "53d3c86f-874c-4ee0-9d47-159f7399b192",
+                "url": "https://database.eamena.org/report/53d3c86f-874c-4ee0-9d47-159f7399b192",
+                "edit_url": "https://database.eamena.org/resource/53d3c86f-874c-4ee0-9d47-159f7399b192"
+            }
+        },
+        {
+            "id": "6a05f13b-46af-4ac6-8045-9c8aaf436886",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98492347103788,
+                            29.37852666864854
+                        ],
+                        [
+                            47.98493895735615,
+                            29.37849300468953
+                        ],
+                        [
+                            47.98482249620513,
+                            29.37828125627255
+                        ],
+                        [
+                            47.98502692574791,
+                            29.37775605167619
+                        ],
+                        [
+                            47.98532094968174,
+                            29.37781336272148
+                        ],
+                        [
+                            47.98558439001421,
+                            29.37724113601233
+                        ],
+                        [
+                            47.98544909041743,
+                            29.37717705144464
+                        ],
+                        [
+                            47.9858552345117,
+                            29.37651528778877
+                        ],
+                        [
+                            47.98692375933416,
+                            29.37731249652186
+                        ],
+                        [
+                            47.98692808662938,
+                            29.37740647993174
+                        ],
+                        [
+                            47.98658482226343,
+                            29.37806628330755
+                        ],
+                        [
+                            47.98581166490368,
+                            29.37906872041585
+                        ],
+                        [
+                            47.98576152470864,
+                            29.37906841866011
+                        ],
+                        [
+                            47.98492347103788,
+                            29.37852666864854
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280587",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "55bbd140-5ef6-4348-b55a-5d497227e1ff",
+                "url": "https://database.eamena.org/report/55bbd140-5ef6-4348-b55a-5d497227e1ff",
+                "edit_url": "https://database.eamena.org/resource/55bbd140-5ef6-4348-b55a-5d497227e1ff"
+            }
+        },
+        {
+            "id": "db489bb3-5df9-49b5-9450-55889e2a7d7c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98042130601863,
+                            29.38393315383194
+                        ],
+                        [
+                            47.98057623235089,
+                            29.38378967612999
+                        ],
+                        [
+                            47.98075249766789,
+                            29.38395068105312
+                        ],
+                        [
+                            47.98059560085358,
+                            29.38408587733574
+                        ],
+                        [
+                            47.98042130601863,
+                            29.38393315383194
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280580",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "609c2e43-7981-4796-aadd-34828717eb89",
+                "url": "https://database.eamena.org/report/609c2e43-7981-4796-aadd-34828717eb89",
+                "edit_url": "https://database.eamena.org/resource/609c2e43-7981-4796-aadd-34828717eb89"
+            }
+        },
+        {
+            "id": "d28d027c-c35d-4b81-a58b-cb9653072618",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.90664067202171,
+                    29.34722724658662
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280564",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "61e154a5-119a-402f-8d08-cd460731cd64",
+                "url": "https://database.eamena.org/report/61e154a5-119a-402f-8d08-cd460731cd64",
+                "edit_url": "https://database.eamena.org/resource/61e154a5-119a-402f-8d08-cd460731cd64"
+            }
+        },
+        {
+            "id": "00ba0f78-c0a5-4771-9622-23fa7c591532",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97905571632811,
+                            29.38466078522097
+                        ],
+                        [
+                            47.97929358319824,
+                            29.384333804108
+                        ],
+                        [
+                            47.97949275624268,
+                            29.38449270715747
+                        ],
+                        [
+                            47.97925044007705,
+                            29.3848066111389
+                        ],
+                        [
+                            47.97905571632811,
+                            29.38466078522097
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280572",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "6a2affb4-e0c6-4f19-bb9d-b1dde088c7c4",
+                "url": "https://database.eamena.org/report/6a2affb4-e0c6-4f19-bb9d-b1dde088c7c4",
+                "edit_url": "https://database.eamena.org/resource/6a2affb4-e0c6-4f19-bb9d-b1dde088c7c4"
+            }
+        },
+        {
+            "id": "1d984517-0af1-401d-9031-f07b10a9edd8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.86502796322194,
+                            29.38484607936358
+                        ],
+                        [
+                            47.86531240260437,
+                            29.38461004154276
+                        ],
+                        [
+                            47.86579229952441,
+                            29.38509662523509
+                        ],
+                        [
+                            47.86547664061032,
+                            29.38541374653894
+                        ],
+                        [
+                            47.86502796322194,
+                            29.38484607936358
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280625",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "6dc31924-a35c-46df-950a-cc7a0d1e3dc4",
+                "url": "https://database.eamena.org/report/6dc31924-a35c-46df-950a-cc7a0d1e3dc4",
+                "edit_url": "https://database.eamena.org/resource/6dc31924-a35c-46df-950a-cc7a0d1e3dc4"
+            }
+        },
+        {
+            "id": "ec54da57-04ae-4660-bb7e-8a5cfcac564c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9081170673992,
+                    29.34429226392493
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280563",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "6df85e5c-bc58-4d10-9d1f-a4334d9f1c9d",
+                "url": "https://database.eamena.org/report/6df85e5c-bc58-4d10-9d1f-a4334d9f1c9d",
+                "edit_url": "https://database.eamena.org/resource/6df85e5c-bc58-4d10-9d1f-a4334d9f1c9d"
+            }
+        },
+        {
+            "id": "32ad8f2d-7d1a-46bf-8ee7-463211ab952e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.83538795402508,
+                    29.38346088661985
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280565",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "6fa11809-ca5e-44b2-a4f6-32a7634a25b3",
+                "url": "https://database.eamena.org/report/6fa11809-ca5e-44b2-a4f6-32a7634a25b3",
+                "edit_url": "https://database.eamena.org/resource/6fa11809-ca5e-44b2-a4f6-32a7634a25b3"
+            }
+        },
+        {
+            "id": "d408fba3-f0f8-4a7a-bd1f-bdba856b5d66",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98407678200302,
+                            29.38766503983073
+                        ],
+                        [
+                            47.98436754965166,
+                            29.38731888562416
+                        ],
+                        [
+                            47.98487845791364,
+                            29.38753126285997
+                        ],
+                        [
+                            47.98451526525319,
+                            29.38795135293497
+                        ],
+                        [
+                            47.98407678200302,
+                            29.38766503983073
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280608",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "72853cb7-7e87-4fa0-ab27-9b4506b1e80e",
+                "url": "https://database.eamena.org/report/72853cb7-7e87-4fa0-ab27-9b4506b1e80e",
+                "edit_url": "https://database.eamena.org/resource/72853cb7-7e87-4fa0-ab27-9b4506b1e80e"
+            }
+        },
+        {
+            "id": "18e71b2f-b80c-48cb-8e8b-ddd4d7bc3d15",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97587206596484,
+                            29.38467649167585
+                        ],
+                        [
+                            47.97676235693369,
+                            29.38374552396381
+                        ],
+                        [
+                            47.97678200961787,
+                            29.38374556301124
+                        ],
+                        [
+                            47.9768114890426,
+                            29.38374562173243
+                        ],
+                        [
+                            47.97887633347259,
+                            29.38533086335258
+                        ],
+                        [
+                            47.97753530877258,
+                            29.38700543611652
+                        ],
+                        [
+                            47.97732378460365,
+                            29.38702079340234
+                        ],
+                        [
+                            47.97693934723531,
+                            29.38657837138891
+                        ],
+                        [
+                            47.9763320628782,
+                            29.38545858622159
+                        ],
+                        [
+                            47.97587206596484,
+                            29.38467649167585
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280571",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "731c7971-1166-4511-aead-3ff492c0bbdc",
+                "url": "https://database.eamena.org/report/731c7971-1166-4511-aead-3ff492c0bbdc",
+                "edit_url": "https://database.eamena.org/resource/731c7971-1166-4511-aead-3ff492c0bbdc"
+            }
+        },
+        {
+            "id": "abdce02c-109e-4849-9703-07a4be56f094",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97888956122758,
+                            29.3841868035968
+                        ],
+                        [
+                            47.97908477150808,
+                            29.38399677539655
+                        ],
+                        [
+                            47.97927986876116,
+                            29.38418146345031
+                        ],
+                        [
+                            47.97910101067184,
+                            29.38436650900658
+                        ],
+                        [
+                            47.97888956122758,
+                            29.3841868035968
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280574",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "73c445f6-8a91-4b03-ba59-d66ad1643f51",
+                "url": "https://database.eamena.org/report/73c445f6-8a91-4b03-ba59-d66ad1643f51",
+                "edit_url": "https://database.eamena.org/resource/73c445f6-8a91-4b03-ba59-d66ad1643f51"
+            }
+        },
+        {
+            "id": "ef7270eb-e4f1-48f7-9574-b21b3edd75dc",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.8782056591727,
+                    29.32751493671685
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280624",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "748a0753-9ea3-4356-bfe9-df694b220bc4",
+                "url": "https://database.eamena.org/report/748a0753-9ea3-4356-bfe9-df694b220bc4",
+                "edit_url": "https://database.eamena.org/resource/748a0753-9ea3-4356-bfe9-df694b220bc4"
+            }
+        },
+        {
+            "id": "5c7e8d5e-099f-44d1-8e6f-9760c8114561",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.99097734619988,
+                            29.39822296013102
+                        ],
+                        [
+                            47.99088111751684,
+                            29.39800445368065
+                        ],
+                        [
+                            47.9911922426048,
+                            29.39788651963082
+                        ],
+                        [
+                            47.99125672054585,
+                            29.39812990974767
+                        ],
+                        [
+                            47.99097734619988,
+                            29.39822296013102
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280589",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "76ac491c-195b-4554-90d3-c9531bc5c89e",
+                "url": "https://database.eamena.org/report/76ac491c-195b-4554-90d3-c9531bc5c89e",
+                "edit_url": "https://database.eamena.org/resource/76ac491c-195b-4554-90d3-c9531bc5c89e"
+            }
+        },
+        {
+            "id": "5e3ac269-be79-4b18-abda-1344c2dd12ad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.8293531778881,
+                            29.35330715909113
+                        ],
+                        [
+                            47.8290680798059,
+                            29.3527782999309
+                        ],
+                        [
+                            47.82917651603304,
+                            29.35251293094034
+                        ],
+                        [
+                            47.82919444155512,
+                            29.35251297733303
+                        ],
+                        [
+                            47.82964145126729,
+                            29.35287035742859
+                        ],
+                        [
+                            47.8293531778881,
+                            29.35330715909113
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280619",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "7b007edc-3adb-453d-87da-91d2cc8251e4",
+                "url": "https://database.eamena.org/report/7b007edc-3adb-453d-87da-91d2cc8251e4",
+                "edit_url": "https://database.eamena.org/resource/7b007edc-3adb-453d-87da-91d2cc8251e4"
+            }
+        },
+        {
+            "id": "a3561c65-77d6-4569-a5e0-20276d00c5cf",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98419608799551,
+                            29.37899267719201
+                        ],
+                        [
+                            47.98484910713025,
+                            29.3786764617923
+                        ],
+                        [
+                            47.98501962768327,
+                            29.37868340346458
+                        ],
+                        [
+                            47.98568329092869,
+                            29.37914127177695
+                        ],
+                        [
+                            47.98567561944137,
+                            29.37918853287195
+                        ],
+                        [
+                            47.98558659524463,
+                            29.3794105896399
+                        ],
+                        [
+                            47.98482585464821,
+                            29.38005556093782
+                        ],
+                        [
+                            47.98421080151459,
+                            29.3797403078207
+                        ],
+                        [
+                            47.98388911854397,
+                            29.37938704866044
+                        ],
+                        [
+                            47.98419608799551,
+                            29.37899267719201
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280586",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "80e46286-c101-471e-ac67-823fdae6d2ac",
+                "url": "https://database.eamena.org/report/80e46286-c101-471e-ac67-823fdae6d2ac",
+                "edit_url": "https://database.eamena.org/resource/80e46286-c101-471e-ac67-823fdae6d2ac"
+            }
+        },
+        {
+            "id": "b077b9e9-282a-4259-8ebc-eca95521970a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.96736078510201,
+                            29.37416721093153
+                        ],
+                        [
+                            47.96774915309727,
+                            29.37435732870814
+                        ],
+                        [
+                            47.96729830890671,
+                            29.37488908951988
+                        ],
+                        [
+                            47.96708658382126,
+                            29.37469315662236
+                        ],
+                        [
+                            47.96706816797046,
+                            29.37468327236521
+                        ],
+                        [
+                            47.96706125572514,
+                            29.37467931829245
+                        ],
+                        [
+                            47.96736078510201,
+                            29.37416721093153
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280607",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "8647e851-c334-42b9-90c9-76b5f4339ffc",
+                "url": "https://database.eamena.org/report/8647e851-c334-42b9-90c9-76b5f4339ffc",
+                "edit_url": "https://database.eamena.org/resource/8647e851-c334-42b9-90c9-76b5f4339ffc"
+            }
+        },
+        {
+            "id": "13b9584b-7af1-4ced-8637-59a574430b98",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98226182292649,
+                            29.38649401704185
+                        ],
+                        [
+                            47.98190986197743,
+                            29.38620141839934
+                        ],
+                        [
+                            47.98234417384218,
+                            29.38570727443309
+                        ],
+                        [
+                            47.98273716294386,
+                            29.3859269738789
+                        ],
+                        [
+                            47.98226182292649,
+                            29.38649401704185
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280609",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "8d694eda-3752-4976-ba55-44ef09c3dffe",
+                "url": "https://database.eamena.org/report/8d694eda-3752-4976-ba55-44ef09c3dffe",
+                "edit_url": "https://database.eamena.org/resource/8d694eda-3752-4976-ba55-44ef09c3dffe"
+            }
+        },
+        {
+            "id": "8ee1629c-6d1a-4d7b-b9b4-54a0e3ea4a27",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97687001508872,
+                            29.38316604612015
+                        ],
+                        [
+                            47.97706454540025,
+                            29.38298221080969
+                        ],
+                        [
+                            47.97730440473538,
+                            29.38317638805786
+                        ],
+                        [
+                            47.97714543495044,
+                            29.38338157719114
+                        ],
+                        [
+                            47.97687001508872,
+                            29.38316604612015
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280626",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "8ed58124-d88e-48b4-a6a8-ff14db63d621",
+                "url": "https://database.eamena.org/report/8ed58124-d88e-48b4-a6a8-ff14db63d621",
+                "edit_url": "https://database.eamena.org/resource/8ed58124-d88e-48b4-a6a8-ff14db63d621"
+            }
+        },
+        {
+            "id": "eb98f46a-d0d0-49c4-bdfa-3f81b7cbb056",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.8477854871607,
+                    29.32350569302049
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280620",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "91860614-ad7b-4f3b-95e6-42ec28100199",
+                "url": "https://database.eamena.org/report/91860614-ad7b-4f3b-95e6-42ec28100199",
+                "edit_url": "https://database.eamena.org/resource/91860614-ad7b-4f3b-95e6-42ec28100199"
+            }
+        },
+        {
+            "id": "3d883844-3d1d-4b2c-8012-3fdf70de545f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.87683452812026,
+                            29.325859753674
+                        ],
+                        [
+                            47.87676021656408,
+                            29.32586576434422
+                        ],
+                        [
+                            47.87660106846388,
+                            29.32584691913101
+                        ],
+                        [
+                            47.87659045526028,
+                            29.32584689628938
+                        ],
+                        [
+                            47.87645969802144,
+                            29.32579726287119
+                        ],
+                        [
+                            47.8762300029225,
+                            29.32570423823416
+                        ],
+                        [
+                            47.87601098518208,
+                            29.32558964697894
+                        ],
+                        [
+                            47.87590509514558,
+                            29.32550305587423
+                        ],
+                        [
+                            47.87576743508669,
+                            29.32539172093527
+                        ],
+                        [
+                            47.8755627128591,
+                            29.32522472208104
+                        ],
+                        [
+                            47.87532275757732,
+                            29.32509733195285
+                        ],
+                        [
+                            47.87525198221493,
+                            29.32503518938303
+                        ],
+                        [
+                            47.87486573906889,
+                            29.3248234398121
+                        ],
+                        [
+                            47.87437316770276,
+                            29.32455872451089
+                        ],
+                        [
+                            47.87424566977051,
+                            29.32447162916133
+                        ],
+                        [
+                            47.87427415694593,
+                            29.32445313973114
+                        ],
+                        [
+                            47.87492271443944,
+                            29.32478646353989
+                        ],
+                        [
+                            47.87537920026614,
+                            29.32506393750792
+                        ],
+                        [
+                            47.87550995154698,
+                            29.32511665481819
+                        ],
+                        [
+                            47.87569709625125,
+                            29.32524351797417
+                        ],
+                        [
+                            47.87587712251104,
+                            29.32538578758705
+                        ],
+                        [
+                            47.87589480274663,
+                            29.32538890991938
+                        ],
+                        [
+                            47.87595112990083,
+                            29.32548773240441
+                        ],
+                        [
+                            47.87620190998229,
+                            29.32563015242517
+                        ],
+                        [
+                            47.8764280399713,
+                            29.3257324228586
+                        ],
+                        [
+                            47.87663307286788,
+                            29.32578838194591
+                        ],
+                        [
+                            47.87679932362029,
+                            29.32579799039113
+                        ],
+                        [
+                            47.87683452812026,
+                            29.325859753674
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280618",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "931bad48-e77c-4d69-8a1a-d5324ad2af9f",
+                "url": "https://database.eamena.org/report/931bad48-e77c-4d69-8a1a-d5324ad2af9f",
+                "edit_url": "https://database.eamena.org/resource/931bad48-e77c-4d69-8a1a-d5324ad2af9f"
+            }
+        },
+        {
+            "id": "1c1d1a42-0254-4366-8d90-e75aa38778d9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.91192398414019,
+                    29.34514449786491
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280562",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "9364ea63-93d2-44d0-a908-901940dc33cf",
+                "url": "https://database.eamena.org/report/9364ea63-93d2-44d0-a908-901940dc33cf",
+                "edit_url": "https://database.eamena.org/resource/9364ea63-93d2-44d0-a908-901940dc33cf"
+            }
+        },
+        {
+            "id": "8b1c7bd6-44ba-4e9d-9fdc-84c998c24dbf",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.83401036217236,
+                    29.38290812015425
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280566",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "9434f621-399f-4748-b788-b798ed6d453b",
+                "url": "https://database.eamena.org/report/9434f621-399f-4748-b788-b798ed6d453b",
+                "edit_url": "https://database.eamena.org/resource/9434f621-399f-4748-b788-b798ed6d453b"
+            }
+        },
+        {
+            "id": "4a1c7f69-46bd-4fc1-bcc2-3437c292f9ba",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98058625548503,
+                            29.37676728908612
+                        ],
+                        [
+                            47.98111465722894,
+                            29.37637066548803
+                        ],
+                        [
+                            47.98140124372124,
+                            29.37609508875542
+                        ],
+                        [
+                            47.98172408831953,
+                            29.37624274654537
+                        ],
+                        [
+                            47.98296872428752,
+                            29.37656344899916
+                        ],
+                        [
+                            47.98307852009692,
+                            29.376654109533
+                        ],
+                        [
+                            47.98307282286753,
+                            29.37675595209661
+                        ],
+                        [
+                            47.98312616499817,
+                            29.37677642171695
+                        ],
+                        [
+                            47.98324048766148,
+                            29.37748314676278
+                        ],
+                        [
+                            47.98325026445174,
+                            29.37748291435106
+                        ],
+                        [
+                            47.98350558712135,
+                            29.37760943849498
+                        ],
+                        [
+                            47.98328237439532,
+                            29.37792493054117
+                        ],
+                        [
+                            47.98269099222076,
+                            29.37768831832987
+                        ],
+                        [
+                            47.98258324649655,
+                            29.37785996403295
+                        ],
+                        [
+                            47.98195647063955,
+                            29.37768835731408
+                        ],
+                        [
+                            47.98195647422103,
+                            29.37768255568099
+                        ],
+                        [
+                            47.98198460465139,
+                            29.37750211212664
+                        ],
+                        [
+                            47.98130551164842,
+                            29.37726001933619
+                        ],
+                        [
+                            47.98058625548503,
+                            29.37676728908612
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280602",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "94aa1f73-01ed-4eec-920d-114ddb95fd12",
+                "url": "https://database.eamena.org/report/94aa1f73-01ed-4eec-920d-114ddb95fd12",
+                "edit_url": "https://database.eamena.org/resource/94aa1f73-01ed-4eec-920d-114ddb95fd12"
+            }
+        },
+        {
+            "id": "5ef70b37-a35f-499f-9728-642233264833",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.9801659494021,
+                            29.3843761107837
+                        ],
+                        [
+                            47.9803320500175,
+                            29.38421091233518
+                        ],
+                        [
+                            47.98032946451821,
+                            29.38395388819671
+                        ],
+                        [
+                            47.9804250646221,
+                            29.3839818749919
+                        ],
+                        [
+                            47.98040366551255,
+                            29.38414555566572
+                        ],
+                        [
+                            47.98055957542895,
+                            29.38421307934803
+                        ],
+                        [
+                            47.98037613272803,
+                            29.38449326117215
+                        ],
+                        [
+                            47.9801659494021,
+                            29.3843761107837
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280579",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "99d27ee3-2487-4576-82f5-c9e54bd9c0f2",
+                "url": "https://database.eamena.org/report/99d27ee3-2487-4576-82f5-c9e54bd9c0f2",
+                "edit_url": "https://database.eamena.org/resource/99d27ee3-2487-4576-82f5-c9e54bd9c0f2"
+            }
+        },
+        {
+            "id": "e4cf7d8b-87a5-4cef-9e32-99de27c0727c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.99526698643322,
+                            29.38758846388142
+                        ],
+                        [
+                            47.99579001480139,
+                            29.3877877124003
+                        ],
+                        [
+                            47.99559347677388,
+                            29.38822800141912
+                        ],
+                        [
+                            47.99501857092274,
+                            29.38802480653961
+                        ],
+                        [
+                            47.99526698643322,
+                            29.38758846388142
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280584",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "9a280532-e809-4ef7-a264-0443dc741aae",
+                "url": "https://database.eamena.org/report/9a280532-e809-4ef7-a264-0443dc741aae",
+                "edit_url": "https://database.eamena.org/resource/9a280532-e809-4ef7-a264-0443dc741aae"
+            }
+        },
+        {
+            "id": "08e37778-06d3-453c-bc79-7625fd04c267",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.96950174103583,
+                    29.37904454740367
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280604",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "9d6c65b6-ad30-47cc-bb11-4626a212031a",
+                "url": "https://database.eamena.org/report/9d6c65b6-ad30-47cc-bb11-4626a212031a",
+                "edit_url": "https://database.eamena.org/resource/9d6c65b6-ad30-47cc-bb11-4626a212031a"
+            }
+        },
+        {
+            "id": "a41c4feb-41a4-47c2-b6af-9d3276ed903b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9088698265422,
+                    29.34566925495563
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280559",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "a69fecd5-dca4-4c60-974d-a7c022bc5f49",
+                "url": "https://database.eamena.org/report/a69fecd5-dca4-4c60-974d-a7c022bc5f49",
+                "edit_url": "https://database.eamena.org/resource/a69fecd5-dca4-4c60-974d-a7c022bc5f49"
+            }
+        },
+        {
+            "id": "57ca581c-58c0-4824-a585-75cda684c4d8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.82629236436398,
+                            29.39089674352428
+                        ],
+                        [
+                            47.82625230050036,
+                            29.39075195147089
+                        ],
+                        [
+                            47.82669150423182,
+                            29.39060608497185
+                        ],
+                        [
+                            47.82675956337932,
+                            29.39079463990818
+                        ],
+                        [
+                            47.82629236436398,
+                            29.39089674352428
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280593",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "a7089c7b-924a-4a2f-9e07-5f320bb93f25",
+                "url": "https://database.eamena.org/report/a7089c7b-924a-4a2f-9e07-5f320bb93f25",
+                "edit_url": "https://database.eamena.org/resource/a7089c7b-924a-4a2f-9e07-5f320bb93f25"
+            }
+        },
+        {
+            "id": "63529694-aa00-4a91-906f-f22b5cad2a4d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.90649721747948,
+                    29.34860678786952
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280561",
+                "dates": [
+                    "2025-12-16"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "a8ff7fd7-5d90-4178-8c12-ae67468c801a",
+                "url": "https://database.eamena.org/report/a8ff7fd7-5d90-4178-8c12-ae67468c801a",
+                "edit_url": "https://database.eamena.org/resource/a8ff7fd7-5d90-4178-8c12-ae67468c801a"
+            }
+        },
+        {
+            "id": "4b343f55-b540-4c53-83d1-f80b874f923c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.97293162531659,
+                    29.37433879143829
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280590",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "af7e2e93-21c6-411d-bd14-b8ebca9e2627",
+                "url": "https://database.eamena.org/report/af7e2e93-21c6-411d-bd14-b8ebca9e2627",
+                "edit_url": "https://database.eamena.org/resource/af7e2e93-21c6-411d-bd14-b8ebca9e2627"
+            }
+        },
+        {
+            "id": "fa265755-3ca0-40d1-a154-c8ebe526dbb6",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.86886509552384,
+                            29.37941398394211
+                        ],
+                        [
+                            47.86915609289858,
+                            29.37950101682299
+                        ],
+                        [
+                            47.86884880479299,
+                            29.38025727677095
+                        ],
+                        [
+                            47.86847854690716,
+                            29.38025472798138
+                        ],
+                        [
+                            47.86886509552384,
+                            29.37941398394211
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280631",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "b58e657b-a151-4141-bfb5-831197e49291",
+                "url": "https://database.eamena.org/report/b58e657b-a151-4141-bfb5-831197e49291",
+                "edit_url": "https://database.eamena.org/resource/b58e657b-a151-4141-bfb5-831197e49291"
+            }
+        },
+        {
+            "id": "5c136384-d792-472a-800f-85713f9c975b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.83106327347782,
+                            29.38703277177654
+                        ],
+                        [
+                            47.83102780433843,
+                            29.38691931525514
+                        ],
+                        [
+                            47.8313436086117,
+                            29.38685046226412
+                        ],
+                        [
+                            47.8313874336833,
+                            29.38695189004702
+                        ],
+                        [
+                            47.83106327347782,
+                            29.38703277177654
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280594",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "b74d0716-a2e1-4c3e-99e0-cb0bdff4747a",
+                "url": "https://database.eamena.org/report/b74d0716-a2e1-4c3e-99e0-cb0bdff4747a",
+                "edit_url": "https://database.eamena.org/resource/b74d0716-a2e1-4c3e-99e0-cb0bdff4747a"
+            }
+        },
+        {
+            "id": "77781217-60c1-4962-9eeb-6d9c2f859243",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.99019198851337,
+                            29.36612202476973
+                        ],
+                        [
+                            47.99046587054824,
+                            29.36588481626929
+                        ],
+                        [
+                            47.99093727260841,
+                            29.36626783520387
+                        ],
+                        [
+                            47.99057616274882,
+                            29.36648651399682
+                        ],
+                        [
+                            47.99019198851337,
+                            29.36612202476973
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280615",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "b9d5ced4-6441-493a-bc56-2d68d41b9b42",
+                "url": "https://database.eamena.org/report/b9d5ced4-6441-493a-bc56-2d68d41b9b42",
+                "edit_url": "https://database.eamena.org/resource/b9d5ced4-6441-493a-bc56-2d68d41b9b42"
+            }
+        },
+        {
+            "id": "0c39f41c-0ae2-44ed-bd87-c7c5748c5762",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98876834730002,
+                            29.3694746559977
+                        ],
+                        [
+                            47.98944786172694,
+                            29.37012838428058
+                        ],
+                        [
+                            47.98853549478276,
+                            29.37093003647512
+                        ],
+                        [
+                            47.98827491758309,
+                            29.37087437860761
+                        ],
+                        [
+                            47.98805683678507,
+                            29.37097339798527
+                        ],
+                        [
+                            47.98763903918491,
+                            29.37042989987914
+                        ],
+                        [
+                            47.98876834730002,
+                            29.3694746559977
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280597",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "c0259d1d-8488-4958-97ee-c75349e592e0",
+                "url": "https://database.eamena.org/report/c0259d1d-8488-4958-97ee-c75349e592e0",
+                "edit_url": "https://database.eamena.org/resource/c0259d1d-8488-4958-97ee-c75349e592e0"
+            }
+        },
+        {
+            "id": "6764a0e6-4334-4c6c-940e-60b19a4c1c43",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97584667257551,
+                            29.38203401957496
+                        ],
+                        [
+                            47.9761055683618,
+                            29.3818139816382
+                        ],
+                        [
+                            47.97624214819237,
+                            29.38191141209334
+                        ],
+                        [
+                            47.97638806831008,
+                            29.38203716692544
+                        ],
+                        [
+                            47.97614743831273,
+                            29.38227599508186
+                        ],
+                        [
+                            47.97584667257551,
+                            29.38203401957496
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280623",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "c185b216-425b-4eb9-a1b8-1b537c396e08",
+                "url": "https://database.eamena.org/report/c185b216-425b-4eb9-a1b8-1b537c396e08",
+                "edit_url": "https://database.eamena.org/resource/c185b216-425b-4eb9-a1b8-1b537c396e08"
+            }
+        },
+        {
+            "id": "bfe45d11-25a8-46b8-bb90-8897bbd2dce0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.88035773482914,
+                            29.38409906875417
+                        ],
+                        [
+                            47.8806122023279,
+                            29.38352010757107
+                        ],
+                        [
+                            47.88452583395025,
+                            29.38335507358403
+                        ],
+                        [
+                            47.88452580682539,
+                            29.38336629237212
+                        ],
+                        [
+                            47.88440006412787,
+                            29.38389336581369
+                        ],
+                        [
+                            47.88035773482914,
+                            29.38409906875417
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280612",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "c331649b-4eae-49da-a0cb-ea0bf86ddc08",
+                "url": "https://database.eamena.org/report/c331649b-4eae-49da-a0cb-ea0bf86ddc08",
+                "edit_url": "https://database.eamena.org/resource/c331649b-4eae-49da-a0cb-ea0bf86ddc08"
+            }
+        },
+        {
+            "id": "437a5743-897f-4db9-b377-a9ffd9ed07cd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.96670276988983,
+                            29.37443433590638
+                        ],
+                        [
+                            47.96707266856042,
+                            29.37408560788557
+                        ],
+                        [
+                            47.96726702046286,
+                            29.37423128096207
+                        ],
+                        [
+                            47.96703459999392,
+                            29.3746581279073
+                        ],
+                        [
+                            47.96670276988983,
+                            29.37443433590638
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280605",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "cfbda34c-15e6-4ad0-905f-e06fc0dbc3f8",
+                "url": "https://database.eamena.org/report/cfbda34c-15e6-4ad0-905f-e06fc0dbc3f8",
+                "edit_url": "https://database.eamena.org/resource/cfbda34c-15e6-4ad0-905f-e06fc0dbc3f8"
+            }
+        },
+        {
+            "id": "b2a9e654-dc29-4090-b252-cb6b3cc832d8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.99788313965881,
+                    29.38548049063137
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280588",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "cfc8f3ea-e4ed-471d-9152-1b294ce6906f",
+                "url": "https://database.eamena.org/report/cfc8f3ea-e4ed-471d-9152-1b294ce6906f",
+                "edit_url": "https://database.eamena.org/resource/cfc8f3ea-e4ed-471d-9152-1b294ce6906f"
+            }
+        },
+        {
+            "id": "768f3094-b6f2-4b44-a8bc-3806bac5f64f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98899013879781,
+                            29.37098256553361
+                        ],
+                        [
+                            47.99006647213119,
+                            29.370069640236
+                        ],
+                        [
+                            47.99012563252656,
+                            29.37008712464667
+                        ],
+                        [
+                            47.99143277436228,
+                            29.37117714806153
+                        ],
+                        [
+                            47.9912752863834,
+                            29.37134228979652
+                        ],
+                        [
+                            47.99149164198839,
+                            29.3715215764011
+                        ],
+                        [
+                            47.99040328267888,
+                            29.37239012276438
+                        ],
+                        [
+                            47.98899013879781,
+                            29.37098256553361
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280596",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "d7b6e2ba-32b8-4e3b-af17-a31bf5720a7c",
+                "url": "https://database.eamena.org/report/d7b6e2ba-32b8-4e3b-af17-a31bf5720a7c",
+                "edit_url": "https://database.eamena.org/resource/d7b6e2ba-32b8-4e3b-af17-a31bf5720a7c"
+            }
+        },
+        {
+            "id": "09f79130-f47f-447c-8cda-dd6cd458807e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.86919857562678,
+                            29.38057914039501
+                        ],
+                        [
+                            47.86968598262069,
+                            29.37970098818842
+                        ],
+                        [
+                            47.87004516705294,
+                            29.3798958044583
+                        ],
+                        [
+                            47.86945876887518,
+                            29.38071622686577
+                        ],
+                        [
+                            47.86919857562678,
+                            29.38057914039501
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280629",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "dbeed56f-ea75-4ebb-b1a8-de6e4958de18",
+                "url": "https://database.eamena.org/report/dbeed56f-ea75-4ebb-b1a8-de6e4958de18",
+                "edit_url": "https://database.eamena.org/resource/dbeed56f-ea75-4ebb-b1a8-de6e4958de18"
+            }
+        },
+        {
+            "id": "b14f57ab-2391-445a-819a-0cee07b5e6cd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97758336197506,
+                            29.38310544453896
+                        ],
+                        [
+                            47.97772163379557,
+                            29.38289778804948
+                        ],
+                        [
+                            47.97797632891186,
+                            29.38305788026204
+                        ],
+                        [
+                            47.97784367464509,
+                            29.38327933106719
+                        ],
+                        [
+                            47.97758336197506,
+                            29.38310544453896
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280577",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "ddbbf0c2-e053-4690-947c-746954da73d9",
+                "url": "https://database.eamena.org/report/ddbbf0c2-e053-4690-947c-746954da73d9",
+                "edit_url": "https://database.eamena.org/resource/ddbbf0c2-e053-4690-947c-746954da73d9"
+            }
+        },
+        {
+            "id": "e9d3990d-ec11-4545-865c-9c8907091e38",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97093580902936,
+                            29.37768192536439
+                        ],
+                        [
+                            47.97123952794494,
+                            29.37726127676726
+                        ],
+                        [
+                            47.97155905059769,
+                            29.37750904181273
+                        ],
+                        [
+                            47.97118541331317,
+                            29.37788995729474
+                        ],
+                        [
+                            47.97093580902936,
+                            29.37768192536439
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280603",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "dfafdcf4-7efa-4e3d-9a0b-be82a7916894",
+                "url": "https://database.eamena.org/report/dfafdcf4-7efa-4e3d-9a0b-be82a7916894",
+                "edit_url": "https://database.eamena.org/resource/dfafdcf4-7efa-4e3d-9a0b-be82a7916894"
+            }
+        },
+        {
+            "id": "78b2eeff-7d9f-4082-95d1-6094eb37e831",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.87646858461478,
+                            29.39164671550537
+                        ],
+                        [
+                            47.87648341194291,
+                            29.38948002914513
+                        ],
+                        [
+                            47.8769912632004,
+                            29.38943959548029
+                        ],
+                        [
+                            47.87714252904715,
+                            29.39160253252553
+                        ],
+                        [
+                            47.87646858461478,
+                            29.39164671550537
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280611",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "e040e2f6-4ee0-419c-8e70-412bc3d9e75a",
+                "url": "https://database.eamena.org/report/e040e2f6-4ee0-419c-8e70-412bc3d9e75a",
+                "edit_url": "https://database.eamena.org/resource/e040e2f6-4ee0-419c-8e70-412bc3d9e75a"
+            }
+        },
+        {
+            "id": "ecd1cfc0-f8e0-45b2-9741-c854f0b114eb",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.87801749770028,
+                            29.38896174255252
+                        ],
+                        [
+                            47.87852555661348,
+                            29.38887169154051
+                        ],
+                        [
+                            47.87915450830292,
+                            29.38983227403227
+                        ],
+                        [
+                            47.87924197198561,
+                            29.39095324239344
+                        ],
+                        [
+                            47.87871966065528,
+                            29.39101837633473
+                        ],
+                        [
+                            47.87801749770028,
+                            29.38896174255252
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280610",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "e17c93ea-3dbe-40eb-b3f9-1ab7901b61de",
+                "url": "https://database.eamena.org/report/e17c93ea-3dbe-40eb-b3f9-1ab7901b61de",
+                "edit_url": "https://database.eamena.org/resource/e17c93ea-3dbe-40eb-b3f9-1ab7901b61de"
+            }
+        },
+        {
+            "id": "6f67a818-4876-4e30-9728-62e75c340fa3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.9725974391167,
+                            29.36999128714351
+                        ],
+                        [
+                            47.97285757127822,
+                            29.37012788978613
+                        ],
+                        [
+                            47.97258241143946,
+                            29.37052508279778
+                        ],
+                        [
+                            47.97231066152957,
+                            29.37040066650412
+                        ],
+                        [
+                            47.9725974391167,
+                            29.36999128714351
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280598",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "e26eb739-c7d5-4ab2-9485-c28f27308911",
+                "url": "https://database.eamena.org/report/e26eb739-c7d5-4ab2-9485-c28f27308911",
+                "edit_url": "https://database.eamena.org/resource/e26eb739-c7d5-4ab2-9485-c28f27308911"
+            }
+        },
+        {
+            "id": "4d92913c-f2c1-4730-b02b-a4adadc6ab35",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.98077193471666,
+                            29.38453374783403
+                        ],
+                        [
+                            47.98113535762155,
+                            29.38394470504459
+                        ],
+                        [
+                            47.98148153302721,
+                            29.38402091480203
+                        ],
+                        [
+                            47.98184052814067,
+                            29.3840566551033
+                        ],
+                        [
+                            47.98240572872842,
+                            29.38385370229017
+                        ],
+                        [
+                            47.98278982325843,
+                            29.38360667711341
+                        ],
+                        [
+                            47.98307198447184,
+                            29.38373069464333
+                        ],
+                        [
+                            47.98351350016237,
+                            29.38417664580891
+                        ],
+                        [
+                            47.98291482545307,
+                            29.38463116961358
+                        ],
+                        [
+                            47.98138786928921,
+                            29.38478439511112
+                        ],
+                        [
+                            47.98079391234319,
+                            29.38471805429795
+                        ],
+                        [
+                            47.98077193471666,
+                            29.38453374783403
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280581",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "f5525774-9522-428d-ac4d-12a2897be096",
+                "url": "https://database.eamena.org/report/f5525774-9522-428d-ac4d-12a2897be096",
+                "edit_url": "https://database.eamena.org/resource/f5525774-9522-428d-ac4d-12a2897be096"
+            }
+        },
+        {
+            "id": "72405e12-57f5-469d-b6df-7f955e100a31",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.84613833661447,
+                            29.38425471494488
+                        ],
+                        [
+                            47.8463303543253,
+                            29.3840404390609
+                        ],
+                        [
+                            47.84671284118734,
+                            29.38439987203123
+                        ],
+                        [
+                            47.84666313372631,
+                            29.38456830848734
+                        ],
+                        [
+                            47.84638020133775,
+                            29.38455003377399
+                        ],
+                        [
+                            47.84613833661447,
+                            29.38425471494488
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280570",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "f5c402cc-915a-43f4-9801-49008fccc396",
+                "url": "https://database.eamena.org/report/f5c402cc-915a-43f4-9801-49008fccc396",
+                "edit_url": "https://database.eamena.org/resource/f5c402cc-915a-43f4-9801-49008fccc396"
+            }
+        },
+        {
+            "id": "dda18ff3-1eca-4646-8c56-6d65528e6114",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97782507941203,
+                            29.3838252430614
+                        ],
+                        [
+                            47.97817368307838,
+                            29.38345792176729
+                        ],
+                        [
+                            47.97852168474805,
+                            29.38368317165215
+                        ],
+                        [
+                            47.97823888370704,
+                            29.38412144689909
+                        ],
+                        [
+                            47.97782507941203,
+                            29.3838252430614
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280576",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "f650fb46-0497-4fa9-b2b4-98dd0cb73d5a",
+                "url": "https://database.eamena.org/report/f650fb46-0497-4fa9-b2b4-98dd0cb73d5a",
+                "edit_url": "https://database.eamena.org/resource/f650fb46-0497-4fa9-b2b4-98dd0cb73d5a"
+            }
+        },
+        {
+            "id": "856af3e9-71b9-4ba2-893f-08faed406845",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.9744481061578,
+                            29.38091598836283
+                        ],
+                        [
+                            47.97472667396168,
+                            29.38058689148178
+                        ],
+                        [
+                            47.97511009065698,
+                            29.38088674529119
+                        ],
+                        [
+                            47.97472490294107,
+                            29.38129760087142
+                        ],
+                        [
+                            47.9744481061578,
+                            29.38091598836283
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280601",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "f7eaec4f-1cd1-44d2-927d-2302bb0888ce",
+                "url": "https://database.eamena.org/report/f7eaec4f-1cd1-44d2-927d-2302bb0888ce",
+                "edit_url": "https://database.eamena.org/resource/f7eaec4f-1cd1-44d2-927d-2302bb0888ce"
+            }
+        },
+        {
+            "id": "cd5038f4-9e9a-46ba-ab92-0ca44d6538e9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.84274998810639,
+                            29.37860897971869
+                        ],
+                        [
+                            47.84523138720839,
+                            29.37637154425331
+                        ],
+                        [
+                            47.84603785695713,
+                            29.37744002528657
+                        ],
+                        [
+                            47.84437828386424,
+                            29.37890814424653
+                        ],
+                        [
+                            47.84274998810639,
+                            29.37860897971869
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280622",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "fb927e26-52a4-4bb8-b744-0c7d6dcd2a74",
+                "url": "https://database.eamena.org/report/fb927e26-52a4-4bb8-b744-0c7d6dcd2a74",
+                "edit_url": "https://database.eamena.org/resource/fb927e26-52a4-4bb8-b744-0c7d6dcd2a74"
+            }
+        },
+        {
+            "id": "042454f8-c514-4c2c-8616-adcf6cf51df7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.87229274210137,
+                            29.3894393434671
+                        ],
+                        [
+                            47.87172643822314,
+                            29.39163316736059
+                        ],
+                        [
+                            47.87026151706572,
+                            29.3902470375916
+                        ],
+                        [
+                            47.87028133236546,
+                            29.38947249187355
+                        ],
+                        [
+                            47.87028136290454,
+                            29.38946038893286
+                        ],
+                        [
+                            47.8714738548986,
+                            29.38794567822703
+                        ],
+                        [
+                            47.87229274210137,
+                            29.3894393434671
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280613",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "fc0f7945-b87f-4791-b4b7-ea5e273c128a",
+                "url": "https://database.eamena.org/report/fc0f7945-b87f-4791-b4b7-ea5e273c128a",
+                "edit_url": "https://database.eamena.org/resource/fc0f7945-b87f-4791-b4b7-ea5e273c128a"
+            }
+        },
+        {
+            "id": "719125c4-f215-47fa-bb91-8bcb747544d8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.97388788235777,
+                            29.36632996618795
+                        ],
+                        [
+                            47.97229682695021,
+                            29.36583250179565
+                        ],
+                        [
+                            47.97252458799469,
+                            29.36449580295584
+                        ],
+                        [
+                            47.97254701148489,
+                            29.36449585071295
+                        ],
+                        [
+                            47.97256195890716,
+                            29.36449588261414
+                        ],
+                        [
+                            47.97285059580586,
+                            29.36411837450823
+                        ],
+                        [
+                            47.97402690307183,
+                            29.36413243053418
+                        ],
+                        [
+                            47.97414195956452,
+                            29.36485566170576
+                        ],
+                        [
+                            47.9739846705412,
+                            29.36632075878158
+                        ],
+                        [
+                            47.97388788235777,
+                            29.36632996618795
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280599",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "ff103e7e-db92-44fb-8641-d364c7ba6a9f",
+                "url": "https://database.eamena.org/report/ff103e7e-db92-44fb-8641-d364c7ba6a9f",
+                "edit_url": "https://database.eamena.org/resource/ff103e7e-db92-44fb-8641-d364c7ba6a9f"
+            }
+        },
+        {
+            "id": "105c6aa8-9b2a-4886-bc77-5a6ba1ea656c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            47.99423388253155,
+                            29.39065549551068
+                        ],
+                        [
+                            47.9942528588096,
+                            29.38969873759524
+                        ],
+                        [
+                            47.99598323809398,
+                            29.38973635995046
+                        ],
+                        [
+                            47.99591142809931,
+                            29.39062140891618
+                        ],
+                        [
+                            47.99423388253155,
+                            29.39065549551068
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0280582",
+                "dates": [
+                    "2025-12-17"
+                ],
+                "countries": [
+                    "Kuwait"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "ff3486dc-4ead-4899-a541-f1105bfe9f7c",
+                "url": "https://database.eamena.org/report/ff3486dc-4ead-4899-a541-f1105bfe9f7c",
+                "edit_url": "https://database.eamena.org/resource/ff3486dc-4ead-4899-a541-f1105bfe9f7c"
+            }
+        }
+    ]
+}

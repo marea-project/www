@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "68d91efa-4906-42dd-bdbe-10645c0c55e0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            53.062144167,
+                            24.881770613
+                        ],
+                        [
+                            53.062224992,
+                            24.881842762
+                        ],
+                        [
+                            53.062186777,
+                            24.881927128
+                        ],
+                        [
+                            53.062077997,
+                            24.882040101
+                        ],
+                        [
+                            53.061965345,
+                            24.8820693
+                        ],
+                        [
+                            53.061890243,
+                            24.882040101
+                        ],
+                        [
+                            53.061544238,
+                            24.881889241
+                        ],
+                        [
+                            53.061815141,
+                            24.881512088
+                        ],
+                        [
+                            53.062144167,
+                            24.881770613
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161083",
+                "dates": [
+                    "2020-01-30"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "ada5580f-2f77-40f0-b0ef-1cc4676113c0",
+                "url": "https://database.eamena.org/report/ada5580f-2f77-40f0-b0ef-1cc4676113c0",
+                "edit_url": "https://database.eamena.org/resource/ada5580f-2f77-40f0-b0ef-1cc4676113c0"
+            }
+        }
+    ]
+}

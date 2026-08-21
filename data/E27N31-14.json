@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.339704,
+                    31.360727
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0272534",
+                "dates": [
+                    "2025-06-11"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "8b7add30-7e2d-42a2-a556-22e4d0b97903",
+                "url": "https://database.eamena.org/report/8b7add30-7e2d-42a2-a556-22e4d0b97903",
+                "edit_url": "https://database.eamena.org/resource/8b7add30-7e2d-42a2-a556-22e4d0b97903"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.28945553541449,
+                    31.36775228351688
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0205467",
+                "dates": [
+                    "2023-05-02"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "ee949285-be12-4216-9d82-5e1f4acf0d92",
+                "url": "https://database.eamena.org/report/ee949285-be12-4216-9d82-5e1f4acf0d92",
+                "edit_url": "https://database.eamena.org/resource/ee949285-be12-4216-9d82-5e1f4acf0d92"
+            }
+        }
+    ]
+}

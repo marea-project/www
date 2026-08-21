@@ -1,0 +1,1249 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.05918272577341,
+                            22.81820892112598
+                        ],
+                        [
+                            59.05184577904372,
+                            22.81838570885183
+                        ],
+                        [
+                            59.05214532754259,
+                            22.81482708070309
+                        ],
+                        [
+                            59.05707449428198,
+                            22.8146895819947
+                        ],
+                        [
+                            59.05978824474472,
+                            22.81736853282235
+                        ],
+                        [
+                            59.05918272577341,
+                            22.81820892112598
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225610",
+                "dates": [
+                    "2023-03-15",
+                    "2023-03-15",
+                    "2023-03-15"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "024a0cda-10dc-4cae-b084-48c7b3f5da2e",
+                "url": "https://database.eamena.org/report/024a0cda-10dc-4cae-b084-48c7b3f5da2e",
+                "edit_url": "https://database.eamena.org/resource/024a0cda-10dc-4cae-b084-48c7b3f5da2e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.072548,
+                    22.799535
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225613",
+                "dates": [
+                    "2023-03-17",
+                    "2023-03-17",
+                    "2023-03-17"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "0b803700-9789-4d59-a5ee-662d1b033042",
+                "url": "https://database.eamena.org/report/0b803700-9789-4d59-a5ee-662d1b033042",
+                "edit_url": "https://database.eamena.org/resource/0b803700-9789-4d59-a5ee-662d1b033042"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.04156,
+                    22.977296
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225587",
+                "dates": [
+                    "2023-02-27",
+                    "2023-02-27",
+                    "2023-02-27"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "1a59b212-72aa-460f-84f1-8ce5a746cb41",
+                "url": "https://database.eamena.org/report/1a59b212-72aa-460f-84f1-8ce5a746cb41",
+                "edit_url": "https://database.eamena.org/resource/1a59b212-72aa-460f-84f1-8ce5a746cb41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.212022,
+                    22.924864
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225594",
+                "dates": [
+                    "2023-02-28",
+                    "2023-02-28",
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "2102c584-701b-4401-b58f-d7ac9d16740d",
+                "url": "https://database.eamena.org/report/2102c584-701b-4401-b58f-d7ac9d16740d",
+                "edit_url": "https://database.eamena.org/resource/2102c584-701b-4401-b58f-d7ac9d16740d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.12308400098165,
+                            22.77201500523859
+                        ],
+                        [
+                            59.12600920912586,
+                            22.77124550573437
+                        ],
+                        [
+                            59.12905635721715,
+                            22.77107030066856
+                        ],
+                        [
+                            59.12910489254568,
+                            22.77316402017606
+                        ],
+                        [
+                            59.12533501199794,
+                            22.77309146395244
+                        ],
+                        [
+                            59.12322068485744,
+                            22.77228518413124
+                        ],
+                        [
+                            59.12308400098165,
+                            22.77201500523859
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225619",
+                "dates": [
+                    "2023-03-21",
+                    "2023-03-21",
+                    "2023-03-21"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "2ff91ece-58c9-428c-b213-0041a9d3e172",
+                "url": "https://database.eamena.org/report/2ff91ece-58c9-428c-b213-0041a9d3e172",
+                "edit_url": "https://database.eamena.org/resource/2ff91ece-58c9-428c-b213-0041a9d3e172"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.16133710382764,
+                            22.95562761163817
+                        ],
+                        [
+                            59.16074198252332,
+                            22.95313246023399
+                        ],
+                        [
+                            59.16445829352909,
+                            22.9555743795862
+                        ],
+                        [
+                            59.16133710382764,
+                            22.95562761163817
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225617",
+                "dates": [
+                    "2023-03-20",
+                    "2023-03-20",
+                    "2023-03-20"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "33170b22-17c4-40c3-8d81-f19e52eccc9c",
+                "url": "https://database.eamena.org/report/33170b22-17c4-40c3-8d81-f19e52eccc9c",
+                "edit_url": "https://database.eamena.org/resource/33170b22-17c4-40c3-8d81-f19e52eccc9c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.080662,
+                    22.840711
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225606",
+                "dates": [
+                    "2023-03-08",
+                    "2023-03-08",
+                    "2023-03-08"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "3adb1c52-c769-41b8-9345-0687d35b525d",
+                "url": "https://database.eamena.org/report/3adb1c52-c769-41b8-9345-0687d35b525d",
+                "edit_url": "https://database.eamena.org/resource/3adb1c52-c769-41b8-9345-0687d35b525d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.049637,
+                    22.780205
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225616",
+                "dates": [
+                    "2023-03-20",
+                    "2023-03-20",
+                    "2023-03-20"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "4086209c-60b7-4b75-86c7-8966eb0a1e18",
+                "url": "https://database.eamena.org/report/4086209c-60b7-4b75-86c7-8966eb0a1e18",
+                "edit_url": "https://database.eamena.org/resource/4086209c-60b7-4b75-86c7-8966eb0a1e18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.113528,
+                    22.873338
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225601",
+                "dates": [
+                    "2023-03-02",
+                    "2023-03-02",
+                    "2023-03-02"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "41a753a1-2ae7-4eb3-8e70-7a8ad213fbe5",
+                "url": "https://database.eamena.org/report/41a753a1-2ae7-4eb3-8e70-7a8ad213fbe5",
+                "edit_url": "https://database.eamena.org/resource/41a753a1-2ae7-4eb3-8e70-7a8ad213fbe5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.06909315218964,
+                            22.80350442718236
+                        ],
+                        [
+                            59.06624354804731,
+                            22.80124621978289
+                        ],
+                        [
+                            59.06605480125774,
+                            22.80005705722138
+                        ],
+                        [
+                            59.06762861700832,
+                            22.79920568346371
+                        ],
+                        [
+                            59.0678880413035,
+                            22.79729261650409
+                        ],
+                        [
+                            59.06874037105982,
+                            22.79689786076867
+                        ],
+                        [
+                            59.07046144834213,
+                            22.79853763623041
+                        ],
+                        [
+                            59.0693044030337,
+                            22.80304035946938
+                        ],
+                        [
+                            59.06909315218964,
+                            22.80350442718236
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225612",
+                "dates": [
+                    "2023-03-17",
+                    "2023-03-17",
+                    "2023-03-17"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "49fa39a1-c00a-4a1b-98ea-e5b60ceb5b8f",
+                "url": "https://database.eamena.org/report/49fa39a1-c00a-4a1b-98ea-e5b60ceb5b8f",
+                "edit_url": "https://database.eamena.org/resource/49fa39a1-c00a-4a1b-98ea-e5b60ceb5b8f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.001621,
+                    22.893158
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225597",
+                "dates": [
+                    "2023-03-01",
+                    "2023-03-01",
+                    "2023-03-01"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "4a56486c-9d6c-42c8-8291-5700f7669b20",
+                "url": "https://database.eamena.org/report/4a56486c-9d6c-42c8-8291-5700f7669b20",
+                "edit_url": "https://database.eamena.org/resource/4a56486c-9d6c-42c8-8291-5700f7669b20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.20934800933373,
+                            22.93313666093684
+                        ],
+                        [
+                            59.20908985102852,
+                            22.93314117138901
+                        ],
+                        [
+                            59.20889007627486,
+                            22.93251316081528
+                        ],
+                        [
+                            59.20898496340751,
+                            22.93164512575125
+                        ],
+                        [
+                            59.20937951969825,
+                            22.93178415368797
+                        ],
+                        [
+                            59.20970113274604,
+                            22.93297961967586
+                        ],
+                        [
+                            59.20934800933373,
+                            22.93313666093684
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225590",
+                "dates": [
+                    "2023-02-27",
+                    "2023-02-27",
+                    "2023-02-27"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "5c77d327-9f21-4a42-8922-11b3e8b9424d",
+                "url": "https://database.eamena.org/report/5c77d327-9f21-4a42-8922-11b3e8b9424d",
+                "edit_url": "https://database.eamena.org/resource/5c77d327-9f21-4a42-8922-11b3e8b9424d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.028999,
+                    22.826723
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225608",
+                "dates": [
+                    "2023-03-13",
+                    "2023-03-13",
+                    "2023-03-13"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "61e4b4a2-8a50-4731-b5dd-8008df6702e8",
+                "url": "https://database.eamena.org/report/61e4b4a2-8a50-4731-b5dd-8008df6702e8",
+                "edit_url": "https://database.eamena.org/resource/61e4b4a2-8a50-4731-b5dd-8008df6702e8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.214127,
+                    22.796693
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225614",
+                "dates": [
+                    "2023-03-18",
+                    "2023-03-18",
+                    "2023-03-18"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "7294659e-e3aa-45fa-aa9a-ba602b161e20",
+                "url": "https://database.eamena.org/report/7294659e-e3aa-45fa-aa9a-ba602b161e20",
+                "edit_url": "https://database.eamena.org/resource/7294659e-e3aa-45fa-aa9a-ba602b161e20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.06900247680083,
+                            22.8082983518309
+                        ],
+                        [
+                            59.0689500070768,
+                            22.80715503108961
+                        ],
+                        [
+                            59.06953192622811,
+                            22.80602064648655
+                        ],
+                        [
+                            59.07003231886426,
+                            22.80632095815233
+                        ],
+                        [
+                            59.07107411600409,
+                            22.80847738280437
+                        ],
+                        [
+                            59.06900247680083,
+                            22.8082983518309
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225609",
+                "dates": [
+                    "2023-03-13",
+                    "2023-03-13",
+                    "2023-03-13"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "7d5e9f48-bce7-4f61-90fb-a6fe08fc9ffd",
+                "url": "https://database.eamena.org/report/7d5e9f48-bce7-4f61-90fb-a6fe08fc9ffd",
+                "edit_url": "https://database.eamena.org/resource/7d5e9f48-bce7-4f61-90fb-a6fe08fc9ffd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.14784752292284,
+                            22.98563083411461
+                        ],
+                        [
+                            59.14763606124653,
+                            22.98504484522004
+                        ],
+                        [
+                            59.14809013164203,
+                            22.98465882121857
+                        ],
+                        [
+                            59.14857340444273,
+                            22.9850296860055
+                        ],
+                        [
+                            59.14808425850907,
+                            22.98562483394536
+                        ],
+                        [
+                            59.14784752292284,
+                            22.98563083411461
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225586",
+                "dates": [
+                    "2023-02-27",
+                    "2023-02-27",
+                    "2023-02-27"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "806c7782-8234-431d-9d4c-adfe1784674b",
+                "url": "https://database.eamena.org/report/806c7782-8234-431d-9d4c-adfe1784674b",
+                "edit_url": "https://database.eamena.org/resource/806c7782-8234-431d-9d4c-adfe1784674b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.14681,
+                    22.910818
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225596",
+                "dates": [
+                    "2023-02-28",
+                    "2023-02-28",
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "8322e1fb-24b1-4251-8e7b-de8cdbfce002",
+                "url": "https://database.eamena.org/report/8322e1fb-24b1-4251-8e7b-de8cdbfce002",
+                "edit_url": "https://database.eamena.org/resource/8322e1fb-24b1-4251-8e7b-de8cdbfce002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.111889,
+                    22.873732
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225602",
+                "dates": [
+                    "2023-03-06",
+                    "2023-03-06",
+                    "2023-03-06"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "85bd5adc-f008-4096-961c-86ef52a89720",
+                "url": "https://database.eamena.org/report/85bd5adc-f008-4096-961c-86ef52a89720",
+                "edit_url": "https://database.eamena.org/resource/85bd5adc-f008-4096-961c-86ef52a89720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.002914,
+                    22.972416
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225589",
+                "dates": [
+                    "2023-02-27",
+                    "2023-02-27",
+                    "2023-02-27"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "a614a332-b54c-415b-9ea7-5d83dd97acdb",
+                "url": "https://database.eamena.org/report/a614a332-b54c-415b-9ea7-5d83dd97acdb",
+                "edit_url": "https://database.eamena.org/resource/a614a332-b54c-415b-9ea7-5d83dd97acdb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.053955,
+                    22.883701
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225598",
+                "dates": [
+                    "2023-03-01",
+                    "2023-03-01",
+                    "2023-03-01"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "acda3b7f-4b72-4530-9581-6785288b5fe5",
+                "url": "https://database.eamena.org/report/acda3b7f-4b72-4530-9581-6785288b5fe5",
+                "edit_url": "https://database.eamena.org/resource/acda3b7f-4b72-4530-9581-6785288b5fe5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.110055,
+                    22.851525
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225603",
+                "dates": [
+                    "2023-03-06",
+                    "2023-03-06",
+                    "2023-03-06"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "b0c97c4e-92d7-42f7-9993-76c229955850",
+                "url": "https://database.eamena.org/report/b0c97c4e-92d7-42f7-9993-76c229955850",
+                "edit_url": "https://database.eamena.org/resource/b0c97c4e-92d7-42f7-9993-76c229955850"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.0223863136227,
+                            22.84094741504606
+                        ],
+                        [
+                            59.02095355410062,
+                            22.8410369609324
+                        ],
+                        [
+                            59.02097570020251,
+                            22.84071035362079
+                        ],
+                        [
+                            59.02196963353427,
+                            22.84052909835725
+                        ],
+                        [
+                            59.02239703328512,
+                            22.8399696394839
+                        ],
+                        [
+                            59.02249184864315,
+                            22.83961645591676
+                        ],
+                        [
+                            59.0231588585215,
+                            22.83963748048362
+                        ],
+                        [
+                            59.02423174319973,
+                            22.83937659645484
+                        ],
+                        [
+                            59.02449542381786,
+                            22.83959235645035
+                        ],
+                        [
+                            59.02430864228469,
+                            22.839764284002
+                        ],
+                        [
+                            59.02290966279578,
+                            22.84009608831463
+                        ],
+                        [
+                            59.02237678047359,
+                            22.84047654679313
+                        ],
+                        [
+                            59.02261550171105,
+                            22.84079551434172
+                        ],
+                        [
+                            59.0223863136227,
+                            22.84094741504606
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225605",
+                "dates": [
+                    "2023-03-06",
+                    "2023-03-06",
+                    "2023-03-06"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "c43ecb72-1ea9-45d6-adf5-64db64192429",
+                "url": "https://database.eamena.org/report/c43ecb72-1ea9-45d6-adf5-64db64192429",
+                "edit_url": "https://database.eamena.org/resource/c43ecb72-1ea9-45d6-adf5-64db64192429"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.211528,
+                    22.923555
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225592",
+                "dates": [
+                    "2023-02-28",
+                    "2023-02-28",
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "c48bb19d-5b96-4a07-be1b-d99daa8f0232",
+                "url": "https://database.eamena.org/report/c48bb19d-5b96-4a07-be1b-d99daa8f0232",
+                "edit_url": "https://database.eamena.org/resource/c48bb19d-5b96-4a07-be1b-d99daa8f0232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.245931,
+                    22.840583
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225607",
+                "dates": [
+                    "2023-03-08",
+                    "2023-03-08",
+                    "2023-03-08"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "c83d2f95-faf2-4ac5-8afe-44d7ee2b5821",
+                "url": "https://database.eamena.org/report/c83d2f95-faf2-4ac5-8afe-44d7ee2b5821",
+                "edit_url": "https://database.eamena.org/resource/c83d2f95-faf2-4ac5-8afe-44d7ee2b5821"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.106694,
+                    22.878266
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225600",
+                "dates": [
+                    "2023-03-01",
+                    "2023-03-01",
+                    "2023-03-01"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "c8eaf521-e6b8-4647-90e2-4d21e9ab13f9",
+                "url": "https://database.eamena.org/report/c8eaf521-e6b8-4647-90e2-4d21e9ab13f9",
+                "edit_url": "https://database.eamena.org/resource/c8eaf521-e6b8-4647-90e2-4d21e9ab13f9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.121212,
+                    22.879298
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225599",
+                "dates": [
+                    "2023-03-01",
+                    "2023-03-01",
+                    "2023-03-01"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "ca17b638-6b4d-48ca-9fd0-f8c615b5e8ec",
+                "url": "https://database.eamena.org/report/ca17b638-6b4d-48ca-9fd0-f8c615b5e8ec",
+                "edit_url": "https://database.eamena.org/resource/ca17b638-6b4d-48ca-9fd0-f8c615b5e8ec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.212685,
+                    22.922715
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225591",
+                "dates": [
+                    "2023-02-27",
+                    "2023-02-27",
+                    "2023-02-27"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "d11bec5b-e700-4ae4-9a0b-ae3ec887cf26",
+                "url": "https://database.eamena.org/report/d11bec5b-e700-4ae4-9a0b-ae3ec887cf26",
+                "edit_url": "https://database.eamena.org/resource/d11bec5b-e700-4ae4-9a0b-ae3ec887cf26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.062858,
+                    22.81885
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225618",
+                "dates": [
+                    "2023-03-20",
+                    "2023-03-20",
+                    "2023-03-20"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "d61465a2-1150-48c4-8f29-67b3c2a0405e",
+                "url": "https://database.eamena.org/report/d61465a2-1150-48c4-8f29-67b3c2a0405e",
+                "edit_url": "https://database.eamena.org/resource/d61465a2-1150-48c4-8f29-67b3c2a0405e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.134077,
+                    22.769584
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225620",
+                "dates": [
+                    "2023-03-21",
+                    "2023-03-21",
+                    "2023-03-21"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "deab8056-4d85-43cb-a782-991a79ad9154",
+                "url": "https://database.eamena.org/report/deab8056-4d85-43cb-a782-991a79ad9154",
+                "edit_url": "https://database.eamena.org/resource/deab8056-4d85-43cb-a782-991a79ad9154"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.100505,
+                    22.850015
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225604",
+                "dates": [
+                    "2023-03-06",
+                    "2023-03-06",
+                    "2023-03-06"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "e914a78b-3d38-4a79-8bb4-2f946db8b066",
+                "url": "https://database.eamena.org/report/e914a78b-3d38-4a79-8bb4-2f946db8b066",
+                "edit_url": "https://database.eamena.org/resource/e914a78b-3d38-4a79-8bb4-2f946db8b066"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.061745,
+                    22.804953
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225611",
+                "dates": [
+                    "2023-03-17",
+                    "2023-03-17",
+                    "2023-03-17"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "edcc1200-35b5-4098-b2f9-9c66e8119c08",
+                "url": "https://database.eamena.org/report/edcc1200-35b5-4098-b2f9-9c66e8119c08",
+                "edit_url": "https://database.eamena.org/resource/edcc1200-35b5-4098-b2f9-9c66e8119c08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.21252,
+                    22.924325
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225593",
+                "dates": [
+                    "2023-02-28",
+                    "2023-02-28",
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "f3a149c2-e0f0-4276-8987-af0dc090421c",
+                "url": "https://database.eamena.org/report/f3a149c2-e0f0-4276-8987-af0dc090421c",
+                "edit_url": "https://database.eamena.org/resource/f3a149c2-e0f0-4276-8987-af0dc090421c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.152416,
+                    22.915843
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225595",
+                "dates": [
+                    "2023-02-28",
+                    "2023-02-28",
+                    "2023-02-28"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "f6816f41-0f23-4f98-b092-b9f75baee777",
+                "url": "https://database.eamena.org/report/f6816f41-0f23-4f98-b092-b9f75baee777",
+                "edit_url": "https://database.eamena.org/resource/f6816f41-0f23-4f98-b092-b9f75baee777"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.004117,
+                    22.971928
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225588",
+                "dates": [
+                    "2023-02-27",
+                    "2023-02-27",
+                    "2023-02-27"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "fbac1a94-8251-456a-92e4-7bc1f3eaa29e",
+                "url": "https://database.eamena.org/report/fbac1a94-8251-456a-92e4-7bc1f3eaa29e",
+                "edit_url": "https://database.eamena.org/resource/fbac1a94-8251-456a-92e4-7bc1f3eaa29e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            59.15137502253575,
+                            22.7780431827175
+                        ],
+                        [
+                            59.15052490541249,
+                            22.77790359432344
+                        ],
+                        [
+                            59.14899289344454,
+                            22.77628948328235
+                        ],
+                        [
+                            59.14914221134989,
+                            22.7761087173313
+                        ],
+                        [
+                            59.15056806596144,
+                            22.77639030588607
+                        ],
+                        [
+                            59.15118804839567,
+                            22.77675813223121
+                        ],
+                        [
+                            59.15137502253575,
+                            22.7780431827175
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0225615",
+                "dates": [
+                    "2023-03-18",
+                    "2023-03-18",
+                    "2023-03-18"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "feab9bf4-5715-4a9b-9012-31ac90f88df0",
+                "url": "https://database.eamena.org/report/feab9bf4-5715-4a9b-9012-31ac90f88df0",
+                "edit_url": "https://database.eamena.org/resource/feab9bf4-5715-4a9b-9012-31ac90f88df0"
+            }
+        }
+    ]
+}

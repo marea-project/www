@@ -1,0 +1,176 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "be8b89b5-0eeb-4d1c-bdf6-354f45d14f18",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            48.92365471282715,
+                            30.23916683103854,
+                            0
+                        ],
+                        [
+                            48.92381849438793,
+                            30.23916692406678,
+                            0
+                        ],
+                        [
+                            48.9238103894286,
+                            30.23931876842153,
+                            0
+                        ],
+                        [
+                            48.92364659959295,
+                            30.23932902881541,
+                            0
+                        ],
+                        [
+                            48.92365471282715,
+                            30.23916683103854,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "1",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#m_ylw-pushpin2",
+                "styleHash": "-6e7de504",
+                "icon-scale": 1.1,
+                "description": "?",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin10",
+                    "highlight": "#s_ylw-pushpin_hl1"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0193308",
+                "dates": [
+                    "2021-11-24",
+                    "2021-11-24"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "68ff5ec3-6b34-4a52-a72c-62922149ea71",
+                "url": "https://database.eamena.org/report/68ff5ec3-6b34-4a52-a72c-62922149ea71",
+                "edit_url": "https://database.eamena.org/resource/68ff5ec3-6b34-4a52-a72c-62922149ea71"
+            }
+        },
+        {
+            "id": "1c597c79-d287-410b-b753-f3a68c6f40fe",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            48.76265735326167,
+                            30.1344892241291,
+                            0
+                        ],
+                        [
+                            48.76246817118079,
+                            30.13440699328336,
+                            0
+                        ],
+                        [
+                            48.76235805022405,
+                            30.13426120943958,
+                            0
+                        ],
+                        [
+                            48.76238463718624,
+                            30.13414296773382,
+                            0
+                        ],
+                        [
+                            48.76248500195531,
+                            30.13397026328142,
+                            0
+                        ],
+                        [
+                            48.76276385109351,
+                            30.13395256374836,
+                            0
+                        ],
+                        [
+                            48.76307405547808,
+                            30.13402136148618,
+                            0
+                        ],
+                        [
+                            48.76313674568961,
+                            30.13420345627597,
+                            0
+                        ],
+                        [
+                            48.76310468189504,
+                            30.13441267988808,
+                            0
+                        ],
+                        [
+                            48.76286775207016,
+                            30.13449869914746,
+                            0
+                        ],
+                        [
+                            48.76265735326167,
+                            30.1344892241291,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "2",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#m_ylw-pushpin2",
+                "styleHash": "-6e7de504",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin10",
+                    "highlight": "#s_ylw-pushpin_hl1"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0193309",
+                "dates": [
+                    "2021-11-24",
+                    "2021-11-24"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "a556f1d4-7cb9-453e-bd5d-d5365ca4309a",
+                "url": "https://database.eamena.org/report/a556f1d4-7cb9-453e-bd5d-d5365ca4309a",
+                "edit_url": "https://database.eamena.org/resource/a556f1d4-7cb9-453e-bd5d-d5365ca4309a"
+            }
+        }
+    ]
+}

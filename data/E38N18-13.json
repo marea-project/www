@@ -1,0 +1,1949 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.097145,
+                    18.304165
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180128",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "0b72a505-0a9a-4339-a6db-a473f3817845",
+                "url": "https://database.eamena.org/report/0b72a505-0a9a-4339-a6db-a473f3817845",
+                "edit_url": "https://database.eamena.org/resource/0b72a505-0a9a-4339-a6db-a473f3817845"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.007538,
+                            18.412928
+                        ],
+                        [
+                            38.00522,
+                            18.410107
+                        ],
+                        [
+                            38.006413,
+                            18.409351
+                        ],
+                        [
+                            38.004772,
+                            18.406776
+                        ],
+                        [
+                            38.00344,
+                            18.407087
+                        ],
+                        [
+                            37.99885,
+                            18.40435
+                        ],
+                        [
+                            37.9963,
+                            18.404907
+                        ],
+                        [
+                            37.993443,
+                            18.402885
+                        ],
+                        [
+                            37.996464,
+                            18.401197
+                        ],
+                        [
+                            37.99754,
+                            18.402018
+                        ],
+                        [
+                            38.005234,
+                            18.396742
+                        ],
+                        [
+                            38.009003,
+                            18.401917
+                        ],
+                        [
+                            38.012047,
+                            18.405603
+                        ],
+                        [
+                            38.00971,
+                            18.409468
+                        ],
+                        [
+                            38.01041,
+                            18.41169
+                        ],
+                        [
+                            38.00856,
+                            18.412579
+                        ],
+                        [
+                            38.007538,
+                            18.412928
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180139",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "11a8c557-eeff-4abc-bcf3-cc4bb91c5854",
+                "url": "https://database.eamena.org/report/11a8c557-eeff-4abc-bcf3-cc4bb91c5854",
+                "edit_url": "https://database.eamena.org/resource/11a8c557-eeff-4abc-bcf3-cc4bb91c5854"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.030407,
+                            18.351057
+                        ],
+                        [
+                            38.02868,
+                            18.352093
+                        ],
+                        [
+                            38.030277,
+                            18.354473
+                        ],
+                        [
+                            38.03186,
+                            18.353374
+                        ],
+                        [
+                            38.031876,
+                            18.353374
+                        ],
+                        [
+                            38.032097,
+                            18.353683
+                        ],
+                        [
+                            38.030304,
+                            18.35494
+                        ],
+                        [
+                            38.02828,
+                            18.35202
+                        ],
+                        [
+                            38.030224,
+                            18.350775
+                        ],
+                        [
+                            38.030407,
+                            18.351057
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180124",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "16d8fa7b-cd16-42fd-bfeb-d3d192c5f1cb",
+                "url": "https://database.eamena.org/report/16d8fa7b-cd16-42fd-bfeb-d3d192c5f1cb",
+                "edit_url": "https://database.eamena.org/resource/16d8fa7b-cd16-42fd-bfeb-d3d192c5f1cb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.034428,
+                            18.420078
+                        ],
+                        [
+                            38.036377,
+                            18.417168
+                        ],
+                        [
+                            38.03969,
+                            18.416615
+                        ],
+                        [
+                            38.039577,
+                            18.416893
+                        ],
+                        [
+                            38.0366,
+                            18.417328
+                        ],
+                        [
+                            38.0346,
+                            18.420162
+                        ],
+                        [
+                            38.034428,
+                            18.420078
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180118",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "21f16364-53f5-4081-9730-8753cce00034",
+                "url": "https://database.eamena.org/report/21f16364-53f5-4081-9730-8753cce00034",
+                "edit_url": "https://database.eamena.org/resource/21f16364-53f5-4081-9730-8753cce00034"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.231518,
+                    18.311321
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180129",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2385a669-0533-4517-ace3-514225707bb4",
+                "url": "https://database.eamena.org/report/2385a669-0533-4517-ace3-514225707bb4",
+                "edit_url": "https://database.eamena.org/resource/2385a669-0533-4517-ace3-514225707bb4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            37.99354,
+                            18.430979
+                        ],
+                        [
+                            38.006195,
+                            18.422453
+                        ],
+                        [
+                            38.003475,
+                            18.418562
+                        ],
+                        [
+                            38.00162,
+                            18.419195
+                        ],
+                        [
+                            37.998966,
+                            18.41563
+                        ],
+                        [
+                            37.999233,
+                            18.415434
+                        ],
+                        [
+                            38.001892,
+                            18.418776
+                        ],
+                        [
+                            38.003654,
+                            18.418053
+                        ],
+                        [
+                            38.006645,
+                            18.422686
+                        ],
+                        [
+                            37.993713,
+                            18.431175
+                        ],
+                        [
+                            37.99354,
+                            18.430979
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180114",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "296d8a6a-8b52-4eb6-8f98-d102e53d56b8",
+                "url": "https://database.eamena.org/report/296d8a6a-8b52-4eb6-8f98-d102e53d56b8",
+                "edit_url": "https://database.eamena.org/resource/296d8a6a-8b52-4eb6-8f98-d102e53d56b8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.22999,
+                    18.309732
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180136",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "29a356a6-6c64-426f-859c-207b528a971c",
+                "url": "https://database.eamena.org/report/29a356a6-6c64-426f-859c-207b528a971c",
+                "edit_url": "https://database.eamena.org/resource/29a356a6-6c64-426f-859c-207b528a971c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.03707,
+                            18.419998
+                        ],
+                        [
+                            38.035664,
+                            18.42088
+                        ],
+                        [
+                            38.03559,
+                            18.420784
+                        ],
+                        [
+                            38.036476,
+                            18.42011
+                        ],
+                        [
+                            38.035034,
+                            18.420574
+                        ],
+                        [
+                            38.033188,
+                            18.421381
+                        ],
+                        [
+                            38.03391,
+                            18.421503
+                        ],
+                        [
+                            38.033863,
+                            18.421642
+                        ],
+                        [
+                            38.032932,
+                            18.421505
+                        ],
+                        [
+                            38.03282,
+                            18.421469
+                        ],
+                        [
+                            38.03307,
+                            18.4213
+                        ],
+                        [
+                            38.029476,
+                            18.420628
+                        ],
+                        [
+                            38.02724,
+                            18.42001
+                        ],
+                        [
+                            38.024487,
+                            18.419199
+                        ],
+                        [
+                            38.02453,
+                            18.4191
+                        ],
+                        [
+                            38.028835,
+                            18.420286
+                        ],
+                        [
+                            38.029488,
+                            18.420444
+                        ],
+                        [
+                            38.032753,
+                            18.42107
+                        ],
+                        [
+                            38.03299,
+                            18.421125
+                        ],
+                        [
+                            38.03321,
+                            18.421122
+                        ],
+                        [
+                            38.03489,
+                            18.420378
+                        ],
+                        [
+                            38.036793,
+                            18.419878
+                        ],
+                        [
+                            38.03712,
+                            18.41967
+                        ],
+                        [
+                            38.03707,
+                            18.419998
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180117",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "29ec3232-60cf-48b5-85e6-54ccf1801735",
+                "url": "https://database.eamena.org/report/29ec3232-60cf-48b5-85e6-54ccf1801735",
+                "edit_url": "https://database.eamena.org/resource/29ec3232-60cf-48b5-85e6-54ccf1801735"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.010796,
+                            18.422232
+                        ],
+                        [
+                            38.01077,
+                            18.422153
+                        ],
+                        [
+                            38.021614,
+                            18.418764
+                        ],
+                        [
+                            38.02164,
+                            18.418901
+                        ],
+                        [
+                            38.010998,
+                            18.42221
+                        ],
+                        [
+                            38.010796,
+                            18.422232
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180115",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2a1c15dd-a8e1-4b5d-b9c8-d1e120c9043c",
+                "url": "https://database.eamena.org/report/2a1c15dd-a8e1-4b5d-b9c8-d1e120c9043c",
+                "edit_url": "https://database.eamena.org/resource/2a1c15dd-a8e1-4b5d-b9c8-d1e120c9043c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.00124,
+                            18.434792
+                        ],
+                        [
+                            38.00705,
+                            18.43076
+                        ],
+                        [
+                            38.007862,
+                            18.424065
+                        ],
+                        [
+                            38.00807,
+                            18.424026
+                        ],
+                        [
+                            38.008152,
+                            18.424967
+                        ],
+                        [
+                            38.007404,
+                            18.430996
+                        ],
+                        [
+                            38.001373,
+                            18.435007
+                        ],
+                        [
+                            38.00124,
+                            18.434792
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180113",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2c9fd286-f4a8-4901-9d5c-91be7e542882",
+                "url": "https://database.eamena.org/report/2c9fd286-f4a8-4901-9d5c-91be7e542882",
+                "edit_url": "https://database.eamena.org/resource/2c9fd286-f4a8-4901-9d5c-91be7e542882"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.2349,
+                    18.309612
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180137",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2dc7cf33-5c99-4cad-83c3-ae9d6319e203",
+                "url": "https://database.eamena.org/report/2dc7cf33-5c99-4cad-83c3-ae9d6319e203",
+                "edit_url": "https://database.eamena.org/resource/2dc7cf33-5c99-4cad-83c3-ae9d6319e203"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.05234,
+                            18.399115
+                        ],
+                        [
+                            38.04553,
+                            18.391161
+                        ],
+                        [
+                            38.042324,
+                            18.386465
+                        ],
+                        [
+                            38.041424,
+                            18.384272
+                        ],
+                        [
+                            38.04315,
+                            18.380905
+                        ],
+                        [
+                            38.047665,
+                            18.378141
+                        ],
+                        [
+                            38.050167,
+                            18.381124
+                        ],
+                        [
+                            38.053837,
+                            18.378582
+                        ],
+                        [
+                            38.055843,
+                            18.381289
+                        ],
+                        [
+                            38.060444,
+                            18.378857
+                        ],
+                        [
+                            38.063473,
+                            18.385485
+                        ],
+                        [
+                            38.05972,
+                            18.388304
+                        ],
+                        [
+                            38.065166,
+                            18.395348
+                        ],
+                        [
+                            38.058064,
+                            18.399466
+                        ],
+                        [
+                            38.057335,
+                            18.399189
+                        ],
+                        [
+                            38.054073,
+                            18.39872
+                        ],
+                        [
+                            38.05234,
+                            18.399115
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180140",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2f40a6f6-470b-4c15-bb7e-dace426772ba",
+                "url": "https://database.eamena.org/report/2f40a6f6-470b-4c15-bb7e-dace426772ba",
+                "edit_url": "https://database.eamena.org/resource/2f40a6f6-470b-4c15-bb7e-dace426772ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.033913,
+                            18.407705
+                        ],
+                        [
+                            38.032658,
+                            18.408674
+                        ],
+                        [
+                            38.030922,
+                            18.406815
+                        ],
+                        [
+                            38.032867,
+                            18.40504
+                        ],
+                        [
+                            38.0367,
+                            18.403069
+                        ],
+                        [
+                            38.03853,
+                            18.405617
+                        ],
+                        [
+                            38.040768,
+                            18.40453
+                        ],
+                        [
+                            38.041267,
+                            18.405634
+                        ],
+                        [
+                            38.044834,
+                            18.404427
+                        ],
+                        [
+                            38.043648,
+                            18.401842
+                        ],
+                        [
+                            38.049328,
+                            18.39983
+                        ],
+                        [
+                            38.055386,
+                            18.409094
+                        ],
+                        [
+                            38.04593,
+                            18.413855
+                        ],
+                        [
+                            38.04215,
+                            18.414078
+                        ],
+                        [
+                            38.038815,
+                            18.414452
+                        ],
+                        [
+                            38.033913,
+                            18.407705
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180138",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "42908eca-4d86-4de9-82d9-71cb7dd6e220",
+                "url": "https://database.eamena.org/report/42908eca-4d86-4de9-82d9-71cb7dd6e220",
+                "edit_url": "https://database.eamena.org/resource/42908eca-4d86-4de9-82d9-71cb7dd6e220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.04752,
+                            18.317108
+                        ],
+                        [
+                            38.05303,
+                            18.325817
+                        ],
+                        [
+                            38.05907,
+                            18.335272
+                        ],
+                        [
+                            38.059128,
+                            18.336323
+                        ],
+                        [
+                            38.05798,
+                            18.339518
+                        ],
+                        [
+                            38.057446,
+                            18.342054
+                        ],
+                        [
+                            38.057083,
+                            18.342943
+                        ],
+                        [
+                            38.05559,
+                            18.344105
+                        ],
+                        [
+                            38.054504,
+                            18.344358
+                        ],
+                        [
+                            38.051712,
+                            18.345901
+                        ],
+                        [
+                            38.048653,
+                            18.346483
+                        ],
+                        [
+                            38.046394,
+                            18.34574
+                        ],
+                        [
+                            38.042286,
+                            18.34224
+                        ],
+                        [
+                            38.03827,
+                            18.334549
+                        ],
+                        [
+                            38.0324,
+                            18.325876
+                        ],
+                        [
+                            38.03651,
+                            18.323763
+                        ],
+                        [
+                            38.033184,
+                            18.320261
+                        ],
+                        [
+                            38.042625,
+                            18.31322
+                        ],
+                        [
+                            38.04752,
+                            18.317108
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180143",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "49a30a56-6b99-4906-bd77-feabfe16388b",
+                "url": "https://database.eamena.org/report/49a30a56-6b99-4906-bd77-feabfe16388b",
+                "edit_url": "https://database.eamena.org/resource/49a30a56-6b99-4906-bd77-feabfe16388b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.114845,
+                    18.409256
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180122",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "58b4b526-acae-46f6-810f-82fb530cc851",
+                "url": "https://database.eamena.org/report/58b4b526-acae-46f6-810f-82fb530cc851",
+                "edit_url": "https://database.eamena.org/resource/58b4b526-acae-46f6-810f-82fb530cc851"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.00217,
+                            18.41663
+                        ],
+                        [
+                            38.00168,
+                            18.415998
+                        ],
+                        [
+                            38.001644,
+                            18.415966
+                        ],
+                        [
+                            38.001743,
+                            18.415798
+                        ],
+                        [
+                            38.00241,
+                            18.416636
+                        ],
+                        [
+                            38.000984,
+                            18.417494
+                        ],
+                        [
+                            38.00217,
+                            18.41663
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180120",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "785afcd3-bf69-4a27-9857-2e38a4ca7014",
+                "url": "https://database.eamena.org/report/785afcd3-bf69-4a27-9857-2e38a4ca7014",
+                "edit_url": "https://database.eamena.org/resource/785afcd3-bf69-4a27-9857-2e38a4ca7014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.025604,
+                            18.376749
+                        ],
+                        [
+                            38.029953,
+                            18.374245
+                        ],
+                        [
+                            38.028492,
+                            18.371677
+                        ],
+                        [
+                            38.031654,
+                            18.369774
+                        ],
+                        [
+                            38.03017,
+                            18.368526
+                        ],
+                        [
+                            38.026352,
+                            18.363792
+                        ],
+                        [
+                            38.05054,
+                            18.354034
+                        ],
+                        [
+                            38.056953,
+                            18.354675
+                        ],
+                        [
+                            38.06038,
+                            18.357561
+                        ],
+                        [
+                            38.062862,
+                            18.3678
+                        ],
+                        [
+                            38.064495,
+                            18.374111
+                        ],
+                        [
+                            38.06365,
+                            18.376339
+                        ],
+                        [
+                            38.06055,
+                            18.37801
+                        ],
+                        [
+                            38.057453,
+                            18.377113
+                        ],
+                        [
+                            38.0479,
+                            18.377024
+                        ],
+                        [
+                            38.03936,
+                            18.378633
+                        ],
+                        [
+                            38.032482,
+                            18.38015
+                        ],
+                        [
+                            38.027138,
+                            18.378914
+                        ],
+                        [
+                            38.025604,
+                            18.376749
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180142",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "786c976f-9bb8-4cd6-a06b-7718cf2af650",
+                "url": "https://database.eamena.org/report/786c976f-9bb8-4cd6-a06b-7718cf2af650",
+                "edit_url": "https://database.eamena.org/resource/786c976f-9bb8-4cd6-a06b-7718cf2af650"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.023117,
+                            18.405968
+                        ],
+                        [
+                            38.0205,
+                            18.40126
+                        ],
+                        [
+                            38.019398,
+                            18.394749
+                        ],
+                        [
+                            38.03103,
+                            18.388605
+                        ],
+                        [
+                            38.035545,
+                            18.394932
+                        ],
+                        [
+                            38.035133,
+                            18.3959
+                        ],
+                        [
+                            38.034225,
+                            18.398228
+                        ],
+                        [
+                            38.034306,
+                            18.39977
+                        ],
+                        [
+                            38.0248,
+                            18.405811
+                        ],
+                        [
+                            38.023117,
+                            18.405968
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180141",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "7b5abf25-174c-41c8-8e73-2895df2afe1f",
+                "url": "https://database.eamena.org/report/7b5abf25-174c-41c8-8e73-2895df2afe1f",
+                "edit_url": "https://database.eamena.org/resource/7b5abf25-174c-41c8-8e73-2895df2afe1f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            37.999023,
+                            18.392368
+                        ],
+                        [
+                            38.014805,
+                            18.381443
+                        ],
+                        [
+                            38.010918,
+                            18.375704
+                        ],
+                        [
+                            38.01201,
+                            18.375174
+                        ],
+                        [
+                            38.01699,
+                            18.381636
+                        ],
+                        [
+                            37.99933,
+                            18.392923
+                        ],
+                        [
+                            37.999023,
+                            18.392368
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180123",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "976561e3-f0d6-419e-bce0-2530611ff7da",
+                "url": "https://database.eamena.org/report/976561e3-f0d6-419e-bce0-2530611ff7da",
+                "edit_url": "https://database.eamena.org/resource/976561e3-f0d6-419e-bce0-2530611ff7da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.2424,
+                    18.3095
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180135",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "9cc44edc-ba96-439a-bcf8-d2f1f81c1bb7",
+                "url": "https://database.eamena.org/report/9cc44edc-ba96-439a-bcf8-d2f1f81c1bb7",
+                "edit_url": "https://database.eamena.org/resource/9cc44edc-ba96-439a-bcf8-d2f1f81c1bb7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.188477,
+                    18.253908
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180132",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "9ecbef5a-46a6-4646-be73-6668e225745c",
+                "url": "https://database.eamena.org/report/9ecbef5a-46a6-4646-be73-6668e225745c",
+                "edit_url": "https://database.eamena.org/resource/9ecbef5a-46a6-4646-be73-6668e225745c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.186935,
+                    18.252514
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180131",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "bde5acb8-ad62-4269-9bd7-7d510bec62de",
+                "url": "https://database.eamena.org/report/bde5acb8-ad62-4269-9bd7-7d510bec62de",
+                "edit_url": "https://database.eamena.org/resource/bde5acb8-ad62-4269-9bd7-7d510bec62de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.23099,
+                    18.312553
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180130",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "bee789db-e919-403c-a90e-145e6a51ecd6",
+                "url": "https://database.eamena.org/report/bee789db-e919-403c-a90e-145e6a51ecd6",
+                "edit_url": "https://database.eamena.org/resource/bee789db-e919-403c-a90e-145e6a51ecd6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.040287,
+                            18.41602
+                        ],
+                        [
+                            38.03971,
+                            18.41531
+                        ],
+                        [
+                            38.040245,
+                            18.414999
+                        ],
+                        [
+                            38.041145,
+                            18.414967
+                        ],
+                        [
+                            38.041286,
+                            18.415056
+                        ],
+                        [
+                            38.04108,
+                            18.41512
+                        ],
+                        [
+                            38.04048,
+                            18.4151
+                        ],
+                        [
+                            38.03998,
+                            18.415314
+                        ],
+                        [
+                            38.040394,
+                            18.415949
+                        ],
+                        [
+                            38.040287,
+                            18.41602
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180121",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "d24394e2-8c54-412f-9be4-7de421fe062f",
+                "url": "https://database.eamena.org/report/d24394e2-8c54-412f-9be4-7de421fe062f",
+                "edit_url": "https://database.eamena.org/resource/d24394e2-8c54-412f-9be4-7de421fe062f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.01267,
+                            18.421484
+                        ],
+                        [
+                            38.012585,
+                            18.421484
+                        ],
+                        [
+                            38.01256,
+                            18.421406
+                        ],
+                        [
+                            38.013634,
+                            18.419912
+                        ],
+                        [
+                            38.01518,
+                            18.420135
+                        ],
+                        [
+                            38.016388,
+                            18.417555
+                        ],
+                        [
+                            38.020096,
+                            18.418436
+                        ],
+                        [
+                            38.020107,
+                            18.418592
+                        ],
+                        [
+                            38.016457,
+                            18.417717
+                        ],
+                        [
+                            38.01627,
+                            18.418165
+                        ],
+                        [
+                            38.015247,
+                            18.42036
+                        ],
+                        [
+                            38.01369,
+                            18.420134
+                        ],
+                        [
+                            38.013477,
+                            18.420359
+                        ],
+                        [
+                            38.01272,
+                            18.42141
+                        ],
+                        [
+                            38.01267,
+                            18.421484
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180116",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "d6e45202-2897-4990-b396-ce3c66f78d3c",
+                "url": "https://database.eamena.org/report/d6e45202-2897-4990-b396-ce3c66f78d3c",
+                "edit_url": "https://database.eamena.org/resource/d6e45202-2897-4990-b396-ce3c66f78d3c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.005646,
+                            18.344326
+                        ],
+                        [
+                            38.027973,
+                            18.329525
+                        ],
+                        [
+                            38.028618,
+                            18.329712
+                        ],
+                        [
+                            38.006153,
+                            18.344564
+                        ],
+                        [
+                            38.005646,
+                            18.344326
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180125",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "de90ebd9-44a0-400c-9234-748a8ac5c426",
+                "url": "https://database.eamena.org/report/de90ebd9-44a0-400c-9234-748a8ac5c426",
+                "edit_url": "https://database.eamena.org/resource/de90ebd9-44a0-400c-9234-748a8ac5c426"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.05717,
+                            18.352337
+                        ],
+                        [
+                            38.052673,
+                            18.350714
+                        ],
+                        [
+                            38.051903,
+                            18.348375
+                        ],
+                        [
+                            38.05375,
+                            18.344975
+                        ],
+                        [
+                            38.056087,
+                            18.344004
+                        ],
+                        [
+                            38.058678,
+                            18.344734
+                        ],
+                        [
+                            38.058575,
+                            18.345123
+                        ],
+                        [
+                            38.055954,
+                            18.344387
+                        ],
+                        [
+                            38.054024,
+                            18.3453
+                        ],
+                        [
+                            38.052166,
+                            18.348501
+                        ],
+                        [
+                            38.052944,
+                            18.35048
+                        ],
+                        [
+                            38.057373,
+                            18.352102
+                        ],
+                        [
+                            38.05717,
+                            18.352337
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180126",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "e5bf50d7-3317-4a83-9b95-deddce82685c",
+                "url": "https://database.eamena.org/report/e5bf50d7-3317-4a83-9b95-deddce82685c",
+                "edit_url": "https://database.eamena.org/resource/e5bf50d7-3317-4a83-9b95-deddce82685c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            37.99693,
+                            18.43016
+                        ],
+                        [
+                            37.999054,
+                            18.42897
+                        ],
+                        [
+                            38.0014,
+                            18.430567
+                        ],
+                        [
+                            38.00132,
+                            18.43067
+                        ],
+                        [
+                            37.998997,
+                            18.429167
+                        ],
+                        [
+                            37.99703,
+                            18.430258
+                        ],
+                        [
+                            37.99693,
+                            18.43016
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180112",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "e7a87a9b-593a-4a44-b36a-2103828669b9",
+                "url": "https://database.eamena.org/report/e7a87a9b-593a-4a44-b36a-2103828669b9",
+                "edit_url": "https://database.eamena.org/resource/e7a87a9b-593a-4a44-b36a-2103828669b9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.18796,
+                    18.253239
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180133",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "ec1cad42-956a-47d1-9b30-e20630d147aa",
+                "url": "https://database.eamena.org/report/ec1cad42-956a-47d1-9b30-e20630d147aa",
+                "edit_url": "https://database.eamena.org/resource/ec1cad42-956a-47d1-9b30-e20630d147aa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.05497,
+                            18.32815
+                        ],
+                        [
+                            38.052307,
+                            18.32415
+                        ],
+                        [
+                            38.047802,
+                            18.316996
+                        ],
+                        [
+                            38.044086,
+                            18.314077
+                        ],
+                        [
+                            38.043034,
+                            18.314007
+                        ],
+                        [
+                            38.042908,
+                            18.313196
+                        ],
+                        [
+                            38.03971,
+                            18.310825
+                        ],
+                        [
+                            38.037384,
+                            18.311464
+                        ],
+                        [
+                            38.037373,
+                            18.311304
+                        ],
+                        [
+                            38.03808,
+                            18.309572
+                        ],
+                        [
+                            38.034107,
+                            18.30652
+                        ],
+                        [
+                            38.030197,
+                            18.303625
+                        ],
+                        [
+                            38.02909,
+                            18.303375
+                        ],
+                        [
+                            38.029068,
+                            18.302763
+                        ],
+                        [
+                            38.02813,
+                            18.302443
+                        ],
+                        [
+                            38.02807,
+                            18.302162
+                        ],
+                        [
+                            38.02697,
+                            18.301762
+                        ],
+                        [
+                            38.02698,
+                            18.300932
+                        ],
+                        [
+                            38.023853,
+                            18.298565
+                        ],
+                        [
+                            38.023476,
+                            18.298466
+                        ],
+                        [
+                            38.02221,
+                            18.297995
+                        ],
+                        [
+                            38.021404,
+                            18.295538
+                        ],
+                        [
+                            38.018833,
+                            18.29193
+                        ],
+                        [
+                            38.016827,
+                            18.290537
+                        ],
+                        [
+                            38.01707,
+                            18.290297
+                        ],
+                        [
+                            38.0191,
+                            18.2919
+                        ],
+                        [
+                            38.023678,
+                            18.298033
+                        ],
+                        [
+                            38.03046,
+                            18.30324
+                        ],
+                        [
+                            38.03662,
+                            18.307959
+                        ],
+                        [
+                            38.044235,
+                            18.31391
+                        ],
+                        [
+                            38.04823,
+                            18.316767
+                        ],
+                        [
+                            38.050327,
+                            18.320377
+                        ],
+                        [
+                            38.055145,
+                            18.328028
+                        ],
+                        [
+                            38.05497,
+                            18.32815
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180127",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "f3537e40-dff5-4ab5-9fa8-9b478c97f6e1",
+                "url": "https://database.eamena.org/report/f3537e40-dff5-4ab5-9fa8-9b478c97f6e1",
+                "edit_url": "https://database.eamena.org/resource/f3537e40-dff5-4ab5-9fa8-9b478c97f6e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.24181,
+                    18.31019
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180134",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "f54a1212-dde0-4f71-b597-9735c2885064",
+                "url": "https://database.eamena.org/report/f54a1212-dde0-4f71-b597-9735c2885064",
+                "edit_url": "https://database.eamena.org/resource/f54a1212-dde0-4f71-b597-9735c2885064"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.022854,
+                            18.417944
+                        ],
+                        [
+                            38.023403,
+                            18.41762
+                        ],
+                        [
+                            38.025383,
+                            18.417156
+                        ],
+                        [
+                            38.02628,
+                            18.417307
+                        ],
+                        [
+                            38.027084,
+                            18.418179
+                        ],
+                        [
+                            38.027214,
+                            18.418993
+                        ],
+                        [
+                            38.027275,
+                            18.419525
+                        ],
+                        [
+                            38.027218,
+                            18.41953
+                        ],
+                        [
+                            38.02708,
+                            18.41908
+                        ],
+                        [
+                            38.02701,
+                            18.418293
+                        ],
+                        [
+                            38.0268,
+                            18.418062
+                        ],
+                        [
+                            38.026012,
+                            18.41736
+                        ],
+                        [
+                            38.0254,
+                            18.417288
+                        ],
+                        [
+                            38.02344,
+                            18.41776
+                        ],
+                        [
+                            38.02292,
+                            18.41802
+                        ],
+                        [
+                            38.022854,
+                            18.417944
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0180119",
+                "dates": [
+                    "2020-09-16"
+                ],
+                "countries": [
+                    "Sudan"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "fde534b9-1a81-4890-9db4-831d28084379",
+                "url": "https://database.eamena.org/report/fde534b9-1a81-4890-9db4-831d28084379",
+                "edit_url": "https://database.eamena.org/resource/fde534b9-1a81-4890-9db4-831d28084379"
+            }
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.53899849464251,
+                    28.22017964486547
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0202888",
+                "dates": [
+                    "2020-07-27",
+                    "2020-07-27",
+                    "2020-07-27"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "06151dcc-e54c-4a8d-9baa-cb5c431be7dd",
+                "url": "https://database.eamena.org/report/06151dcc-e54c-4a8d-9baa-cb5c431be7dd",
+                "edit_url": "https://database.eamena.org/resource/06151dcc-e54c-4a8d-9baa-cb5c431be7dd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.51026965967332,
+                    28.24149965771177
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0202886",
+                "dates": [
+                    "2020-07-27",
+                    "2020-07-27",
+                    "2020-07-27"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "31f08731-7562-49b2-8ee4-46b8ee60a2b8",
+                "url": "https://database.eamena.org/report/31f08731-7562-49b2-8ee4-46b8ee60a2b8",
+                "edit_url": "https://database.eamena.org/resource/31f08731-7562-49b2-8ee4-46b8ee60a2b8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.51117590979201,
+                    28.24560972261056
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0202885",
+                "dates": [
+                    "2020-07-27",
+                    "2020-07-27",
+                    "2020-07-27"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "4bfa64bf-bfea-4c16-a88d-1afe107b8235",
+                "url": "https://database.eamena.org/report/4bfa64bf-bfea-4c16-a88d-1afe107b8235",
+                "edit_url": "https://database.eamena.org/resource/4bfa64bf-bfea-4c16-a88d-1afe107b8235"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.64812010722828,
+                    28.23536502627184
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0202887",
+                "dates": [
+                    "2020-07-27",
+                    "2020-07-27",
+                    "2020-07-27"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "63563625-1b35-4401-ab32-af27c2db0198",
+                "url": "https://database.eamena.org/report/63563625-1b35-4401-ab32-af27c2db0198",
+                "edit_url": "https://database.eamena.org/resource/63563625-1b35-4401-ab32-af27c2db0198"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.51199223325709,
+                    28.24470913906272
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0202884",
+                "dates": [
+                    "2020-07-27",
+                    "2020-07-27",
+                    "2020-07-27"
+                ],
+                "countries": [
+                    "Morocco"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "dc038f0c-f6c6-4d89-b817-8c255a5f1ff1",
+                "url": "https://database.eamena.org/report/dc038f0c-f6c6-4d89-b817-8c255a5f1ff1",
+                "edit_url": "https://database.eamena.org/resource/dc038f0c-f6c6-4d89-b817-8c255a5f1ff1"
+            }
+        }
+    ]
+}

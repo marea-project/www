@@ -1,0 +1,204 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "6c5eceff-bebe-495e-bcbf-3060a45ffdfb",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.85540071376658,
+                            30.20877574224778,
+                            0
+                        ],
+                        [
+                            49.8553845857388,
+                            30.20870429879641,
+                            0
+                        ],
+                        [
+                            49.85538765257819,
+                            30.20855465303612,
+                            0
+                        ],
+                        [
+                            49.85552113027159,
+                            30.20850613542803,
+                            0
+                        ],
+                        [
+                            49.85559136640558,
+                            30.20855093356516,
+                            0
+                        ],
+                        [
+                            49.85559002819775,
+                            30.20855339551541,
+                            0
+                        ],
+                        [
+                            49.85557131191099,
+                            30.20866757487054,
+                            0
+                        ],
+                        [
+                            49.85543385058061,
+                            30.20878709356462,
+                            0
+                        ],
+                        [
+                            49.85540071376658,
+                            30.20877574224778,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "3",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#msn_ylw-pushpin00",
+                "styleHash": "-43caeac4",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin10",
+                    "highlight": "#sh_ylw-pushpin100"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0194825",
+                "dates": [
+                    "2021-12-21",
+                    "2021-12-21"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "5b92dbb6-684d-4c49-87dc-3813f03ec3df",
+                "url": "https://database.eamena.org/report/5b92dbb6-684d-4c49-87dc-3813f03ec3df",
+                "edit_url": "https://database.eamena.org/resource/5b92dbb6-684d-4c49-87dc-3813f03ec3df"
+            }
+        },
+        {
+            "id": "ee43f142-1df1-4c2d-a314-7684d3f82300",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.86206889563775,
+                            30.20918983252383,
+                            0
+                        ],
+                        [
+                            49.8632015387612,
+                            30.20952781721043,
+                            0
+                        ],
+                        [
+                            49.8637730312918,
+                            30.20979023447152,
+                            0
+                        ],
+                        [
+                            49.86394812958335,
+                            30.21012388630047,
+                            0
+                        ],
+                        [
+                            49.86493153486733,
+                            30.21055976246756,
+                            0
+                        ],
+                        [
+                            49.86495217040326,
+                            30.21077331400139,
+                            0
+                        ],
+                        [
+                            49.86473600993855,
+                            30.21113371538839,
+                            0
+                        ],
+                        [
+                            49.8639019806403,
+                            30.21114271721476,
+                            0
+                        ],
+                        [
+                            49.86273847090307,
+                            30.21113840897576,
+                            0
+                        ],
+                        [
+                            49.86172424360268,
+                            30.21097836324124,
+                            0
+                        ],
+                        [
+                            49.8586474492236,
+                            30.20941194918331,
+                            0
+                        ],
+                        [
+                            49.85884661031722,
+                            30.20893870365702,
+                            0
+                        ],
+                        [
+                            49.86206889563775,
+                            30.20918983252383,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "4",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin4",
+                "styleHash": "7fd40b98",
+                "icon-scale": 1.1,
+                "description": "?",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin5",
+                    "highlight": "#sh_ylw-pushpin5"
+                },
+                "label": "EAMENA-0194824",
+                "dates": [
+                    "2021-12-21",
+                    "2021-12-21"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "f653b910-29c8-456c-b0b8-4c1704a4a3f2",
+                "url": "https://database.eamena.org/report/f653b910-29c8-456c-b0b8-4c1704a4a3f2",
+                "edit_url": "https://database.eamena.org/resource/f653b910-29c8-456c-b0b8-4c1704a4a3f2"
+            }
+        }
+    ]
+}

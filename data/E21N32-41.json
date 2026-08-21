@@ -1,0 +1,143 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "75464739-2f12-475c-b9cc-363a5d6359d9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            21.511651936,
+                            32.736273696
+                        ],
+                        [
+                            21.510385933,
+                            32.735687085
+                        ],
+                        [
+                            21.511179867,
+                            32.734143827
+                        ],
+                        [
+                            21.512510243,
+                            32.734919972
+                        ],
+                        [
+                            21.511651936,
+                            32.736273696
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0076199",
+                "dates": [
+                    "2016-03-10",
+                    "2020-04-27",
+                    "2019-03-21",
+                    "2020-04-02",
+                    "2020-04-27"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Andrea Zerbini",
+                    "Julia Nikolaus",
+                    "Dawoud Husayn",
+                    "Nichole Sheldrick"
+                ],
+                "id": "006c7708-fcf0-47d7-984b-7e8ef1e406b0",
+                "url": "https://database.eamena.org/report/006c7708-fcf0-47d7-984b-7e8ef1e406b0",
+                "edit_url": "https://database.eamena.org/resource/006c7708-fcf0-47d7-984b-7e8ef1e406b0"
+            }
+        },
+        {
+            "id": "bb293a84-63a3-4e20-ab66-74551f4a9f2d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            21.676051939,
+                            32.689948429
+                        ],
+                        [
+                            21.676430131,
+                            32.689957458
+                        ],
+                        [
+                            21.676438177,
+                            32.69025543
+                        ],
+                        [
+                            21.67618605,
+                            32.690244143
+                        ],
+                        [
+                            21.67604121,
+                            32.690239628
+                        ],
+                        [
+                            21.676051939,
+                            32.689948429
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0060029",
+                "dates": [
+                    "2020-04-02",
+                    "2019-03-21",
+                    "2020-04-27",
+                    "2020-04-27",
+                    "2016-03-09",
+                    "2020-04-20"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Nichole Sheldrick",
+                    "Asherf Zurgani",
+                    "Julia Nikolaus",
+                    "Andrea Zerbini"
+                ],
+                "id": "7c0c3c4c-34be-4925-83ab-cb0ecbc66142",
+                "url": "https://database.eamena.org/report/7c0c3c4c-34be-4925-83ab-cb0ecbc66142",
+                "edit_url": "https://database.eamena.org/resource/7c0c3c4c-34be-4925-83ab-cb0ecbc66142"
+            }
+        },
+        {
+            "id": "e2c7479a-b670-4dd4-a5ec-6e146dd394dd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.63333,
+                    32.75
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282672",
+                "dates": [
+                    "2025-01-02"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "d587cea6-5882-4e55-a0da-b92ba8e0e68b",
+                "url": "https://database.eamena.org/report/d587cea6-5882-4e55-a0da-b92ba8e0e68b",
+                "edit_url": "https://database.eamena.org/resource/d587cea6-5882-4e55-a0da-b92ba8e0e68b"
+            }
+        }
+    ]
+}

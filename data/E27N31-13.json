@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.001941,
+                    31.394328
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0272564",
+                "dates": [
+                    "2025-06-11"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "6d9523d3-606e-429f-b1ff-f4e0a7ef6de9",
+                "url": "https://database.eamena.org/report/6d9523d3-606e-429f-b1ff-f4e0a7ef6de9",
+                "edit_url": "https://database.eamena.org/resource/6d9523d3-606e-429f-b1ff-f4e0a7ef6de9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.017422,
+                    31.356273
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0272563",
+                "dates": [
+                    "2025-06-11"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "ca3d676c-95d4-4029-bf89-2e29ca321971",
+                "url": "https://database.eamena.org/report/ca3d676c-95d4-4029-bf89-2e29ca321971",
+                "edit_url": "https://database.eamena.org/resource/ca3d676c-95d4-4029-bf89-2e29ca321971"
+            }
+        }
+    ]
+}

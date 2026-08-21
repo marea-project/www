@@ -1,0 +1,2089 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "55d8fcb4-a8ea-42c5-92da-4a83a71533b9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.50232143,
+                            28.331188318
+                        ],
+                        [
+                            33.502232917,
+                            28.331183597
+                        ],
+                        [
+                            33.502177999,
+                            28.331081395
+                        ],
+                        [
+                            33.502201746,
+                            28.331024479
+                        ],
+                        [
+                            33.502325386,
+                            28.331036891
+                        ],
+                        [
+                            33.502350934,
+                            28.331058467
+                        ],
+                        [
+                            33.50232143,
+                            28.331188318
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158984",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "0d4efa86-3e4d-4bcc-9d62-92893dd083a6",
+                "url": "https://database.eamena.org/report/0d4efa86-3e4d-4bcc-9d62-92893dd083a6",
+                "edit_url": "https://database.eamena.org/resource/0d4efa86-3e4d-4bcc-9d62-92893dd083a6"
+            }
+        },
+        {
+            "id": "b7dd6acf-1b44-4af8-9fa6-cb2d0df8e958",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.61166336,
+                            28.293468121
+                        ],
+                        [
+                            33.611381728,
+                            28.293295712
+                        ],
+                        [
+                            33.611636538,
+                            28.293007575
+                        ],
+                        [
+                            33.611907441,
+                            28.293184708
+                        ],
+                        [
+                            33.61166336,
+                            28.293468121
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158986",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "15c85cee-7da3-49f0-983f-b22fd4e5409f",
+                "url": "https://database.eamena.org/report/15c85cee-7da3-49f0-983f-b22fd4e5409f",
+                "edit_url": "https://database.eamena.org/resource/15c85cee-7da3-49f0-983f-b22fd4e5409f"
+            }
+        },
+        {
+            "id": "0de92a04-043f-4f4f-afad-b8eb953bc5e0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.7475129,
+                            28.386679392
+                        ],
+                        [
+                            33.747324987,
+                            28.386551674
+                        ],
+                        [
+                            33.747294893,
+                            28.386382163
+                        ],
+                        [
+                            33.747565154,
+                            28.386309835
+                        ],
+                        [
+                            33.747710664,
+                            28.386391906
+                        ],
+                        [
+                            33.74777103,
+                            28.386577607
+                        ],
+                        [
+                            33.7475129,
+                            28.386679392
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0154400",
+                "dates": [
+                    "2019-12-04"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "1f72a680-e3cf-4ee3-b749-4778757575e4",
+                "url": "https://database.eamena.org/report/1f72a680-e3cf-4ee3-b749-4778757575e4",
+                "edit_url": "https://database.eamena.org/resource/1f72a680-e3cf-4ee3-b749-4778757575e4"
+            }
+        },
+        {
+            "id": "222cbb86-8b9a-4063-b800-cf9cb8059de5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.520458149,
+                            28.382961938
+                        ],
+                        [
+                            33.5201859,
+                            28.383362202
+                        ],
+                        [
+                            33.519987198,
+                            28.383333451
+                        ],
+                        [
+                            33.519964306,
+                            28.383163299
+                        ],
+                        [
+                            33.519965874,
+                            28.383160306
+                        ],
+                        [
+                            33.520255576,
+                            28.382797075
+                        ],
+                        [
+                            33.520458149,
+                            28.382961938
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158977",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "267e4e2d-e30e-4da0-877b-2f5aa1cd49bb",
+                "url": "https://database.eamena.org/report/267e4e2d-e30e-4da0-877b-2f5aa1cd49bb",
+                "edit_url": "https://database.eamena.org/resource/267e4e2d-e30e-4da0-877b-2f5aa1cd49bb"
+            }
+        },
+        {
+            "id": "5b47d042-b0ec-4672-aa69-ead1810fc0dc",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.746571739,
+                            28.369811379
+                        ],
+                        [
+                            33.747066365,
+                            28.369490928
+                        ],
+                        [
+                            33.747513627,
+                            28.369479414
+                        ],
+                        [
+                            33.747551925,
+                            28.369636482
+                        ],
+                        [
+                            33.747245233,
+                            28.369846994
+                        ],
+                        [
+                            33.746969058,
+                            28.370004218
+                        ],
+                        [
+                            33.746770566,
+                            28.370017712
+                        ],
+                        [
+                            33.746571739,
+                            28.369811379
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0154397",
+                "dates": [
+                    "2019-12-04"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "2e8d8181-94ea-4a52-a6b6-068197d5bf2b",
+                "url": "https://database.eamena.org/report/2e8d8181-94ea-4a52-a6b6-068197d5bf2b",
+                "edit_url": "https://database.eamena.org/resource/2e8d8181-94ea-4a52-a6b6-068197d5bf2b"
+            }
+        },
+        {
+            "id": "71c167f9-f047-443a-bd75-c93439c91688",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.633451134,
+                            28.472452238
+                        ],
+                        [
+                            33.633208272,
+                            28.472505068
+                        ],
+                        [
+                            33.632948174,
+                            28.4723486
+                        ],
+                        [
+                            33.633031322,
+                            28.472284939
+                        ],
+                        [
+                            33.633103742,
+                            28.472247215
+                        ],
+                        [
+                            33.633485552,
+                            28.472338591
+                        ],
+                        [
+                            33.633451134,
+                            28.472452238
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158973",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "38d78440-c50b-4879-8d37-6b29673efd3c",
+                "url": "https://database.eamena.org/report/38d78440-c50b-4879-8d37-6b29673efd3c",
+                "edit_url": "https://database.eamena.org/resource/38d78440-c50b-4879-8d37-6b29673efd3c"
+            }
+        },
+        {
+            "id": "c170d029-4dbd-4001-aba0-2edeef2c9251",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.73124871,
+                            28.493437455
+                        ],
+                        [
+                            33.731292508,
+                            28.493128628
+                        ],
+                        [
+                            33.731618094,
+                            28.493053844
+                        ],
+                        [
+                            33.731831909,
+                            28.493266331
+                        ],
+                        [
+                            33.731647123,
+                            28.493498154
+                        ],
+                        [
+                            33.731452312,
+                            28.493576096
+                        ],
+                        [
+                            33.73124871,
+                            28.493437455
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158972",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "3c1fbf63-eac6-4513-8aa8-aa3853c08fa7",
+                "url": "https://database.eamena.org/report/3c1fbf63-eac6-4513-8aa8-aa3853c08fa7",
+                "edit_url": "https://database.eamena.org/resource/3c1fbf63-eac6-4513-8aa8-aa3853c08fa7"
+            }
+        },
+        {
+            "id": "453110fb-240c-4387-b030-1fbf62f961c9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.556426611,
+                            28.299083613
+                        ],
+                        [
+                            33.556390649,
+                            28.298893756
+                        ],
+                        [
+                            33.556584703,
+                            28.298784039
+                        ],
+                        [
+                            33.556788358,
+                            28.298796676
+                        ],
+                        [
+                            33.556845874,
+                            28.298908477
+                        ],
+                        [
+                            33.556730889,
+                            28.299058268
+                        ],
+                        [
+                            33.556426611,
+                            28.299083613
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0154395",
+                "dates": [
+                    "2019-12-04"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "5bb67370-b9b2-4fdd-b918-b1261cbc9603",
+                "url": "https://database.eamena.org/report/5bb67370-b9b2-4fdd-b918-b1261cbc9603",
+                "edit_url": "https://database.eamena.org/resource/5bb67370-b9b2-4fdd-b918-b1261cbc9603"
+            }
+        },
+        {
+            "id": "e3dbc4d2-f2cc-4ee8-946f-940e69f5123c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.581932229,
+                            28.350641679
+                        ],
+                        [
+                            33.58201607,
+                            28.350610263
+                        ],
+                        [
+                            33.582114619,
+                            28.350619437
+                        ],
+                        [
+                            33.58214402,
+                            28.350685858
+                        ],
+                        [
+                            33.582141971,
+                            28.35075599
+                        ],
+                        [
+                            33.582043443,
+                            28.350785567
+                        ],
+                        [
+                            33.581934394,
+                            28.350750556
+                        ],
+                        [
+                            33.581932229,
+                            28.350641679
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0165091",
+                "dates": [
+                    "2020-02-19"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "5d7f0fd4-cd3b-46c4-831f-3da49639b654",
+                "url": "https://database.eamena.org/report/5d7f0fd4-cd3b-46c4-831f-3da49639b654",
+                "edit_url": "https://database.eamena.org/resource/5d7f0fd4-cd3b-46c4-831f-3da49639b654"
+            }
+        },
+        {
+            "id": "5f9d4647-0d61-46ff-b831-8b17fd9433f6",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.742811481,
+                            28.40154458
+                        ],
+                        [
+                            33.742737981,
+                            28.401525802
+                        ],
+                        [
+                            33.742713431,
+                            28.401448782
+                        ],
+                        [
+                            33.742804495,
+                            28.401415162
+                        ],
+                        [
+                            33.742811481,
+                            28.40154458
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158981",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "60b653bb-69cf-4504-895d-e1e1e80ab59a",
+                "url": "https://database.eamena.org/report/60b653bb-69cf-4504-895d-e1e1e80ab59a",
+                "edit_url": "https://database.eamena.org/resource/60b653bb-69cf-4504-895d-e1e1e80ab59a"
+            }
+        },
+        {
+            "id": "744ca095-99cb-4aee-ba95-486e7bb4490e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.598029357,
+                            28.266762388
+                        ],
+                        [
+                            33.595588502,
+                            28.267153512
+                        ],
+                        [
+                            33.594298206,
+                            28.266964817
+                        ],
+                        [
+                            33.593163244,
+                            28.26661024
+                        ],
+                        [
+                            33.59414857,
+                            28.265338612
+                        ],
+                        [
+                            33.596343559,
+                            28.264277093
+                        ],
+                        [
+                            33.596832555,
+                            28.26413747
+                        ],
+                        [
+                            33.599292688,
+                            28.263852174
+                        ],
+                        [
+                            33.601246688,
+                            28.263932633
+                        ],
+                        [
+                            33.604465366,
+                            28.26476846
+                        ],
+                        [
+                            33.598029357,
+                            28.266762388
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0154388",
+                "dates": [
+                    "2019-12-04"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "68212386-de9e-494f-bdd5-9a98eae2a9cb",
+                "url": "https://database.eamena.org/report/68212386-de9e-494f-bdd5-9a98eae2a9cb",
+                "edit_url": "https://database.eamena.org/resource/68212386-de9e-494f-bdd5-9a98eae2a9cb"
+            }
+        },
+        {
+            "id": "7357eace-4649-4433-a749-bb93913f09d2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.616730605,
+                            28.486723825
+                        ],
+                        [
+                            33.616720027,
+                            28.486635618
+                        ],
+                        [
+                            33.616775559,
+                            28.486568569
+                        ],
+                        [
+                            33.616845297,
+                            28.486535564
+                        ],
+                        [
+                            33.616893973,
+                            28.486539767
+                        ],
+                        [
+                            33.616923478,
+                            28.486549197
+                        ],
+                        [
+                            33.616990533,
+                            28.486608133
+                        ],
+                        [
+                            33.617063151,
+                            28.486838243
+                        ],
+                        [
+                            33.617049541,
+                            28.486891029
+                        ],
+                        [
+                            33.616730605,
+                            28.486723825
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158979",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "6994508c-73a9-49b5-b6fd-6fa69ea2c0c1",
+                "url": "https://database.eamena.org/report/6994508c-73a9-49b5-b6fd-6fa69ea2c0c1",
+                "edit_url": "https://database.eamena.org/resource/6994508c-73a9-49b5-b6fd-6fa69ea2c0c1"
+            }
+        },
+        {
+            "id": "4ef69670-0380-44b8-a185-a672be6a7d46",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.743774582,
+                            28.404343571
+                        ],
+                        [
+                            33.743359726,
+                            28.404230988
+                        ],
+                        [
+                            33.743159699,
+                            28.404065078
+                        ],
+                        [
+                            33.743154507,
+                            28.404058334
+                        ],
+                        [
+                            33.742890767,
+                            28.403861284
+                        ],
+                        [
+                            33.74288081,
+                            28.403859111
+                        ],
+                        [
+                            33.742904145,
+                            28.403693342
+                        ],
+                        [
+                            33.743131765,
+                            28.403671848
+                        ],
+                        [
+                            33.744039548,
+                            28.404148182
+                        ],
+                        [
+                            33.74396401,
+                            28.404315019
+                        ],
+                        [
+                            33.743774582,
+                            28.404343571
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158969",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "7becbdfa-efd4-4e18-98af-3d1d13ce1d27",
+                "url": "https://database.eamena.org/report/7becbdfa-efd4-4e18-98af-3d1d13ce1d27",
+                "edit_url": "https://database.eamena.org/resource/7becbdfa-efd4-4e18-98af-3d1d13ce1d27"
+            }
+        },
+        {
+            "id": "862f1c13-38c4-4dca-9b4f-27a86a8ff6f2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.742635498,
+                            28.365019557
+                        ],
+                        [
+                            33.742515273,
+                            28.365015439
+                        ],
+                        [
+                            33.742422618,
+                            28.364937577
+                        ],
+                        [
+                            33.742446168,
+                            28.364869976
+                        ],
+                        [
+                            33.742544037,
+                            28.364875591
+                        ],
+                        [
+                            33.742635043,
+                            28.364927954
+                        ],
+                        [
+                            33.742635498,
+                            28.365019557
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0154396",
+                "dates": [
+                    "2019-12-04"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "8150b36b-7f07-43d4-89f0-811d4aa94b74",
+                "url": "https://database.eamena.org/report/8150b36b-7f07-43d4-89f0-811d4aa94b74",
+                "edit_url": "https://database.eamena.org/resource/8150b36b-7f07-43d4-89f0-811d4aa94b74"
+            }
+        },
+        {
+            "id": "bfd124f5-93fe-4451-be8e-979c4eb621c4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.744285994,
+                            28.379825727
+                        ],
+                        [
+                            33.744228744,
+                            28.379834703
+                        ],
+                        [
+                            33.744198147,
+                            28.379832472
+                        ],
+                        [
+                            33.744163278,
+                            28.379797074
+                        ],
+                        [
+                            33.744174007,
+                            28.379759316
+                        ],
+                        [
+                            33.744203511,
+                            28.379735718
+                        ],
+                        [
+                            33.744259838,
+                            28.379730998
+                        ],
+                        [
+                            33.744305435,
+                            28.379771116
+                        ],
+                        [
+                            33.744308801,
+                            28.379801223
+                        ],
+                        [
+                            33.744285994,
+                            28.379825727
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158982",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "894e4f69-e19a-4f4f-a6f6-fd40437e7138",
+                "url": "https://database.eamena.org/report/894e4f69-e19a-4f4f-a6f6-fd40437e7138",
+                "edit_url": "https://database.eamena.org/resource/894e4f69-e19a-4f4f-a6f6-fd40437e7138"
+            }
+        },
+        {
+            "id": "6432a00d-5bea-45ed-9741-fc8284d65b7b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.743855205,
+                            28.407644494
+                        ],
+                        [
+                            33.743658593,
+                            28.407888213
+                        ],
+                        [
+                            33.743213214,
+                            28.407955421
+                        ],
+                        [
+                            33.742913072,
+                            28.407784364
+                        ],
+                        [
+                            33.742565701,
+                            28.407436299
+                        ],
+                        [
+                            33.742343634,
+                            28.407171613
+                        ],
+                        [
+                            33.742503843,
+                            28.406989094
+                        ],
+                        [
+                            33.743290109,
+                            28.407195406
+                        ],
+                        [
+                            33.743855205,
+                            28.407644494
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158970",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "8b0d2c6b-af2c-4172-b32c-0db44d6aa952",
+                "url": "https://database.eamena.org/report/8b0d2c6b-af2c-4172-b32c-0db44d6aa952",
+                "edit_url": "https://database.eamena.org/resource/8b0d2c6b-af2c-4172-b32c-0db44d6aa952"
+            }
+        },
+        {
+            "id": "06b9c91a-1e3f-4087-a446-88a19c905cb2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.633133913,
+                            28.459706846
+                        ],
+                        [
+                            33.633074904,
+                            28.459588943
+                        ],
+                        [
+                            33.633068139,
+                            28.459504558
+                        ],
+                        [
+                            33.633109382,
+                            28.459474041
+                        ],
+                        [
+                            33.633249921,
+                            28.459504865
+                        ],
+                        [
+                            33.633356536,
+                            28.459666759
+                        ],
+                        [
+                            33.633133913,
+                            28.459706846
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158983",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "921f1bf4-a877-435d-8622-5105ba0ecee4",
+                "url": "https://database.eamena.org/report/921f1bf4-a877-435d-8622-5105ba0ecee4",
+                "edit_url": "https://database.eamena.org/resource/921f1bf4-a877-435d-8622-5105ba0ecee4"
+            }
+        },
+        {
+            "id": "0c061234-80b0-4991-b065-2ee462d97dc3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.728442152,
+                            28.381405759
+                        ],
+                        [
+                            33.728104194,
+                            28.381825805
+                        ],
+                        [
+                            33.727878889,
+                            28.381750292
+                        ],
+                        [
+                            33.728514298,
+                            28.380563565
+                        ],
+                        [
+                            33.728621435,
+                            28.380465843
+                        ],
+                        [
+                            33.72874256,
+                            28.380357996
+                        ],
+                        [
+                            33.728855213,
+                            28.380343837
+                        ],
+                        [
+                            33.728882035,
+                            28.380438231
+                        ],
+                        [
+                            33.728914221,
+                            28.380490147
+                        ],
+                        [
+                            33.728908857,
+                            28.380556222
+                        ],
+                        [
+                            33.728903492,
+                            28.380532624
+                        ],
+                        [
+                            33.728887399,
+                            28.38058454
+                        ],
+                        [
+                            33.728721102,
+                            28.380683653
+                        ],
+                        [
+                            33.728442152,
+                            28.381405759
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158968",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "9c1dad57-ea62-43ae-8cec-58d7bb7a4039",
+                "url": "https://database.eamena.org/report/9c1dad57-ea62-43ae-8cec-58d7bb7a4039",
+                "edit_url": "https://database.eamena.org/resource/9c1dad57-ea62-43ae-8cec-58d7bb7a4039"
+            }
+        },
+        {
+            "id": "91d3faa3-02af-4636-a5a6-fd6ddda7fc7a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.583379696,
+                            28.346705341
+                        ],
+                        [
+                            33.583413671,
+                            28.346689604
+                        ],
+                        [
+                            33.583461951,
+                            28.346691178
+                        ],
+                        [
+                            33.58348162,
+                            28.346699046
+                        ],
+                        [
+                            33.583515595,
+                            28.346716358
+                        ],
+                        [
+                            33.583535265,
+                            28.346758848
+                        ],
+                        [
+                            33.583486985,
+                            28.346809207
+                        ],
+                        [
+                            33.583390425,
+                            28.346807633
+                        ],
+                        [
+                            33.583370756,
+                            28.346763569
+                        ],
+                        [
+                            33.583379696,
+                            28.346705341
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0165089",
+                "dates": [
+                    "2020-02-19"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "9d85f917-2ab4-43a9-9565-baa49a306f50",
+                "url": "https://database.eamena.org/report/9d85f917-2ab4-43a9-9565-baa49a306f50",
+                "edit_url": "https://database.eamena.org/resource/9d85f917-2ab4-43a9-9565-baa49a306f50"
+            }
+        },
+        {
+            "id": "dcd32ba1-9c2e-4ec6-a654-d5992b879f26",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.625825149,
+                            28.486494466
+                        ],
+                        [
+                            33.626393555,
+                            28.486829163
+                        ],
+                        [
+                            33.626387262,
+                            28.486829046
+                        ],
+                        [
+                            33.626108322,
+                            28.487140916
+                        ],
+                        [
+                            33.625925926,
+                            28.487069997
+                        ],
+                        [
+                            33.625754947,
+                            28.486657732
+                        ],
+                        [
+                            33.625825149,
+                            28.486494466
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158975",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "a32e6d3a-e6b6-4928-89b0-52a7821c4581",
+                "url": "https://database.eamena.org/report/a32e6d3a-e6b6-4928-89b0-52a7821c4581",
+                "edit_url": "https://database.eamena.org/resource/a32e6d3a-e6b6-4928-89b0-52a7821c4581"
+            }
+        },
+        {
+            "id": "f932ee57-04cf-4bb1-8727-45cfe281d91a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.583131777,
+                            28.346048279
+                        ],
+                        [
+                            33.583142506,
+                            28.346035689
+                        ],
+                        [
+                            33.583212244,
+                            28.346024673
+                        ],
+                        [
+                            33.583208667,
+                            28.346035689
+                        ],
+                        [
+                            33.583221184,
+                            28.346084475
+                        ],
+                        [
+                            33.583180057,
+                            28.346115949
+                        ],
+                        [
+                            33.583115684,
+                            28.346081327
+                        ],
+                        [
+                            33.583121048,
+                            28.34606559
+                        ],
+                        [
+                            33.583131777,
+                            28.346048279
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0165093",
+                "dates": [
+                    "2020-02-19"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "a4c09be2-0e05-41f3-b8c7-4c5f8fe19fb0",
+                "url": "https://database.eamena.org/report/a4c09be2-0e05-41f3-b8c7-4c5f8fe19fb0",
+                "edit_url": "https://database.eamena.org/resource/a4c09be2-0e05-41f3-b8c7-4c5f8fe19fb0"
+            }
+        },
+        {
+            "id": "576be2b1-a23b-43f8-a86a-882f90ad94ee",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.74377458175795,
+                            28.40434357093627,
+                            0
+                        ],
+                        [
+                            33.74335972551087,
+                            28.40423098779596,
+                            0
+                        ],
+                        [
+                            33.74315969912438,
+                            28.40406507769955,
+                            0
+                        ],
+                        [
+                            33.74315450686568,
+                            28.404058333607,
+                            0
+                        ],
+                        [
+                            33.74289076698692,
+                            28.40386128384133,
+                            0
+                        ],
+                        [
+                            33.74288081013056,
+                            28.40385911133512,
+                            0
+                        ],
+                        [
+                            33.74290414459124,
+                            28.40369334163207,
+                            0
+                        ],
+                        [
+                            33.74313176541561,
+                            28.40367184815069,
+                            0
+                        ],
+                        [
+                            33.74403954839498,
+                            28.40414818222014,
+                            0
+                        ],
+                        [
+                            33.74396400993597,
+                            28.40431501925053,
+                            0
+                        ],
+                        [
+                            33.74377458175795,
+                            28.40434357093627,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "E33N28-23_000013",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin130",
+                "styleHash": "-43f87349",
+                "icon-scale": 1.1,
+                "visibility": "0",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin510",
+                    "highlight": "#sh_ylw-pushpin61"
+                },
+                "label": "EAMENA-0182954",
+                "dates": [
+                    "2021-07-06",
+                    "2021-07-06"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "b3e891f5-189f-4e59-9569-b05006bb9c2d",
+                "url": "https://database.eamena.org/report/b3e891f5-189f-4e59-9569-b05006bb9c2d",
+                "edit_url": "https://database.eamena.org/resource/b3e891f5-189f-4e59-9569-b05006bb9c2d"
+            }
+        },
+        {
+            "id": "14dfa3ce-3454-47e8-95b0-9b79e8426c17",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.582955994,
+                            28.348824218
+                        ],
+                        [
+                            33.582964934,
+                            28.348788023
+                        ],
+                        [
+                            33.582981027,
+                            28.348778581
+                        ],
+                        [
+                            33.583070434,
+                            28.348772286
+                        ],
+                        [
+                            33.583054341,
+                            28.348854118
+                        ],
+                        [
+                            33.582986392,
+                            28.348854118
+                        ],
+                        [
+                            33.582955994,
+                            28.348824218
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0165090",
+                "dates": [
+                    "2020-02-19"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "b769cf24-b75a-4b81-ac45-6eb1eb3482a1",
+                "url": "https://database.eamena.org/report/b769cf24-b75a-4b81-ac45-6eb1eb3482a1",
+                "edit_url": "https://database.eamena.org/resource/b769cf24-b75a-4b81-ac45-6eb1eb3482a1"
+            }
+        },
+        {
+            "id": "25ec6df8-2bbd-45e1-98dc-f0d051ec65cd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.611038457,
+                            28.274373974
+                        ],
+                        [
+                            33.612050544,
+                            28.274381848
+                        ],
+                        [
+                            33.612052332,
+                            28.274940898
+                        ],
+                        [
+                            33.611038222,
+                            28.274940722
+                        ],
+                        [
+                            33.611038457,
+                            28.274373974
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0152822",
+                "dates": [
+                    "2019-11-20"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "b977a420-0099-4aae-8cba-e8e6645c409e",
+                "url": "https://database.eamena.org/report/b977a420-0099-4aae-8cba-e8e6645c409e",
+                "edit_url": "https://database.eamena.org/resource/b977a420-0099-4aae-8cba-e8e6645c409e"
+            }
+        },
+        {
+            "id": "75dc88ea-caf8-44c4-9dd8-0f31a8d5a71a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.748042094,
+                            28.44253063
+                        ],
+                        [
+                            33.747693407,
+                            28.442488177
+                        ],
+                        [
+                            33.747460511,
+                            28.441938283
+                        ],
+                        [
+                            33.747468102,
+                            28.440719322
+                        ],
+                        [
+                            33.747596848,
+                            28.440709888
+                        ],
+                        [
+                            33.747843611,
+                            28.441082529
+                        ],
+                        [
+                            33.74817084,
+                            28.442167427
+                        ],
+                        [
+                            33.748042094,
+                            28.44253063
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158976",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "c18df621-7850-46be-9941-3177952cfd3a",
+                "url": "https://database.eamena.org/report/c18df621-7850-46be-9941-3177952cfd3a",
+                "edit_url": "https://database.eamena.org/resource/c18df621-7850-46be-9941-3177952cfd3a"
+            }
+        },
+        {
+            "id": "76baf1ce-6431-4d51-bf78-0a3785224993",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.503672566,
+                            28.429440929
+                        ],
+                        [
+                            33.503608193,
+                            28.429440929
+                        ],
+                        [
+                            33.503578689,
+                            28.429405548
+                        ],
+                        [
+                            33.503576007,
+                            28.429365449
+                        ],
+                        [
+                            33.503602533,
+                            28.429327523
+                        ],
+                        [
+                            33.503677931,
+                            28.429320633
+                        ],
+                        [
+                            33.503718164,
+                            28.429332427
+                        ],
+                        [
+                            33.503731575,
+                            28.429365449
+                        ],
+                        [
+                            33.503672566,
+                            28.429440929
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158978",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "cd02315c-f5f1-4fe1-b086-51d53c970aab",
+                "url": "https://database.eamena.org/report/cd02315c-f5f1-4fe1-b086-51d53c970aab",
+                "edit_url": "https://database.eamena.org/resource/cd02315c-f5f1-4fe1-b086-51d53c970aab"
+            }
+        },
+        {
+            "id": "7a818d97-dbe3-4343-9297-eefce8f5816e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.7438552053882,
+                            28.4076444938483,
+                            0
+                        ],
+                        [
+                            33.74365859328533,
+                            28.40788821341991,
+                            0
+                        ],
+                        [
+                            33.74321321425229,
+                            28.40795542107485,
+                            0
+                        ],
+                        [
+                            33.74291307155427,
+                            28.40778436363487,
+                            0
+                        ],
+                        [
+                            33.74256570144729,
+                            28.40743629894734,
+                            0
+                        ],
+                        [
+                            33.74234363427102,
+                            28.40717161267704,
+                            0
+                        ],
+                        [
+                            33.7425038434133,
+                            28.40698909377146,
+                            0
+                        ],
+                        [
+                            33.74329010942264,
+                            28.40719540580555,
+                            0
+                        ],
+                        [
+                            33.7438552053882,
+                            28.4076444938483,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "E33N28-23_000014",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin11",
+                "styleHash": "504c8a1a",
+                "icon-scale": 1.1,
+                "description": "Looting?",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin47",
+                    "highlight": "#sh_ylw-pushpin39"
+                },
+                "label": "EAMENA-0182953",
+                "dates": [
+                    "2021-07-06",
+                    "2021-07-06"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "d6a2e1be-bf69-4b4b-a99b-4118c8fdb436",
+                "url": "https://database.eamena.org/report/d6a2e1be-bf69-4b4b-a99b-4118c8fdb436",
+                "edit_url": "https://database.eamena.org/resource/d6a2e1be-bf69-4b4b-a99b-4118c8fdb436"
+            }
+        },
+        {
+            "id": "acd9549b-138a-433b-b96f-ccd114ddf1aa",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.749460456,
+                            28.371142286
+                        ],
+                        [
+                            33.74922294,
+                            28.371141879
+                        ],
+                        [
+                            33.749206071,
+                            28.37104498
+                        ],
+                        [
+                            33.749418162,
+                            28.371008304
+                        ],
+                        [
+                            33.749485852,
+                            28.371056892
+                        ],
+                        [
+                            33.749460456,
+                            28.371142286
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0154398",
+                "dates": [
+                    "2019-12-04"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "d9a537eb-0f65-4448-a5d3-777c7eebfe49",
+                "url": "https://database.eamena.org/report/d9a537eb-0f65-4448-a5d3-777c7eebfe49",
+                "edit_url": "https://database.eamena.org/resource/d9a537eb-0f65-4448-a5d3-777c7eebfe49"
+            }
+        },
+        {
+            "id": "1009a234-c6ab-4fb2-95ac-9a6620dcefe5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.744632072,
+                            28.440066942
+                        ],
+                        [
+                            33.744248976,
+                            28.439977013
+                        ],
+                        [
+                            33.74418073,
+                            28.439696079
+                        ],
+                        [
+                            33.744191912,
+                            28.439686459
+                        ],
+                        [
+                            33.744433541,
+                            28.439488411
+                        ],
+                        [
+                            33.744716115,
+                            28.439568509
+                        ],
+                        [
+                            33.744830556,
+                            28.439634547
+                        ],
+                        [
+                            33.744834132,
+                            28.439727316
+                        ],
+                        [
+                            33.744762607,
+                            28.439873544
+                        ],
+                        [
+                            33.744757242,
+                            28.439920714
+                        ],
+                        [
+                            33.74473042,
+                            28.439960022
+                        ],
+                        [
+                            33.744632072,
+                            28.440066942
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0165094",
+                "dates": [
+                    "2020-02-19"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "eaf9b86a-93e6-4e60-90f0-e7f002c03ea6",
+                "url": "https://database.eamena.org/report/eaf9b86a-93e6-4e60-90f0-e7f002c03ea6",
+                "edit_url": "https://database.eamena.org/resource/eaf9b86a-93e6-4e60-90f0-e7f002c03ea6"
+            }
+        },
+        {
+            "id": "06341f7d-2987-47ad-ab15-c179766b5b85",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.656480285,
+                            28.492324649
+                        ],
+                        [
+                            33.655856199,
+                            28.492288241
+                        ],
+                        [
+                            33.654947625,
+                            28.492096138
+                        ],
+                        [
+                            33.654662844,
+                            28.491622293
+                        ],
+                        [
+                            33.654531368,
+                            28.49075756
+                        ],
+                        [
+                            33.654765263,
+                            28.490498881
+                        ],
+                        [
+                            33.655379127,
+                            28.490475972
+                        ],
+                        [
+                            33.655397466,
+                            28.49048141
+                        ],
+                        [
+                            33.655415795,
+                            28.490481483
+                        ],
+                        [
+                            33.656481345,
+                            28.490927687
+                        ],
+                        [
+                            33.656856918,
+                            28.491174103
+                        ],
+                        [
+                            33.656480285,
+                            28.492324649
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158974",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "ebea7f24-0beb-472c-90ee-a7f8084bc909",
+                "url": "https://database.eamena.org/report/ebea7f24-0beb-472c-90ee-a7f8084bc909",
+                "edit_url": "https://database.eamena.org/resource/ebea7f24-0beb-472c-90ee-a7f8084bc909"
+            }
+        },
+        {
+            "id": "3d2502c8-b3ed-40ff-bfac-afc6df05a757",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.746229965,
+                            28.375004373
+                        ],
+                        [
+                            33.746002251,
+                            28.374992503
+                        ],
+                        [
+                            33.745837169,
+                            28.374933069
+                        ],
+                        [
+                            33.745739573,
+                            28.374773954
+                        ],
+                        [
+                            33.745767868,
+                            28.374594043
+                        ],
+                        [
+                            33.746158092,
+                            28.37451587
+                        ],
+                        [
+                            33.746479589,
+                            28.374561982
+                        ],
+                        [
+                            33.74648546,
+                            28.374567202
+                        ],
+                        [
+                            33.746590801,
+                            28.374634906
+                        ],
+                        [
+                            33.746596639,
+                            28.374638361
+                        ],
+                        [
+                            33.746602477,
+                            28.374640088
+                        ],
+                        [
+                            33.746745816,
+                            28.374793151
+                        ],
+                        [
+                            33.746747715,
+                            28.374801713
+                        ],
+                        [
+                            33.746747676,
+                            28.37481027
+                        ],
+                        [
+                            33.746749573,
+                            28.374818824
+                        ],
+                        [
+                            33.746751478,
+                            28.374825664
+                        ],
+                        [
+                            33.746753382,
+                            28.374832502
+                        ],
+                        [
+                            33.746749011,
+                            28.37493986
+                        ],
+                        [
+                            33.746644693,
+                            28.374985693
+                        ],
+                        [
+                            33.746229965,
+                            28.375004373
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0154399",
+                "dates": [
+                    "2019-12-04"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "eed96b6c-54e9-4dba-822a-c50affb64e66",
+                "url": "https://database.eamena.org/report/eed96b6c-54e9-4dba-822a-c50affb64e66",
+                "edit_url": "https://database.eamena.org/resource/eed96b6c-54e9-4dba-822a-c50affb64e66"
+            }
+        },
+        {
+            "id": "66dd342f-915b-44a5-9faa-916c9c0e9322",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.546214576,
+                    28.31210426
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158967",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "f96d5109-426f-4197-abcc-f82e1e42d392",
+                "url": "https://database.eamena.org/report/f96d5109-426f-4197-abcc-f82e1e42d392",
+                "edit_url": "https://database.eamena.org/resource/f96d5109-426f-4197-abcc-f82e1e42d392"
+            }
+        },
+        {
+            "id": "d8eafa99-6661-4050-a593-3a50c54058f6",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.729731811,
+                            28.457238499
+                        ],
+                        [
+                            33.729886597,
+                            28.457034785
+                        ],
+                        [
+                            33.730114219,
+                            28.456974475
+                        ],
+                        [
+                            33.731120843,
+                            28.457063976
+                        ],
+                        [
+                            33.731137872,
+                            28.457064023
+                        ],
+                        [
+                            33.731612558,
+                            28.457391682
+                        ],
+                        [
+                            33.732645261,
+                            28.457959066
+                        ],
+                        [
+                            33.732492865,
+                            28.458353494
+                        ],
+                        [
+                            33.732217889,
+                            28.458434632
+                        ],
+                        [
+                            33.731988906,
+                            28.458395028
+                        ],
+                        [
+                            33.731057471,
+                            28.457962472
+                        ],
+                        [
+                            33.730451811,
+                            28.457906979
+                        ],
+                        [
+                            33.729612564,
+                            28.457466999
+                        ],
+                        [
+                            33.729731811,
+                            28.457238499
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0158971",
+                "dates": [
+                    "2019-12-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "fa10450e-d4f0-4246-b0c5-30d63bbde51a",
+                "url": "https://database.eamena.org/report/fa10450e-d4f0-4246-b0c5-30d63bbde51a",
+                "edit_url": "https://database.eamena.org/resource/fa10450e-d4f0-4246-b0c5-30d63bbde51a"
+            }
+        },
+        {
+            "id": "d155814a-a5d8-44d5-9184-d2ce093343a9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.53200386,
+                    28.322628504
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0154389",
+                "dates": [
+                    "2019-12-04"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "fa6ed7eb-36f1-466d-bccd-2d2b6f6eb6d8",
+                "url": "https://database.eamena.org/report/fa6ed7eb-36f1-466d-bccd-2d2b6f6eb6d8",
+                "edit_url": "https://database.eamena.org/resource/fa6ed7eb-36f1-466d-bccd-2d2b6f6eb6d8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.7663888888889,
+                    29.1741666666667
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0233137",
+                "dates": [
+                    "2023-08-28"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "742e0f44-58f8-4d10-9c26-a74373d08511",
+                "url": "https://database.eamena.org/report/742e0f44-58f8-4d10-9c26-a74373d08511",
+                "edit_url": "https://database.eamena.org/resource/742e0f44-58f8-4d10-9c26-a74373d08511"
+            }
+        }
+    ]
+}

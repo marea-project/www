@@ -1,0 +1,537 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "956bed0a-c26e-4f59-b148-4591b5a2d3f3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.92074227170354,
+                            29.00234454683255,
+                            0
+                        ],
+                        [
+                            50.92061390564208,
+                            29.00228980373189,
+                            0
+                        ],
+                        [
+                            50.92077352659487,
+                            29.00206526103557,
+                            0
+                        ],
+                        [
+                            50.92093946706569,
+                            29.00215833144837,
+                            0
+                        ],
+                        [
+                            50.92074227170354,
+                            29.00234454683255,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "5",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#m_ylw-pushpin02",
+                "styleHash": "-6e7de504",
+                "icon-scale": 1.1,
+                "description": "?",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin10",
+                    "highlight": "#s_ylw-pushpin_hl0"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0197654",
+                "dates": [
+                    "2022-03-22",
+                    "2022-03-22"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "1028b42b-ed14-4a98-8801-78d0ca20a050",
+                "url": "https://database.eamena.org/report/1028b42b-ed14-4a98-8801-78d0ca20a050",
+                "edit_url": "https://database.eamena.org/resource/1028b42b-ed14-4a98-8801-78d0ca20a050"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.898966,
+                    29.071225
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182935",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "1873060f-4dc9-4a2a-b4d9-7fc86d3530d5",
+                "url": "https://database.eamena.org/report/1873060f-4dc9-4a2a-b4d9-7fc86d3530d5",
+                "edit_url": "https://database.eamena.org/resource/1873060f-4dc9-4a2a-b4d9-7fc86d3530d5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.901531,
+                    29.07426
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182939",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "3440a3ae-f514-4858-8407-787428266b52",
+                "url": "https://database.eamena.org/report/3440a3ae-f514-4858-8407-787428266b52",
+                "edit_url": "https://database.eamena.org/resource/3440a3ae-f514-4858-8407-787428266b52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.879036,
+                    29.069728
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182934",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "38350e59-d9c6-41b5-a750-caf465f1de38",
+                "url": "https://database.eamena.org/report/38350e59-d9c6-41b5-a750-caf465f1de38",
+                "edit_url": "https://database.eamena.org/resource/38350e59-d9c6-41b5-a750-caf465f1de38"
+            }
+        },
+        {
+            "id": "65fc2c23-6766-46f9-a114-e52c8e5e9069",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.86754481941112,
+                            29.07043511197906,
+                            0
+                        ],
+                        [
+                            50.86752473118439,
+                            29.07044673649972,
+                            0
+                        ],
+                        [
+                            50.8669917746858,
+                            29.06980815928645,
+                            0
+                        ],
+                        [
+                            50.866521003911,
+                            29.0689246310346,
+                            0
+                        ],
+                        [
+                            50.8663239609086,
+                            29.06827367247235,
+                            0
+                        ],
+                        [
+                            50.86659973867634,
+                            29.06818476876209,
+                            0
+                        ],
+                        [
+                            50.86702027538072,
+                            29.06874386111606,
+                            0
+                        ],
+                        [
+                            50.867480441487,
+                            29.06938149749531,
+                            0
+                        ],
+                        [
+                            50.86767011869046,
+                            29.06965012723193,
+                            0
+                        ],
+                        [
+                            50.86783148037973,
+                            29.06991373395928,
+                            0
+                        ],
+                        [
+                            50.86794905712825,
+                            29.07010554707311,
+                            0
+                        ],
+                        [
+                            50.86804796879819,
+                            29.07049510102335,
+                            0
+                        ],
+                        [
+                            50.86754481941112,
+                            29.07043511197906,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "1",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "6bed137f",
+                "icon-scale": 1.1,
+                "description": "Cemetery with mosque? Misschien recent.",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0197368",
+                "dates": [
+                    "2022-03-16",
+                    "2022-03-16"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "546913df-567c-4355-8bed-b48dfd6fe157",
+                "url": "https://database.eamena.org/report/546913df-567c-4355-8bed-b48dfd6fe157",
+                "edit_url": "https://database.eamena.org/resource/546913df-567c-4355-8bed-b48dfd6fe157"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.900658,
+                    29.073979
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182937",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "72403829-b471-4669-b471-f0d4b64d53d9",
+                "url": "https://database.eamena.org/report/72403829-b471-4669-b471-f0d4b64d53d9",
+                "edit_url": "https://database.eamena.org/resource/72403829-b471-4669-b471-f0d4b64d53d9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.88364,
+                    29.068514
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194691",
+                "dates": [
+                    "2021-07-01"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "8349df80-6801-4574-913a-b114918a09a1",
+                "url": "https://database.eamena.org/report/8349df80-6801-4574-913a-b114918a09a1",
+                "edit_url": "https://database.eamena.org/resource/8349df80-6801-4574-913a-b114918a09a1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.900678,
+                    29.074331
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182938",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "858bb578-5472-4329-a1d1-1f183b6905f7",
+                "url": "https://database.eamena.org/report/858bb578-5472-4329-a1d1-1f183b6905f7",
+                "edit_url": "https://database.eamena.org/resource/858bb578-5472-4329-a1d1-1f183b6905f7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.899991,
+                    29.072878
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0182936",
+                "dates": [
+                    "2021-01-10"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "a419c2e1-82b8-4e83-8189-f0c5af717471",
+                "url": "https://database.eamena.org/report/a419c2e1-82b8-4e83-8189-f0c5af717471",
+                "edit_url": "https://database.eamena.org/resource/a419c2e1-82b8-4e83-8189-f0c5af717471"
+            }
+        },
+        {
+            "id": "c3b8ccfa-583f-4f95-8d67-6b44e09a16a7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.8991953728927,
+                            29.07077805212436,
+                            0
+                        ],
+                        [
+                            50.89912126264466,
+                            29.07074233637778,
+                            0
+                        ],
+                        [
+                            50.89919643539643,
+                            29.07069550344189,
+                            0
+                        ],
+                        [
+                            50.8992253274973,
+                            29.07075801433498,
+                            0
+                        ],
+                        [
+                            50.8991953728927,
+                            29.07077805212436,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "3",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#msn_ylw-pushpin6",
+                "styleHash": "-7f576b66",
+                "icon-scale": 1.1,
+                "description": "Lighthouse",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin1",
+                    "highlight": "#sh_ylw-pushpin4"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0197652",
+                "dates": [
+                    "2022-03-22",
+                    "2022-03-22"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "a721c53d-a8b9-4ae0-99c1-5075facb063e",
+                "url": "https://database.eamena.org/report/a721c53d-a8b9-4ae0-99c1-5075facb063e",
+                "edit_url": "https://database.eamena.org/resource/a721c53d-a8b9-4ae0-99c1-5075facb063e"
+            }
+        },
+        {
+            "id": "2a700ad3-9893-47ca-a990-92b1e90a45bf",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            50.89850153286321,
+                            29.07110493454658,
+                            0
+                        ],
+                        [
+                            50.89006658280305,
+                            29.07039968212338,
+                            0
+                        ],
+                        [
+                            50.89030858423644,
+                            29.06961030795368,
+                            0
+                        ],
+                        [
+                            50.89871120379866,
+                            29.07061158093045,
+                            0
+                        ],
+                        [
+                            50.89850153286321,
+                            29.07110493454658,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "fill": "#00ff00",
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "4",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#00ff00",
+                "styleUrl": "#m_ylw-pushpin02",
+                "styleHash": "-6e7de504",
+                "icon-scale": 1.1,
+                "description": "Original pier",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0.2,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin10",
+                    "highlight": "#s_ylw-pushpin_hl0"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0197653",
+                "dates": [
+                    "2022-03-22",
+                    "2022-03-22"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Sophie Tews"
+                ],
+                "id": "adbaf43f-02bd-40bc-8cd1-a81a4c75e0a8",
+                "url": "https://database.eamena.org/report/adbaf43f-02bd-40bc-8cd1-a81a4c75e0a8",
+                "edit_url": "https://database.eamena.org/resource/adbaf43f-02bd-40bc-8cd1-a81a4c75e0a8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.873372,
+                    29.072142
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194685",
+                "dates": [
+                    "2021-07-01"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "df694405-0f61-470b-85ab-7f236d16214b",
+                "url": "https://database.eamena.org/report/df694405-0f61-470b-85ab-7f236d16214b",
+                "edit_url": "https://database.eamena.org/resource/df694405-0f61-470b-85ab-7f236d16214b"
+            }
+        }
+    ]
+}

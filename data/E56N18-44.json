@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "09628ceb-b3d8-4b93-b47c-9f84369c4859",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.9044354042861,
+                    18.83547294329369
+                ]
+            },
+            "properties": {
+                "name": "E56N18-44_000001",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "description": "Wadi Haytam, cairns\nBiagi 1988, 40Q DF900826\nOnly one cairn visible.",
+                "label": "EAMENA-0231571",
+                "dates": [
+                    "2023-07-30",
+                    "2023-07-30"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "612ddbd0-d366-4e7a-9478-2597d90ffb75",
+                "url": "https://database.eamena.org/report/612ddbd0-d366-4e7a-9478-2597d90ffb75",
+                "edit_url": "https://database.eamena.org/resource/612ddbd0-d366-4e7a-9478-2597d90ffb75"
+            }
+        },
+        {
+            "id": "d846912d19e6abb6bb65b4aca7fe2f3b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            56.935458843785426,
+                            18.847552787537154
+                        ],
+                        [
+                            56.93524820958379,
+                            18.847265737253522
+                        ],
+                        [
+                            56.93554309746645,
+                            18.846875029133713
+                        ],
+                        [
+                            56.93591381365803,
+                            18.846755424426334
+                        ],
+                        [
+                            56.936427761108746,
+                            18.846835160907702
+                        ],
+                        [
+                            56.936937495874304,
+                            18.84706639649005
+                        ],
+                        [
+                            56.937207107653165,
+                            18.847337499870733
+                        ],
+                        [
+                            56.93718604423148,
+                            18.847564747955104
+                        ],
+                        [
+                            56.93690800708731,
+                            18.847564747955104
+                        ],
+                        [
+                            56.936752137778626,
+                            18.847329526247847
+                        ],
+                        [
+                            56.93572003019952,
+                            18.84737736797561
+                        ],
+                        [
+                            56.935547310159365,
+                            18.8475727215653
+                        ],
+                        [
+                            56.935458843785426,
+                            18.847552787537154
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0231573",
+                "dates": [
+                    "2023-07-30",
+                    "2023-07-30"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "e0a1102c-db70-4168-8a3a-6272e20bc46c",
+                "url": "https://database.eamena.org/report/e0a1102c-db70-4168-8a3a-6272e20bc46c",
+                "edit_url": "https://database.eamena.org/resource/e0a1102c-db70-4168-8a3a-6272e20bc46c"
+            }
+        }
+    ]
+}

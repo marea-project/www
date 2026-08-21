@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "a0a8dc10-0573-425b-9754-00ef5cfe4882",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.829249,
+                    31.193299
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0282652",
+                "dates": [
+                    "2026-02-13"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "a515fc19-db50-4920-9bfb-1585108de8d4",
+                "url": "https://database.eamena.org/report/a515fc19-db50-4920-9bfb-1585108de8d4",
+                "edit_url": "https://database.eamena.org/resource/a515fc19-db50-4920-9bfb-1585108de8d4"
+            }
+        }
+    ]
+}

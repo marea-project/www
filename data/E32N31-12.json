@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "bb395273-8c9e-4f9f-8737-659c2431ed3a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.461972,
+                    31.14448
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0272432",
+                "dates": [
+                    "2025-06-05"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "18c725ef-ecf1-4d39-9458-d86c94e16d4d",
+                "url": "https://database.eamena.org/report/18c725ef-ecf1-4d39-9458-d86c94e16d4d",
+                "edit_url": "https://database.eamena.org/resource/18c725ef-ecf1-4d39-9458-d86c94e16d4d"
+            }
+        },
+        {
+            "id": "cd2cbe8727bb216a62401e6102bbe1d9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.37206887957896,
+                    31.093599725126325
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0159645",
+                "dates": [
+                    "2020-01-13",
+                    "2025-11-11"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Kenawi",
+                    "Mohamed Ashmawy"
+                ],
+                "id": "e300f733-19db-492c-b40d-6dca1c15a014",
+                "url": "https://database.eamena.org/report/e300f733-19db-492c-b40d-6dca1c15a014",
+                "edit_url": "https://database.eamena.org/resource/e300f733-19db-492c-b40d-6dca1c15a014"
+            }
+        }
+    ]
+}

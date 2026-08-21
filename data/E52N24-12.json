@@ -1,0 +1,290 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "a7f5b003-7ae2-4a26-af99-6f4048fe1efd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            52.457693753,
+                            24.081064745
+                        ],
+                        [
+                            52.45776349,
+                            24.081040257
+                        ],
+                        [
+                            52.457795677,
+                            24.081226364
+                        ],
+                        [
+                            52.457768855,
+                            24.081481036
+                        ],
+                        [
+                            52.455896673,
+                            24.082009968
+                        ],
+                        [
+                            52.455725011,
+                            24.081662244
+                        ],
+                        [
+                            52.457693753,
+                            24.081064745
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0161090",
+                "dates": [
+                    "2020-01-30"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "608aaf5a-1b0a-4fde-8768-d43f450f19d7",
+                "url": "https://database.eamena.org/report/608aaf5a-1b0a-4fde-8768-d43f450f19d7",
+                "edit_url": "https://database.eamena.org/resource/608aaf5a-1b0a-4fde-8768-d43f450f19d7"
+            }
+        },
+        {
+            "id": "c6cc61ff-d93c-4987-8046-7425b2ed687b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.34167,
+                    24.03583
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0137619",
+                "dates": [
+                    "2019-09-06"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [],
+                "id": "60f58cca-0e5f-4924-afc8-f75716051933",
+                "url": "https://database.eamena.org/report/60f58cca-0e5f-4924-afc8-f75716051933",
+                "edit_url": "https://database.eamena.org/resource/60f58cca-0e5f-4924-afc8-f75716051933"
+            }
+        },
+        {
+            "id": "ab545be6-819e-4e91-8c4e-46b7bb09a7f1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.32389,
+                    24.01694
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0137616",
+                "dates": [
+                    "2019-09-06"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [],
+                "id": "844d99b8-e5c2-4400-86be-f5003be32818",
+                "url": "https://database.eamena.org/report/844d99b8-e5c2-4400-86be-f5003be32818",
+                "edit_url": "https://database.eamena.org/resource/844d99b8-e5c2-4400-86be-f5003be32818"
+            }
+        },
+        {
+            "id": "145da225-17f5-470c-9ee3-018e11f9b725",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.40194,
+                    24.13556
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0137622",
+                "dates": [
+                    "2019-09-06"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [],
+                "id": "903be340-83e9-4ff4-9721-f589cc344c9f",
+                "url": "https://database.eamena.org/report/903be340-83e9-4ff4-9721-f589cc344c9f",
+                "edit_url": "https://database.eamena.org/resource/903be340-83e9-4ff4-9721-f589cc344c9f"
+            }
+        },
+        {
+            "id": "c707c49a-5545-4dfd-a611-7b460da502df",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            52.327317081,
+                            24.006252528
+                        ],
+                        [
+                            52.327660404,
+                            24.005546868
+                        ],
+                        [
+                            52.328647456,
+                            24.004880408
+                        ],
+                        [
+                            52.329548679,
+                            24.004488371
+                        ],
+                        [
+                            52.331308208,
+                            24.004174741
+                        ],
+                        [
+                            52.332424007,
+                            24.004331556
+                        ],
+                        [
+                            52.333196483,
+                            24.004919612
+                        ],
+                        [
+                            52.333754382,
+                            24.005586071
+                        ],
+                        [
+                            52.33469852,
+                            24.006958184
+                        ],
+                        [
+                            52.336415134,
+                            24.008643901
+                        ],
+                        [
+                            52.336243472,
+                            24.009545555
+                        ],
+                        [
+                            52.336286388,
+                            24.012015271
+                        ],
+                        [
+                            52.336200557,
+                            24.013544119
+                        ],
+                        [
+                            52.336157642,
+                            24.01452414
+                        ],
+                        [
+                            52.335256419,
+                            24.015896156
+                        ],
+                        [
+                            52.333968959,
+                            24.01522975
+                        ],
+                        [
+                            52.332767329,
+                            24.014484939
+                        ],
+                        [
+                            52.330535732,
+                            24.012720895
+                        ],
+                        [
+                            52.328947864,
+                            24.011505651
+                        ],
+                        [
+                            52.327660404,
+                            24.010368799
+                        ],
+                        [
+                            52.327703319,
+                            24.009898375
+                        ],
+                        [
+                            52.327832065,
+                            24.009153533
+                        ],
+                        [
+                            52.327531657,
+                            24.008251876
+                        ],
+                        [
+                            52.327445827,
+                            24.00758543
+                        ],
+                        [
+                            52.327402911,
+                            24.006918981
+                        ],
+                        [
+                            52.327317081,
+                            24.006605356
+                        ],
+                        [
+                            52.327317081,
+                            24.006252528
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0137614",
+                "dates": [
+                    "2019-09-06",
+                    "2019-09-06"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [
+                    "Rodrigo Ortiz-Vazquez"
+                ],
+                "id": "92a0b579-8303-4c06-84cc-659bfa2bac4c",
+                "url": "https://database.eamena.org/report/92a0b579-8303-4c06-84cc-659bfa2bac4c",
+                "edit_url": "https://database.eamena.org/resource/92a0b579-8303-4c06-84cc-659bfa2bac4c"
+            }
+        },
+        {
+            "id": "343f7533-b297-47bd-accc-336663b16da4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.38444,
+                    24.06778
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0137621",
+                "dates": [
+                    "2019-09-06"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ],
+                "people": [],
+                "id": "b4cdfb61-89d5-4462-9090-5c204f10fcd9",
+                "url": "https://database.eamena.org/report/b4cdfb61-89d5-4462-9090-5c204f10fcd9",
+                "edit_url": "https://database.eamena.org/resource/b4cdfb61-89d5-4462-9090-5c204f10fcd9"
+            }
+        }
+    ]
+}

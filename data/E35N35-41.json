@@ -1,0 +1,1435 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "22753a56-49d3-45e7-8423-80813985b772",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.72229409,
+                            35.57836336
+                        ],
+                        [
+                            35.723839042,
+                            35.575152134
+                        ],
+                        [
+                            35.728817222,
+                            35.568380214
+                        ],
+                        [
+                            35.733623741,
+                            35.563842009
+                        ],
+                        [
+                            35.733709571,
+                            35.56495913
+                        ],
+                        [
+                            35.737056968,
+                            35.566704599
+                        ],
+                        [
+                            35.739889381,
+                            35.569078377
+                        ],
+                        [
+                            35.739889381,
+                            35.569985979
+                        ],
+                        [
+                            35.740404365,
+                            35.570753942
+                        ],
+                        [
+                            35.742035148,
+                            35.572708724
+                        ],
+                        [
+                            35.744953392,
+                            35.573825721
+                        ],
+                        [
+                            35.745468376,
+                            35.575361566
+                        ],
+                        [
+                            35.744438407,
+                            35.577246427
+                        ],
+                        [
+                            35.744095085,
+                            35.578433168
+                        ],
+                        [
+                            35.74229264,
+                            35.580806598
+                        ],
+                        [
+                            35.73971772,
+                            35.582481918
+                        ],
+                        [
+                            35.737486122,
+                            35.583877992
+                        ],
+                        [
+                            35.736198661,
+                            35.583528975
+                        ],
+                        [
+                            35.734310386,
+                            35.582761135
+                        ],
+                        [
+                            35.731477974,
+                            35.581923482
+                        ],
+                        [
+                            35.729418037,
+                            35.581016015
+                        ],
+                        [
+                            35.724439857,
+                            35.579689699
+                        ],
+                        [
+                            35.723238227,
+                            35.579480278
+                        ],
+                        [
+                            35.72229409,
+                            35.57836336
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160746",
+                "dates": [
+                    "2018-02-05",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Nicolas Carayon",
+                    "Kieran Westley"
+                ],
+                "id": "0cffa340-7d7b-422a-bfb1-77f5e82ff2e0",
+                "url": "https://database.eamena.org/report/0cffa340-7d7b-422a-bfb1-77f5e82ff2e0",
+                "edit_url": "https://database.eamena.org/resource/0cffa340-7d7b-422a-bfb1-77f5e82ff2e0"
+            }
+        },
+        {
+            "id": "cd16d358-606a-416f-9636-b8034a432c9e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.726,
+                    35.532217
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160765",
+                "dates": [
+                    "2017-12-04",
+                    "2020-01-31"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "16ebaa6a-123f-4721-b367-f6f1db67bd6c",
+                "url": "https://database.eamena.org/report/16ebaa6a-123f-4721-b367-f6f1db67bd6c",
+                "edit_url": "https://database.eamena.org/resource/16ebaa6a-123f-4721-b367-f6f1db67bd6c"
+            }
+        },
+        {
+            "id": "1cb7c16a-0183-40ae-8720-c6abee7fe7be",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.743707898,
+                            35.589520085
+                        ],
+                        [
+                            35.743364575,
+                            35.589040221
+                        ],
+                        [
+                            35.743525508,
+                            35.588865725
+                        ],
+                        [
+                            35.743943933,
+                            35.588830825
+                        ],
+                        [
+                            35.744115594,
+                            35.58911002
+                        ],
+                        [
+                            35.744179967,
+                            35.58932814
+                        ],
+                        [
+                            35.743707898,
+                            35.589520085
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160749",
+                "dates": [
+                    "2018-02-05",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Nicolas Carayon",
+                    "Kieran Westley"
+                ],
+                "id": "243433fe-540b-44f5-8e66-dc2ca97d4cea",
+                "url": "https://database.eamena.org/report/243433fe-540b-44f5-8e66-dc2ca97d4cea",
+                "edit_url": "https://database.eamena.org/resource/243433fe-540b-44f5-8e66-dc2ca97d4cea"
+            }
+        },
+        {
+            "id": "72531c1b-8a1f-44e7-876c-0ce94d6820c7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.741095944,
+                    35.556958823
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0164336",
+                "dates": [
+                    "2020-01-31"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "2d82a6df-6d12-4ebe-97b3-02f9667de22d",
+                "url": "https://database.eamena.org/report/2d82a6df-6d12-4ebe-97b3-02f9667de22d",
+                "edit_url": "https://database.eamena.org/resource/2d82a6df-6d12-4ebe-97b3-02f9667de22d"
+            }
+        },
+        {
+            "id": "ee56108b-5e69-4304-9e53-fcde093a23fb",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.73643,
+                    35.565389
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160791",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "39f533fd-28b6-47b9-972c-ab3576b3d07e",
+                "url": "https://database.eamena.org/report/39f533fd-28b6-47b9-972c-ab3576b3d07e",
+                "edit_url": "https://database.eamena.org/resource/39f533fd-28b6-47b9-972c-ab3576b3d07e"
+            }
+        },
+        {
+            "id": "71fc1b6a-bce6-4fc4-80b5-ba3f4c694c2f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.733015012,
+                            35.562836257
+                        ],
+                        [
+                            35.73302093,
+                            35.562580954
+                        ],
+                        [
+                            35.733117087,
+                            35.562576387
+                        ],
+                        [
+                            35.733125272,
+                            35.562387806
+                        ],
+                        [
+                            35.733209682,
+                            35.562381121
+                        ],
+                        [
+                            35.733279347,
+                            35.562541704
+                        ],
+                        [
+                            35.733270027,
+                            35.562782777
+                        ],
+                        [
+                            35.733015012,
+                            35.562836257
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160790",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "3be0e7ae-5472-4b79-ad46-1241ba2d5308",
+                "url": "https://database.eamena.org/report/3be0e7ae-5472-4b79-ad46-1241ba2d5308",
+                "edit_url": "https://database.eamena.org/resource/3be0e7ae-5472-4b79-ad46-1241ba2d5308"
+            }
+        },
+        {
+            "id": "915a690e-147c-4adf-badb-ac4b9e448eac",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.738467441,
+                            35.560874667
+                        ],
+                        [
+                            35.738286226,
+                            35.560781011
+                        ],
+                        [
+                            35.738344871,
+                            35.560703366
+                        ],
+                        [
+                            35.738326319,
+                            35.560672785
+                        ],
+                        [
+                            35.738990217,
+                            35.56019982
+                        ],
+                        [
+                            35.739014439,
+                            35.560225501
+                        ],
+                        [
+                            35.739042546,
+                            35.56019386
+                        ],
+                        [
+                            35.739164138,
+                            35.560250715
+                        ],
+                        [
+                            35.739024495,
+                            35.560435132
+                        ],
+                        [
+                            35.738467441,
+                            35.560874667
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160788",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "3d0e0504-06ee-402e-8fc8-aa25db43e593",
+                "url": "https://database.eamena.org/report/3d0e0504-06ee-402e-8fc8-aa25db43e593",
+                "edit_url": "https://database.eamena.org/resource/3d0e0504-06ee-402e-8fc8-aa25db43e593"
+            }
+        },
+        {
+            "id": "fbd175eb-5dc9-4d0f-bc0c-2b0564b114ea",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.738461,
+                    35.566754
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160793",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "3d6800f5-64df-4efb-aa22-3f15009b5b6f",
+                "url": "https://database.eamena.org/report/3d6800f5-64df-4efb-aa22-3f15009b5b6f",
+                "edit_url": "https://database.eamena.org/resource/3d6800f5-64df-4efb-aa22-3f15009b5b6f"
+            }
+        },
+        {
+            "id": "02759574-3f88-4d92-b382-852134a10b97",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.72389,
+                    35.52333
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160767",
+                "dates": [
+                    "2020-01-31",
+                    "2017-12-04"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "41ecda79-019a-4b83-8c9e-fee312a734cb",
+                "url": "https://database.eamena.org/report/41ecda79-019a-4b83-8c9e-fee312a734cb",
+                "edit_url": "https://database.eamena.org/resource/41ecda79-019a-4b83-8c9e-fee312a734cb"
+            }
+        },
+        {
+            "id": "44746970-ffbb-45ab-a1ec-b19ec5ea2604",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.72633,
+                    35.587
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160770",
+                "dates": [
+                    "2020-01-31",
+                    "2017-12-04"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "48a034de-50e4-48d2-8d27-a1e33d090ad1",
+                "url": "https://database.eamena.org/report/48a034de-50e4-48d2-8d27-a1e33d090ad1",
+                "edit_url": "https://database.eamena.org/resource/48a034de-50e4-48d2-8d27-a1e33d090ad1"
+            }
+        },
+        {
+            "id": "5380ad98-ebcd-4897-852b-e0252f589145",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.719069704,
+                            35.582587491
+                        ],
+                        [
+                            35.719138242,
+                            35.582473382
+                        ],
+                        [
+                            35.719221994,
+                            35.58246386
+                        ],
+                        [
+                            35.719209165,
+                            35.582429809
+                        ],
+                        [
+                            35.71935612,
+                            35.582424584
+                        ],
+                        [
+                            35.719382576,
+                            35.582378199
+                        ],
+                        [
+                            35.719453423,
+                            35.582401401
+                        ],
+                        [
+                            35.719435399,
+                            35.582420886
+                        ],
+                        [
+                            35.719475716,
+                            35.582439054
+                        ],
+                        [
+                            35.719535358,
+                            35.582407182
+                        ],
+                        [
+                            35.719548187,
+                            35.582441233
+                        ],
+                        [
+                            35.719642318,
+                            35.58239332
+                        ],
+                        [
+                            35.719668698,
+                            35.58241371
+                        ],
+                        [
+                            35.719716672,
+                            35.582382103
+                        ],
+                        [
+                            35.719835816,
+                            35.582383228
+                        ],
+                        [
+                            35.719834977,
+                            35.582358445
+                        ],
+                        [
+                            35.720182366,
+                            35.582341061
+                        ],
+                        [
+                            35.720182225,
+                            35.58240593
+                        ],
+                        [
+                            35.720061328,
+                            35.582422014
+                        ],
+                        [
+                            35.719714292,
+                            35.582656881
+                        ],
+                        [
+                            35.719449547,
+                            35.582701015
+                        ],
+                        [
+                            35.719069704,
+                            35.582587491
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160795",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "53835164-846e-4c7c-921d-e16befe5cef1",
+                "url": "https://database.eamena.org/report/53835164-846e-4c7c-921d-e16befe5cef1",
+                "edit_url": "https://database.eamena.org/resource/53835164-846e-4c7c-921d-e16befe5cef1"
+            }
+        },
+        {
+            "id": "219b9bd9-6a3e-4302-aeaa-29eaa17731a2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.718530169,
+                            35.583302341
+                        ],
+                        [
+                            35.718497238,
+                            35.583209076
+                        ],
+                        [
+                            35.718495748,
+                            35.583113242
+                        ],
+                        [
+                            35.718543005,
+                            35.583112176
+                        ],
+                        [
+                            35.718549975,
+                            35.582955769
+                        ],
+                        [
+                            35.718608807,
+                            35.582934409
+                        ],
+                        [
+                            35.718599475,
+                            35.582917449
+                        ],
+                        [
+                            35.718640852,
+                            35.582897914
+                        ],
+                        [
+                            35.718622624,
+                            35.582876863
+                        ],
+                        [
+                            35.718698667,
+                            35.582846529
+                        ],
+                        [
+                            35.718688853,
+                            35.582815272
+                        ],
+                        [
+                            35.718728527,
+                            35.582797206
+                        ],
+                        [
+                            35.718703008,
+                            35.582767734
+                        ],
+                        [
+                            35.718801031,
+                            35.58271401
+                        ],
+                        [
+                            35.718817605,
+                            35.582737961
+                        ],
+                        [
+                            35.71885203,
+                            35.582720014
+                        ],
+                        [
+                            35.718875798,
+                            35.582749525
+                        ],
+                        [
+                            35.718949849,
+                            35.582712082
+                        ],
+                        [
+                            35.71898666,
+                            35.58297181
+                        ],
+                        [
+                            35.719040397,
+                            35.583110535
+                        ],
+                        [
+                            35.719178196,
+                            35.583300591
+                        ],
+                        [
+                            35.719053144,
+                            35.583332031
+                        ],
+                        [
+                            35.719001024,
+                            35.583344654
+                        ],
+                        [
+                            35.718903688,
+                            35.583366884
+                        ],
+                        [
+                            35.718786751,
+                            35.58343105
+                        ],
+                        [
+                            35.718705272,
+                            35.583404272
+                        ],
+                        [
+                            35.718579255,
+                            35.583407116
+                        ],
+                        [
+                            35.718530169,
+                            35.583302341
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160797",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "54f38f7c-8850-4244-96c3-651e8500b7e8",
+                "url": "https://database.eamena.org/report/54f38f7c-8850-4244-96c3-651e8500b7e8",
+                "edit_url": "https://database.eamena.org/resource/54f38f7c-8850-4244-96c3-651e8500b7e8"
+            }
+        },
+        {
+            "id": "c9457b3d-041e-4b83-8ad1-ef372aefb07e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.742728026,
+                            35.59282677
+                        ],
+                        [
+                            35.742127212,
+                            35.591361056
+                        ],
+                        [
+                            35.74186972,
+                            35.590593291
+                        ],
+                        [
+                            35.743071349,
+                            35.589790619
+                        ],
+                        [
+                            35.744487556,
+                            35.588987939
+                        ],
+                        [
+                            35.746890815,
+                            35.588708744
+                        ],
+                        [
+                            35.748650344,
+                            35.588708744
+                        ],
+                        [
+                            35.750324042,
+                            35.589546326
+                        ],
+                        [
+                            35.751954825,
+                            35.590907377
+                        ],
+                        [
+                            35.752083571,
+                            35.591535547
+                        ],
+                        [
+                            35.751740249,
+                            35.592756975
+                        ],
+                        [
+                            35.750667365,
+                            35.593175745
+                        ],
+                        [
+                            35.745517524,
+                            35.594117972
+                        ],
+                        [
+                            35.744058402,
+                            35.593664308
+                        ],
+                        [
+                            35.742728026,
+                            35.59282677
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160745",
+                "dates": [
+                    "2020-02-03",
+                    "2018-02-05"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley",
+                    "Nicolas Carayon"
+                ],
+                "id": "6e6b9e30-3bb9-45ce-b9b9-c847a8d5d35e",
+                "url": "https://database.eamena.org/report/6e6b9e30-3bb9-45ce-b9b9-c847a8d5d35e",
+                "edit_url": "https://database.eamena.org/resource/6e6b9e30-3bb9-45ce-b9b9-c847a8d5d35e"
+            }
+        },
+        {
+            "id": "57a4a665-95c9-4d17-b450-d850326c4b9c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.745575199,
+                            35.554319363
+                        ],
+                        [
+                            35.745630014,
+                            35.554283774
+                        ],
+                        [
+                            35.745700869,
+                            35.554256404
+                        ],
+                        [
+                            35.745760069,
+                            35.55429798
+                        ],
+                        [
+                            35.745803222,
+                            35.554279827
+                        ],
+                        [
+                            35.745919629,
+                            35.554355871
+                        ],
+                        [
+                            35.745969259,
+                            35.554424851
+                        ],
+                        [
+                            35.745863656,
+                            35.554460168
+                        ],
+                        [
+                            35.745789253,
+                            35.554486188
+                        ],
+                        [
+                            35.745575199,
+                            35.554319363
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160786",
+                "dates": [
+                    "2020-02-03",
+                    "2018-01-22"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "7b9a87d5-2fda-420d-9ad7-a0c162318718",
+                "url": "https://database.eamena.org/report/7b9a87d5-2fda-420d-9ad7-a0c162318718",
+                "edit_url": "https://database.eamena.org/resource/7b9a87d5-2fda-420d-9ad7-a0c162318718"
+            }
+        },
+        {
+            "id": "c90d2363-7fc0-4aeb-9c85-b41879eeb4a5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.71667,
+                    35.53222
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160764",
+                "dates": [
+                    "2017-12-04",
+                    "2020-01-31"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "7c839a11-fad0-49fa-9a7f-d83cba3f65bb",
+                "url": "https://database.eamena.org/report/7c839a11-fad0-49fa-9a7f-d83cba3f65bb",
+                "edit_url": "https://database.eamena.org/resource/7c839a11-fad0-49fa-9a7f-d83cba3f65bb"
+            }
+        },
+        {
+            "id": "b6fcb2ef-d9e8-4ffd-9387-9d255f2223c5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.729902299,
+                            35.582196703
+                        ],
+                        [
+                            35.730095418,
+                            35.581725521
+                        ],
+                        [
+                            35.734622987,
+                            35.583488076
+                        ],
+                        [
+                            35.734322579,
+                            35.583941797
+                        ],
+                        [
+                            35.729902299,
+                            35.582196703
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160747",
+                "dates": [
+                    "2018-02-05",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Nicolas Carayon",
+                    "Kieran Westley"
+                ],
+                "id": "9078506a-0879-4d83-b920-2bda8e0656bb",
+                "url": "https://database.eamena.org/report/9078506a-0879-4d83-b920-2bda8e0656bb",
+                "edit_url": "https://database.eamena.org/resource/9078506a-0879-4d83-b920-2bda8e0656bb"
+            }
+        },
+        {
+            "id": "53cea601-ef98-425d-8d7f-0bcf398377f8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.73292,
+                    35.56333
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160768",
+                "dates": [
+                    "2020-01-31",
+                    "2017-12-04"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "9da955f7-03a0-46e6-9ef4-42c24a7f6443",
+                "url": "https://database.eamena.org/report/9da955f7-03a0-46e6-9ef4-42c24a7f6443",
+                "edit_url": "https://database.eamena.org/resource/9da955f7-03a0-46e6-9ef4-42c24a7f6443"
+            }
+        },
+        {
+            "id": "72231204-3c62-45a5-af02-d09c07cfed2b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.737666,
+                    35.566101
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160792",
+                "dates": [
+                    "2020-02-03",
+                    "2018-01-22"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "9f309a4e-4b1b-407f-b395-792ac6aeb3f3",
+                "url": "https://database.eamena.org/report/9f309a4e-4b1b-407f-b395-792ac6aeb3f3",
+                "edit_url": "https://database.eamena.org/resource/9f309a4e-4b1b-407f-b395-792ac6aeb3f3"
+            }
+        },
+        {
+            "id": "250f95e8-7a12-4918-ba31-6e13060c40fd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.74642,
+                    35.554253
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160787",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "a39e1526-7934-4ef5-98aa-cb4d8b7105af",
+                "url": "https://database.eamena.org/report/a39e1526-7934-4ef5-98aa-cb4d8b7105af",
+                "edit_url": "https://database.eamena.org/resource/a39e1526-7934-4ef5-98aa-cb4d8b7105af"
+            }
+        },
+        {
+            "id": "32eca93a-b4f0-4d08-9c40-9a5569069a6c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.735688486,
+                            35.561521551
+                        ],
+                        [
+                            35.735371003,
+                            35.561454356
+                        ],
+                        [
+                            35.735391173,
+                            35.561429573
+                        ],
+                        [
+                            35.735427821,
+                            35.561425879
+                        ],
+                        [
+                            35.735422863,
+                            35.561383066
+                        ],
+                        [
+                            35.735553267,
+                            35.561355781
+                        ],
+                        [
+                            35.735679103,
+                            35.561348631
+                        ],
+                        [
+                            35.735688486,
+                            35.561521551
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160789",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "b3c3e5fc-ee52-4582-b33a-4e17ae1aacd4",
+                "url": "https://database.eamena.org/report/b3c3e5fc-ee52-4582-b33a-4e17ae1aacd4",
+                "edit_url": "https://database.eamena.org/resource/b3c3e5fc-ee52-4582-b33a-4e17ae1aacd4"
+            }
+        },
+        {
+            "id": "17fe2428-4903-4881-b3ed-cea5b920b6a2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.737151,
+                    35.584541
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160748",
+                "dates": [
+                    "2018-02-05",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Nicolas Carayon",
+                    "Kieran Westley"
+                ],
+                "id": "c3a5f572-de18-439e-ae79-57e180d8e161",
+                "url": "https://database.eamena.org/report/c3a5f572-de18-439e-ae79-57e180d8e161",
+                "edit_url": "https://database.eamena.org/resource/c3a5f572-de18-439e-ae79-57e180d8e161"
+            }
+        },
+        {
+            "id": "b3ef3915-e04a-4491-b75c-e1093ca17b6c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.73333,
+                    35.56556
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160769",
+                "dates": [
+                    "2017-12-04",
+                    "2020-01-31"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "ca035433-7e92-4455-9280-ed405c706a38",
+                "url": "https://database.eamena.org/report/ca035433-7e92-4455-9280-ed405c706a38",
+                "edit_url": "https://database.eamena.org/resource/ca035433-7e92-4455-9280-ed405c706a38"
+            }
+        },
+        {
+            "id": "04a4b4f1-eb61-46d6-a320-d2b97f724b17",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.749410532,
+                            35.552420441
+                        ],
+                        [
+                            35.749415698,
+                            35.552315394
+                        ],
+                        [
+                            35.749448784,
+                            35.552088087
+                        ],
+                        [
+                            35.749541085,
+                            35.551885662
+                        ],
+                        [
+                            35.749945462,
+                            35.551678498
+                        ],
+                        [
+                            35.749962453,
+                            35.551577951
+                        ],
+                        [
+                            35.75000642,
+                            35.55149825
+                        ],
+                        [
+                            35.750180377,
+                            35.551379812
+                        ],
+                        [
+                            35.75021693,
+                            35.551510139
+                        ],
+                        [
+                            35.750369042,
+                            35.551520975
+                        ],
+                        [
+                            35.750201845,
+                            35.551837195
+                        ],
+                        [
+                            35.749948849,
+                            35.552033749
+                        ],
+                        [
+                            35.749410532,
+                            35.552420441
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160822",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "d42db2fb-5bf5-4dbc-8a9b-52b50f37da6c",
+                "url": "https://database.eamena.org/report/d42db2fb-5bf5-4dbc-8a9b-52b50f37da6c",
+                "edit_url": "https://database.eamena.org/resource/d42db2fb-5bf5-4dbc-8a9b-52b50f37da6c"
+            }
+        },
+        {
+            "id": "d4ff5e32-b50c-4e9a-9bdf-a96d42356c2b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.717340718,
+                            35.585133448
+                        ],
+                        [
+                            35.71736266,
+                            35.585057117
+                        ],
+                        [
+                            35.717399874,
+                            35.58506987
+                        ],
+                        [
+                            35.717407195,
+                            35.585053251
+                        ],
+                        [
+                            35.717444338,
+                            35.585063859
+                        ],
+                        [
+                            35.717438719,
+                            35.58507901
+                        ],
+                        [
+                            35.717459819,
+                            35.585081396
+                        ],
+                        [
+                            35.717444715,
+                            35.585126809
+                        ],
+                        [
+                            35.717420177,
+                            35.585178158
+                        ],
+                        [
+                            35.717369738,
+                            35.585162841
+                        ],
+                        [
+                            35.717382139,
+                            35.585141099
+                        ],
+                        [
+                            35.717340718,
+                            35.585133448
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160798",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "e3d39199-05b5-4d09-a0eb-57504bb4e053",
+                "url": "https://database.eamena.org/report/e3d39199-05b5-4d09-a0eb-57504bb4e053",
+                "edit_url": "https://database.eamena.org/resource/e3d39199-05b5-4d09-a0eb-57504bb4e053"
+            }
+        },
+        {
+            "id": "c8bb5408-774f-464a-9918-4aef19303fd4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.72019686,
+                            35.579961513
+                        ],
+                        [
+                            35.720232761,
+                            35.579672384
+                        ],
+                        [
+                            35.72035038,
+                            35.579481928
+                        ],
+                        [
+                            35.720389212,
+                            35.57922767
+                        ],
+                        [
+                            35.720458827,
+                            35.579020411
+                        ],
+                        [
+                            35.72059812,
+                            35.578823503
+                        ],
+                        [
+                            35.720739831,
+                            35.578698083
+                        ],
+                        [
+                            35.721124607,
+                            35.578638715
+                        ],
+                        [
+                            35.721377384,
+                            35.57877609
+                        ],
+                        [
+                            35.721743177,
+                            35.579018225
+                        ],
+                        [
+                            35.721847734,
+                            35.579196508
+                        ],
+                        [
+                            35.721755052,
+                            35.579261202
+                        ],
+                        [
+                            35.721318087,
+                            35.579503591
+                        ],
+                        [
+                            35.72108238,
+                            35.579654982
+                        ],
+                        [
+                            35.72091311,
+                            35.57982872
+                        ],
+                        [
+                            35.72085373,
+                            35.580014881
+                        ],
+                        [
+                            35.720578333,
+                            35.580071778
+                        ],
+                        [
+                            35.720325199,
+                            35.580001541
+                        ],
+                        [
+                            35.72019686,
+                            35.579961513
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160794",
+                "dates": [
+                    "2018-01-22",
+                    "2020-02-03"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "f27ef2e3-bdf5-450a-abb1-a56c8491995a",
+                "url": "https://database.eamena.org/report/f27ef2e3-bdf5-450a-abb1-a56c8491995a",
+                "edit_url": "https://database.eamena.org/resource/f27ef2e3-bdf5-450a-abb1-a56c8491995a"
+            }
+        },
+        {
+            "id": "78c8a23c-6f23-448d-98f6-479c5187161a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7,
+                    35.516667
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160766",
+                "dates": [
+                    "2020-01-31",
+                    "2017-12-04"
+                ],
+                "countries": [
+                    "Syrian Arab Republic"
+                ],
+                "people": [
+                    "Kieran Westley"
+                ],
+                "id": "f37bc7b4-a2c3-4be8-b8b7-6ad93c20419b",
+                "url": "https://database.eamena.org/report/f37bc7b4-a2c3-4be8-b8b7-6ad93c20419b",
+                "edit_url": "https://database.eamena.org/resource/f37bc7b4-a2c3-4be8-b8b7-6ad93c20419b"
+            }
+        }
+    ]
+}

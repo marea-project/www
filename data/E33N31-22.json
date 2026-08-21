@@ -1,0 +1,769 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "e72c2eb2-8075-4f5c-b574-9577b301ab76",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.96671853788602,
+                    31.18335935947555,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "113_North Sinai_The New Site_2025_NSS_A347",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin4",
+                "styleHash": "467ddf87",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin12",
+                    "highlight": "#sh_ylw-pushpin30"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279888",
+                "dates": [
+                    "2025-11-20"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "06793518-1a8c-4cde-b92a-18d1c6a5951b",
+                "url": "https://database.eamena.org/report/06793518-1a8c-4cde-b92a-18d1c6a5951b",
+                "edit_url": "https://database.eamena.org/resource/06793518-1a8c-4cde-b92a-18d1c6a5951b"
+            }
+        },
+        {
+            "id": "233ed51b-ffda-4a1a-a9eb-7fd7d71a3aad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.96193591678514,
+                    31.18342082227125,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "171_North Sinai_A349_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "-192169b8",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279601",
+                "dates": [
+                    "2025-11-06"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "12d1e641-a4f9-4a32-bc0d-8c22ff7f0cad",
+                "url": "https://database.eamena.org/report/12d1e641-a4f9-4a32-bc0d-8c22ff7f0cad",
+                "edit_url": "https://database.eamena.org/resource/12d1e641-a4f9-4a32-bc0d-8c22ff7f0cad"
+            }
+        },
+        {
+            "id": "4d695e1a46af392f053839cac6c0a847",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.95703664389936,
+                    31.187009305421924
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279585",
+                "dates": [
+                    "2025-10-27"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "39bb2830-e26c-4b43-b022-01468139b076",
+                "url": "https://database.eamena.org/report/39bb2830-e26c-4b43-b022-01468139b076",
+                "edit_url": "https://database.eamena.org/resource/39bb2830-e26c-4b43-b022-01468139b076"
+            }
+        },
+        {
+            "id": "23ab1a4e-b0ac-448d-83ca-6690560edc8f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.96115077914389,
+                    31.1840769317612,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "172_North Sinai_A348_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "-192169b8",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279602",
+                "dates": [
+                    "2025-11-06"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "425a85a6-595b-41a8-aa5c-6d35391ce233",
+                "url": "https://database.eamena.org/report/425a85a6-595b-41a8-aa5c-6d35391ce233",
+                "edit_url": "https://database.eamena.org/resource/425a85a6-595b-41a8-aa5c-6d35391ce233"
+            }
+        },
+        {
+            "id": "01278ddd087b0849d611244a55346bd6",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.85865411369363,
+                    31.00625905821633
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279596",
+                "dates": [
+                    "2025-11-05"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "4c5657fd-e410-494b-a56d-d4c94f9a87c6",
+                "url": "https://database.eamena.org/report/4c5657fd-e410-494b-a56d-d4c94f9a87c6",
+                "edit_url": "https://database.eamena.org/resource/4c5657fd-e410-494b-a56d-d4c94f9a87c6"
+            }
+        },
+        {
+            "id": "d2a0da3f-08d3-41a0-a355-41bc72aba32e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.96410119540823,
+                    31.18790434017436,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "183_North Sinai_A295_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin4",
+                "styleHash": "4cd47f87",
+                "icon-color": "#00ff00",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#00ff00",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin12",
+                    "highlight": "#sh_ylw-pushpin30"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279878",
+                "dates": [
+                    "2025-11-20"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "55bd1dd4-19ff-4357-a072-f8d5b487a4f1",
+                "url": "https://database.eamena.org/report/55bd1dd4-19ff-4357-a072-f8d5b487a4f1",
+                "edit_url": "https://database.eamena.org/resource/55bd1dd4-19ff-4357-a072-f8d5b487a4f1"
+            }
+        },
+        {
+            "id": "9abd0cc1-0f59-4fee-b34a-9020ecc2e2c0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9630950804944,
+                    31.1821803456133,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "184_North Sinai_A350_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin4",
+                "styleHash": "467ddf87",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin12",
+                    "highlight": "#sh_ylw-pushpin30"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279889",
+                "dates": [
+                    "2025-11-21"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "8f3e2bff-2a62-4d8e-abcf-e39a1522cf5b",
+                "url": "https://database.eamena.org/report/8f3e2bff-2a62-4d8e-abcf-e39a1522cf5b",
+                "edit_url": "https://database.eamena.org/resource/8f3e2bff-2a62-4d8e-abcf-e39a1522cf5b"
+            }
+        },
+        {
+            "id": "f4c41616-3f7e-4f8f-ac3c-09706797956b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9487469095578,
+                    31.17625854663017,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "169_North Sinai_A299_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "453648",
+                "icon-color": "#00ff00",
+                "icon-scale": 1.5,
+                "description": "2015-01-25",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#00ff00",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279599",
+                "dates": [
+                    "2025-11-06"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "97720ca9-71b2-4701-9009-f433bf84b133",
+                "url": "https://database.eamena.org/report/97720ca9-71b2-4701-9009-f433bf84b133",
+                "edit_url": "https://database.eamena.org/resource/97720ca9-71b2-4701-9009-f433bf84b133"
+            }
+        },
+        {
+            "id": "ec34f567-5fdc-45ce-8030-528905db69a5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.95256277450233,
+                    31.17806562445333,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "170_North Sinai_A283_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "-192169b8",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279600",
+                "dates": [
+                    "2025-11-06"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "98dfaf5c-bede-46cb-9770-d9c343350692",
+                "url": "https://database.eamena.org/report/98dfaf5c-bede-46cb-9770-d9c343350692",
+                "edit_url": "https://database.eamena.org/resource/98dfaf5c-bede-46cb-9770-d9c343350692"
+            }
+        },
+        {
+            "id": "b6ea6f5b-e4b7-4ebf-9415-588358bbdcec",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.95697201002502,
+                    31.18417741414294,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "156_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#m_ylw-pushpin",
+                "styleHash": "11bca759",
+                "icon-scale": 1.1,
+                "description": "Tell el-Kharruba\nEl-Kharruba Fort\n\u062a\u0644 \u0627\u0644\u062e\u0631\u0648\u0628\u0629\n",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin",
+                    "highlight": "#s_ylw-pushpin_hl"
+                },
+                "label": "EAMENA-0279584",
+                "dates": [
+                    "2025-10-27"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "9ac91bf4-2207-4f18-907e-d5137aa5ea73",
+                "url": "https://database.eamena.org/report/9ac91bf4-2207-4f18-907e-d5137aa5ea73",
+                "edit_url": "https://database.eamena.org/resource/9ac91bf4-2207-4f18-907e-d5137aa5ea73"
+            }
+        },
+        {
+            "id": "54df9bc4-133d-4aaf-a293-605c8fbdca0f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.96004059302496,
+                    31.18373234616907,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "173_North Sinai_A345_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "-192169b8",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279603",
+                "dates": [
+                    "2025-11-06"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "a60caca5-340d-4280-9b96-1fd259779202",
+                "url": "https://database.eamena.org/report/a60caca5-340d-4280-9b96-1fd259779202",
+                "edit_url": "https://database.eamena.org/resource/a60caca5-340d-4280-9b96-1fd259779202"
+            }
+        },
+        {
+            "id": "3c73464d-c40b-421b-9da0-af238d4063b1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.95989885734571,
+                    31.179861910888896
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "175_North Sinai_A252_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "-192169b8",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279607",
+                "dates": [
+                    "2025-11-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "af03a5d8-d413-4fbb-ade1-733da694a8b9",
+                "url": "https://database.eamena.org/report/af03a5d8-d413-4fbb-ade1-733da694a8b9",
+                "edit_url": "https://database.eamena.org/resource/af03a5d8-d413-4fbb-ade1-733da694a8b9"
+            }
+        },
+        {
+            "id": "38152b88-eade-4789-8c87-bbc28c331abd",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9588095516705,
+                    31.18056381611037
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "175_North Sinai_A294_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "-192169b8",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279605",
+                "dates": [
+                    "2025-11-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "c8ced0f2-fe62-4177-ac29-1edbadff9170",
+                "url": "https://database.eamena.org/report/c8ced0f2-fe62-4177-ac29-1edbadff9170",
+                "edit_url": "https://database.eamena.org/resource/c8ced0f2-fe62-4177-ac29-1edbadff9170"
+            }
+        },
+        {
+            "id": "8f391cb8-ea46-4e45-8a55-ea8d6cc04bbf",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.97554608897777,
+                    31.19773946212835,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "140_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin4",
+                "styleHash": "af15ee5",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "description": "Fort based on: \nAncient name: Fort on the \u201cWays of Horus\u201d\nModern name: Haruba, Haruvit, near el-Kharruba\nNB: 3868.1\nhttps://www.ancientportsantiques.com/the-catalogue/egypt-libya",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin3",
+                    "highlight": "#sh_ylw-pushpin4"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279598",
+                "dates": [
+                    "2025-11-05"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "d7e7ae12-eab3-4366-9d9a-af714b2b9d58",
+                "url": "https://database.eamena.org/report/d7e7ae12-eab3-4366-9d9a-af714b2b9d58",
+                "edit_url": "https://database.eamena.org/resource/d7e7ae12-eab3-4366-9d9a-af714b2b9d58"
+            }
+        },
+        {
+            "id": "d0089896-2e6d-480d-bb2d-691b31815ad5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.96237105040911,
+                    31.18179398645712,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "185_North Sinai_A352_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin4",
+                "styleHash": "467ddf87",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin12",
+                    "highlight": "#sh_ylw-pushpin30"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279890",
+                "dates": [
+                    "2025-11-25"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "dc2455a0-4e0a-4ca0-93cb-d62c18199def",
+                "url": "https://database.eamena.org/report/dc2455a0-4e0a-4ca0-93cb-d62c18199def",
+                "edit_url": "https://database.eamena.org/resource/dc2455a0-4e0a-4ca0-93cb-d62c18199def"
+            }
+        },
+        {
+            "id": "6a1fc7a0-6ba9-4599-9818-949a462f8810",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.95837112948944,
+                    31.1826166924976,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "174_North Sinai_A343_North Sinai Survey",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin",
+                "styleHash": "-192169b8",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279604",
+                "dates": [
+                    "2025-11-06"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "e2a6c32c-f5ff-4752-a5d1-d51a5a8172ae",
+                "url": "https://database.eamena.org/report/e2a6c32c-f5ff-4752-a5d1-d51a5a8172ae",
+                "edit_url": "https://database.eamena.org/resource/e2a6c32c-f5ff-4752-a5d1-d51a5a8172ae"
+            }
+        },
+        {
+            "id": "54022a6b-e929-47c6-9efa-21146f6f495d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.7978357952964,
+                            31.12212068839949,
+                            0
+                        ],
+                        [
+                            33.79788996428068,
+                            31.12130549368955,
+                            0
+                        ],
+                        [
+                            33.79872991815779,
+                            31.1213680464528,
+                            0
+                        ],
+                        [
+                            33.79863086086986,
+                            31.12218312604334,
+                            0
+                        ],
+                        [
+                            33.7978357952964,
+                            31.12212068839949,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "105_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#msn_ylw-pushpin00",
+                "styleHash": "-5eda68b0",
+                "icon-scale": 1.1,
+                "description": "\u0642\u0644\u0639\u0629 \u0627\u0644\u0639\u0631\u064a\u0634\n\n\n\u0645\u0631\u062c\u0639\u060c \u062e\u0631\u064a\u0637\u0629 \u0645\u0646 \u0631\u0645\u0633\u064a \u0641\u064a\u0647\u0627 \u0628\u064a\u0627\u0646\u0627\u062a:\nhttps://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~343505~90111580:Composite--Sheets-1-47?sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no&mi=0&trs=51&qvq=q:Carte%20topographique%20de%20l%27Egypte%20et%20de%20plusieurs%20parties%20des%20pays%20limitrophes;sort:pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no;lc:RUMSEY~8~1#",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "fill-opacity": 0,
+                "stroke-width": 3,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin000",
+                    "highlight": "#sh_ylw-pushpin2"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0279597",
+                "dates": [
+                    "2025-11-05"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "f9c95530-2db1-4801-8b2e-601535dc996c",
+                "url": "https://database.eamena.org/report/f9c95530-2db1-4801-8b2e-601535dc996c",
+                "edit_url": "https://database.eamena.org/resource/f9c95530-2db1-4801-8b2e-601535dc996c"
+            }
+        }
+    ]
+}

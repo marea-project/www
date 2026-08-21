@@ -1,0 +1,1267 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "b9f571ae-9405-4a09-9b12-09771b87f251",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.74215352552568,
+                    31.02766631734373,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "143_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin1",
+                "styleHash": "467ddf87",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin12",
+                    "highlight": "#sh_ylw-pushpin10"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0280312",
+                "dates": [
+                    "2025-11-26"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "0b339971-52c2-42fd-a651-f1e3a6f08ee0",
+                "url": "https://database.eamena.org/report/0b339971-52c2-42fd-a651-f1e3a6f08ee0",
+                "edit_url": "https://database.eamena.org/resource/0b339971-52c2-42fd-a651-f1e3a6f08ee0"
+            }
+        },
+        {
+            "id": "3b415da1-cb8b-4b4e-9d68-691de2a1e2a5",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.512310881378546,
+                    31.060577756505953
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "128_North Sinai_Port Said",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin61",
+                "styleHash": "-67b11a19",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "description": "2009-08-01\n\u0642\u0644\u0639\u0629 \u0627\u0644\u0637\u064a\u0646\u0629\nQal'at el Tina\n\u0642\u0644\u0639\u0629 \u0627\u0644\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u063a\u0648\u0631\u064a\n\n\n\u0627\u0644\u0637\u064a\u0646\u0629 \u0623\u0648 \u0623\u0648\u063a\u0631\u0627\u062a\u064a\u0646\u0627 Oghratina\n\nPort Said",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin5",
+                    "highlight": "#sh_ylw-pushpin7"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279723",
+                "dates": [
+                    "2025-11-11"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "2322b129-192b-4294-a9de-bea437afb500",
+                "url": "https://database.eamena.org/report/2322b129-192b-4294-a9de-bea437afb500",
+                "edit_url": "https://database.eamena.org/resource/2322b129-192b-4294-a9de-bea437afb500"
+            }
+        },
+        {
+            "id": "9c25df8a6450033b973944432efad6aa",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.512307337160166,
+                            31.060779500539653
+                        ],
+                        [
+                            32.5123111303768,
+                            31.06080143362413
+                        ],
+                        [
+                            32.51233009645893,
+                            31.060817274179424
+                        ],
+                        [
+                            32.51236802862239,
+                            31.060820320433997
+                        ],
+                        [
+                            32.51239078792043,
+                            31.060797473467613
+                        ],
+                        [
+                            32.51239268452797,
+                            31.060761679886106
+                        ],
+                        [
+                            32.51246285903076,
+                            31.060725886304596
+                        ],
+                        [
+                            32.51248941154623,
+                            31.060747007067732
+                        ],
+                        [
+                            32.51253493014252,
+                            31.060735634349342
+                        ],
+                        [
+                            32.51254251657497,
+                            31.06069826683887
+                        ],
+                        [
+                            32.51250648101893,
+                            31.060669022689453
+                        ],
+                        [
+                            32.51254251657497,
+                            31.060612159039835
+                        ],
+                        [
+                            32.51254251657497,
+                            31.060563418741495
+                        ],
+                        [
+                            32.51258613856311,
+                            31.060555295356096
+                        ],
+                        [
+                            32.51260510464476,
+                            31.06052605116207
+                        ],
+                        [
+                            32.51257855212987,
+                            31.06049599461975
+                        ],
+                        [
+                            32.512531136924906,
+                            31.060493557603678
+                        ],
+                        [
+                            32.51251691236391,
+                            31.060454565313563
+                        ],
+                        [
+                            32.51247234207159,
+                            31.060428570453524
+                        ],
+                        [
+                            32.51249699797893,
+                            31.060379017711853
+                        ],
+                        [
+                            32.512460962423404,
+                            31.060345711772214
+                        ],
+                        [
+                            32.512436306517,
+                            31.06034408709081
+                        ],
+                        [
+                            32.51240975400182,
+                            31.060399326220377
+                        ],
+                        [
+                            32.51233768289174,
+                            31.06038632878186
+                        ],
+                        [
+                            32.512333889675205,
+                            31.060321341557113
+                        ],
+                        [
+                            32.512299750727664,
+                            31.06030671942669
+                        ],
+                        [
+                            32.512258025347734,
+                            31.060313218150327
+                        ],
+                        [
+                            32.512240955873835,
+                            31.060350585812543
+                        ],
+                        [
+                            32.512161535406136,
+                            31.06037069123024
+                        ],
+                        [
+                            32.51211625388612,
+                            31.06040379409004
+                        ],
+                        [
+                            32.5120712094423,
+                            31.06038226708015
+                        ],
+                        [
+                            32.512056629267335,
+                            31.060393132124197
+                        ],
+                        [
+                            32.51204584230749,
+                            31.06041536992634
+                        ],
+                        [
+                            32.51205840733749,
+                            31.06043872469912
+                        ],
+                        [
+                            32.51209743597791,
+                            31.060472716004206
+                        ],
+                        [
+                            32.51208715280486,
+                            31.060500208586262
+                        ],
+                        [
+                            32.512077966109345,
+                            31.060532448252914
+                        ],
+                        [
+                            32.51206603081364,
+                            31.06056044219521
+                        ],
+                        [
+                            32.512016163354126,
+                            31.06056894001007
+                        ],
+                        [
+                            32.51200746562756,
+                            31.060605431767232
+                        ],
+                        [
+                            32.51203179555451,
+                            31.060626425628207
+                        ],
+                        [
+                            32.51209942148927,
+                            31.06062942112348
+                        ],
+                        [
+                            32.51212656669351,
+                            31.060656532926217
+                        ],
+                        [
+                            32.512157208768976,
+                            31.060700145337577
+                        ],
+                        [
+                            32.51212049902986,
+                            31.06072509297828
+                        ],
+                        [
+                            32.51212930788506,
+                            31.060764662682697
+                        ],
+                        [
+                            32.512165891678364,
+                            31.060778815128337
+                        ],
+                        [
+                            32.51220492031922,
+                            31.060755130460265
+                        ],
+                        [
+                            32.512307337160166,
+                            31.060779500539653
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279723",
+                "dates": [
+                    "2025-11-11"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "2322b129-192b-4294-a9de-bea437afb500",
+                "url": "https://database.eamena.org/report/2322b129-192b-4294-a9de-bea437afb500",
+                "edit_url": "https://database.eamena.org/resource/2322b129-192b-4294-a9de-bea437afb500"
+            }
+        },
+        {
+            "id": "daea37899415da11393b05148cb6778c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.51302682323828,
+                            31.061873964099533
+                        ],
+                        [
+                            32.50909740191577,
+                            31.06013084927612
+                        ],
+                        [
+                            32.510849107404454,
+                            31.057770492676894
+                        ],
+                        [
+                            32.51461171322765,
+                            31.05965845282168
+                        ],
+                        [
+                            32.51403898517327,
+                            31.060515474996308
+                        ],
+                        [
+                            32.51302682323828,
+                            31.061873964099533
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279723",
+                "dates": [
+                    "2025-11-11"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "2322b129-192b-4294-a9de-bea437afb500",
+                "url": "https://database.eamena.org/report/2322b129-192b-4294-a9de-bea437afb500",
+                "edit_url": "https://database.eamena.org/resource/2322b129-192b-4294-a9de-bea437afb500"
+            }
+        },
+        {
+            "id": "b31fe42efa06886a4b65797bc23b3bd8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.51045129343558,
+                            31.059511211911484
+                        ],
+                        [
+                            32.51050250185588,
+                            31.059342243476777
+                        ],
+                        [
+                            32.510673196592506,
+                            31.05936661394243
+                        ],
+                        [
+                            32.51063905764519,
+                            31.059516085996137
+                        ],
+                        [
+                            32.510713025364595,
+                            31.05951771069151
+                        ],
+                        [
+                            32.510724405014116,
+                            31.05944134999865
+                        ],
+                        [
+                            32.510807855773066,
+                            31.059470594526402
+                        ],
+                        [
+                            32.510788889691355,
+                            31.059535582333865
+                        ],
+                        [
+                            32.510914065832424,
+                            31.059568076220643
+                        ],
+                        [
+                            32.51088940992594,
+                            31.05964768619704
+                        ],
+                        [
+                            32.51043612056992,
+                            31.059568076220643
+                        ],
+                        [
+                            32.51045129343558,
+                            31.059511211911484
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279723",
+                "dates": [
+                    "2025-11-11"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "2322b129-192b-4294-a9de-bea437afb500",
+                "url": "https://database.eamena.org/report/2322b129-192b-4294-a9de-bea437afb500",
+                "edit_url": "https://database.eamena.org/resource/2322b129-192b-4294-a9de-bea437afb500"
+            }
+        },
+        {
+            "id": "af1536fd-0401-43da-ad93-8871b415e92d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.67237909436211,
+                    31.05232715873863,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "157_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin8",
+                "styleHash": "44429b64",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "description": "Aug 01, 2009",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin2",
+                    "highlight": "#sh_ylw-pushpin3"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279591",
+                "dates": [
+                    "2025-11-02"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "40aed033-ee5c-42d6-878c-8ed559c803c1",
+                "url": "https://database.eamena.org/report/40aed033-ee5c-42d6-878c-8ed559c803c1",
+                "edit_url": "https://database.eamena.org/resource/40aed033-ee5c-42d6-878c-8ed559c803c1"
+            }
+        },
+        {
+            "id": "ce721dab-0626-4119-8b72-74b098b376af",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.66723414900017,
+                    31.05626830955001,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "148_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin5",
+                "styleHash": "-61906e67",
+                "icon-scale": 1.1,
+                "description": "Aug 01, 2009",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin",
+                    "highlight": "#sh_ylw-pushpin"
+                },
+                "label": "EAMENA-0279590",
+                "dates": [
+                    "2025-11-02"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "5e276772-98a1-4805-9a9f-e7631119586c",
+                "url": "https://database.eamena.org/report/5e276772-98a1-4805-9a9f-e7631119586c",
+                "edit_url": "https://database.eamena.org/resource/5e276772-98a1-4805-9a9f-e7631119586c"
+            }
+        },
+        {
+            "id": "efc47972-ebd9-4824-8d74-557ec98af8c8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.70688429395132,
+                    31.01803714455122,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "192_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin1",
+                "styleHash": "467ddf87",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "description": "No. 30\nFrom Carte (Survey of Egypt) 1941\n2014-11-15",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin12",
+                    "highlight": "#sh_ylw-pushpin10"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0280315",
+                "dates": [
+                    "2025-11-28"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "6c85d9cb-312a-43b9-841b-1f0b8679ae0e",
+                "url": "https://database.eamena.org/report/6c85d9cb-312a-43b9-841b-1f0b8679ae0e",
+                "edit_url": "https://database.eamena.org/resource/6c85d9cb-312a-43b9-841b-1f0b8679ae0e"
+            }
+        },
+        {
+            "id": "59ecfdaf-2657-4f96-9ffd-3c11a83b4793",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.74189985243019,
+                    31.0045951769154,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "164_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin61",
+                "styleHash": "-67b11a19",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "description": "2010-02-01",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin5",
+                    "highlight": "#sh_ylw-pushpin7"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0280311",
+                "dates": [
+                    "2025-11-26"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "7e8de46c-2779-4078-95da-3cf466c89f09",
+                "url": "https://database.eamena.org/report/7e8de46c-2779-4078-95da-3cf466c89f09",
+                "edit_url": "https://database.eamena.org/resource/7e8de46c-2779-4078-95da-3cf466c89f09"
+            }
+        },
+        {
+            "id": "7e9a4285-4a34-4785-b132-e7b2a22d8ae7",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        32.74209071831935,
+                        31.00548377266007,
+                        0
+                    ],
+                    [
+                        32.7423870983323,
+                        31.00554054785474,
+                        0
+                    ],
+                    [
+                        32.74260011730298,
+                        31.00557505862874,
+                        0
+                    ],
+                    [
+                        32.74282022614264,
+                        31.00558348837774,
+                        0
+                    ],
+                    [
+                        32.74290689737948,
+                        31.0055736101655,
+                        0
+                    ],
+                    [
+                        32.7429842560704,
+                        31.00554163579828,
+                        0
+                    ],
+                    [
+                        32.74307340316996,
+                        31.00547756771212,
+                        0
+                    ],
+                    [
+                        32.74311349691638,
+                        31.00536323044136,
+                        0
+                    ],
+                    [
+                        32.74311615185783,
+                        31.0052367818998,
+                        0
+                    ],
+                    [
+                        32.74312588180198,
+                        31.00509027424531,
+                        0
+                    ],
+                    [
+                        32.74310747559946,
+                        31.00495776570296,
+                        0
+                    ],
+                    [
+                        32.74304225385853,
+                        31.0048171430188,
+                        0
+                    ],
+                    [
+                        32.74295839249714,
+                        31.00463834926096,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "164_North Sinai (1)",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#m_ylw-pushpin0",
+                "styleHash": "22ba30d1",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "stroke-width": 1.5,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin",
+                    "highlight": "#s_ylw-pushpin_hl0"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0280311",
+                "dates": [
+                    "2025-11-26"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "7e8de46c-2779-4078-95da-3cf466c89f09",
+                "url": "https://database.eamena.org/report/7e8de46c-2779-4078-95da-3cf466c89f09",
+                "edit_url": "https://database.eamena.org/resource/7e8de46c-2779-4078-95da-3cf466c89f09"
+            }
+        },
+        {
+            "id": "2c3216ea-8254-4fc9-a538-4af74f5ef5aa",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        32.74098030635863,
+                        31.00434970753231,
+                        0
+                    ],
+                    [
+                        32.74121246253633,
+                        31.00422167191256,
+                        0
+                    ],
+                    [
+                        32.7415691757479,
+                        31.00391522381851,
+                        0
+                    ],
+                    [
+                        32.74136448873536,
+                        31.00335885511184,
+                        0
+                    ],
+                    [
+                        32.74098345622112,
+                        31.0030891904477,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "164_North Sinai (2)",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "stroke": "#ff0000",
+                "styleUrl": "#m_ylw-pushpin0",
+                "styleHash": "22ba30d1",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "stroke-width": 1.5,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin",
+                    "highlight": "#s_ylw-pushpin_hl0"
+                },
+                "stroke-opacity": 1,
+                "label": "EAMENA-0280311",
+                "dates": [
+                    "2025-11-26"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "7e8de46c-2779-4078-95da-3cf466c89f09",
+                "url": "https://database.eamena.org/report/7e8de46c-2779-4078-95da-3cf466c89f09",
+                "edit_url": "https://database.eamena.org/resource/7e8de46c-2779-4078-95da-3cf466c89f09"
+            }
+        },
+        {
+            "id": "a912544f-9ec3-4c92-ae82-7b1e17b81e96",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.65457038329795,
+                    31.04617008710432,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "149_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#m_ylw-pushpin2",
+                "styleHash": "-733f37d9",
+                "icon-color": "#00ff00",
+                "icon-scale": 1.5,
+                "description": "From: Egypt 1:100,000, northern Sinai / published by the Survey of Egypt\nCreator: Egypt. Mas\u0323lah\u0323at al-Misa\u0304h\u0323ah\nCall Number: MAP G8300 s100\nCreated/Published: [Cairo] : Survey of Egypt,, 1935-\nEdition: First edition.\n\nRef: https://nla.gov.au/nla.obj-2896313054/view",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#00ff00",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin5",
+                    "highlight": "#s_ylw-pushpin_hl5"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279721",
+                "dates": [
+                    "2025-11-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "a2b593d9-77e3-45a4-92bd-01ca02b61e01",
+                "url": "https://database.eamena.org/report/a2b593d9-77e3-45a4-92bd-01ca02b61e01",
+                "edit_url": "https://database.eamena.org/resource/a2b593d9-77e3-45a4-92bd-01ca02b61e01"
+            }
+        },
+        {
+            "id": "5af173865798a67346456e13970b26fe",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.65272311353692,
+                            31.046078923353974
+                        ],
+                        [
+                            32.65262685590906,
+                            31.046049816645734
+                        ],
+                        [
+                            32.652524936068346,
+                            31.045962496468462
+                        ],
+                        [
+                            32.65247397614792,
+                            31.04586547395526
+                        ],
+                        [
+                            32.65259854484242,
+                            31.045812111530765
+                        ],
+                        [
+                            32.6526608291897,
+                            31.045841218311693
+                        ],
+                        [
+                            32.652740100176715,
+                            31.04590913409838
+                        ],
+                        [
+                            32.65282503337778,
+                            31.04602556104915
+                        ],
+                        [
+                            32.65272311353692,
+                            31.046078923353974
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279721",
+                "dates": [
+                    "2025-11-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "a2b593d9-77e3-45a4-92bd-01ca02b61e01",
+                "url": "https://database.eamena.org/report/a2b593d9-77e3-45a4-92bd-01ca02b61e01",
+                "edit_url": "https://database.eamena.org/resource/a2b593d9-77e3-45a4-92bd-01ca02b61e01"
+            }
+        },
+        {
+            "id": "82b2397455f6b4adf561705908951338",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.653951813838404,
+                            31.046166243424423
+                        ],
+                        [
+                            32.65384989399763,
+                            31.046098327820317
+                        ],
+                        [
+                            32.65374797415683,
+                            31.0460352632887
+                        ],
+                        [
+                            32.653629067676235,
+                            31.045923687475536
+                        ],
+                        [
+                            32.65367436538375,
+                            31.04588002733908
+                        ],
+                        [
+                            32.65371966309016,
+                            31.04586547395526
+                        ],
+                        [
+                            32.65384423178472,
+                            31.045894580719875
+                        ],
+                        [
+                            32.65399711154586,
+                            31.046069221118884
+                        ],
+                        [
+                            32.654053733679234,
+                            31.04610317893693
+                        ],
+                        [
+                            32.653951813838404,
+                            31.046166243424423
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279721",
+                "dates": [
+                    "2025-11-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "a2b593d9-77e3-45a4-92bd-01ca02b61e01",
+                "url": "https://database.eamena.org/report/a2b593d9-77e3-45a4-92bd-01ca02b61e01",
+                "edit_url": "https://database.eamena.org/resource/a2b593d9-77e3-45a4-92bd-01ca02b61e01"
+            }
+        },
+        {
+            "id": "e685f34224f62d48e0619dad967b5f60",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.65647149879928,
+                            31.046631949105446
+                        ],
+                        [
+                            32.65615441485005,
+                            31.04675322625465
+                        ],
+                        [
+                            32.655758059914746,
+                            31.046840545706516
+                        ],
+                        [
+                            32.65546362481919,
+                            31.046607693656355
+                        ],
+                        [
+                            32.65532773169781,
+                            31.04637969213988
+                        ],
+                        [
+                            32.655588193512756,
+                            31.045996454316693
+                        ],
+                        [
+                            32.656007197302785,
+                            31.045671428625013
+                        ],
+                        [
+                            32.65644884994552,
+                            31.045715088856326
+                        ],
+                        [
+                            32.65683954266896,
+                            31.04583636717379
+                        ],
+                        [
+                            32.65700940906993,
+                            31.046030412160704
+                        ],
+                        [
+                            32.656845204881904,
+                            31.04641850094687
+                        ],
+                        [
+                            32.65663004077339,
+                            31.046544629462204
+                        ],
+                        [
+                            32.65647149879928,
+                            31.046631949105446
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279721",
+                "dates": [
+                    "2025-11-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "a2b593d9-77e3-45a4-92bd-01ca02b61e01",
+                "url": "https://database.eamena.org/report/a2b593d9-77e3-45a4-92bd-01ca02b61e01",
+                "edit_url": "https://database.eamena.org/resource/a2b593d9-77e3-45a4-92bd-01ca02b61e01"
+            }
+        },
+        {
+            "id": "5d3a11d8b265b717ed0cd5aca837eacf",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.52411618321963,
+                            31.049663876581533
+                        ],
+                        [
+                            32.52407611826541,
+                            31.04159727950315
+                        ],
+                        [
+                            32.52523800193825,
+                            31.039571941390037
+                        ],
+                        [
+                            32.52555852157215,
+                            31.02405436247895
+                        ],
+                        [
+                            32.55220171614013,
+                            31.024500699839507
+                        ],
+                        [
+                            32.56591115900224,
+                            31.025221701927663
+                        ],
+                        [
+                            32.59684130367356,
+                            31.037306257867954
+                        ],
+                        [
+                            32.583259284187506,
+                            31.048256562067365
+                        ],
+                        [
+                            32.55228907456197,
+                            31.048874410026443
+                        ],
+                        [
+                            32.535662118554,
+                            31.049698201065965
+                        ],
+                        [
+                            32.52411618321963,
+                            31.049663876581533
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0272433",
+                "dates": [
+                    "2025-06-05"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "a59066ef-a144-42e9-b4c7-70a49c9a471f",
+                "url": "https://database.eamena.org/report/a59066ef-a144-42e9-b4c7-70a49c9a471f",
+                "edit_url": "https://database.eamena.org/resource/a59066ef-a144-42e9-b4c7-70a49c9a471f"
+            }
+        },
+        {
+            "id": "a4022370-f9a2-48a0-9216-f17cd2fa2144",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.73974770164187,
+                    31.02441440110032
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "191_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin1",
+                "styleHash": "7d93d7e3",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "description": "No. 26\nFrom Survey of Egypt 1941\n2009-08-01",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin1",
+                    "highlight": "#sh_ylw-pushpin10"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279697",
+                "dates": [
+                    "2025-11-10"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "cc2f12d9-a905-48a5-adbd-bb5f8529fe3d",
+                "url": "https://database.eamena.org/report/cc2f12d9-a905-48a5-adbd-bb5f8529fe3d",
+                "edit_url": "https://database.eamena.org/resource/cc2f12d9-a905-48a5-adbd-bb5f8529fe3d"
+            }
+        },
+        {
+            "id": "8b04021a-e207-4275-9c91-5c3f11314e08",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.67790251921524,
+                    31.05714878654408,
+                    0
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "130_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin2",
+                "styleHash": "-37b5fadc",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "description": "Tell el-Mohammadiyat\n\u062a\u0644 \u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0627\u062a\n\n\n\n\n\nRef: Cl\u00e9dat, J., 1910, Notes sur l'Isthme de Suez, Autour du Lac de Baudouin, ASAE10, 1909-1910, pp. 219-220. \u0623\u062d\u0645\u062f \u0627\u0644\u062a\u0627\u0628\u0639\u064a\u060c \u062d\u0641\u0627\u0626\u0631 \u062a\u0644 \u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0627\u062a\u060c \u062a\u0642\u0631\u064a\u0631 \u0645\u0628\u062f\u0626\u064a \u0645\u0648\u0633\u0645 1994/1995\u0645 Inspectorate Officials of North Sinai",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin20",
+                    "highlight": "#sh_ylw-pushpin01"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0279589",
+                "dates": [
+                    "2025-11-02"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "e1f81dde-5d14-48a2-9392-2f57fa15e638",
+                "url": "https://database.eamena.org/report/e1f81dde-5d14-48a2-9392-2f57fa15e638",
+                "edit_url": "https://database.eamena.org/resource/e1f81dde-5d14-48a2-9392-2f57fa15e638"
+            }
+        },
+        {
+            "id": "7f2402de-452b-4d57-91fa-778f1be08afe",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.684512124799525,
+                    31.0591532008602
+                ]
+            },
+            "properties": {
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+                "name": "160_North Sinai",
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "styleUrl": "#msn_ylw-pushpin5",
+                "styleHash": "-13a4cf96",
+                "icon-color": "#ff0000",
+                "icon-scale": 1.5,
+                "description": "2014-11-15",
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "label-color": "#ff0000",
+                "label-scale": 1.5,
+                "icon-opacity": 1,
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin8",
+                    "highlight": "#sh_ylw-pushpin12"
+                },
+                "label-opacity": 1,
+                "label": "EAMENA-0280314",
+                "dates": [
+                    "2025-11-28"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Ashmawy"
+                ],
+                "id": "f3ae76d2-469f-4e9f-837c-a5317de3c914",
+                "url": "https://database.eamena.org/report/f3ae76d2-469f-4e9f-837c-a5317de3c914",
+                "edit_url": "https://database.eamena.org/resource/f3ae76d2-469f-4e9f-837c-a5317de3c914"
+            }
+        }
+    ]
+}

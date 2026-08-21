@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.253509,
+                    29.346378
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0194676",
+                "dates": [
+                    "2021-07-01"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Crystal Safadi"
+                ],
+                "id": "074409cb-ac3c-44b5-9322-6391cda3ef5b",
+                "url": "https://database.eamena.org/report/074409cb-ac3c-44b5-9322-6391cda3ef5b",
+                "edit_url": "https://database.eamena.org/resource/074409cb-ac3c-44b5-9322-6391cda3ef5b"
+            }
+        }
+    ]
+}

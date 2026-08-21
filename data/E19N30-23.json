@@ -1,0 +1,113 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "fa8d4e65-2bba-4668-a687-042a415daf8d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            19.700849319,
+                            30.474889203
+                        ],
+                        [
+                            19.703091646,
+                            30.474995539
+                        ],
+                        [
+                            19.702061678,
+                            30.476636807
+                        ],
+                        [
+                            19.701509143,
+                            30.476294686
+                        ],
+                        [
+                            19.700908328,
+                            30.476451877
+                        ],
+                        [
+                            19.700463081,
+                            30.476511979
+                        ],
+                        [
+                            19.700232411,
+                            30.476340918
+                        ],
+                        [
+                            19.699572588,
+                            30.476105132
+                        ],
+                        [
+                            19.699572588,
+                            30.475758385
+                        ],
+                        [
+                            19.700066114,
+                            30.475550337
+                        ],
+                        [
+                            19.700565005,
+                            30.475628933
+                        ],
+                        [
+                            19.700784946,
+                            30.475393145
+                        ],
+                        [
+                            19.700849319,
+                            30.474889203
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0116497",
+                "dates": [
+                    "2020-04-21",
+                    "2020-04-21",
+                    "2020-04-21"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "476d4164-f1fd-4950-891c-a495769e841d",
+                "url": "https://database.eamena.org/report/476d4164-f1fd-4950-891c-a495769e841d",
+                "edit_url": "https://database.eamena.org/resource/476d4164-f1fd-4950-891c-a495769e841d"
+            }
+        },
+        {
+            "id": "64ff1887-3dae-46b5-8d1e-2d3096e63301",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.750523154,
+                    30.404678114
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0116498",
+                "dates": [
+                    "2020-04-21",
+                    "2020-04-21",
+                    "2020-04-21"
+                ],
+                "countries": [
+                    "Libya"
+                ],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "b9b488b6-be55-408e-b52d-56a74a203751",
+                "url": "https://database.eamena.org/report/b9b488b6-be55-408e-b52d-56a74a203751",
+                "edit_url": "https://database.eamena.org/resource/b9b488b6-be55-408e-b52d-56a74a203751"
+            }
+        }
+    ]
+}

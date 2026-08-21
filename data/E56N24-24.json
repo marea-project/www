@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "428a814d-b9c7-4b49-8ef1-00b64dd99738",
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        56.757433615,
+                        24.31654812
+                    ],
+                    [
+                        56.757090292,
+                        24.316763214
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0160734",
+                "dates": [
+                    "2019-05-12",
+                    "2019-05-12",
+                    "2019-05-12"
+                ],
+                "countries": [
+                    "Oman"
+                ],
+                "people": [
+                    "Georgia Andreou"
+                ],
+                "id": "ace4ec37-276f-4b00-8589-c18f96966229",
+                "url": "https://database.eamena.org/report/ace4ec37-276f-4b00-8589-c18f96966229",
+                "edit_url": "https://database.eamena.org/resource/ace4ec37-276f-4b00-8589-c18f96966229"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1249 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "9d694c55-9c98-41c2-9b16-6c5a5aa5c3bc",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.385418,
+                    31.509587
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176903",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "00c8843a-e360-4274-bbe3-77acc7390c9c",
+                "url": "https://database.eamena.org/report/00c8843a-e360-4274-bbe3-77acc7390c9c",
+                "edit_url": "https://database.eamena.org/resource/00c8843a-e360-4274-bbe3-77acc7390c9c"
+            }
+        },
+        {
+            "id": "fcf8617f-0f66-45e7-ac02-0627fcb2f84b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.262711,
+                    31.541871
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176891",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "05f8c7ff-1848-4ba4-be8e-01a0a3f9f869",
+                "url": "https://database.eamena.org/report/05f8c7ff-1848-4ba4-be8e-01a0a3f9f869",
+                "edit_url": "https://database.eamena.org/resource/05f8c7ff-1848-4ba4-be8e-01a0a3f9f869"
+            }
+        },
+        {
+            "id": "38e91af9-cb53-4a1a-9e70-0b1a0cb06f72",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            26.270168067,
+                            31.504119746
+                        ],
+                        [
+                            26.27031975,
+                            31.504024666
+                        ],
+                        [
+                            26.27115084,
+                            31.50422918
+                        ],
+                        [
+                            26.271162218,
+                            31.50422112
+                        ],
+                        [
+                            26.271220645,
+                            31.504385902
+                        ],
+                        [
+                            26.27039248,
+                            31.504675519
+                        ],
+                        [
+                            26.270168067,
+                            31.504119746
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176909",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "1712254c-721b-4bad-abed-9092b92d5cc6",
+                "url": "https://database.eamena.org/report/1712254c-721b-4bad-abed-9092b92d5cc6",
+                "edit_url": "https://database.eamena.org/resource/1712254c-721b-4bad-abed-9092b92d5cc6"
+            }
+        },
+        {
+            "id": "3246a1fb-2da0-403c-9c8a-ea5853582536",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            26.402417466,
+                            31.511939562
+                        ],
+                        [
+                            26.402361431,
+                            31.511228697
+                        ],
+                        [
+                            26.401993305,
+                            31.510700924
+                        ],
+                        [
+                            26.401538258,
+                            31.510072828
+                        ],
+                        [
+                            26.401077993,
+                            31.509754361
+                        ],
+                        [
+                            26.400658831,
+                            31.508912579
+                        ],
+                        [
+                            26.400710257,
+                            31.508110159
+                        ],
+                        [
+                            26.400884489,
+                            31.507219001
+                        ],
+                        [
+                            26.40035793,
+                            31.506364109
+                        ],
+                        [
+                            26.399821202,
+                            31.505334763
+                        ],
+                        [
+                            26.40042512,
+                            31.504382467
+                        ],
+                        [
+                            26.401429979,
+                            31.503690125
+                        ],
+                        [
+                            26.401706519,
+                            31.502695885
+                        ],
+                        [
+                            26.403179447,
+                            31.503167226
+                        ],
+                        [
+                            26.403265969,
+                            31.504523522
+                        ],
+                        [
+                            26.403235093,
+                            31.505095064
+                        ],
+                        [
+                            26.403066107,
+                            31.505688122
+                        ],
+                        [
+                            26.402322137,
+                            31.506307926
+                        ],
+                        [
+                            26.402592778,
+                            31.50770015
+                        ],
+                        [
+                            26.403119427,
+                            31.508345702
+                        ],
+                        [
+                            26.40323651,
+                            31.510114172
+                        ],
+                        [
+                            26.402898338,
+                            31.511858152
+                        ],
+                        [
+                            26.402417466,
+                            31.511939562
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176895",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "1b54716b-cfc3-4305-9ece-6ace71543fc2",
+                "url": "https://database.eamena.org/report/1b54716b-cfc3-4305-9ece-6ace71543fc2",
+                "edit_url": "https://database.eamena.org/resource/1b54716b-cfc3-4305-9ece-6ace71543fc2"
+            }
+        },
+        {
+            "id": "3e0556b2-a93c-4c72-abdf-a59e85dfcc3d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.368813,
+                    31.511616
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176897",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "1d9220f0-9a0a-4d7f-bc84-ce7f7e0bba5a",
+                "url": "https://database.eamena.org/report/1d9220f0-9a0a-4d7f-bc84-ce7f7e0bba5a",
+                "edit_url": "https://database.eamena.org/resource/1d9220f0-9a0a-4d7f-bc84-ce7f7e0bba5a"
+            }
+        },
+        {
+            "id": "3d9b452b-201b-4b10-a877-947c5b727980",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.335892,
+                    31.518187
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176919",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "227d90b7-1083-4789-9998-ff1f4743950c",
+                "url": "https://database.eamena.org/report/227d90b7-1083-4789-9998-ff1f4743950c",
+                "edit_url": "https://database.eamena.org/resource/227d90b7-1083-4789-9998-ff1f4743950c"
+            }
+        },
+        {
+            "id": "a3093233-78d2-4701-8a1d-15b7c858ddbb",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.336414,
+                    31.513078
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176899",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "27220f90-7ab4-4f4d-8157-1e8c6ba3d6da",
+                "url": "https://database.eamena.org/report/27220f90-7ab4-4f4d-8157-1e8c6ba3d6da",
+                "edit_url": "https://database.eamena.org/resource/27220f90-7ab4-4f4d-8157-1e8c6ba3d6da"
+            }
+        },
+        {
+            "id": "db1e2a2b-d965-46a7-83ac-5f8c9de28d8c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            26.36355978,
+                            31.512201549
+                        ],
+                        [
+                            26.364409119,
+                            31.512314243
+                        ],
+                        [
+                            26.364657885,
+                            31.512670612
+                        ],
+                        [
+                            26.364361611,
+                            31.5131105
+                        ],
+                        [
+                            26.363623441,
+                            31.513353216
+                        ],
+                        [
+                            26.362303326,
+                            31.513439058
+                        ],
+                        [
+                            26.362261683,
+                            31.512826675
+                        ],
+                        [
+                            26.362055181,
+                            31.511816253
+                        ],
+                        [
+                            26.36125361,
+                            31.512005178
+                        ],
+                        [
+                            26.361338384,
+                            31.512939016
+                        ],
+                        [
+                            26.360544657,
+                            31.513297734
+                        ],
+                        [
+                            26.359848779,
+                            31.513272977
+                        ],
+                        [
+                            26.359118549,
+                            31.513133172
+                        ],
+                        [
+                            26.359062928,
+                            31.512474519
+                        ],
+                        [
+                            26.359491531,
+                            31.512167719
+                        ],
+                        [
+                            26.362087036,
+                            31.511441182
+                        ],
+                        [
+                            26.363026852,
+                            31.511470424
+                        ],
+                        [
+                            26.36355978,
+                            31.512201549
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176898",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "2c16bda2-1ecc-4a1c-b18a-643ab396350e",
+                "url": "https://database.eamena.org/report/2c16bda2-1ecc-4a1c-b18a-643ab396350e",
+                "edit_url": "https://database.eamena.org/resource/2c16bda2-1ecc-4a1c-b18a-643ab396350e"
+            }
+        },
+        {
+            "id": "ab13ea64-6f17-4913-ab46-f2f27c027289",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.368024,
+                    31.516
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176893",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "338e7f40-f7e5-400d-9d7f-df2562a6fae7",
+                "url": "https://database.eamena.org/report/338e7f40-f7e5-400d-9d7f-df2562a6fae7",
+                "edit_url": "https://database.eamena.org/resource/338e7f40-f7e5-400d-9d7f-df2562a6fae7"
+            }
+        },
+        {
+            "id": "83a40632-5df6-48df-bff1-a2908eba20df",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.363124,
+                    31.515506
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176892",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "3c7c342b-8214-4cb5-9aa4-32736099636a",
+                "url": "https://database.eamena.org/report/3c7c342b-8214-4cb5-9aa4-32736099636a",
+                "edit_url": "https://database.eamena.org/resource/3c7c342b-8214-4cb5-9aa4-32736099636a"
+            }
+        },
+        {
+            "id": "d6f1ace7-e501-4abc-88f3-6983959ef90a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.32705,
+                    31.519969
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176917",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "3fd7d1a0-2d09-4bc5-81bc-ac1dd9216ccd",
+                "url": "https://database.eamena.org/report/3fd7d1a0-2d09-4bc5-81bc-ac1dd9216ccd",
+                "edit_url": "https://database.eamena.org/resource/3fd7d1a0-2d09-4bc5-81bc-ac1dd9216ccd"
+            }
+        },
+        {
+            "id": "1e41f8cb-9f28-4670-94d7-d5c76adc13ff",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.304766,
+                    31.514044
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176900",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "46a337bb-d56a-4766-81fb-a0f5f6ad5d59",
+                "url": "https://database.eamena.org/report/46a337bb-d56a-4766-81fb-a0f5f6ad5d59",
+                "edit_url": "https://database.eamena.org/resource/46a337bb-d56a-4766-81fb-a0f5f6ad5d59"
+            }
+        },
+        {
+            "id": "25ed0c01-a71a-4527-b357-9b7c61ebf4c0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.405374,
+                    31.50903
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176904",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "488d46b1-c374-4576-bb1a-4a4fbcca4d1b",
+                "url": "https://database.eamena.org/report/488d46b1-c374-4576-bb1a-4a4fbcca4d1b",
+                "edit_url": "https://database.eamena.org/resource/488d46b1-c374-4576-bb1a-4a4fbcca4d1b"
+            }
+        },
+        {
+            "id": "4fa7f43f-ef16-42b1-961f-1541c546e48e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.26032,
+                    31.54628
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0174468",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "4b365d6a-d771-4574-bd66-4a36ec6f702c",
+                "url": "https://database.eamena.org/report/4b365d6a-d771-4574-bd66-4a36ec6f702c",
+                "edit_url": "https://database.eamena.org/resource/4b365d6a-d771-4574-bd66-4a36ec6f702c"
+            }
+        },
+        {
+            "id": "4bafdf38-22f9-4540-a05a-b9235c8f4495",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.453026,
+                    31.504872
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176905",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "52e0e78c-fe5f-4391-8389-07a3ee66c0c6",
+                "url": "https://database.eamena.org/report/52e0e78c-fe5f-4391-8389-07a3ee66c0c6",
+                "edit_url": "https://database.eamena.org/resource/52e0e78c-fe5f-4391-8389-07a3ee66c0c6"
+            }
+        },
+        {
+            "id": "7347f305-0a8c-48d9-b88f-35989e0e2a3a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            26.313478,
+                            31.527775
+                        ],
+                        [
+                            26.31219,
+                            31.527932
+                        ],
+                        [
+                            26.311392,
+                            31.52757
+                        ],
+                        [
+                            26.310838,
+                            31.526825
+                        ],
+                        [
+                            26.310336,
+                            31.526217
+                        ],
+                        [
+                            26.31119,
+                            31.52556
+                        ],
+                        [
+                            26.312337,
+                            31.525587
+                        ],
+                        [
+                            26.313461,
+                            31.526185
+                        ],
+                        [
+                            26.313718,
+                            31.527357
+                        ],
+                        [
+                            26.313478,
+                            31.527775
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176916",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "54bcdc33-15f0-4bf3-99c7-6a311c850035",
+                "url": "https://database.eamena.org/report/54bcdc33-15f0-4bf3-99c7-6a311c850035",
+                "edit_url": "https://database.eamena.org/resource/54bcdc33-15f0-4bf3-99c7-6a311c850035"
+            }
+        },
+        {
+            "id": "f99056a1-83f3-48fb-9fd5-f558f76ab0f0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.372524,
+                    31.515021
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176894",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "5e451a2d-692e-47d8-9c73-368ffe47db24",
+                "url": "https://database.eamena.org/report/5e451a2d-692e-47d8-9c73-368ffe47db24",
+                "edit_url": "https://database.eamena.org/resource/5e451a2d-692e-47d8-9c73-368ffe47db24"
+            }
+        },
+        {
+            "id": "0a39f44a-2062-459e-81df-222b804508e4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.292731,
+                    31.501869
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176911",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "7016b5c2-5322-474f-8493-d03ebd5e044d",
+                "url": "https://database.eamena.org/report/7016b5c2-5322-474f-8493-d03ebd5e044d",
+                "edit_url": "https://database.eamena.org/resource/7016b5c2-5322-474f-8493-d03ebd5e044d"
+            }
+        },
+        {
+            "id": "2add55ac-d72c-4bde-976c-df64cd651aef",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.378981,
+                    31.511926
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176896",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "70c78e84-74d0-4dc5-bb2b-1a4674f9dc55",
+                "url": "https://database.eamena.org/report/70c78e84-74d0-4dc5-bb2b-1a4674f9dc55",
+                "edit_url": "https://database.eamena.org/resource/70c78e84-74d0-4dc5-bb2b-1a4674f9dc55"
+            }
+        },
+        {
+            "id": "d43d858a-b772-4d18-bd70-2bdd37c35b73",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            26.271887306,
+                            31.500730653
+                        ],
+                        [
+                            26.273261777,
+                            31.50058345
+                        ],
+                        [
+                            26.273362072,
+                            31.501673792
+                        ],
+                        [
+                            26.271997501,
+                            31.501804152
+                        ],
+                        [
+                            26.271887306,
+                            31.500730653
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176910",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "81a6f5c7-76b1-4586-aef6-4fdcac021450",
+                "url": "https://database.eamena.org/report/81a6f5c7-76b1-4586-aef6-4fdcac021450",
+                "edit_url": "https://database.eamena.org/resource/81a6f5c7-76b1-4586-aef6-4fdcac021450"
+            }
+        },
+        {
+            "id": "31bc4274-5c5b-4fe1-b899-b1bd1c4cdfd6",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.252065,
+                    31.542194
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176890",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "9299c514-f04b-4b8e-988b-e1bfab573bcf",
+                "url": "https://database.eamena.org/report/9299c514-f04b-4b8e-988b-e1bfab573bcf",
+                "edit_url": "https://database.eamena.org/resource/9299c514-f04b-4b8e-988b-e1bfab573bcf"
+            }
+        },
+        {
+            "id": "b4d7a605-97eb-4377-b07c-769c02ed8297",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.27016,
+                    31.53735
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176902",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "934cdc67-a1bd-4a16-a334-eba4ed11051e",
+                "url": "https://database.eamena.org/report/934cdc67-a1bd-4a16-a334-eba4ed11051e",
+                "edit_url": "https://database.eamena.org/resource/934cdc67-a1bd-4a16-a334-eba4ed11051e"
+            }
+        },
+        {
+            "id": "8bbf31d4-be88-4108-b22e-278b64ac353f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.299627,
+                    31.53087
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176913",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "a3f54136-1bc6-413f-a9ca-b4c26640eec7",
+                "url": "https://database.eamena.org/report/a3f54136-1bc6-413f-a9ca-b4c26640eec7",
+                "edit_url": "https://database.eamena.org/resource/a3f54136-1bc6-413f-a9ca-b4c26640eec7"
+            }
+        },
+        {
+            "id": "df8492fa-5c4d-4e45-8a0b-8cb3a973d6c9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.331176,
+                    31.517728
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176920",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "b01c47b4-bd5b-4a7e-982b-1920de4d1013",
+                "url": "https://database.eamena.org/report/b01c47b4-bd5b-4a7e-982b-1920de4d1013",
+                "edit_url": "https://database.eamena.org/resource/b01c47b4-bd5b-4a7e-982b-1920de4d1013"
+            }
+        },
+        {
+            "id": "7a019886-248f-46a8-a140-c77249341a0c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.341645,
+                    31.517795
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176921",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "b820343c-afda-44ef-980a-3a89aa404c64",
+                "url": "https://database.eamena.org/report/b820343c-afda-44ef-980a-3a89aa404c64",
+                "edit_url": "https://database.eamena.org/resource/b820343c-afda-44ef-980a-3a89aa404c64"
+            }
+        },
+        {
+            "id": "ec52bf4c-0612-4122-994e-99d9a294c47d",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.356316,
+                    31.503419
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176915",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "c4034b57-3693-4e2c-aa93-62ba283b83e1",
+                "url": "https://database.eamena.org/report/c4034b57-3693-4e2c-aa93-62ba283b83e1",
+                "edit_url": "https://database.eamena.org/resource/c4034b57-3693-4e2c-aa93-62ba283b83e1"
+            }
+        },
+        {
+            "id": "67a1f362-7de6-4922-993e-2e8fbd3ee7e8",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.444394,
+                    31.505984
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176906",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "d2d44269-40ff-4ec9-a529-2ed8ebb53de7",
+                "url": "https://database.eamena.org/report/d2d44269-40ff-4ec9-a529-2ed8ebb53de7",
+                "edit_url": "https://database.eamena.org/resource/d2d44269-40ff-4ec9-a529-2ed8ebb53de7"
+            }
+        },
+        {
+            "id": "312b9cfd-0912-40cf-8124-28e99cd2d975",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.298849,
+                    31.515748
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176918",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "d7bd5d4c-7dfd-41d8-b7fc-a0cf6396a72a",
+                "url": "https://database.eamena.org/report/d7bd5d4c-7dfd-41d8-b7fc-a0cf6396a72a",
+                "edit_url": "https://database.eamena.org/resource/d7bd5d4c-7dfd-41d8-b7fc-a0cf6396a72a"
+            }
+        },
+        {
+            "id": "ddd79b4b-6582-4411-a9ac-29a743cf7c0a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            26.435177874,
+                            31.509394922
+                        ],
+                        [
+                            26.429177512,
+                            31.510016691
+                        ],
+                        [
+                            26.423631221,
+                            31.510063403
+                        ],
+                        [
+                            26.422352017,
+                            31.504184986
+                        ],
+                        [
+                            26.424898093,
+                            31.502648163
+                        ],
+                        [
+                            26.425269814,
+                            31.500066861
+                        ],
+                        [
+                            26.431627372,
+                            31.50009061
+                        ],
+                        [
+                            26.431902508,
+                            31.503810018
+                        ],
+                        [
+                            26.43637502,
+                            31.504736872
+                        ],
+                        [
+                            26.435177874,
+                            31.509394922
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176907",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "dd80f97d-1d9c-4c39-b4b7-f1703af321cd",
+                "url": "https://database.eamena.org/report/dd80f97d-1d9c-4c39-b4b7-f1703af321cd",
+                "edit_url": "https://database.eamena.org/resource/dd80f97d-1d9c-4c39-b4b7-f1703af321cd"
+            }
+        },
+        {
+            "id": "89db160f-943a-4a0f-984a-8708ca9dd23b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.335749,
+                    31.502211
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176912",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "e8216e11-3eaf-4722-bfaf-689ea9d5977c",
+                "url": "https://database.eamena.org/report/e8216e11-3eaf-4722-bfaf-689ea9d5977c",
+                "edit_url": "https://database.eamena.org/resource/e8216e11-3eaf-4722-bfaf-689ea9d5977c"
+            }
+        },
+        {
+            "id": "c5d0ae46-c766-41ce-971b-2fbbb03071db",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.25855,
+                    31.54725
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0174469",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "ea909915-e51e-4964-a3f0-9ac28b18dcb7",
+                "url": "https://database.eamena.org/report/ea909915-e51e-4964-a3f0-9ac28b18dcb7",
+                "edit_url": "https://database.eamena.org/resource/ea909915-e51e-4964-a3f0-9ac28b18dcb7"
+            }
+        },
+        {
+            "id": "1512e2ce-0f20-472e-bbd2-a87823c8fdd7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.31896,
+                    31.505685
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176908",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "ee8a61eb-3ab4-494c-9cf5-c03b928a337c",
+                "url": "https://database.eamena.org/report/ee8a61eb-3ab4-494c-9cf5-c03b928a337c",
+                "edit_url": "https://database.eamena.org/resource/ee8a61eb-3ab4-494c-9cf5-c03b928a337c"
+            }
+        },
+        {
+            "id": "dff4c06e-9ad9-4dce-81e2-b089f1b06637",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.344337,
+                    31.501536
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176914",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "f74baeb1-f754-4dff-8598-4cad2e093984",
+                "url": "https://database.eamena.org/report/f74baeb1-f754-4dff-8598-4cad2e093984",
+                "edit_url": "https://database.eamena.org/resource/f74baeb1-f754-4dff-8598-4cad2e093984"
+            }
+        },
+        {
+            "id": "7fa495de-034e-4b47-9338-8a5ed87fa574",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.387664,
+                    31.50946
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176901",
+                "dates": [
+                    "2020-04-13",
+                    "2020-04-13",
+                    "2020-04-13"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray"
+                ],
+                "id": "fb9ad6c1-06dc-4f9d-b3ab-3f95e76f3c1e",
+                "url": "https://database.eamena.org/report/fb9ad6c1-06dc-4f9d-b3ab-3f95e76f3c1e",
+                "edit_url": "https://database.eamena.org/resource/fb9ad6c1-06dc-4f9d-b3ab-3f95e76f3c1e"
+            }
+        }
+    ]
+}

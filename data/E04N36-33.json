@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "cd6e6a9c-0d04-4ae9-8633-c0ca7d9d6bd0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17146,
+                    36.89501
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0279701",
+                "dates": [
+                    "2025-11-15"
+                ],
+                "countries": [
+                    "Algeria"
+                ],
+                "people": [
+                    "Jen Makovics"
+                ],
+                "id": "339dc334-13ad-49e5-80d9-8622bd693097",
+                "url": "https://database.eamena.org/report/339dc334-13ad-49e5-80d9-8622bd693097",
+                "edit_url": "https://database.eamena.org/resource/339dc334-13ad-49e5-80d9-8622bd693097"
+            }
+        }
+    ]
+}

@@ -1,0 +1,845 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "d4e24396-8f53-4c9e-86d7-08080ad5030b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.617366566,
+                    31.54119639
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176659",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "057d645b-f6d8-411a-8ec6-8a653568fc4f",
+                "url": "https://database.eamena.org/report/057d645b-f6d8-411a-8ec6-8a653568fc4f",
+                "edit_url": "https://database.eamena.org/resource/057d645b-f6d8-411a-8ec6-8a653568fc4f"
+            }
+        },
+        {
+            "id": "2512a324-b671-4782-984a-9e7082f1c677",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5994087,
+                    31.507957102
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176646",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "0915305f-f32f-489e-be1b-edfd59db1621",
+                "url": "https://database.eamena.org/report/0915305f-f32f-489e-be1b-edfd59db1621",
+                "edit_url": "https://database.eamena.org/resource/0915305f-f32f-489e-be1b-edfd59db1621"
+            }
+        },
+        {
+            "id": "0ba528f3-cba6-4c0b-828c-55205c15d5d3",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.700898624,
+                    31.546610332
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176636",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "094c7e26-3e99-4a5a-bc6c-4030f7fcab75",
+                "url": "https://database.eamena.org/report/094c7e26-3e99-4a5a-bc6c-4030f7fcab75",
+                "edit_url": "https://database.eamena.org/resource/094c7e26-3e99-4a5a-bc6c-4030f7fcab75"
+            }
+        },
+        {
+            "id": "56453b9b-d535-4816-a60f-45ae6ed1cfbe",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.738430473,
+                    31.574004052
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176641",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "0b6cdbfa-ee4c-4631-bfd4-eb832d6d94d3",
+                "url": "https://database.eamena.org/report/0b6cdbfa-ee4c-4631-bfd4-eb832d6d94d3",
+                "edit_url": "https://database.eamena.org/resource/0b6cdbfa-ee4c-4631-bfd4-eb832d6d94d3"
+            }
+        },
+        {
+            "id": "9c7f72bd-a2a0-4fc9-bb3d-f61d4c56705b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.627983803,
+                    31.541399786
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176660",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "22a79b8a-736e-4730-b539-8ba30bf36b47",
+                "url": "https://database.eamena.org/report/22a79b8a-736e-4730-b539-8ba30bf36b47",
+                "edit_url": "https://database.eamena.org/resource/22a79b8a-736e-4730-b539-8ba30bf36b47"
+            }
+        },
+        {
+            "id": "b1608ee6-eafe-4690-8948-ebf69845f632",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.547215495,
+                    31.502910873
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176650",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "2d50a982-f559-40d7-b734-ed946fe72bc3",
+                "url": "https://database.eamena.org/report/2d50a982-f559-40d7-b734-ed946fe72bc3",
+                "edit_url": "https://database.eamena.org/resource/2d50a982-f559-40d7-b734-ed946fe72bc3"
+            }
+        },
+        {
+            "id": "ae3a00a5-ad9f-4e66-8ca9-8a545057d48b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.667016577,
+                    31.55201885
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176637",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "2d70ab9d-148e-43ad-a867-f2f3dda12b47",
+                "url": "https://database.eamena.org/report/2d70ab9d-148e-43ad-a867-f2f3dda12b47",
+                "edit_url": "https://database.eamena.org/resource/2d70ab9d-148e-43ad-a867-f2f3dda12b47"
+            }
+        },
+        {
+            "id": "473c5ab8-1f9d-4f88-bbdc-f108184002b0",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.674600559,
+                    31.545689503
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176633",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "313b6cbb-8286-46f8-9432-bcb23b835812",
+                "url": "https://database.eamena.org/report/313b6cbb-8286-46f8-9432-bcb23b835812",
+                "edit_url": "https://database.eamena.org/resource/313b6cbb-8286-46f8-9432-bcb23b835812"
+            }
+        },
+        {
+            "id": "d0d689ee-f9f9-4ed8-9c8c-c571ba00dca2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.674263532,
+                    31.565945579
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176640",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "352860e9-58ba-4fc8-9398-d4b818a74933",
+                "url": "https://database.eamena.org/report/352860e9-58ba-4fc8-9398-d4b818a74933",
+                "edit_url": "https://database.eamena.org/resource/352860e9-58ba-4fc8-9398-d4b818a74933"
+            }
+        },
+        {
+            "id": "19ecf41f-74f0-4748-83dc-1f6eb13569d1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.593313831,
+                    31.537305223
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176658",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "362b6cad-4e69-429b-98c8-ae3bc3d3e9a7",
+                "url": "https://database.eamena.org/report/362b6cad-4e69-429b-98c8-ae3bc3d3e9a7",
+                "edit_url": "https://database.eamena.org/resource/362b6cad-4e69-429b-98c8-ae3bc3d3e9a7"
+            }
+        },
+        {
+            "id": "956d2e8d-8e22-406b-9923-22ae038d9c27",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.600305585,
+                    31.543915539
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176634",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "432d59f3-d8f5-44f7-95b3-1337858c4c2a",
+                "url": "https://database.eamena.org/report/432d59f3-d8f5-44f7-95b3-1337858c4c2a",
+                "edit_url": "https://database.eamena.org/resource/432d59f3-d8f5-44f7-95b3-1337858c4c2a"
+            }
+        },
+        {
+            "id": "f7d521d3-fe6f-4d1b-85cd-6aa74b2c3c96",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.575622615,
+                    31.521741337
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176631",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "45778d10-e186-4be8-b20e-eab8ada714f8",
+                "url": "https://database.eamena.org/report/45778d10-e186-4be8-b20e-eab8ada714f8",
+                "edit_url": "https://database.eamena.org/resource/45778d10-e186-4be8-b20e-eab8ada714f8"
+            }
+        },
+        {
+            "id": "737808e9-e4c0-4402-bd98-93cc9304705f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.633219201,
+                    31.540130472
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176656",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "53048de0-6b04-4e64-b1a2-f6e2ac84f8ad",
+                "url": "https://database.eamena.org/report/53048de0-6b04-4e64-b1a2-f6e2ac84f8ad",
+                "edit_url": "https://database.eamena.org/resource/53048de0-6b04-4e64-b1a2-f6e2ac84f8ad"
+            }
+        },
+        {
+            "id": "8ae9ade0-f103-42e3-a89f-31b831111dfc",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6471284,
+                    31.519143854
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176632",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "608b6fb7-0449-4093-ab90-9b1980c1bb1c",
+                "url": "https://database.eamena.org/report/608b6fb7-0449-4093-ab90-9b1980c1bb1c",
+                "edit_url": "https://database.eamena.org/resource/608b6fb7-0449-4093-ab90-9b1980c1bb1c"
+            }
+        },
+        {
+            "id": "51861199-3e35-4d0c-8eb5-e93fe5584f72",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.734338684,
+                    31.578950802
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176642",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "696ce783-6f56-4a00-bbb7-bb86fccbd118",
+                "url": "https://database.eamena.org/report/696ce783-6f56-4a00-bbb7-bb86fccbd118",
+                "edit_url": "https://database.eamena.org/resource/696ce783-6f56-4a00-bbb7-bb86fccbd118"
+            }
+        },
+        {
+            "id": "65e62655-7414-4246-91b7-6638c0f09d1b",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.722691082,
+                    31.576300021
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176644",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "6b9f3265-893c-4dea-86be-479fe86027f7",
+                "url": "https://database.eamena.org/report/6b9f3265-893c-4dea-86be-479fe86027f7",
+                "edit_url": "https://database.eamena.org/resource/6b9f3265-893c-4dea-86be-479fe86027f7"
+            }
+        },
+        {
+            "id": "fe8d03c9-7550-40f7-85a1-4472adf5a7e4",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.552557205,
+                    31.502018475
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176651",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "6dc3f6fe-560a-4db2-8d99-c06880a309a1",
+                "url": "https://database.eamena.org/report/6dc3f6fe-560a-4db2-8d99-c06880a309a1",
+                "edit_url": "https://database.eamena.org/resource/6dc3f6fe-560a-4db2-8d99-c06880a309a1"
+            }
+        },
+        {
+            "id": "7a82ccf1-93d2-4476-9f7a-0be351d9c489",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.631404461,
+                    31.555071511
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176638",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "87028098-3f8f-4150-b82c-6d2482bd52e0",
+                "url": "https://database.eamena.org/report/87028098-3f8f-4150-b82c-6d2482bd52e0",
+                "edit_url": "https://database.eamena.org/resource/87028098-3f8f-4150-b82c-6d2482bd52e0"
+            }
+        },
+        {
+            "id": "8cd65ae8-d3b7-40f4-90d4-452dc8c96274",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.615307984,
+                    31.53348021
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176655",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "875624a4-b1e7-4ee0-908f-8f7686781303",
+                "url": "https://database.eamena.org/report/875624a4-b1e7-4ee0-908f-8f7686781303",
+                "edit_url": "https://database.eamena.org/resource/875624a4-b1e7-4ee0-908f-8f7686781303"
+            }
+        },
+        {
+            "id": "1f696dda-9845-413f-b05c-02ca204e152f",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.640386302,
+                    31.526278812
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176643",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "9150d0f6-4445-4988-804e-fd1fa0217fd5",
+                "url": "https://database.eamena.org/report/9150d0f6-4445-4988-804e-fd1fa0217fd5",
+                "edit_url": "https://database.eamena.org/resource/9150d0f6-4445-4988-804e-fd1fa0217fd5"
+            }
+        },
+        {
+            "id": "0e69b3fc-9065-4f9d-a59a-2298547e4272",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.571859153,
+                    31.510584727
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176645",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "943e0517-6fec-4848-b132-5d121048ab02",
+                "url": "https://database.eamena.org/report/943e0517-6fec-4848-b132-5d121048ab02",
+                "edit_url": "https://database.eamena.org/resource/943e0517-6fec-4848-b132-5d121048ab02"
+            }
+        },
+        {
+            "id": "a9a64bc4-933c-496d-b6f4-50297914846e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.668231179,
+                    31.565101738
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176639",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "a99cbc24-0b90-4860-b45d-62e574ba2102",
+                "url": "https://database.eamena.org/report/a99cbc24-0b90-4860-b45d-62e574ba2102",
+                "edit_url": "https://database.eamena.org/resource/a99cbc24-0b90-4860-b45d-62e574ba2102"
+            }
+        },
+        {
+            "id": "4c59c933-277a-4f4b-bbcb-b90be21ea89e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.519532628,
+                    31.501929206
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176649",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "b35b66a4-f0ae-4c56-a74b-d9cd9ab1d213",
+                "url": "https://database.eamena.org/report/b35b66a4-f0ae-4c56-a74b-d9cd9ab1d213",
+                "edit_url": "https://database.eamena.org/resource/b35b66a4-f0ae-4c56-a74b-d9cd9ab1d213"
+            }
+        },
+        {
+            "id": "0535f8ed-a5c1-44a1-a6bd-3fba9d324d0e",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.512136059,
+                    31.50168966
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176648",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "c90a5467-f99a-4761-b467-846a7f05fb8f",
+                "url": "https://database.eamena.org/report/c90a5467-f99a-4761-b467-846a7f05fb8f",
+                "edit_url": "https://database.eamena.org/resource/c90a5467-f99a-4761-b467-846a7f05fb8f"
+            }
+        },
+        {
+            "id": "726d2963-6aa2-4143-9ffc-7cc843d7c912",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.616682552,
+                    31.538537945
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176657",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "d2f66c7a-d902-4911-a94c-351b16f36790",
+                "url": "https://database.eamena.org/report/d2f66c7a-d902-4911-a94c-351b16f36790",
+                "edit_url": "https://database.eamena.org/resource/d2f66c7a-d902-4911-a94c-351b16f36790"
+            }
+        },
+        {
+            "id": "11524ede-7b31-4ce0-a970-70c22ca26e1c",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.605457549,
+                    31.509599685
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176647",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Julia Nikolaus",
+                    "Nick Ray"
+                ],
+                "id": "d79c58f7-c4f9-4b7c-ac87-a47070e9f76a",
+                "url": "https://database.eamena.org/report/d79c58f7-c4f9-4b7c-ac87-a47070e9f76a",
+                "edit_url": "https://database.eamena.org/resource/d79c58f7-c4f9-4b7c-ac87-a47070e9f76a"
+            }
+        },
+        {
+            "id": "f5fed021-c128-45e9-84c9-248a26aea6f9",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.694512728,
+                    31.527226605
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176654",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "f0c6f682-fda9-4c7f-8be5-7fadbd8aab9b",
+                "url": "https://database.eamena.org/report/f0c6f682-fda9-4c7f-8be5-7fadbd8aab9b",
+                "edit_url": "https://database.eamena.org/resource/f0c6f682-fda9-4c7f-8be5-7fadbd8aab9b"
+            }
+        },
+        {
+            "id": "ec78b13a-0716-4017-8f51-375779b5cd52",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.69484339,
+                    31.548276862
+                ]
+            },
+            "properties": {
+                "label": "EAMENA-0176635",
+                "dates": [
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07",
+                    "2020-04-07"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Nick Ray",
+                    "Julia Nikolaus"
+                ],
+                "id": "fe898923-68da-4dd5-a565-28203baa7b6c",
+                "url": "https://database.eamena.org/report/fe898923-68da-4dd5-a565-28203baa7b6c",
+                "edit_url": "https://database.eamena.org/resource/fe898923-68da-4dd5-a565-28203baa7b6c"
+            }
+        }
+    ]
+}

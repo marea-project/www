@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "a6c06c5b-5b5c-47f8-86f2-9250b45d52a7",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.795469,
+                    23.893582
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0288280",
+                "dates": [
+                    "2026-01-05"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "1ee8f1f3-296d-43d8-bcb8-9a43abb51850",
+                "url": "https://database.eamena.org/report/1ee8f1f3-296d-43d8-bcb8-9a43abb51850",
+                "edit_url": "https://database.eamena.org/resource/1ee8f1f3-296d-43d8-bcb8-9a43abb51850"
+            }
+        },
+        {
+            "id": "90cc73f07289b774b56d55e1e89e0f9a",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.78919533133353,
+                    23.902706293742582
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0284519",
+                "dates": [
+                    "2026-01-05"
+                ],
+                "countries": [
+                    "Egypt"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "ce4a4152-9cd7-449a-b396-fc289f50eabc",
+                "url": "https://database.eamena.org/report/ce4a4152-9cd7-449a-b396-fc289f50eabc",
+                "edit_url": "https://database.eamena.org/resource/ce4a4152-9cd7-449a-b396-fc289f50eabc"
+            }
+        }
+    ]
+}

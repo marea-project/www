@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "a797ea43-69ca-4026-9295-e4646b147572",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.753088,
+                    27.849120000000003
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0270896",
+                "dates": [
+                    "2025-04-28"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "51d169a9-924e-4ece-bfd8-e8912bf01666",
+                "url": "https://database.eamena.org/report/51d169a9-924e-4ece-bfd8-e8912bf01666",
+                "edit_url": "https://database.eamena.org/resource/51d169a9-924e-4ece-bfd8-e8912bf01666"
+            }
+        },
+        {
+            "id": "bb649a3e-7278-4adc-aa09-54e9272670cc",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.804973,
+                    27.849157
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0270898",
+                "dates": [
+                    "2025-04-28"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "526ad76b-16ac-4117-8b05-6b45f5564075",
+                "url": "https://database.eamena.org/report/526ad76b-16ac-4117-8b05-6b45f5564075",
+                "edit_url": "https://database.eamena.org/resource/526ad76b-16ac-4117-8b05-6b45f5564075"
+            }
+        },
+        {
+            "id": "76502fab-433c-4d05-883e-4ccd55af7e53",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.891939,
+                    27.8445
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0270897",
+                "dates": [
+                    "2025-04-28"
+                ],
+                "countries": [
+                    "Iran (Islamic Republic of)"
+                ],
+                "people": [
+                    "Mohamed Osman"
+                ],
+                "id": "6cabd9fe-2df4-4d6a-812d-71aab48d8215",
+                "url": "https://database.eamena.org/report/6cabd9fe-2df4-4d6a-812d-71aab48d8215",
+                "edit_url": "https://database.eamena.org/resource/6cabd9fe-2df4-4d6a-812d-71aab48d8215"
+            }
+        }
+    ]
+}
