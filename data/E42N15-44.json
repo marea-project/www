@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "abaa87c6-30ec-4c5a-a4f4-ab1a7311bbc2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.83123,
+                    15.940105
+                ]
+            },
+            "properties": {
+                "nodeId": "5348cf67-c2c5-11ea-9026-02e7594ce0a0",
+                "label": "EAMENA-0293216",
+                "dates": [
+                    "2026-08-19"
+                ],
+                "countries": [],
+                "people": [
+                    "Julia Nikolaus"
+                ],
+                "id": "ddad984a-21ba-4e9b-9261-d5316a046ec1",
+                "url": "https://database.eamena.org/report/ddad984a-21ba-4e9b-9261-d5316a046ec1",
+                "edit_url": "https://database.eamena.org/resource/ddad984a-21ba-4e9b-9261-d5316a046ec1"
+            }
+        }
+    ]
+}
