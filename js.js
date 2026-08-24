@@ -11023,40 +11023,278 @@ d.parent(".dropdown-menu").length&&(d=d.closest("li.dropdown").addClass("active"
 },_unspiderfyZoomStart:function(){this._map&&this._map.on("zoomanim",this._unspiderfyZoomAnim,this)},_unspiderfyZoomAnim:function(e){L.DomUtil.hasClass(this._map._mapPane,"leaflet-touching")||(this._map.off("zoomanim",this._unspiderfyZoomAnim,this),this._unspiderfy(e))},_unspiderfyWrapper:function(){this._unspiderfy()},_unspiderfy:function(e){this._spiderfied&&this._spiderfied.unspiderfy(e)},_noanimationUnspiderfy:function(){this._spiderfied&&this._spiderfied._noanimationUnspiderfy()},_unspiderfyLayer:function(e){e._spiderLeg&&(this._featureGroup.removeLayer(e),e.clusterShow&&e.clusterShow(),e.setZIndexOffset&&e.setZIndexOffset(0),this._map.removeLayer(e._spiderLeg),delete e._spiderLeg)}}),L.MarkerClusterGroup.include({refreshClusters:function(e){return e?e instanceof L.MarkerClusterGroup?e=e._topClusterLevel.getAllChildMarkers():e instanceof L.LayerGroup?e=e._layers:e instanceof L.MarkerCluster?e=e.getAllChildMarkers():e instanceof L.Marker&&(e=[e]):e=this._topClusterLevel.getAllChildMarkers(),this._flagParentsIconsNeedUpdate(e),this._refreshClustersIcons(),this.options.singleMarkerMode&&this._refreshSingleMarkerModeMarkers(e),this},_flagParentsIconsNeedUpdate:function(e){var t,i;for(t in e)for(i=e[t].__parent;i;)i._iconNeedsUpdate=!0,i=i.__parent},_refreshSingleMarkerModeMarkers:function(e){var t,i;for(t in e)i=e[t],this.hasLayer(i)&&i.setIcon(this._overrideMarkerIcon(i))}}),L.Marker.include({refreshIconOptions:function(e,t){var i=this.options.icon;return L.setOptions(i,e),this.setIcon(i),t&&this.__parent&&this.__parent._group.refreshClusters(this),this}}),e.MarkerClusterGroup=t,e.MarkerCluster=i});
 //# sourceMappingURL=leaflet.markercluster.js.map
 var map;
+var hash;
 var markers = L.markerClusterGroup({
 	spiderfyOnMaxZoon: false,
 	showCoverageOnHover: false,
 	zoomToBoundsOnClick: true
 });
 
-async function populate_feature(feature)
+function FeatureSetRegistry()
 {
-	var url = 'data/' + feature.properties.name + '.json';
-	$.ajax({
-		url: url,
-		async: true,
-		success: function(data) {
-			markers.addLayer(L.geoJSON(data, {
-				minZoom: 10,
-				pointToLayer: function(feature, latlng) {
-					return L.circleMarker(latlng, {
-						radius: 6,
-						fillColor: '#007FFF',
-						color: '#007FFF',
-						weight: 1,
-						fillOpacity: 0.9
-					});
-				},
-				style: function(feature) {
-					return { stroke: true, fill: true, color: '#007FFF', fillColor: '#007FFF', weight: 1, fillOpacity: 0.9 }
-				},
-				onEachFeature(feature, layer) {
-					layer.bindPopup('<h1>' + feature.properties.label + '</h1><div class="popuplinks"> <a href="' + feature.properties.url + '">Report</a> <a href="' + feature.properties.edit_url + '">Edit</a> </p>');
-				}
-			}));
+	this.featuresets = {};
+	this.featuresetmenus = {};
+	this.ordering = [];
+	this.icons = {};
+	this.lastHash = "";
+	this.mapMoving = true;
+	this.addFeatureSet = function(id, featureset)
+	{
+		if(!(id.match(/^[a-zA-Z]/))) { throw "FeatureSet IDs must begin with a letter."; }
+		this.featuresets[id] = featureset;
+		featureset.id = id;
+		this.ordering.push(id);
+	}
+	this.hasFeatureSet = function(id) { return(id in this.featuresets); }
+	this.getFeatureSet = function(id) { return(this.featuresets[id]); }
+	this.getFeatureSetIds = function() { return(this.ordering); }
+	this.callTriggers = function(uri)
+	{
+		for(var i = 0; i < this.ordering.length; i++)
+		{
+			var layerkey = this.ordering[i];
+			var featureset = this.featuresets[layerkey];
+			featureset.trigger(uri);
 		}
-	});
+	}
+	this.hashChanged = function(map, hash)
+	{
+		if(hash.indexOf('#') === 0) {
+			hash = hash.substr(1);
+		}
+		var parsed = {}
+		var args = hash.split("/");
+		if ((args.length == 3) || (args.length == 4)) {
+			var layers = []
+			if(args.length == 4) { layers = args[3].split(','); }
+			var zoom = parseInt(args[0], 10),
+			lat = parseFloat(args[1]),
+			lon = parseFloat(args[2]);
+			if (!((isNaN(zoom) || isNaN(lat) || isNaN(lon)))) {
+				parsed = {
+					center: new L.LatLng(lat, lon),
+					zoom: zoom,
+					soton_layers: layers
+				};
+			}
+		}
+		if("center" in parsed)
+		{
+			map.setView(parsed.center, parsed.zoom);
+			for(var i = 0; i < this.ordering.length; i++)
+			{
+				var layerkey = this.ordering[i];
+				var featureset = this.featuresets[layerkey];
+				var menu_item = this.featuresetmenus[layerkey];
+
+				if(($.inArray(layerkey, parsed.soton_layers) > -1) == (featureset.startsVisible()))
+				{
+					if(featureset.isVisible())
+					{
+						featureset.hide();
+						featureset.visible = false;
+						try { menu_item.removeClass("selected"); } catch(err) { }
+					}
+				}
+				else
+				{
+					if(!(featureset.isVisible()))
+					{
+						featureset.show();
+						featureset.visible = true;
+						try { menu_item.addClass("selected"); } catch(err) { }
+					}
+				}
+
+			}
+		}		
+	}
+	this.formatHash = function(map)
+	{
+		var center = map.getCenter(),
+		    zoom = map.getZoom(),
+		    precision = Math.max(0, Math.ceil(Math.log(zoom) / Math.LN2));
+		    layers = []
+		    ret = []
+
+		for(var i = 0; i < this.ordering.length; i++)
+		{
+			var id = this.ordering[i];
+			var fs = this.featuresets[id];
+			if(fs.isVisible() != fs.startsVisible()) { layers.push(id); }
+		}
+
+		ret = [zoom, center.lat.toFixed(precision), center.lng.toFixed(precision)];
+		if(layers.length > 0) { ret.push(layers.join(",")); }
+
+		return "#" + ret.join("/");
+	}
+	this.getIcon = function(url)
+	{
+		if(url in this.icons)
+		{
+			return(this.icons[url]);
+		}
+		this.icons[url] = L.icon({
+			iconUrl: url,
+			shadowUrl: '/graphics/map-icons/shadow.png',
+			iconSize: [32, 37],
+			shadowSize: [69, 33],
+			iconAnchor: [16, 36],
+			popupAnchor: [0, -38],
+			shadowAnchor: [16, 33]
+		});
+		return(this.icons[url]);
+	}
+	this.start = function()
+	{
+		for(var i = 0; i < this.ordering.length; i++)
+		{
+			var id = this.ordering[i];
+			var fs = this.featuresets[id];
+			fs.init();
+			var menu = fs.modifyMenu();
+			this.featuresetmenus[id] = menu;
+			if(fs.startsVisible())
+			{
+				fs.show();
+				fs.visible = true;
+				if(menu != false) { menu.addClass("selected"); }
+			}
+		}
+		var obj = this;
+		setInterval(function()
+		{
+			var hash = location.hash;
+			if(hash != obj.lastHash)
+			{
+				obj.mapMoving = true;
+				obj.lastHash = hash;
+				obj.hashChanged(map, hash);
+				obj.mapMoving = false;
+			}
+		}, 300);
+		this.mapMoving = false;
+	}
+	this.update = function()
+	{
+		for(var i = 0; i < this.ordering.length; i++)
+		{
+			var id = this.ordering[i];
+			this.featuresets[id].update();
+		}
+	}
+	this.mapUpdated = function(map)
+	{
+		if(!(this.mapMoving))
+		{
+			var newHash = this.formatHash(map);
+			this.lastHash = newHash;
+			location.replace(newHash);
+		}
+	}
 }
+
+var FSREG = new FeatureSetRegistry()
+
+function FeatureSet()
+{
+	this.hide = function() { }
+	this.show = function() { }
+	this.update = function() { }
+	this.init = function() { }
+	this.trigger = function(uri) { }
+	this.title = function() { return("UNTITLED LAYER"); }
+	this.description = function() { return(""); }
+	this.popupMessage = function() { return ""; }
+	this.startsVisible = function() { return false; }
+	this.visible = this.startsVisible();
+	this.isVisible = function() { return this.visible; }
+	this.embedList = function() { return true; }
+	this.modifyMenu = function()
+	{
+		var featureset = this;
+		var featuresets_menu = $('.menu-layers');
+		var toggle_class = 'menu-layer-item-'+this.id;
+		featuresets_menu.each( function(k,v) {
+			var menu_item = $("<li></li>");
+			var menu_link = $('<a class="' + toggle_class + '" data-toggle-class="' + toggle_class + '"  href="#">' + featureset.title() + ' <span class="glyphicon glyphicon-ok" aria-hidden="true"></span></a>');
+			menu_item.append(menu_link);
+			$(v).append(menu_item);
+		} );
+
+		var menu_items = $("."+toggle_class);
+
+		menu_items.on('click', function()
+		{
+			// "this" is clicked menu item
+			if(featureset.isVisible())
+			{
+				featureset.hide();
+				featureset.visible = false;
+				menu_items.removeClass("selected");
+			} else {
+				featureset.show();
+				featureset.visible = true;
+				menu_items.addClass("selected");
+			}
+			if( $(window).width() < 768 ) { 
+				$('.navbar-toggle').click();
+			}
+			FSREG.mapUpdated(map);
+			return false;
+		});
+		return(menu_items);
+	}
+}
+
+/**
+ * Defines a Separator  - purely an aesthetic thing for the Layers menu
+ */
+function Separator()
+{
+	FeatureSet.call(this);
+	this.embedList = function() { return false; } // We don't want this appearing on the Embed dialog.
+	this.modifyMenu = function()
+	{
+		var featuresets_menu = $('.menu-layers');
+		var menu_item = $('<li role="separator" class="divider"></li>');
+		featuresets_menu.append(menu_item);
+		return(menu_item);
+	}
+}
+Separator.prototype = Object.create(FeatureSet.prototype);
+
+$(document).ready(function()
+{
+	// Create the map object with some sensible defaults
+	map = L.map('map', {
+		zoomControl: false,
+		center: [50.9354, -1.3964],
+		zoom: 17,
+		maxZoom: 20
+	});
+
+	// Create the popup open event
+	map.on('popupopen', function(e)
+	{
+		FSREG.update();
+	});
+
+	FSREG.start();
+
+	map.on('moveend', function(e)
+	{
+		FSREG.mapUpdated(map);
+	});
+
+	new L.Control.Zoom({ position: 'bottomright' }).addTo(map);
+});
+
+/**
+ * Defines the grid squares and sites Layers
+ * @constructor
+ */
 
 function get_grids_geojson()
 {
@@ -11069,35 +11307,114 @@ function get_grids_geojson()
 	return ret;
 }
 
-$(document).ready(function()
+function GridSquaresFeatureSet()
 {
+	FeatureSet.call(this);
+	this.layer = [];
+    this.markers = L.markerClusterGroup({
+        spiderfyOnMaxZoon: false,
+        showCoverageOnHover: false,
+        zoomToBoundsOnClick: true
+    });
+    var me = this;
+	this.init = function()
+	{
+        this.layer = L.geoJSON(get_grids_geojson(), {
+            style: function(feature) {
+                var url = 'data/' + feature.properties.name + '.json';
+                $.ajax({
+                    url: url,
+                    async: true,
+                    success: function(data) {
+                        me.markers.addLayer(L.geoJSON(data, {
+                            minZoom: 10,
+                            pointToLayer: function(feature, latlng) {
+                                return L.circleMarker(latlng, {
+                                    radius: 6,
+                                    fillColor: '#007FFF',
+                                    color: '#007FFF',
+                                    weight: 1,
+                                    fillOpacity: 0.9
+                                });
+                            },
+                            style: function(feature) {
+                                return { stroke: true, fill: true, color: '#007FFF', fillColor: '#007FFF', weight: 1, fillOpacity: 0.9 }
+                            },
+                            onEachFeature(feature, layer) {
+                                layer.bindPopup('<h1>' + feature.properties.label + '</h1><div class="popuplinks"> <a href="' + feature.properties.url + '">Report</a> <a href="' + feature.properties.edit_url + '">Edit</a> </p>');
+                            }
+                        }));
+                    }
+                });
+                return {
+                    stroke: true, fill: true, color: '#000000', fillColor: '#007F00', fillOpacity: 0.2, weight: 1
+                }
+            },
+            onEachFeature(feature, layer) {
+                layer.bindPopup('<h1>' + feature.properties.name + '</h1><p><a href="' + feature.properties.url + '">View statistics</a></p>');
+            }
+        });
+        map.addLayer(this.layer);
+        map.addLayer(this.markers);
+	}
+	this.title = function() { return("Completed Grids / Sites"); }
+	this.description = function() { return("Displays all sites that MarEA have created, and the grid squares that they are within."); }
+	this.show = function()
+	{
+		map.addLayer(this.layer);
+        map.addLayer(this.markers);
+	}
+	this.hide = function()
+	{
+		map.removeLayer(this.layer);
+        map.removeLayer(this.markers);
+	}
+	this.update = function()
+	{
+	}
+}
+GridSquaresFeatureSet.prototype = Object.create(FeatureSet.prototype);
+FSREG.addFeatureSet('grid_squares', new GridSquaresFeatureSet());
 
-	var grids = L.geoJSON(get_grids_geojson(), {
-		style: function(feature) {
-			populate_feature(feature);
-			return {
-				stroke: true, fill: true, color: '#000000', fillColor: '#007F00', fillOpacity: 0.2, weight: 1
-			}
-		},
-		onEachFeature(feature, layer) {
-			layer.bindPopup('<h1>' + feature.properties.name + '</h1><p><a href="' + feature.properties.url + '">View statistics</a></p>');
-		}
-	});
+/**
+ * Defines the Tiles FeatureSet. This allows the user to toggle between map and aerial views
+ */
+function TilesFeatureSet()
+{
+	FeatureSet.call(this);
+	this.layers = {}
+	this.init = function()
+	{
+		this.layers['map'] = L.tileLayer('https://tiles.flarpyland.com/lite/{z}/{x}/{y}.png', {
+		attribution: 'Map data &copy; <a href="http://www.openstreetmap.org/#map=16/50.881000518799/-1.0309200286865" target="_top">OpenStreetMap</a> contributors <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_top">CC-BY-SA</a>',
+		maxZoom: 20
+		});
 
-	// Create the map object with some sensible defaults
-	map = L.map('map', {
-		center: [0, 0],
-		zoom: 17,
-		maxZoom: 20,
-		zoomControl: false
-	});
-	map.fitBounds(grids.getBounds());
-    L.tileLayer('https://tiles.flarpyland.com/lite/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
-	grids.addTo(map);
-	markers.addTo(map);
-	new L.Control.Zoom({ position: 'bottomright' }).addTo(map);
-});
+	        this.layers['aerial'] = L.tileLayer('https://tiles.flarpyland.com/sat/{z}/{x}/{y}.png', {
+                attribution: 'Map data &copy; <a href="http://www.openstreetmap.org/#map=16/50.881000518799/-1.0309200286865" target="_top">OpenStreetMap</a> contributors <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_top">CC-BY-SA</a>',
+                maxZoom: 20
+	        }); // Aerial photography
+
+	        this.layers['null'] = L.tileLayer('/graphics/blank-tile.png', {
+                attributionControl: false,
+                maxZoom: 20
+	        }); // 'Null' image
+
+		map.addLayer(this.layers['map']);
+	}
+	this.show = function()
+	{
+		map.addLayer(this.layers['null']).addLayer(this.layers['aerial']).removeLayer(this.layers['map']);
+	}
+	this.hide = function()
+	{
+		map.addLayer(this.layers['map']).removeLayer(this.layers['null']).removeLayer(this.layers['aerial']);
+	}
+	this.title = function() { return("Aerial View"); }
+	this.description = function() { return("Toggles between the standard map view and aerial imagery."); }
+}
+TilesFeatureSet.prototype = Object.create(FeatureSet.prototype);
+FSREG.addFeatureSet('aerial', new TilesFeatureSet());
+
+// End Tiles FeatureSet
 
