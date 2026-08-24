@@ -11092,7 +11092,7 @@ $(document).ready(function()
 		maxZoom: 20
 	});
 	map.fitBounds(grids.getBounds());
-    L.tileLayer('https://tiles.flarpyland.com/lite/{z}/{x}/{y}.png', {
+    L.tileLayer('https://tiles.flarpyland.com/sat/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
