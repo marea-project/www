@@ -11089,14 +11089,16 @@ $(document).ready(function()
 		zoomControl: true,
 		center: [0, 0],
 		zoom: 17,
-		maxZoom: 20
+		maxZoom: 20,
+		zoomControl: false
 	});
 	map.fitBounds(grids.getBounds());
-    L.tileLayer('https://tiles.flarpyland.com/lite/{z}/{x}/{y}.png', {
+    L.tileLayer('https://tiles.flarpyland.com/sat/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 	grids.addTo(map);
 	markers.addTo(map);
+	L.Control.Zoom({ position: 'bottomright' }).addTo(map);
 });
 
